@@ -85,6 +85,7 @@
 | 029 | Cherubim（基路伯） | p. 50 | ✅（短词条） |
 | 030 | Childlikeness（赤子之心） | p. 50–51 | ✅ |
 | 031 | Choices Offered to Men（摆在人面前的抉择） | p. 51–52 | ✅ |
-| 032– | Christ 系列词条起 | p. 53– | ⏳ |
+| 032 | Christ on Earth（基督在世） | p. 53–62 | ✅（大词条：品格/比喻/讲论/神迹/大事年表/综述） |
+| 033– | Christ and the Believer（基督与信徒）起 | p. 62– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

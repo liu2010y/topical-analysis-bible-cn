@@ -1,0 +1,149 @@
+{
+  "num": "006",
+  "title_en": "ANGELS, Unfallen and Fallen",
+  "title_zh": "天使——未堕落的与堕落的",
+  "html_name": "006-Angels-天使.html",
+  "pages": "原书 p. 18–19",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ANGELS, Unfallen and Fallen.",
+          "zh": "天使——未堕落的与堕落的。",
+          "grammar": [
+            {"id": "postpositive-adjective", "note": "Angels, Unfallen and Fallen = Unfallen and Fallen Angels：形容词后置，突出中心词 Angels。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、未堕落的天使 / 1. Unfallen",
+      "blocks": [
+        {
+          "en": "Job 38:7. Sons of God (rejoicing at the Creation). VI. 200. Ps. 103:20, 21. V. 186, 7.",
+          "zh": "约伯记 38:7 —— 神的众子（在创造之时）都欢呼。诗篇 103:20-21 —— 听从他命令、成全他旨意、有大能的天使，都要称颂耶和华。",
+          "bsb": "Job 38:7; Psalm 103:20"
+        },
+        {
+          "en": "Luke 2:10-14. (The Song at the Birth in Bethlehem.) X. 35. Luke 15:10. Joy in the presence of the angels over one sinner. X. 367.",
+          "zh": "路加福音 2:10-14 ——（伯利恒降生时天军的颂歌：在至高之处荣耀归与神。）15:10 —— 一个罪人悔改，在神的使者面前也是这样为他欢喜。",
+          "bsb": "Luke 15:10"
+        },
+        {
+          "en": "1 Pet. 1:12. Angels desire to look into (these things). Heb. 1:14. Ministering spirits, sent forth to minister for them who shall be heirs of salvation. XI. 557. (Servants to Sons.) 1 Cor. 6:3. We shall judge angels. XI. 296. (In some respects inferior to saved men.)",
+          "zh": "彼得前书 1:12 —— 天使也愿意详细察看这些事。希伯来书 1:14 —— 天使岂不都是服役的灵、奉差遣为那将要承受救恩的人效力吗？（是服事『众子』的仆役。）哥林多前书 6:3 —— 岂不知我们要审判天使吗？（可见天使在某些方面低于得救的人。）",
+          "bsb": "Hebrews 1:14",
+          "grammar": [
+            {"id": "him-that-relative", "note": "them who shall be heirs = those who shall be heirs（那些将要承受救恩的人）。"}
+          ]
+        },
+        {
+          "en": "Archangels: Gabriel. Dan. 8:16; 9:21. Luke 1:19, 26. Michael. Dan. 10:13, 21; 12:1. IX. 306-308. Jude 9. Rev. 12:7.",
+          "zh": "天使长：加百列（但以理书 8:16；9:21；路加福音 1:19, 26——向撒迦利亚和马利亚报信）；米迦勒（但以理书 10:13, 21；12:1；犹大书 9；启示录 12:7）。",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "二、堕落的天使及其首领 / 2. Fallen Angels, and Their Chief",
+      "blocks": [
+        {
+          "en": "The Chief, Head, or Prince is called Satan, Devil, Adversary, Accuser, Tempter, Calumniator, Wicked One, Dragon, Serpent. See VI. 23.",
+          "zh": "其首领（元首、王）在圣经中被称为：撒但、魔鬼、仇敌、控告者、试探者、毁谤者、恶者、大龙、古蛇。",
+          "bsb": false
+        },
+        {
+          "en": "1 John 3:8. The devil sinneth from the beginning. Eph. 2:2. The prince of the power of the air, the spirit that now worketh in the children of disobedience. (Showing personality, and power over human souls.) Acts 5:3.",
+          "zh": "约翰一书 3:8 —— 魔鬼从起初就犯罪。以弗所书 2:2 —— 空中掌权者的首领，就是现今在悖逆之子心中运行的邪灵。（可见其具有位格，并对人的灵魂有权势。）另参使徒行传 5:3。",
+          "bsb": "Ephesians 2:2",
+          "grammar": [
+            {"id": "apposition", "note": "The prince of the power of the air, the spirit that…：the spirit… 是 prince 的同位语，进一步说明其身份。"}
+          ]
+        },
+        {
+          "en": "1 Pet. 5:8, 9. Your adversary the devil walketh about, seeking whom he may devour; whom resist, steadfast in the faith. XI. 666. James 4:7. Resist the devil, and he will flee from you. XI. 637. Eph. 6:11, 12. Stand against the wiles of the devil. XI. 442. 2 Tim. 2:26.",
+          "zh": "彼得前书 5:8-9 —— 你们的仇敌魔鬼，如同吼叫的狮子，遍地游行，寻找可吞吃的人。你们要用坚固的信心抵挡他。雅各书 4:7 —— 务要抵挡魔鬼，魔鬼就必离开你们逃跑了。以弗所书 6:11-12 —— 要穿戴神所赐的全副军装，就能抵挡魔鬼的诡计。另参提摩太后书 2:26。",
+          "bsb": "James 4:7",
+          "grammar": [
+            {"id": "inversion", "note": "whom resist, steadfast in the faith：关系代词宾语前置于祈使动词（= resist him, being steadfast in the faith，要抵挡他，信心坚固）。"}
+          ]
+        },
+        {
+          "en": "John 13:2, 27. The devil put (the purpose) into the heart of Judas. X. 469, 471, 3. Acts 5:3. XI. 36-38. Job 1:6-12; 2:1-7. VI. 15-27. Zech. 3:1, 2. IX. 560, 1. Matt. 13:39. X. 210. John 8:44. X. 316.",
+          "zh": "约翰福音 13:2, 27 —— 魔鬼已将卖耶稣的意思放在犹大心里。另参：使徒行传 5:3（撒但充满了亚拿尼亚的心）；约伯记 1:6-12；2:1-7（撒但控告约伯）；撒迦利亚书 3:1-2（撒但抵挡大祭司约书亚）；马太福音 13:39（撒稗子的仇敌）；约翰福音 8:44（它是说谎之人的父）。",
+          "bsb": false
+        },
+        {
+          "en": "Its Doom foretold: Gen. 3:15. (The seed of the woman) shall bruise thy head. I. 188-192. Heb. 2:14. That through death He might destroy … the devil. 1 John 3:8. For this purpose was the Son of God manifested, that He might destroy the works of the devil. XI. 691.",
+          "zh": "其结局早经预言：创世记 3:15 —— 女人的后裔要伤你的头。希伯来书 2:14 —— 特要藉着死，败坏那掌死权的，就是魔鬼。约翰一书 3:8 —— 神的儿子显现出来，为要除灭魔鬼的作为。",
+          "bsb": "Hebrews 2:14",
+          "grammar": [
+            {"id": "inversion", "note": "For this purpose was the Son of God manifested：状语前置引起倒装（= the Son of God was manifested for this purpose）。"}
+          ]
+        },
+        {
+          "en": "Rev. 12:7. War in heaven: Michael and his angels prevailed against the Dragon and his angels. Rev. 12:9, 10. The great Dragon, called the Devil and Satan, cast down. XI. 757.",
+          "zh": "启示录 12:7 —— 在天上就有了争战：米迦勒同他的使者与龙争战……（龙没有得胜）。12:9-10 —— 大龙就是那古蛇，名叫魔鬼，又叫撒但，……被摔在地上。",
+          "bsb": "Revelation 12:9",
+          "grammar": [
+            {"id": "ellipsis", "note": "The great Dragon … cast down = was cast down：省略助动词 was。"}
+          ]
+        },
+        {
+          "en": "Jude 6. Angels who kept not their first estate … in everlasting bonds unto the judgment of the great day. Matt. 25:41. The fire prepared for the devil and his angels. X. 463. 2 Pet. 2:4.",
+          "zh": "犹大书 6 —— 不守本位的天使……主用锁链把他们永远拘留在黑暗里，等候大日的审判。马太福音 25:41 —— 那为魔鬼和他的使者所预备的永火。另参彼得后书 2:4（神也没有宽容犯罪的天使）。",
+          "bsb": "Jude 1:6",
+          "grammar": [
+            {"id": "no-do-negation", "note": "kept not their first estate = did not keep…：古体否定，不用 did。first estate：原初的地位／本位（estate 古义）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "unfallen": {"ipa": "/ʌnˈfɔːlən/", "def": "adj. 未堕落的（un- + fallen）"},
+    "fallen": {"ipa": "/ˈfɔːlən/", "def": "adj. 堕落的；坠落的（fall 的过去分词作形容词）【四级】"},
+    "rejoicing": {"ipa": "/rɪˈdʒɔɪsɪŋ/", "def": "v./n. 欢呼，欢喜（rejoice）"},
+    "ministering": {"ipa": "/ˈmɪnɪstərɪŋ/", "def": "adj. 服役的，服事的（minister v.：服事，供职）"},
+    "heirs": {"ipa": "/eəz/", "def": "n. 后嗣，承受者（heir 的复数，h 不发音）【六级】"},
+    "inferior": {"ipa": "/ɪnˈfɪəriə/", "def": "adj. 低于……的，较低的（inferior to：低于）【四级】"},
+    "archangels": {"ipa": "/ˈɑːkeɪndʒlz/", "def": "n. 天使长（arch- 表『为首的』，ch 读 /k/）"},
+    "adversary": {"ipa": "/ˈædvəsəri/", "def": "n. 仇敌，对头【六级/GRE】"},
+    "accuser": {"ipa": "/əˈkjuːzə/", "def": "n. 控告者（accuse：控告）"},
+    "tempter": {"ipa": "/ˈtemptə/", "def": "n. 试探者（tempt：试探，引诱）"},
+    "calumniator": {"ipa": "/kəˈlʌmnieɪtə/", "def": "n. 毁谤者（calumny：诽谤，GRE 词）"},
+    "serpent": {"ipa": "/ˈsɜːpənt/", "def": "n.（书面语）蛇，古蛇【六级】"},
+    "sinneth": {"ipa": "/ˈsɪnəθ/", "def": "= sins（-eth 古词尾）：犯罪"},
+    "worketh": {"ipa": "/ˈwɜːkəθ/", "def": "= works（-eth 古词尾）：运行"},
+    "disobedience": {"ipa": "/ˌdɪsəˈbiːdiəns/", "def": "n. 悖逆，不顺从（children of disobedience：悖逆之子）"},
+    "personality": {"ipa": "/ˌpɜːsəˈnæləti/", "def": "n. 位格；个性（此处为神学义：具有理性意志的人格性）【四级】"},
+    "walketh": {"ipa": "/ˈwɔːkəθ/", "def": "= walks（-eth 古词尾）：行走，游行"},
+    "devour": {"ipa": "/dɪˈvaʊə/", "def": "v. 吞吃，吞噬【六级/GRE】"},
+    "resist": {"ipa": "/rɪˈzɪst/", "def": "v. 抵挡，抵抗【四级】"},
+    "flee": {"ipa": "/fliː/", "def": "v. 逃跑，逃避（fled, fled）【四级】"},
+    "steadfast": {"ipa": "/ˈstedfɑːst/", "def": "adj. 坚定的，坚固的【GRE】"},
+    "wiles": {"ipa": "/waɪlz/", "def": "n. 诡计，奸计（wile 的复数）"},
+    "doom": {"ipa": "/duːm/", "def": "n. 厄运，最终的毁灭；v. 注定【六级】"},
+    "foretold": {"ipa": "/fɔːˈtəʊld/", "def": "v. 预言（foretell 的过去分词）"},
+    "bruise": {"ipa": "/bruːz/", "def": "v. 打伤，压伤；n. 瘀伤【六级】"},
+    "manifested": {"ipa": "/ˈmænɪfestɪd/", "def": "v. 显现（manifest 的过去分词）"},
+    "prevailed": {"ipa": "/prɪˈveɪld/", "def": "v. 得胜，占上风（prevail against：胜过）【四级】"},
+    "estate": {"ipa": "/ɪˈsteɪt/", "def": "n.【古义】地位，身份（first estate：本位）；现代义：财产，庄园【四级】"},
+    "bonds": {"ipa": "/bɒndz/", "def": "n. 锁链，捆锁（bond 的复数）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "archangel", "ipa": "/ˈɑːkeɪndʒl/", "def": "n. 天使长（ch 读 /k/）"},
+    {"word": "adversary", "ipa": "/ˈædvəsəri/", "def": "n. 仇敌，对头"},
+    {"word": "serpent", "ipa": "/ˈsɜːpənt/", "def": "n.（书面语）蛇，古蛇"},
+    {"word": "devour", "ipa": "/dɪˈvaʊə/", "def": "v. 吞吃，吞噬"},
+    {"word": "steadfast", "ipa": "/ˈstedfɑːst/", "def": "adj. 坚定的，坚固的"},
+    {"word": "wile", "ipa": "/waɪl/", "def": "n. 诡计，奸计（常用复数 wiles）"},
+    {"word": "doom", "ipa": "/duːm/", "def": "n. 厄运，最终的毁灭；v. 注定"},
+    {"word": "bruise", "ipa": "/bruːz/", "def": "v. 打伤，压伤；n. 瘀伤"},
+    {"word": "prevail", "ipa": "/prɪˈveɪl/", "def": "v. 得胜，占上风（prevail against：胜过）"},
+    {"word": "inferior", "ipa": "/ɪnˈfɪəriə/", "def": "adj. 低于……的，较低的"},
+    {"word": "estate", "ipa": "/ɪˈsteɪt/", "def": "n.【古义】地位，本位；现代义：财产，庄园"},
+    {"word": "minister", "ipa": "/ˈmɪnɪstə/", "def": "v. 服事，供职（ministering spirits：服役的灵）；n. 部长；牧师"}
+  ]
+}

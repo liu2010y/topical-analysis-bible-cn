@@ -1,0 +1,76 @@
+{
+  "num": "008",
+  "title_en": "ANTHROPOPATHY",
+  "title_zh": "神格拟人（拟人化情感表达）",
+  "html_name": "008-Anthropopathy-神格拟人.html",
+  "pages": "原书 p. 20",
+  "sections": [
+    {
+      "heading": "标题与定义 / Title & Definition",
+      "blocks": [
+        {
+          "en": "ANTHROPOPATHY. A term applied to certain forms of expression touching God, chiefly found in the Old Testament. Definitely stated, it is the attribution to God of human emotions, passions and actions, as \"repenting,\" \"grieving,\" \"hating,\" \"hiding the face,\" \"turning from,\" \"returning to,\" \"rising up early and speaking,\" etc.",
+          "zh": "神格拟人：一个术语，指论及神时采用的某类表达方式，主要见于旧约。确切地说，就是把人类的情感、情绪和动作归给神，如『后悔』『忧伤』『恨恶』『掩面』『转离』『回转』『清早起来说话』等。",
+          "grammar": [
+            {"note": "A term applied to…：过去分词短语作后置定语（= a term that is applied to…）。touching 此处为介词性用法，『关于，论及』（= concerning）。Definitely stated：过去分词短语作状语，『确切地说』。"},
+            {"id": "gerund-nominal", "note": "repenting / grieving / hating…：一串动名词列举被归给神的情感与动作。"}
+          ]
+        },
+        {
+          "en": "It is an accommodation to the thought and speech of men, in order to emphasize most effectively the reality of His relations and dealings with men, and the strength and intensity of His interest in their spiritual well-being. As His revelation must be in accord with the thought and language of men to be comprehensible by them, so the disclosure of His desires and purposes of blessing is most clearly and impressively made by adopting forms of expression employed among men.",
+          "zh": "这是神向人的思想和语言的一种『俯就迁就』，为要最有力地强调祂与人的关系和作为的真实性，以及祂对人属灵福祉何等深切的关注。正如祂的启示必须合乎人的思想语言才能被人理解，照样，祂的心意与赐福的旨意，也是借着采用人间通行的表达方式，得以最清晰、最深刻地显明出来。",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As His revelation must be…, so the disclosure … is made…：as…so… 关联结构的完整例句——『正如启示必须合乎人的语言，照样心意的显明也采用人的表达方式』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "例证 / Examples",
+      "blocks": [
+        {
+          "en": "Repenting: Gen. 6:6. I. 233, 4. Judges 2:18. III. 166. 2 Sam. 24:16. III. 369. Jer. 18:8-10. VIII. 491. Joel 2:13. IX. 396. Jonah 3:10. IX. 458.",
+          "zh": "『后悔』：创世记 6:6（耶和华就后悔造人在地上，心中忧伤）；士师记 2:18（耶和华因他们受欺压扰害所发的哀声，就后悔了）；撒母耳记下 24:16；耶利米书 18:8-10；约珥书 2:13（他……并且后悔不降所说的灾）；约拿书 3:10。【OCR 注：原书 \"Jer. 18:11, 12\" 依『后悔』主题推定为 18:8-10。】",
+          "bsb": "Genesis 6:6"
+        },
+        {
+          "en": "Rising up early and speaking (or sending), etc.: Jer. 7:13; 11:7; 25:3, 4; 26:5; 29:19; 32:33; 35:14, 15; 44:4. See also Isa. 1:2, 3. VIII. 18, 19. Jer. 31:20. VIII. 545. Hosea 11:1-4. IX. 368, 9.",
+          "zh": "『清早起来说话（或差遣）』——形容神恳切不倦地劝戒：耶利米书 7:13；11:7；25:3-4；26:5；29:19；32:33；35:14-15；44:4。另参：以赛亚书 1:2-3（我养育儿女，他们竟悖逆我）；耶利米书 31:20（我的心肠恋慕他）；何西阿书 11:1-4（我用慈绳爱索牵引他们）。【OCR 注：原书首处引用扫描受损（\"Jer. V:l 3\"），依同组经文推定为 7:13。】",
+          "bsb": "Jeremiah 7:13"
+        },
+        {
+          "en": "See Call of God; Love of God.",
+          "zh": "另参主题词条：神的呼召（Call of God）；神的爱（Love of God）。"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "anthropopathy": {"ipa": "/ˌænθrəˈpɒpəθi/", "def": "n. 神格拟人（把人的情感归给神的修辞；anthropo- 人 + -pathy 情感）"},
+    "touching": {"ipa": "/ˈtʌtʃɪŋ/", "def": "prep.【古/正式】关于，论及（= concerning）；adj. 动人的"},
+    "attribution": {"ipa": "/ˌætrɪˈbjuːʃn/", "def": "n. 归属，把……归于（attribute to：归给）【六级】"},
+    "passions": {"ipa": "/ˈpæʃnz/", "def": "n. 强烈情感，激情（passion 的复数）【四级】"},
+    "repenting": {"ipa": "/rɪˈpentɪŋ/", "def": "v. 后悔，悔改（repent）【六级】"},
+    "grieving": {"ipa": "/ˈɡriːvɪŋ/", "def": "v. 忧伤，悲痛（grieve）【六级】"},
+    "accommodation": {"ipa": "/əˌkɒməˈdeɪʃn/", "def": "n.【此处特殊义】俯就，迁就（神俯就人的理解力）；常见义：住处【四级】"},
+    "intensity": {"ipa": "/ɪnˈtensəti/", "def": "n. 强烈，深切【四级】"},
+    "well-being": {"ipa": "/ˌwel ˈbiːɪŋ/", "def": "n. 福祉，安康【六级】"},
+    "revelation": {"ipa": "/ˌrevəˈleɪʃn/", "def": "n. 启示，显示（Revelation：启示录）【六级/考研】"},
+    "accord": {"ipa": "/əˈkɔːd/", "def": "n. 一致（in accord with：与……相合）【四级】"},
+    "comprehensible": {"ipa": "/ˌkɒmprɪˈhensəbl/", "def": "adj. 可理解的（comprehend：理解）【六级】"},
+    "disclosure": {"ipa": "/dɪsˈkləʊʒə/", "def": "n. 显明，披露（disclose 的名词）【六级】"},
+    "impressively": {"ipa": "/ɪmˈpresɪvli/", "def": "adv. 深刻地，令人印象深刻地"},
+    "employed": {"ipa": "/ɪmˈplɔɪd/", "def": "v.【此处义】使用，采用（employ = use）；常见义：雇用【四级】"}
+  },
+  "vocab_table": [
+    {"word": "anthropopathy", "ipa": "/ˌænθrəˈpɒpəθi/", "def": "n. 神格拟人（anthropo- 人 + -pathy 情感）"},
+    {"word": "attribution", "ipa": "/ˌætrɪˈbjuːʃn/", "def": "n. 归属，把……归于"},
+    {"word": "repent", "ipa": "/rɪˈpent/", "def": "v. 后悔，悔改"},
+    {"word": "accommodation", "ipa": "/əˌkɒməˈdeɪʃn/", "def": "n.【特殊义】俯就，迁就；常见义：住处"},
+    {"word": "intensity", "ipa": "/ɪnˈtensəti/", "def": "n. 强烈，深切"},
+    {"word": "revelation", "ipa": "/ˌrevəˈleɪʃn/", "def": "n. 启示，显示"},
+    {"word": "comprehensible", "ipa": "/ˌkɒmprɪˈhensəbl/", "def": "adj. 可理解的"},
+    {"word": "disclosure", "ipa": "/dɪsˈkləʊʒə/", "def": "n. 显明，披露"},
+    {"word": "well-being", "ipa": "/ˌwel ˈbiːɪŋ/", "def": "n. 福祉，安康"}
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "num": "012",
+  "title_en": "ATHEIST AND ATHEISM",
+  "title_zh": "无神论者与无神论",
+  "html_name": "012-Atheism-无神论.html",
+  "pages": "原书 p. 24",
+  "ocr_note": "本词条在原书中即仅此两条经文（后紧接 Atonement 词条）——作者对无意展开的题目只列关键经文，并以卷页号（IV. 92 等）指向其注释书 The Bible Work 中的详解，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ATHEIST AND ATHEISM.",
+          "zh": "无神论者与无神论。"
+        }
+      ]
+    },
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "Ps. 10:4. All his thoughts, \"no God.\" IV. 92.",
+          "zh": "诗篇 10:4 —— 恶人面带骄傲……他一切所想的，都以为没有神。",
+          "bsb": "Psalm 10:4",
+          "grammar": [
+            {"id": "ellipsis", "note": "All his thoughts, \"no God\" = All his thoughts are \"there is no God\"：双重省略——主句省略系动词，引语省略 there is。"}
+          ]
+        },
+        {
+          "en": "Ps. 14:1; 53:1. The fool hath said in his heart, \"No God.\" IV. 106-112, 380-382.",
+          "zh": "诗篇 14:1；53:1 —— 愚顽人心里说：没有神。",
+          "bsb": "Psalm 14:1",
+          "grammar": [
+            {"note": "原书按语式引法：希伯来原文直译即『没有神』（无『there is』），诗人所刻画的与其说是理论上的无神论，不如说是行为上的无神论——生活行事都当神不存在。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "atheist": {"ipa": "/ˈeɪθiɪst/", "def": "n. 无神论者（a- 无 + the(o) 神 + -ist）【六级】"},
+    "atheism": {"ipa": "/ˈeɪθiɪzəm/", "def": "n. 无神论"},
+    "fool": {"ipa": "/fuːl/", "def": "n. 愚顽人，愚昧人（圣经中侧重道德上的悖逆，非智力低下）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "atheist", "ipa": "/ˈeɪθiɪst/", "def": "n. 无神论者"},
+    {"word": "atheism", "ipa": "/ˈeɪθiɪzəm/", "def": "n. 无神论"}
+  ]
+}

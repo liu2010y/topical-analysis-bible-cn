@@ -1,0 +1,98 @@
+{
+  "num": "009",
+  "title_en": "ANXIETY",
+  "title_zh": "忧虑",
+  "html_name": "009-Anxiety-忧虑.html",
+  "pages": "原书 p. 20–21",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ANXIETY; Care; Fret; Complaining.",
+          "zh": "忧虑；挂虑；烦躁不平；发怨言。",
+          "grammar": [
+            {"id": "headline-style", "note": "词条标题：主题词＋分号并列近义词（挂虑、烦躁、怨言），标示词条覆盖范围。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、不要忧虑烦躁 / Fret Not",
+      "blocks": [
+        {
+          "en": "Ps. 37:1, 7, 8. Fret not thyself. IV. 271, 276, 278. Ps. 49 and 73. Lam. 3:39. Wherefore doth a living man complain? VIII. 611.",
+          "zh": "诗篇 37:1, 7, 8 —— 不要心怀不平。另参诗篇 49、73 篇。耶利米哀歌 3:39 —— 活人因自己的罪受罚，为何发怨言呢？",
+          "bsb": "Psalm 37:1",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Fret not thyself = Do not fret：古体否定祈使；thyself 作反身宾语（不要使自己烦躁不平）。"},
+            {"note": "Wherefore doth a living man complain?：wherefore =【古】why；doth = does。"}
+          ]
+        },
+        {
+          "en": "Matt. 6:34. Take no anxious thought (for the morrow). X. 162, 197. Phil. 4:6, 7. In nothing be anxious, but in everything, by prayer and supplication with thanksgiving, let your requests be made known unto God; and the peace of God shall guard your hearts and your thoughts in Christ Jesus. XI. 462.",
+          "zh": "马太福音 6:34 —— 不要为明天忧虑。腓立比书 4:6-7 —— 应当一无挂虑，只要凡事藉着祷告、祈求和感谢，将你们所要的告诉神。神所赐出人意外的平安，必在基督耶稣里保守你们的心怀意念。",
+          "bsb": "Philippians 4:6-7",
+          "grammar": [
+            {"id": "no-do-negation", "note": "In nothing be anxious：否定状语前置的古体祈使（= Do not be anxious about anything，应当一无挂虑）。"},
+            {"id": "let-imperative", "note": "let your requests be made known：Let + 被动祈使（将你们所要的告诉神）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、把忧虑卸给神 / Cast It upon Him",
+      "blocks": [
+        {
+          "en": "1 Pet. 5:7. Casting all your anxiety upon Him, because He careth for you. XI. 668. John 14:1. Let not your heart be troubled; … believe also in Me. X. 480, 5, 7.",
+          "zh": "彼得前书 5:7 —— 你们要将一切的忧虑卸给神，因为他顾念你们。约翰福音 14:1 —— 你们心里不要忧愁；你们信神，也当信我。",
+          "bsb": "1 Peter 5:7",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Let not your heart be troubled = Do not let your heart be troubled：古体否定祈使。"},
+            {"note": "Casting all your anxiety upon Him：现在分词短语，承接上文『你们要谦卑』的祈使（藉着把忧虑卸给神来谦卑服在神大能的手下）。"}
+          ]
+        },
+        {
+          "en": "Ps. 112:7. He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord. V. 252, 3. Deut. 33:25. As thy days, so shall thy strength be. II. 735.",
+          "zh": "诗篇 112:7 —— 他必不怕凶恶的信息，他心坚定，倚靠耶和华。申命记 33:25 —— 你的日子如何，你的力量也必如何。",
+          "bsb": "Psalm 112:7",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As thy days, so shall thy strength be：as…so… 关联结构＋倒装（你的日子如何，力量也必如何）。原书节引作 \"As thy days, thy strength\"。"}
+          ]
+        },
+        {
+          "en": "See Despondency; Infirmity.",
+          "zh": "另参主题词条：沮丧（Despondency）；软弱（Infirmity）。"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "anxiety": {"ipa": "/æŋˈzaɪəti/", "def": "n. 忧虑，挂虑，焦虑【四级】"},
+    "anxious": {"ipa": "/ˈæŋkʃəs/", "def": "adj. 忧虑的，挂虑的【四级】"},
+    "fret": {"ipa": "/fret/", "def": "v. 烦躁，心怀不平（fret not thyself：不要心怀不平）【六级】"},
+    "complaining": {"ipa": "/kəmˈpleɪnɪŋ/", "def": "n./v. 发怨言，抱怨（complain）【四级】"},
+    "complain": {"ipa": "/kəmˈpleɪn/", "def": "v. 发怨言，抱怨【四级】"},
+    "morrow": {"ipa": "/ˈmɒrəʊ/", "def": "n.【古】明天，次日（= tomorrow）"},
+    "supplication": {"ipa": "/ˌsʌplɪˈkeɪʃn/", "def": "n. 祈求，恳求（supplicate：恳求，GRE 词）"},
+    "thanksgiving": {"ipa": "/ˌθæŋksˈɡɪvɪŋ/", "def": "n. 感谢，感恩【四级】"},
+    "requests": {"ipa": "/rɪˈkwests/", "def": "n. 所求的事，请求（request 的复数）【四级】"},
+    "guard": {"ipa": "/ɡɑːd/", "def": "v. 保守，守卫【四级】"},
+    "casting": {"ipa": "/ˈkɑːstɪŋ/", "def": "v. 卸给，抛掷（cast upon：卸给）【四级】"},
+    "careth": {"ipa": "/ˈkeərəθ/", "def": "= cares（-eth 古词尾）：顾念（care for：顾念，关心）"},
+    "troubled": {"ipa": "/ˈtrʌbld/", "def": "adj. 忧愁的，不安的【四级】"},
+    "tidings": {"ipa": "/ˈtaɪdɪŋz/", "def": "n.【古/书面】消息，音信（evil tidings：凶信）"},
+    "fixed": {"ipa": "/fɪkst/", "def": "adj. 坚定的，安定的（his heart is fixed：他心坚定）【四级】"},
+    "despondency": {"ipa": "/dɪˈspɒndənsi/", "def": "n. 沮丧，灰心"},
+    "infirmity": {"ipa": "/ɪnˈfɜːməti/", "def": "n. 软弱；疾病，体弱"}
+  },
+  "vocab_table": [
+    {"word": "anxiety", "ipa": "/æŋˈzaɪəti/", "def": "n. 忧虑，挂虑，焦虑"},
+    {"word": "fret", "ipa": "/fret/", "def": "v. 烦躁，心怀不平"},
+    {"word": "supplication", "ipa": "/ˌsʌplɪˈkeɪʃn/", "def": "n. 祈求，恳求"},
+    {"word": "thanksgiving", "ipa": "/ˌθæŋksˈɡɪvɪŋ/", "def": "n. 感谢，感恩"},
+    {"word": "cast", "ipa": "/kɑːst/", "def": "v. 卸给，抛掷（cast upon：卸给）"},
+    {"word": "tidings", "ipa": "/ˈtaɪdɪŋz/", "def": "n.【古/书面】消息，音信"},
+    {"word": "morrow", "ipa": "/ˈmɒrəʊ/", "def": "n.【古】明天（= tomorrow）"}
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "num": "021",
+  "title_en": "BLASPHEMY",
+  "title_zh": "亵渎",
+  "html_name": "021-Blasphemy-亵渎.html",
+  "pages": "原书 p. 44",
+  "ocr_note": "本页为双栏排版，扫描时两栏文字交错，已按经文体系重建条目顺序，并以【OCR 注】标明。",
+  "sections": [
+    {
+      "heading": "标题与定义 / Title & Definition",
+      "blocks": [
+        {
+          "en": "BLASPHEMY. Gr. (blasphemia), To speak injuriously—against God and His Word.",
+          "zh": "亵渎（Blasphemy）。希腊文 blasphemia，意为『出言中伤』——针对神和他的道而发。",
+          "grammar": [
+            {"note": "speak injuriously：动词＋方式副词表词义训诂（出言以致伤害）；against God and His Word 说明亵渎的对象。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、免得神的名和道理被亵渎 / That the Name of God Be Not Blasphemed",
+      "blocks": [
+        {
+          "en": "1. That the name of God and the doctrine be not blasphemed. 1 Tim. 6:1. Rom. 2:24. That the Word of God be not blasphemed. Titus 2:5. James 2:7. Also Col. 3:8. 2 Tim. 3:2.",
+          "zh": "一、免得神的名和道理被人亵渎。提摩太前书 6:1 —— 免得神的名和道理被人亵渎。罗马书 2:24 —— 神的名在外邦人中，因你们受了亵渎。提多书 2:5 —— 免得神的道理被毁谤。雅各书 2:7 —— 他们不是亵渎你们所敬奉的尊名吗？另参：歌罗西书 3:8（毁谤）；提摩太后书 3:2（谤讟）。【OCR 注：本节两栏文字在扫描中交错，条目顺序为重建。】",
+          "bsb": "1 Timothy 6:1",
+          "grammar": [
+            {"id": "no-do-negation", "note": "be not blasphemed：目的从句中的古体否定＋虚拟原形（免得被亵渎），= so that … may not be blasphemed。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、亵渎圣灵 / Blasphemy against the Spirit",
+      "blocks": [
+        {
+          "en": "2. Blasphemy against the Spirit shall not be forgiven. Matt. 12:31. X. 187. Illus. Acts 5:3, 4, 9. To lie to the Holy Ghost. XI. 37. Heb. 10:29. Hath done despite unto the Spirit of grace. XI. 594.",
+          "zh": "二、亵渎圣灵，总不得赦免。马太福音 12:31 —— 惟独亵渎圣灵，总不得赦免。例证：使徒行传 5:3, 4, 9 —— 亚拿尼亚欺哄圣灵（试探主的灵）。希伯来书 10:29 —— 亵慢施恩的圣灵。",
+          "bsb": "Matthew 12:31",
+          "grammar": [
+            {"id": "shall-archaic", "note": "shall not be forgiven：shall 表定谳的必然（总不得赦免）。"},
+            {"note": "done despite unto the Spirit：despite 此处为名词古义『侮慢，凌辱』（do despite unto：亵慢），与现代介词 despite『尽管』不同。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "blasphemy": {"ipa": "/ˈblæsfəmi/", "def": "n. 亵渎（尤指亵渎神）【GRE】"},
+    "blasphemed": {"ipa": "/blæsˈfiːmd/", "def": "v. 被亵渎（blaspheme /blæsˈfiːm/：亵渎，注意动词重音在后）"},
+    "injuriously": {"ipa": "/ɪnˈdʒʊəriəsli/", "def": "adv. 中伤地，有损害地（injure 的副词）"},
+    "doctrine": {"ipa": "/ˈdɒktrɪn/", "def": "n. 道理，教义【六级/考研】"},
+    "forgiven": {"ipa": "/fəˈɡɪvn/", "def": "v. 被赦免（forgive 的过去分词）【四级】"},
+    "despite": {"ipa": "/dɪˈspaɪt/", "def": "n.【古义】侮慢，凌辱（do despite unto：亵慢）；现代义：prep. 尽管【四级】"}
+  },
+  "vocab_table": [
+    {"word": "blasphemy", "ipa": "/ˈblæsfəmi/", "def": "n. 亵渎（动词 blaspheme /blæsˈfiːm/）"},
+    {"word": "doctrine", "ipa": "/ˈdɒktrɪn/", "def": "n. 道理，教义"},
+    {"word": "despite", "ipa": "/dɪˈspaɪt/", "def": "n.【古义】侮慢（do despite unto：亵慢）；现代义：尽管"}
+  ]
+}

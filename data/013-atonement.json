@@ -1,0 +1,405 @@
+{
+  "num": "013",
+  "title_en": "ATONEMENT",
+  "title_zh": "赎罪",
+  "html_name": "013-Atonement-赎罪.html",
+  "pages": "原书 p. 24–33",
+  "ocr_note": "本词条为原书核心大词条，跨 10 页。小节编号依原书（III 部第 3 小节编号在扫描中缺失）；引用者人名多有讹误，已修复（Btish→Bush、MaciarenA→Maclaren、Behrerids→Behrends、Storrsi→Storrs）。",
+  "sections": [
+    {
+      "heading": "标题与主旨 / Title & Central Statement",
+      "blocks": [
+        {
+          "en": "ATONEMENT. God has made the Death of Christ the Procuring Cause of Human Salvation. This is the Central and Cardinal Fact of Divine Revelation. Its expression is concentrated in the heralding Baptist's sublime Announcement when, pointing to the approaching Christ, he exclaimed: Behold the Lamb of God, Who taketh away the sin of the World!",
+          "zh": "赎罪：神已使基督的死成为人类得救的成就性原因。这是神圣启示的中心与首要事实。它的表达集中于施洗约翰那庄严的宣告——他指着迎面走来的基督，喊道：『看哪，神的羔羊，除去（或作背负）世人罪孽的！』（约翰福音 1:29）",
+          "bsb": "John 1:29",
+          "grammar": [
+            {"note": "make + 宾语 + 名词补语：has made the Death of Christ the Procuring Cause…（使基督的死成为……的原因）；pointing to the approaching Christ：现在分词短语作伴随状语。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "主旨经文的总括陈述 / This Vital Fact Comprehensively Stated",
+      "blocks": [
+        {
+          "en": "Isa. 53:5, 6, 12. He was wounded for our transgressions. The Lord laid on Him the iniquity of us all. He poured out His soul unto death. He bare the sin of many.",
+          "zh": "以赛亚书 53:5, 6, 12 —— 哪知他为我们的过犯受害。耶和华使我们众人的罪孽都归在他身上。他将命倾倒，以致于死。他却担当多人的罪。",
+          "bsb": "Isaiah 53:5-6",
+          "grammar": [
+            {"note": "bare 是 bear 的古过去式（= bore，担当）；注意与形容词 bare『赤裸的』同形。"}
+          ]
+        },
+        {
+          "en": "1 Pet. 2:24. Who His own self bare our sins in His body upon the tree, that we might live unto righteousness. XI. 656.",
+          "zh": "彼得前书 2:24 —— 他被挂在木头上，亲身担当了我们的罪，使我们既然在罪上死，就得以在义上活。",
+          "bsb": "1 Peter 2:24",
+          "grammar": [
+            {"note": "His own self = himself：古体强调反身（亲身）；that we might live：that = so that，目的从句用 might。"}
+          ]
+        },
+        {
+          "en": "1 Pet. 3:18. Christ suffered for sins once, the righteous for the unrighteous, that He might bring us unto God; being put to death in the flesh, but quickened in the spirit.",
+          "zh": "彼得前书 3:18 —— 因基督也曾一次为罪受苦（有古卷作受死），就是义的代替不义的，为要引我们到神面前。按着肉体说，他被治死；按着灵性说，他复活了。",
+          "bsb": "1 Peter 3:18",
+          "grammar": [
+            {"id": "the-adjective", "note": "the righteous for the unrighteous：义者代替不义者（the + 形容词表一类人）。"},
+            {"note": "quickened：古义『使活过来』（quick = 活的），与现代义『加快』不同。"}
+          ]
+        },
+        {
+          "en": "Phil. 2:8. He humbled Himself, and became obedient unto death, even the death of the cross. XI. 452. Heb. 12:2. Who for the joy set before Him endured the cross.",
+          "zh": "腓立比书 2:8 —— 就自己卑微，存心顺服，以至于死，且死在十字架上。希伯来书 12:2 —— 他因那摆在前面的喜乐，就轻看羞辱，忍受了十字架的苦难。",
+          "bsb": "Philippians 2:8"
+        },
+        {
+          "en": "2 Cor. 5:21. Him Who knew no sin, He made to be sin on our behalf; that we might become the righteousness of God in Him. XI. 366.",
+          "zh": "哥林多后书 5:21 —— 神使那无罪的（原文作不知罪的），替我们成为罪，好叫我们在他里面成为神的义。",
+          "bsb": "2 Corinthians 5:21",
+          "grammar": [
+            {"id": "inversion", "note": "Him Who knew no sin, He made to be sin：宾语（Him Who knew no sin）前置以示强调，= He made Him who knew no sin to be sin。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、新旧约用词考释 / I. Meaning of Terms Employed",
+      "blocks": [
+        {
+          "en": "1. Atonement. (In O. T. exclusively.) Heb. Kippurim, Coverings; Kaphar, to Cover. Lev. 23:27, 28. The idea of atonement is the foundation-thought in all the sacrifices and in all the services, both in the ritual of the altar and of the Holy-place. One day of the year, and that the most sacred of all, the great fact of atonement was presented alone and in the most solemn manner before the minds of the people. — J. M. Gibson. It was in all its services and ceremonies the fullest representation, the most perfect shadow, of the great work of Redemption. — G. Bush. II. 414-419.",
+          "zh": "1. 赎罪（Atonement）。（旧约专用词。）希伯来文 Kippurim『遮盖』（复数）；动词 Kaphar『遮盖』。利未记 23:27-28（赎罪日的条例）。赎罪的观念是一切祭祀、一切事奉的根基思想，无论祭坛的礼仪还是圣所的礼仪都是如此。一年中有一日——且是万日中最神圣的一日——赎罪这一大事实被单独地、以最庄严的方式呈现在民众心目之前。——J. M. 吉布森（Gibson）。赎罪日在其全部事奉与礼仪中，乃是救赎大工最完满的表象、最完美的影儿。——G. 布什（Bush）",
+          "bsb": "Leviticus 23:27",
+          "grammar": [
+            {"note": "and that the most sacred of all：that 复指前文 One day，『而且是万日中最神圣的那一日』——古典文体的强调插入。"}
+          ]
+        },
+        {
+          "en": "2. Reconciliation; To Reconcile, Make Reconciliation. Heb. Kaphar; Gr. Katallasso, Katallage—signifying To Cover, Make Atonement; to Change thoroughly; to Appease, Propitiate. Dan. 9:24. To make reconciliation for iniquity, and bring in everlasting righteousness. IX. 299. Rom. 5:10, 11. Reconciled to God by the death of His Son; through Whom we have now received the (atonement) reconciliation. XI. 218. 2 Cor. 5:18, 19. Reconciled us to Himself through Christ; God was in Christ, reconciling the world unto Himself, not reckoning to them their trespasses. XI. 365, 6. Eph. 2:16. That He might reconcile both unto God. Col. 1:20, 21. Through the blood of the cross, by Him to reconcile all things to Himself. You that were enemies, by His death hath He reconciled. XI. 470. Heb. 2:17. Make reconciliation for sins. Heb. 9:12. Through His own blood entered in once for all into the Holy Place, having obtained eternal redemption. XI. 588.",
+          "zh": "2. 复和（Reconciliation）。希伯来文 Kaphar；希腊文 Katallasso、Katallage——意为『遮盖、赎罪』；『彻底改变』；『平息、挽回』。但以理书 9:24 —— 赎尽罪孽，引进永义。罗马书 5:10-11 —— 我们……藉着神儿子的死，得与神和好……并且……以神为乐（原文直译：藉着他领受了复和）。哥林多后书 5:18-19 —— 一切都是出于神，他藉着基督使我们与他和好……这就是神在基督里叫世人与自己和好，不将他们的过犯归到他们身上。以弗所书 2:16 —— 使两下……与神和好了。歌罗西书 1:20-21 —— 藉着他在十字架上所流的血成就了和平，便藉着他叫万有……都与自己和好了；你们从前与神隔绝，……但如今他藉着基督的肉身受死，叫你们与自己和好。希伯来书 2:17 —— 为百姓的罪献上挽回祭。9:12 —— 用自己的血，只一次进入圣所，成了永远赎罪的事。【OCR 注：原书小节号误作 \"3.\"，依次序改为 2.；Katailage 修复为 Katallage。】",
+          "bsb": "Romans 5:10",
+          "grammar": [
+            {"id": "inversion", "note": "You that were enemies, by His death hath He reconciled：宾语与状语前置引起倒装（= He hath reconciled you that were enemies by His death）。"}
+          ]
+        },
+        {
+          "en": "3. Propitiation. Gr. Hilasmos—What Appeases, Propitiates. Rom. 3:25. A propitiation, through faith, in His blood. XI. 212, 3. 1 John 2:2. He is the propitiation for our sins. XI. 685. 1 John 4:10. Sent His Son to be the propitiation for our sins. XI. 696.",
+          "zh": "3. 挽回祭（Propitiation）。希腊文 Hilasmos——平息（怒气）、挽回之物。罗马书 3:25 —— 神设立耶稣作挽回祭，是凭着耶稣的血，藉着人的信。约翰一书 2:2 —— 他为我们的罪作了挽回祭。4:10 —— 差他的儿子为我们的罪作了挽回祭。",
+          "bsb": "1 John 4:10"
+        },
+        {
+          "en": "4. Mercy-Seat. Heb. Kapporeth (Kaphar), Place of Covering; Gr. Hilasterion, Place of Propitiation or Appeasement. Ex. 25:17. Make a mercy-seat of pure gold. (The word Kapporeth, or covering, used only in the spiritual sense of atonement.) II. 300, 1. Heb. 9:5. Cherubim of glory overshadowing the mercy-seat (propitiatory).",
+          "zh": "4. 施恩座（Mercy-Seat）。希伯来文 Kapporeth（出于 Kaphar），『遮盖之处』；希腊文 Hilasterion，『挽回、息怒之处』。出埃及记 25:17 —— 要用精金做施恩座。（Kapporeth『遮盖』一词只用于赎罪的属灵意义。）希伯来书 9:5 —— 柜上面有荣耀基路伯的影罩着施恩座。",
+          "bsb": "Exodus 25:17"
+        },
+        {
+          "en": "5. Cross of Christ; Crucified. Gal. 6:14. God forbid that I should glory, save in the cross of our Lord Jesus Christ. XI. 412, 3. Phil. 2:8. Became obedient unto death, even the death of the cross. Col. 1:20. Peace through the blood of the cross. Heb. 12:2. Endured the cross. 1 Cor. 2:2. I determined not to know anything among you, save Jesus Christ, and Him crucified. XI. 284, 5.",
+          "zh": "5. 基督的十字架；钉十字架。加拉太书 6:14 —— 但我断不以别的夸口，只夸我们主耶稣基督的十字架。腓立比书 2:8 —— 存心顺服，以至于死，且死在十字架上。歌罗西书 1:20 —— 藉着他在十字架上所流的血成就了和平。希伯来书 12:2 —— 忍受了十字架的苦难。哥林多前书 2:2 —— 因为我曾定了主意，在你们中间不知道别的，只知道耶稣基督并他钉十字架。",
+          "bsb": "1 Corinthians 2:2",
+          "grammar": [
+            {"note": "save 作介词 =【古】except（只，除了）：save in the cross（只夸十字架）；save Jesus Christ（只知道耶稣基督）。God forbid that…：固定表达『断乎不可』，forbid 用虚拟原形。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、旧约献祭中以预表显明的赎罪 / II. Atonement as Disclosed in Type through Old Testament Sacrifice",
+      "blocks": [
+        {
+          "en": "The only use and justification of Animal Sacrifice, by the Patriarchs from Adam to Jacob, and through the elaborate Sacrificial System of the Ceremonial Law of Sinai, was in the fact that it was a needed method of symbolizing to the Old Testament generations God's plan of Redemption by substitution of life for life. Nothing else could be devised so simple, clear and impressive, and so suited to man's relation to God and His Laws as a disobedient offender.",
+          "zh": "从亚当到雅各的列祖所献的动物祭，以及西奈山礼仪律法中繁复的献祭体系，其惟一的用途与存在理由就在于：对旧约世代的人而言，它是把神『以命换命、代替救赎』的计划象征出来的必需方式。再没有别的办法能设计得如此简明、清晰而深刻，又如此切合人作为悖逆的干犯者与神及其律法的关系。",
+          "grammar": [
+            {"id": "inversion", "note": "Nothing else could be devised so simple…：否定词开头＋补语后置的强调句式，= No other method so simple… could be devised。"}
+          ]
+        },
+        {
+          "en": "The ideas plainly presented to the offerer in the typical act of sacrifice were mainly three: 1. Substitution of an unoffending animal for the human offender in the matter of suffering for wrong-doing. 2. Nothing less than the life-blood of the substituted victim sufficed for the remission of deserved penalty to the human offender. (Lev. 17:11. \"Blood maketh atonement by reason of the life.\") 3. The offerer's act of laying his hand upon the substitute animal, in the exercise of faith and with words of penitent confession, intimated a transfer of guilt from the offerer to the victim, and, on account of such transfer, the offender's reliance for immunity from the penal effects of his own wrong-doing.",
+          "zh": "献祭这一预表性行动向献祭者明明呈现的观念主要有三：一、由一只无辜的牲畜代替有罪的人，承受行恶应得的苦楚；二、惟有被替代之牺牲的生命之血，才足以豁免人类干犯者当受的刑罚（利未记 17:11——『因血里有生命，所以能赎罪』）；三、献祭者凭信心、口称痛悔认罪，按手在替代牲畜之上——这一动作表明罪责从献祭者转移到牺牲身上；并且因着这一转移，干犯者可以倚靠它免受自己恶行的刑罚性后果。",
+          "bsb": "Leviticus 17:11",
+          "grammar": [
+            {"note": "Nothing less than…sufficed：『非……不足以』（惟有生命之血才够）；in the exercise of faith：介词短语表方式（在信心的运用中）。"}
+          ]
+        },
+        {
+          "en": "These ideas substantially convey and exhaust the typical teaching of Old Testament Sacrifice as regards the fact and meaning of Atonement. The full interpretation of that teaching we find partly in the Psalmists and Prophets, but chiefly in the words and sufferings of Christ and their full exposition by the inspired writers of the Gospels, the Acts, the Epistles, and the Revelation. Further, study the 9th and 10th chapters of Hebrews, of which the key thought is found in 9:22: All things are cleansed with blood, and apart from shedding of blood (life-blood) there is no remission. XI. 586-593. See Sacrifice.",
+          "zh": "就赎罪的事实与意义而言，这三个观念大体上传达且穷尽了旧约献祭的预表性教导。对这教导的完整解释，我们一部分在诗人和先知那里找到，但主要是在基督的言语与受苦之中，以及福音书、使徒行传、书信和启示录受灵感的作者们对其所作的充分阐述之中。进一步可研读希伯来书第 9、10 两章，其钥节是 9:22——凡物差不多都是用血洁净的，若不流血，罪就不得赦免了。另参主题词条：献祭（Sacrifice）。",
+          "bsb": "Hebrews 9:22",
+          "grammar": [
+            {"id": "inversion", "note": "The full interpretation of that teaching we find partly in…：宾语前置（= we find the full interpretation … partly in…）。"},
+            {"id": "prep-relative", "note": "of which the key thought is found in 9:22：介词 of 前置的关系从句（这两章的钥节见于 9:22）。"}
+          ]
+        },
+        {
+          "en": "[The sacrifices of Israel were intended and adapted not only to meet the deep-felt want of human nature, common to them as to all other tribes, but also to point onward to Him in whose death a real want of mankind was met, in whose death a real sacrifice was offered, in whose death an angry God was not indeed propitiated, but in whose death the loving Father of our souls Himself provided the Lamb for the offering—without which, for reasons deeper than we can wholly fathom, it were impossible that sin should be remitted. There is no gospel worth calling so, worth the preaching, worth your believing, or that will ever move the world or purify society, except the gospel which begins with the fact of an atonement, and points to the cross as the altar on which the sacrifice for the sins of the world has died for us all. — Maclaren.]",
+          "zh": "【摘录】以色列的祭祀，其设立与设计不仅是为满足人性深处共同的需要——这需要以色列人与万族无异——更是为指向前方的那一位：在他的死里，人类真实的需要得了满足；在他的死里，献上了一个真实的祭；在他的死里，并非平息了一位怒气冲冲的神，而是我们灵魂的慈父亲自为燔祭预备了羔羊。若没有这祭——由于比我们所能完全测透的更深的缘由——罪得赦免便无可能。凡配称福音、配得传讲、配得你信、并且真能撼动世界洁净社会的福音，无一例外，都始于赎罪这一事实，并指向十字架——那为世人之罪所献的祭在其上替我们众人死了的祭坛。——麦克拉伦（Maclaren）",
+          "bsb": false,
+          "grammar": [
+            {"id": "prep-relative", "note": "Him in whose death…（四连排比）：介词 + whose 引导的关系从句连续四次，层层推进——19 世纪讲章文体的典型修辞。"},
+            {"id": "subjunctive-though", "note": "it were impossible that sin should be remitted：were 为虚拟（= it would be impossible）；that 从句用 should + 原形，正式书面语。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、基督舍己之祭所成全的赎罪 / III. Atonement as Realized and Fulfilled by the Self-Sacrificial Offering of Jesus Christ",
+      "blocks": [
+        {
+          "en": "1. Distinct Intimations, References, and Declarations of the Old Testament. (An Outline for study.) First intimated in the primal root-promise of God to Adam: Gen. 3:15. Referred to in covenant promises to Abraham: chiefly Gen. 22:17, 18—In thy seed shall all nations of the earth be blessed (explained Gal. 3:7-9, 16, 29); and to David: 2 Sam. 7:12-16. See Covenants. Prophetic References and Declarations: Ps. 22:1, 7, 8, 16-18. IV. 169-175. Isa. 52:13-15; 53:1-12. VIII. 276-293. Dan. 9:24-26. IX. 299, 303. Zech. 11:12, 13. IX. 598. Zech. 13:1, 7. IX. 605-608. 1 Pet. 1:11. The Spirit of Christ in the prophets testified beforehand the sufferings of Christ. XI. 648.",
+          "zh": "1. 旧约中清楚的预示、指涉与宣告。（研经纲要。）最早预示于神对亚当所发的原初根本应许：创世记 3:15（女人的后裔要伤你的头）。继而见于对亚伯拉罕的立约应许——主要是创世记 22:17-18『地上万国都必因你的后裔得福』（加拉太书 3:7-9, 16, 29 对此的解释）；以及对大卫的应许：撒母耳记下 7:12-16。另参主题词条：诸约（Covenants）。先知性的指涉与宣告：诗篇 22:1, 7-8, 16-18（我的神，我的神，为什么离弃我）；以赛亚书 52:13-15；53:1-12；但以理书 9:24-26；撒迦利亚书 11:12-13（三十块钱）；13:1, 7（刀剑哪，应当兴起攻击我的牧人）。彼得前书 1:11 —— 基督的灵……预先证明基督受苦难、后来得荣耀。【OCR 注：本段引用编号在扫描中散乱，已按经文体系重建。】",
+          "bsb": "Genesis 3:15",
+          "grammar": [
+            {"id": "inversion", "note": "In thy seed shall all nations of the earth be blessed：状语前置引起倒装（= all nations shall be blessed in thy seed）。"}
+          ]
+        },
+        {
+          "en": "2. Plain and Multiform Assertions of the New Testament, under varied aspects and statements. (1) Our Reconciler with God. For texts see above, I. 2. Also Eph. 2:13, 14. In Christ Jesus ye that were afar off are made nigh in the blood of Christ. For He is our peace, Who hath made both one. XI. 422. (2) The Propitiation for our sins. For texts see above, I. 3. (3) Our Efficient, Sufficient and Accepted Sacrifice. 1 Cor. 5:7. Christ our Passover is sacrificed for us. XI. 295. Eph. 5:2. Christ gave Himself up for us, an offering and a sacrifice to God. XI. 436. Heb. 9:26. He appeared to put away sin by the sacrifice of Himself. XI. 588.",
+          "zh": "2. 新约以多种角度与表述所作的明白宣告。（一）使我们与神复和者。经文见上文一之 2；另参以弗所书 2:13-14 —— 你们从前远离神的人，如今却在基督耶稣里，靠着他的血，已经得亲近了。因他使我们和睦，将两下合而为一。（二）为我们的罪作挽回祭者。经文见上文一之 3。（三）我们有效、足够、蒙悦纳的祭。哥林多前书 5:7 —— 我们逾越节的羔羊基督，已经被杀献祭了。以弗所书 5:2 —— 基督爱我们，为我们舍了自己，当作馨香的供物和祭物献与神。希伯来书 9:26 —— 但如今他在这末世显现一次，把自己献为祭，好除掉罪。",
+          "bsb": "Ephesians 2:13",
+          "grammar": [
+            {"id": "him-that-relative", "note": "ye that were afar off = you who were far away（你们这些从前远离的人）。"}
+          ]
+        },
+        {
+          "en": "(4) Died for us; Gave Himself for us. Rom. 5:6. Christ died for the ungodly. XI. 217. 2 Cor. 5:14, 15. Died for all. XI. 364, 365. 1 Thes. 5:10. Who died for us, that we should live with Him. XI. 495. Heb. 2:9. He should taste death for every man. XI. 560. Gal. 1:4. Who gave Himself for our sins, that He might deliver us. Gal. 2:20. Who loved me, and gave Himself up for me. XI. 397.",
+          "zh": "（四）为我们死；为我们舍己。罗马书 5:6 —— 基督就按所定的日期为罪人（原文作不虔敬的人）死。哥林多后书 5:14-15 —— 他替众人死。帖撒罗尼迦前书 5:10 —— 他替我们死，叫我们……都与他同活。希伯来书 2:9 —— 为人人尝了死味。加拉太书 1:4 —— 基督照我们父神的旨意，为我们的罪舍己，要救我们脱离这罪恶的世代。2:20 —— 他是爱我，为我舍己。",
+          "bsb": "Romans 5:6",
+          "grammar": [
+            {"id": "the-adjective", "note": "the ungodly：不敬虔的人（罪人）。"}
+          ]
+        },
+        {
+          "en": "(5) Died for Our Sins. 1 Cor. 15:3. Christ died for our sins, according to the Scriptures. XI. 331. — To take away our sins. John 1:29. The Lamb of God, Who taketh away the sin of the world. Heb. 9:26. 1 John 2:2. Matt. 26:28. My blood … shed … for the remission of sins. X. 476. — To save us from our sins. Matt. 1:21. He shall save His people from their sins. X. 32. Luke 19:10. The Son of Man is come to seek and to save the lost. 1 Tim. 1:15. Christ Jesus came into the world to save sinners. XI. 507.",
+          "zh": "（五）为我们的罪死。哥林多前书 15:3 —— 基督照圣经所说，为我们的罪死了。——除去我们的罪：约翰福音 1:29 —— 神的羔羊，除去世人罪孽的。希伯来书 9:26；约翰一书 2:2；马太福音 26:28 —— 这是我立约的血，为多人流出来，使罪得赦。——把我们从罪里救出来：马太福音 1:21 —— 他要将自己的百姓从罪恶里救出来。路加福音 19:10 —— 人子来，为要寻找、拯救失丧的人。提摩太前书 1:15 —— 基督耶稣降世，为要拯救罪人。",
+          "bsb": "1 Corinthians 15:3",
+          "grammar": [
+            {"id": "the-adjective", "note": "the lost：失丧的人。"}
+          ]
+        },
+        {
+          "en": "— To cleanse us from sin. Tit. 2:14. Gave Himself for us, that He might purify unto Himself a people for His own possession. 1 John 1:7. The blood of Jesus Christ cleanseth us from all sin. XI. 683. Heb. 9:14. The blood of Christ … cleanse your conscience. Heb. 10:10, 14. We are sanctified through the offering of the body of Jesus Christ once for all. By one offering He hath perfected them that are sanctified. Rev. 1:5. Unto Him that loved us, and washed us from our sins in His own blood. XI. 718. — To turn us away from sinning. Acts 3:26. God sent Him to bless you, in turning away every one of you from his iniquities. XI. 29, 30. — To counteract the power of sin in us. Rom. 8:2-4. Rom. 6:14.",
+          "zh": "——洁净我们脱离罪：提多书 2:14 —— 他为我们舍了自己……又洁净我们，特作自己的子民。约翰一书 1:7 —— 他儿子耶稣的血也洗净我们一切的罪。希伯来书 9:14 —— 基督的血……岂不更能洗净你们的心（原文作良心）。10:10, 14 —— 我们凭这旨意，靠耶稣基督只一次献上他的身体，就得以成圣。因为他一次献祭，便叫那得以成圣的人永远完全。启示录 1:5 —— 他爱我们，用自己的血使我们脱离（有古卷作洗去）罪恶。——使我们回转离开罪：使徒行传 3:26 —— 就先差他到你们这里来，赐福给你们，叫你们各人回转，离开罪恶。——制伏我们里面罪的权势：罗马书 8:2-4；6:14。",
+          "bsb": "1 John 1:7",
+          "grammar": [
+            {"id": "him-that-relative", "note": "them that are sanctified / Him that loved us：= those who are sanctified / Him who loved us。"}
+          ]
+        },
+        {
+          "en": "— To redeem us, as our Ransom, from the penal claim of Law. Gal. 3:13. Christ redeemed us from the curse of the law, having become a curse for us. XI. 399. Eph. 1:7. We have redemption through His blood. XI. 416. 1 Tim. 2:6. Who gave Himself a ransom for all. XI. 511. Tit. 2:14. Heb. 9:12. By His own blood obtained eternal redemption. 1 Pet. 1:18, 19. Redeemed with the precious blood of Christ. XI. 650. Rev. 5:9. Thou wast slain, and didst purchase unto God with Thy blood. XI. 741, 742. [\"The believer has already passed his judgment-day, and can cry in the face of every commandment of God: I am no longer under condemnation, for Jesus, my substitute, has undertaken for me.\"]",
+          "zh": "——作我们的赎价，把我们从律法的刑罚性索求中赎出来：加拉太书 3:13 —— 基督既为我们受（原文作成）了咒诅，就赎出我们脱离律法的咒诅。以弗所书 1:7 —— 我们藉这爱子的血得蒙救赎。提摩太前书 2:6 —— 他舍自己作万人的赎价。提多书 2:14；希伯来书 9:12 —— 用自己的血……成了永远赎罪的事。彼得前书 1:18-19 —— 乃是凭着基督的宝血，如同无瑕疵、无玷污的羔羊之血。启示录 5:9 —— 你曾被杀，用自己的血从各族、各方、各民、各国中买了人来，叫他们归于神。【原书按语：信徒已经过了他的审判之日，可以面对神的每一条诫命呼喊——我不再被定罪，因为我的替代者耶稣已为我承当。】【OCR 注：III 部第 3 小节编号在扫描中缺失，本段循原书排序置于第 2 小节之末。】",
+          "bsb": "1 Timothy 2:6",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Thou wast slain, and didst purchase：wast = was（与 thou 搭配），didst purchase = purchased。"}
+          ]
+        },
+        {
+          "en": "4. Christ's Own Testimony to the meaning and virtue of His Death. Isa. 50:6-8. I gave My back to the smiters. VIII. 264. John 3:14, 15. The Son of Man must be lifted up. X. 90. John 8:28. When ye have lifted up the Son of Man. John 12:32-34. If I be lifted up—signifying what death He should die. X. 442. Mark 10:33. Foretells His crucifixion. Matt. 26:2. After two days the Son of Man is betrayed to be crucified. Mark 10:45. The Son of Man came … to give His life a ransom for many. X. 396. John 6:33, 51. My flesh I will give for the life of the world. X. 254. John 10:11, 15, 17, 18. The Good Shepherd giveth His life for the sheep. I lay down My life for the sheep. X. 338, 339. Matt. 26:26-28. This is My body, broken for you. This is My blood, shed for you. X. 476, 477.",
+          "zh": "4. 基督亲自见证自己受死的意义与功效。以赛亚书 50:6-8 —— 人打我的背，我任他打。约翰福音 3:14-15 —— 人子也必照样被举起来。8:28 —— 你们举起人子以后（必知道我是基督）。12:32-34 —— 我若从地上被举起来，就要吸引万人来归我。（耶稣这话原是指着自己将要怎样死说的。）马可福音 10:33 —— 预言自己被钉十字架。马太福音 26:2 —— 过两天……人子将要被交给人，钉在十字架上。马可福音 10:45 —— 人子来……要舍命作多人的赎价。约翰福音 6:33, 51 —— 我所要赐的粮就是我的肉，为世人之生命所赐的。10:11, 15, 17, 18 —— 好牧人为羊舍命。我为羊舍命……没有人夺我的命去，是我自己舍的。马太福音 26:26-28 —— 这是我的身体，为你们舍（原文作擘开）的；这是我的血，为你们流出来的。",
+          "bsb": "Mark 10:45",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If I be lifted up：if 从句用 be 原形，虚拟语气。"},
+            {"id": "inversion", "note": "My flesh I will give for the life of the world：宾语前置强调（= I will give My flesh…）。"}
+          ]
+        },
+        {
+          "en": "After-Resurrection, comprehensive and conclusive testimony: Luke 24:25-27. O foolish men, and slow of heart to believe in all that the Prophets have spoken! Behoved it not the Christ to suffer these things, and to enter into His glory? And beginning from Moses and from all the Prophets, He interpreted to them in all the Scriptures the things concerning Himself. X. 568, 569. Luke 24:44-47. All things must needs be fulfilled which are written in the Law of Moses, and the Prophets, and the Psalms, concerning Me. Thus it is written, that the Christ should suffer, and rise again from the dead the third day, and that remission of sins should be preached in His name. X. 582. In these plain words does Christ affirm His Atoning Death to be the one fact that gives vital significance, substance, and value to the entire body of the Written Scriptures. In preaching \"Christ Jesus and Him Crucified\" as his epitome of the Gospel, Paul only followed the Master's own preaching. As the Cross was the one theme of the Christ, so should it be the ever-present thought of the trusting, loving Christian: \"He loved me and gave Himself for me.\"",
+          "zh": "复活之后总括而决定性的见证：路加福音 24:25-27 —— 无知的人哪，先知所说的一切话，你们的心信得太迟钝了！基督这样受害，又进入他的荣耀，岂不是应当的吗？于是从摩西和众先知起，凡经上所指着自己的话都给他们讲解明白了。24:44-47 —— 摩西的律法、先知的书和诗篇上所记的，凡指着我的话都必须应验……又对他们说：照经上所写的，基督必受害，第三日从死里复活，并且人要奉他的名传悔改、赦罪的道。基督正是用这些明明白白的话宣告：他那赎罪的死，就是赋予全部成文圣经以核心意义、实质与价值的那一个事实。保罗以『耶稣基督并他钉十字架』为福音的纲领来传讲，不过是跟随夫子自己的传讲。十字架既是基督的惟一主题，也照样当作信而爱主之基督徒念兹在兹的思想——『他是爱我，为我舍己。』",
+          "bsb": "Luke 24:46-47",
+          "grammar": [
+            {"note": "Behoved it not the Christ to suffer…?：古体无人称动词 behove（理当）的倒装疑问句，= Was it not fitting for the Christ to suffer…（基督受害岂不是应当的吗）。must needs：古体习语，『必须、势必』。"},
+            {"id": "as-so-correlative", "note": "As the Cross was the one theme of the Christ, so should it be…：as…so… 关联结构，so 后接倒装（should it be）。"},
+            {"id": "vocative-o", "note": "O foolish men…!：呼格感叹。"}
+          ]
+        },
+        {
+          "en": "5. Atonement Agreed upon and Determined in the Counsels of Eternity. Rev. 13:8. The Lamb slain from the foundation of the world. 1 Pet. 1:20. Who was foreordained before the foundation of the world. XI. 650. Heb. 10:7, 9. I come to do Thy will, O God. XI. 592. Acts 2:23. Him, being delivered up by the determinate counsel and foreknowledge of God, ye did crucify and slay. XI. 21.",
+          "zh": "5. 赎罪乃永世的定旨所议定。启示录 13:8 —— 从创世以来被杀的羔羊。彼得前书 1:20 —— 基督在创世以前是预先被神知道的（原书作 foreordained，预先定下的）。希伯来书 10:7, 9 —— 神啊，我来了，为要照你的旨意行。使徒行传 2:23 —— 他既按着神的定旨先见被交与人，你们就藉着无法之人的手，把他钉在十字架上杀了。",
+          "bsb": "Revelation 13:8",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "ye did crucify and slay：ye（你们）＋ did + 原形，此处 did 表强调（你们竟把他钉死）。"}
+          ]
+        },
+        {
+          "en": "6. Relation of the Atonement to the Law and Government of God. The Atonement has a vital Relation to the Law of which Sin is the transgression, and to the Moral Government of God into which Sin introduces the elements of discord, disorder, anarchy, utter subversion and extinction. The Law must be vindicated in connection with the pardon of its transgression. The Justice which demands penalty of the transgressor must be satisfied before he can be forgiven and released from its claim. The Just God must Himself be justified in remitting the punishment pronounced by that Law which is the very basis of His Throne and the security of the Moral Universe over which He reigns.",
+          "zh": "6. 赎罪与神的律法及道德治理的关系。赎罪与律法有着切身的关系——罪就是对律法的干犯；它也关乎神的道德治理——罪把不和、混乱、无法无天、彻底颠覆与毁灭的因素引入其中。要赦免对律法的干犯，律法本身必须先得到维护；那向干犯者索取刑罚的公义必须先得到满足，人才能得蒙赦免、脱离其追索。公义的神在豁免刑罚时，自己必须先『显为义』——因为宣布那刑罚的律法，正是他宝座的根基，是他所统治的道德宇宙的保障。",
+          "grammar": [
+            {"id": "prep-relative", "note": "the Law of which Sin is the transgression / the Moral Government … into which Sin introduces… / the Moral Universe over which He reigns：三个介词前置的关系从句。"}
+          ]
+        },
+        {
+          "en": "The high place and the close relation of Atonement and Law are intimated with force and beauty in the near connection of the Mercy-Seat, or Propitiatory, and the Tables of the Law—one being the cover, and the other the enclosed content, of the Ark, in the Inner Sanctuary or Holy of Holies; and both immediately beneath the Shekinah, or Visible Emblem of Jehovah's presence. Together they disclose the only conditions of restored Divine Fellowship with His people. And in this interpretation of these Sacred Symbols, placed apart and alone in the hallowed Presence-Chamber of Jehovah, in Tabernacle and Temple, we discern the intimate and essential relation, as well as the supreme place, of Atonement and Law in God's transactions with sinful men. This Relation explicitly twice affirmed in the Old Testament: Isa. 45:21, 22. A just God and a Saviour. VIII. 239, 240. Zech. 9:9. Thy King cometh; He is just, and having salvation.",
+          "zh": "赎罪与律法地位之崇高、关系之紧密，在施恩座（挽回座）与法版的紧邻布局中得到有力而优美的暗示：在内圣所（至圣所）的约柜上，一个作柜盖，一个作柜中所藏之物，两者又同在舍吉拿（Shekinah）——耶和华同在的可见表记——的正下方。它们合起来揭示了神与其子民恢复相交的惟一条件。而从这两件圣物——被单独隔开、安放在会幕与圣殿中耶和华那分别为圣的临在之所里——的这一解读中，我们看出赎罪与律法在神对待罪人的作为中何等亲密而本质的关系、何等至高的地位。这一关系在旧约中两次得到明确宣告：以赛亚书 45:21-22 —— 我是公义的神，又是救主。撒迦利亚书 9:9 —— 看哪，你的王来到你这里！他是公义的，并且施行拯救。",
+          "bsb": "Isaiah 45:21",
+          "grammar": [
+            {"note": "one being the cover, and the other the enclosed content：独立主格结构（with 省略），后半句省略 being——『一个作盖，一个作所藏之物』。"}
+          ]
+        },
+        {
+          "en": "The main Scriptures which show the relation of the Death of Christ to the Law: Gal. 3:13. Christ redeemed us from the curse of the law, having become a curse for us. XI. 399. Gal. 3:24. The law hath been our tutor to bring us unto Christ. Gal. 4:4, 5. Born under the law, that He might redeem them which were under the law. Rom. 3:24-26. Being justified freely by His grace, through the redemption that is in Christ Jesus; Whom God set forth to be a propitiation, through faith, by His blood … that He might Himself be just, and the justifier of him that hath faith in Jesus. XI. 207-209. Rom. 4:25. Who was delivered for our trespasses, and was raised for our justification. XI. 213, 214. Rom. 8:1-4. There is therefore now no condemnation to them that are in Christ Jesus. For what the law could not do, God, sending His own Son as an offering for sin, condemned sin in the flesh, that the ordinance of the law might be fulfilled in us. XI. 232-234.",
+          "zh": "显明基督之死与律法之关系的主要经文：加拉太书 3:13 —— 基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。3:24 —— 这样，律法是我们训蒙的师傅，引我们到基督那里。4:4-5 —— 为女子所生，且生在律法以下，要把律法以下的人赎出来。罗马书 3:24-26 —— 如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。神设立耶稣作挽回祭，是凭着耶稣的血，藉着人的信……使人知道他自己为义，也称信耶稣的人为义。4:25 —— 耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。8:1-4 —— 如今，那些在基督耶稣里的就不定罪了。律法既因肉体软弱，有所不能行的，神就差遣自己的儿子……作了赎罪祭，在肉体中定了罪案，使律法的义成就在我们……身上。",
+          "bsb": "Romans 3:25-26",
+          "grammar": [
+            {"id": "him-that-relative", "note": "the justifier of him that hath faith in Jesus / them which were under the law：that/which 指人的古体定语从句。"}
+          ]
+        },
+        {
+          "en": "In this connection the Scriptures notice the fitness of Christ to intervene as a representative on the sinner's behalf. Four passages refer to this: Phil. 3:6-11; Heb. 1:1-4; Rev. 22:16; and, most fully, Col. 1:13-20—a magnificent outline of the exalted Nature and Dignity of Christ as the Eternal Word in whom all Divine fullness dwells, the Creator, Sustainer, and Moral Ruler of all spiritual beings, and the Head of the Church. In Christ, as the Root and Source of all created spirits, as the Head of the vast fellowship of Redeemed men, and as the Moral Governor, Upholder and Administrator of Law, there is revealed an essential fitness, an adequate reason, and a sufficient right for His beneficent and gracious intervention through His own marvellous Self-Sacrifice. Here we read a worthy interpretation of the golden words: that God might be just, and yet the justifier of him that believeth in Jesus. In conclusion: the Truth of the Atonement stands as a Fact, clear, unmovable, and supreme among the stupendous verities of Divine Disclosure, indissolubly interwoven with them all. See Death; Law of God; Sin; Justification; Redemption; Salvation.",
+          "zh": "与此相关，圣经还论及基督有何等的资格，配作代表为罪人介入。有四处经文涉及此点：腓立比书 3:6-11；希伯来书 1:1-4；启示录 22:16；论述最全的是歌罗西书 1:13-20——那是对基督崇高之性质与尊荣的壮丽概览：他是一切神性丰盛所居的永恒之道，是一切属灵受造者的创造者、扶持者与道德主宰，是教会的元首。基督既是一切受造之灵的根与源，是蒙救赎之人浩大团契的元首，又是律法的道德治理者、维护者与执行者——在他里面，就显明了他借着自己奇妙的舍己作仁慈而恩惠之介入的本质资格、充分理由与足够权柄。在这里，我们读到对那句金言的一个配得的解释：『使人知道他自己为义，也称信耶稣的人为义。』结语：赎罪的真理作为一个事实，在神圣启示的诸般宏伟实理中间清晰、不可动摇、至高地矗立，并与它们全体密不可分地交织在一起。另参主题词条：死（Death）；神的律法（Law of God）；罪（Sin）；称义（Justification）；救赎（Redemption）；救恩（Salvation）。",
+          "grammar": [
+            {"id": "apposition", "note": "the Eternal Word…, the Creator, Sustainer, and Moral Ruler…, and the Head of the Church：一连串同位语铺陈基督的身份。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、论述摘录 / Extracts",
+      "blocks": [
+        {
+          "en": "[Christ so far took the sinner's place as to suffer in his stead. He was made, in some sense, the bearer of the sinner's guilt and penalty, in order that the sinner himself might not bear it, but be accounted righteous upon believing in Christ. No clear and definite meaning except this can be attached to the phrases \"curse for us\" and \"sin for us.\" — Stevens.] [\"God has looked upon Him and treated Him as if He were a sinner, in order that, on the ground of what happened to Him, we could be looked upon and treated as those whom God declared to be righteous.\" — Weiss.]",
+          "zh": "【摘录】基督取代罪人的地位，直到替他受苦的地步。在某种意义上，他被立为罪人罪责与刑罚的承担者，为要使罪人自己不必承担，反而一信基督就被算为义。『为我们受咒诅』『替我们成为罪』这两个短语，除此之外不可能有任何清楚确定的含义。——史蒂文斯（Stevens）。【摘录】神看他、待他如同罪人，为要使我们能凭着发生在他身上的事，被看作、被对待如神所宣告为义的人。——魏斯（Weiss）",
+          "bsb": false,
+          "grammar": [
+            {"note": "so far … as to suffer：『到了……的地步』；in his stead =【古】instead of him（替他）；upon believing：upon + 动名词，『一……就……』。as if He were a sinner：as if + were 虚拟。"}
+          ]
+        },
+        {
+          "en": "[Two great facts stand out in the Scriptural statements covering the death of Christ. The first is that He died for us, in our place, as covering us, and so receiving in His own person the penalty of the violated law of God. He is our substitute, not by exchange of place, but by covering: He occupies His own place, which place covers also our own. The second fact is that He who dies for us is none other than the instrumental cause of our being. The crucified is none other than He by whom the worlds were made. Not Adam, but Christ, is the Root of the race. The agent of God in creation is the agent of God in redemption. He is the representative and substitute of man in atoning action; and He is the creative source of our being. The representative function is rooted in the creative relation. There is no imputation of guilt. There is no transfer of penalty. There is no substitution of one form of punishment for another. Christ, in the agony of conscious abandonment by the Father, endures and exhausts that death which is the proper penalty of the violated law; and He endures it as covering our place. It has often been said that Christ must be man to represent man, and that He must be God to represent God. But the more Scriptural statement is that Christ must be God as well as man in order to represent man. God needs no representative; man does. And Christ, as God-Man, as the Eternal Word become Flesh, died for sinners, was their representative and substitute under the Law. — Behrends.]",
+          "zh": "【摘录】关于基督之死的圣经陈述中，有两大事实凸显出来。其一，他为我们死，站在我们的位置上，作我们的『遮盖』，从而亲身领受神律法被干犯的刑罚。他作我们的替代者，不是借着位置的互换，而是借着遮盖：他站在自己的位置上，而这位置也遮盖了我们的位置。其二，那为我们死的，正是我们存在的成因——被钉十字架的，不是别人，正是那位创造诸世界的。人类的根不是亚当，乃是基督；神在创造中的执行者，也就是神在救赎中的执行者。他在赎罪之工中是人的代表与替代者，同时又是我们存在的创造性源头——代表的职分正植根于创造的关系。这里没有罪责的归算，没有刑罚的转嫁，也没有以一种刑罚顶替另一种刑罚：基督在自觉被父离弃的极痛之中，忍受并耗尽了那作为律法被干犯之本刑的死；而他是站在遮盖我们位置的地位上忍受这死的。人们常说：基督必须是人，才能代表人；必须是神，才能代表神。但更合乎圣经的说法是：基督必须既是神又是人，才能代表人。神不需要代表；人才需要。而基督，作为神而人者、作为道成肉身的永恒之道，为罪人死，在律法之下作了他们的代表与替代者。——贝伦兹（Behrends）",
+          "bsb": false,
+          "grammar": [
+            {"note": "none other than…：『不是别人／别物，正是……』；which place covers also our own：which + 名词的关系结构（而这位置……），正式文体；God needs no representative; man does：does 替代 needs one，省略式对比。"}
+          ]
+        },
+        {
+          "en": "[At last, on the cross, it is still the heavenly temper which appears, and which gives to that its immortal significance. It is the temper of abhorrence of sin, yet of infinite longing for the sinner; the temper which honors and magnifies the absolute holiness that is God's eternal law for the universe, yet which reaches, even with agonized face and bleeding hands, after the meanest and vilest offender; the temper ready to bear even intolerable shames and pains in order to bring wandering spirits within the gates, yet which still makes repentance an absolute condition of its proposed blessings, and which will give unspeakable attestation to the authority of righteousness before any offer of forgiveness is made. It is not any sense of a commercial transaction there completed which gives to the cross its tender and sublime appeal to the world. It is not when viewed in legal or forensic relations, important as these are, that it most deeply stirs the heart. It is in the revelation which it makes—unique, supreme, for all the world, for all the ages—of the heavenly conception of the guiltiness of sin and of its immeasurable sequences of evil; of the immaculate purity of God, and of the self-surrendering love which would give up even thrones and glories to save the lost. When this is seen, the worlds above are interpreted to us, in what in them is most transcendent. When this is seen, an appropriate response in us is inspired, the mission of Christ for us is answered, and a light flows back on all that had wonderfully gone before—to the advent itself, to the prophecies which had foretold His coming. — R. S. Storrs.]",
+          "zh": "【摘录】最后，在十字架上显出来的，仍是那属天的性情，正是它赋予十字架不朽的意义。那是憎恶罪、却对罪人怀着无穷渴慕的性情；是尊崇并高举那作为宇宙永恒法则的绝对圣洁、却又带着痛楚的面容和流血的双手去够着最卑微最败坏之罪人的性情；是甘愿承受难以忍受的羞辱与苦痛、为把漂流的灵魂带进门内，却仍以悔改为其所应许之福分绝对条件、并且在发出任何赦免之先必先向公义的权威作出无可言喻之见证的性情。使十字架对世界发出温柔而崇高呼召的，并不是什么在那里完成了的商业交易的观念；也不是从法律或司法关系去看它的时候——尽管这些关系确实重要——它最深地打动人心；而在于它所作的启示——独一无二、至高无上、面向普世、面向万代——启示出天上对罪之罪责及其无可测度之恶果的判断，启示出神无瑕的纯洁，启示出那甘愿舍弃宝座与荣耀去拯救失丧者的舍己之爱。人一看见这个，天上诸世界最超越的方面便向我们敞开解明；人一看见这个，里面合宜的回应便被激发，基督为我们所负的使命便得了应答，一道光便回照在此前一切奇妙的预备之上——回照到降临本身，回照到预言他来临的众预言。——R. S. 斯托尔斯（Storrs）",
+          "bsb": false,
+          "grammar": [
+            {"note": "It is … which/that …：三个强调句（分裂句）连用——It is still the heavenly temper which appears / It is not any sense … which gives / It is in the revelation …；yet 在排比中反复转折，构成『……却……』的张力，是 19 世纪讲章文体的标志性节奏。"},
+            {"id": "the-adjective", "note": "the meanest and vilest offender / to save the lost：形容词最高级修饰与 the + 分词表一类人。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "atonement": {"ipa": "/əˈtəʊnmənt/", "def": "n. 赎罪（词源 at-one-ment：使合而为一、复和）【GRE】"},
+    "procuring": {"ipa": "/prəˈkjʊərɪŋ/", "def": "adj./v. 取得性的，促成的（procure：取得，促成）【六级】"},
+    "cardinal": {"ipa": "/ˈkɑːdɪnl/", "def": "adj. 首要的，基本的【六级/GRE】"},
+    "heralding": {"ipa": "/ˈherəldɪŋ/", "def": "v./adj. 先行宣告的（herald：先驱，预报者）【六级】"},
+    "sublime": {"ipa": "/səˈblaɪm/", "def": "adj. 庄严崇高的【六级/GRE】"},
+    "transgressions": {"ipa": "/trænzˈɡreʃnz/", "def": "n. 过犯，干犯（transgress：越界，犯法）【GRE】"},
+    "bare": {"ipa": "/beə/", "def": "v.【古】bear 的过去式（= bore，担当）；adj. 赤裸的"},
+    "quickened": {"ipa": "/ˈkwɪkənd/", "def": "v.【古义】使复活（quick 古义『活的』）；现代义：加快"},
+    "reconciliation": {"ipa": "/ˌrekənsɪliˈeɪʃn/", "def": "n. 复和，和好【六级】"},
+    "reconcile": {"ipa": "/ˈrekənsaɪl/", "def": "v. 使和好，使复和【六级/考研】"},
+    "reconciled": {"ipa": "/ˈrekənsaɪld/", "def": "v. 得与……和好（reconcile 的过去分词）"},
+    "propitiation": {"ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭；平息（神怒）之物（propitiate：抚慰息怒，GRE 词）"},
+    "propitiated": {"ipa": "/prəˈpɪʃieɪtɪd/", "def": "v. 被平息怒气（propitiate 的过去分词）"},
+    "appease": {"ipa": "/əˈpiːz/", "def": "v. 平息，抚慰【六级/GRE】"},
+    "appeasement": {"ipa": "/əˈpiːzmənt/", "def": "n. 平息，绥靖"},
+    "mercy-seat": {"ipa": "/ˈmɜːsi siːt/", "def": "n. 施恩座（约柜的金盖，赎罪日弹血之处）"},
+    "cherubim": {"ipa": "/ˈtʃerəbɪm/", "def": "n. 基路伯（天使，希伯来复数形式；单数 cherub）"},
+    "overshadowing": {"ipa": "/ˌəʊvəˈʃædəʊɪŋ/", "def": "v. 影罩，遮蔽（overshadow）【六级】"},
+    "crucified": {"ipa": "/ˈkruːsɪfaɪd/", "def": "v. 被钉十字架（crucify）【六级】"},
+    "crucifixion": {"ipa": "/ˌkruːsəˈfɪkʃn/", "def": "n. 钉十字架（之刑）"},
+    "reckoning": {"ipa": "/ˈrekənɪŋ/", "def": "v. 算，归算（reckon to：归到……账上）【六级】"},
+    "trespasses": {"ipa": "/ˈtrespəsɪz/", "def": "n. 过犯（trespass：过犯；侵入）【六级】"},
+    "substitution": {"ipa": "/ˌsʌbstɪˈtjuːʃn/", "def": "n. 替代，代替【四级】"},
+    "substitute": {"ipa": "/ˈsʌbstɪtjuːt/", "def": "n./v. 替代者；代替【四级】"},
+    "unoffending": {"ipa": "/ˌʌnəˈfendɪŋ/", "def": "adj. 无辜的，未犯过的（offend：冒犯，犯罪）"},
+    "offender": {"ipa": "/əˈfendə/", "def": "n. 干犯者，罪犯【六级】"},
+    "offerer": {"ipa": "/ˈɒfərə/", "def": "n. 献祭者（offer：献上）"},
+    "remission": {"ipa": "/rɪˈmɪʃn/", "def": "n. 赦免，豁免（remit：豁免，GRE 词）【GRE】"},
+    "remitted": {"ipa": "/rɪˈmɪtɪd/", "def": "v. 被赦免（remit 的过去分词）"},
+    "penalty": {"ipa": "/ˈpenəlti/", "def": "n. 刑罚，惩罚【四级】"},
+    "penal": {"ipa": "/ˈpiːnl/", "def": "adj. 刑罚的（penal claim：刑罚性索求）【GRE】"},
+    "penitent": {"ipa": "/ˈpenɪtənt/", "def": "adj. 痛悔的（penitence：痛悔）【GRE】"},
+    "confession": {"ipa": "/kənˈfeʃn/", "def": "n. 认罪，承认【四级】"},
+    "intimated": {"ipa": "/ˈɪntɪmeɪtɪd/", "def": "v. 暗示，表明（intimate 作动词）"},
+    "immunity": {"ipa": "/ɪˈmjuːnəti/", "def": "n. 免除；免疫【六级】"},
+    "exposition": {"ipa": "/ˌekspəˈzɪʃn/", "def": "n. 阐述，讲解【六级/GRE】"},
+    "fathom": {"ipa": "/ˈfæðəm/", "def": "v. 测透，彻底理解（原义：测水深）【GRE】"},
+    "intimations": {"ipa": "/ˌɪntɪˈmeɪʃnz/", "def": "n. 预示，暗示（intimation）"},
+    "multiform": {"ipa": "/ˈmʌltɪfɔːm/", "def": "adj. 多形式的，多样的"},
+    "nigh": {"ipa": "/naɪ/", "def": "adv./adj.【古】近（= near；made nigh：得亲近）"},
+    "passover": {"ipa": "/ˈpɑːsəʊvə/", "def": "n. 逾越节；逾越节的羔羊"},
+    "ungodly": {"ipa": "/ʌnˈɡɒdli/", "def": "adj. 不敬虔的（the ungodly：罪人）"},
+    "ransom": {"ipa": "/ˈrænsəm/", "def": "n./v. 赎价，赎金；赎回【六级】"},
+    "counteract": {"ipa": "/ˌkaʊntərˈækt/", "def": "v. 制伏，抵消【六级/GRE】"},
+    "foreknowledge": {"ipa": "/ˌfɔːˈnɒlɪdʒ/", "def": "n. 先见，预知（fore- 预先 + knowledge）"},
+    "determinate": {"ipa": "/dɪˈtɜːmɪnət/", "def": "adj. 定准的，确定的（determinate counsel：定旨）"},
+    "crucify": {"ipa": "/ˈkruːsɪfaɪ/", "def": "v. 钉十字架【六级】"},
+    "vindicated": {"ipa": "/ˈvɪndɪkeɪtɪd/", "def": "v. 得到维护／昭雪（vindicate）【GRE】"},
+    "anarchy": {"ipa": "/ˈænəki/", "def": "n. 无法无天，无政府状态【六级/GRE】"},
+    "subversion": {"ipa": "/səbˈvɜːʃn/", "def": "n. 颠覆（subvert：颠覆）【GRE】"},
+    "extinction": {"ipa": "/ɪkˈstɪŋkʃn/", "def": "n. 毁灭，灭绝【六级】"},
+    "transgressor": {"ipa": "/trænzˈɡresə/", "def": "n. 干犯者，违法者"},
+    "shekinah": {"ipa": "/ʃəˈkaɪnə/", "def": "n. 舍吉拿（希伯来语：神同在的荣光）"},
+    "emblem": {"ipa": "/ˈembləm/", "def": "n. 表记，象征【六级/GRE】"},
+    "sanctuary": {"ipa": "/ˈsæŋktʃuəri/", "def": "n. 圣所；避难所【六级/GRE】"},
+    "hallowed": {"ipa": "/ˈhæləʊd/", "def": "adj. 神圣的，分别为圣的（hallow：使圣）"},
+    "discern": {"ipa": "/dɪˈsɜːn/", "def": "v. 辨明，看出【六级/GRE】"},
+    "tutor": {"ipa": "/ˈtjuːtə/", "def": "n. 训蒙的师傅（古罗马护送孩童上学的监护仆人）；导师【四级】"},
+    "justifier": {"ipa": "/ˈdʒʌstɪfaɪə/", "def": "n. 称义者，使人为义者（justify：称义；证明为正当）"},
+    "justification": {"ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/", "def": "n. 称义；辩护理由【六级】"},
+    "ordinance": {"ipa": "/ˈɔːdɪnəns/", "def": "n. 律例，法令（此处指律法的义之要求）【GRE】"},
+    "intervene": {"ipa": "/ˌɪntəˈviːn/", "def": "v. 介入，居间调停【六级/考研】"},
+    "intervention": {"ipa": "/ˌɪntəˈvenʃn/", "def": "n. 介入，干预【六级】"},
+    "beneficent": {"ipa": "/bɪˈnefɪsnt/", "def": "adj. 行善的，仁慈的【GRE】"},
+    "marvellous": {"ipa": "/ˈmɑːvələs/", "def": "adj. 奇妙的（美式拼写 marvelous）【四级】"},
+    "verities": {"ipa": "/ˈverətiz/", "def": "n. 实理，真理（verity 的复数）【GRE】"},
+    "stupendous": {"ipa": "/stjuːˈpendəs/", "def": "adj. 宏伟惊人的【GRE】"},
+    "indissolubly": {"ipa": "/ˌɪndɪˈsɒljubli/", "def": "adv. 不可分解地（in- 否定 + dissoluble 可分解的）"},
+    "interwoven": {"ipa": "/ˌɪntəˈwəʊvn/", "def": "v. 交织（interweave 的过去分词）"},
+    "imputation": {"ipa": "/ˌɪmpjuˈteɪʃn/", "def": "n. 归算，归罪（impute：归于，GRE 词）"},
+    "stead": {"ipa": "/sted/", "def": "n. 位置，代替（in his stead：替他）【六级】"},
+    "abhorrence": {"ipa": "/əbˈhɒrəns/", "def": "n. 憎恶（abhor：憎恶，GRE 词）【GRE】"},
+    "magnifies": {"ipa": "/ˈmæɡnɪfaɪz/", "def": "v. 高举，尊大；放大（magnify）【六级】"},
+    "agonized": {"ipa": "/ˈæɡənaɪzd/", "def": "adj. 痛苦万分的（agony：极痛）【六级】"},
+    "vilest": {"ipa": "/ˈvaɪlɪst/", "def": "adj. 最卑劣的（vile：卑劣的，GRE 词）【GRE】"},
+    "intolerable": {"ipa": "/ɪnˈtɒlərəbl/", "def": "adj. 难以忍受的【六级】"},
+    "repentance": {"ipa": "/rɪˈpentəns/", "def": "n. 悔改【六级】"},
+    "attestation": {"ipa": "/ˌæteˈsteɪʃn/", "def": "n. 见证，证明（attest：证实，GRE 词）"},
+    "forensic": {"ipa": "/fəˈrensɪk/", "def": "adj. 法庭的，司法的（legal or forensic relations：法律的关系）【GRE】"},
+    "guiltiness": {"ipa": "/ˈɡɪltinəs/", "def": "n. 罪责，有罪（guilty 的名词）"},
+    "immaculate": {"ipa": "/ɪˈmækjələt/", "def": "adj. 无瑕的，纯洁无玷的【GRE】"},
+    "transcendent": {"ipa": "/trænˈsendənt/", "def": "adj. 超越的，卓绝的【GRE】"},
+    "advent": {"ipa": "/ˈædvent/", "def": "n. 降临，来临（the Advent：基督降临）【六级/GRE】"},
+    "smiters": {"ipa": "/ˈsmaɪtəz/", "def": "n. 击打的人（smite：击打，古词；过去式 smote）"},
+    "betrayed": {"ipa": "/bɪˈtreɪd/", "def": "v. 被出卖（betray）【四级】"},
+    "epitome": {"ipa": "/ɪˈpɪtəmi/", "def": "n. 纲领，缩影（注意读音四个音节）【GRE】"},
+    "behoved": {"ipa": "/bɪˈhəʊvd/", "def": "v.【古】理当，应当（behove 的过去式，无人称动词：it behoves sb to do）"},
+    "wast": {"ipa": "/wɒst/", "def": "= was（与 thou 搭配：Thou wast = You were）"},
+    "sustainer": {"ipa": "/səˈsteɪnə/", "def": "n. 扶持者，维系者（sustain：维持）"},
+    "elaborate": {"ipa": "/ɪˈlæbərət/", "def": "adj. 繁复精密的；v. 详述【四级】"},
+    "ceremonial": {"ipa": "/ˌserəˈməʊniəl/", "def": "adj. 礼仪的（Ceremonial Law：礼仪律法）【六级】"},
+    "devised": {"ipa": "/dɪˈvaɪzd/", "def": "v. 设计出（devise）【六级】"},
+    "sufficed": {"ipa": "/səˈfaɪst/", "def": "v. 足够（suffice）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "atonement", "ipa": "/əˈtəʊnmənt/", "def": "n. 赎罪（词源 at-one-ment：使合而为一）"},
+    {"word": "reconciliation", "ipa": "/ˌrekənsɪliˈeɪʃn/", "def": "n. 复和，和好"},
+    {"word": "propitiation", "ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭；平息（神怒）之物"},
+    {"word": "appease", "ipa": "/əˈpiːz/", "def": "v. 平息，抚慰"},
+    {"word": "transgression", "ipa": "/trænzˈɡreʃn/", "def": "n. 过犯，干犯"},
+    {"word": "substitution", "ipa": "/ˌsʌbstɪˈtjuːʃn/", "def": "n. 替代，代替"},
+    {"word": "remission", "ipa": "/rɪˈmɪʃn/", "def": "n. 赦免，豁免"},
+    {"word": "penitent", "ipa": "/ˈpenɪtənt/", "def": "adj. 痛悔的"},
+    {"word": "ransom", "ipa": "/ˈrænsəm/", "def": "n./v. 赎价；赎回"},
+    {"word": "vindicate", "ipa": "/ˈvɪndɪkeɪt/", "def": "v. 维护，昭雪"},
+    {"word": "anarchy", "ipa": "/ˈænəki/", "def": "n. 无法无天，无政府状态"},
+    {"word": "sanctuary", "ipa": "/ˈsæŋktʃuəri/", "def": "n. 圣所；避难所"},
+    {"word": "discern", "ipa": "/dɪˈsɜːn/", "def": "v. 辨明，看出"},
+    {"word": "justification", "ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/", "def": "n. 称义；辩护理由"},
+    {"word": "intervene", "ipa": "/ˌɪntəˈviːn/", "def": "v. 介入，居间调停"},
+    {"word": "fathom", "ipa": "/ˈfæðəm/", "def": "v. 测透，彻底理解"},
+    {"word": "epitome", "ipa": "/ɪˈpɪtəmi/", "def": "n. 纲领，缩影"},
+    {"word": "abhorrence", "ipa": "/əbˈhɒrəns/", "def": "n. 憎恶"},
+    {"word": "immaculate", "ipa": "/ɪˈmækjələt/", "def": "adj. 无瑕的，纯洁无玷的"},
+    {"word": "transcendent", "ipa": "/trænˈsendənt/", "def": "adj. 超越的，卓绝的"},
+    {"word": "stupendous", "ipa": "/stjuːˈpendəs/", "def": "adj. 宏伟惊人的"},
+    {"word": "advent", "ipa": "/ˈædvent/", "def": "n. 降临，来临"},
+    {"word": "imputation", "ipa": "/ˌɪmpjuˈteɪʃn/", "def": "n. 归算，归罪"},
+    {"word": "forensic", "ipa": "/fəˈrensɪk/", "def": "adj. 法庭的，司法的"},
+    {"word": "verity", "ipa": "/ˈverəti/", "def": "n. 实理，真理"}
+  ]
+}

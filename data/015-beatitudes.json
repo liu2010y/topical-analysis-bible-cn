@@ -1,0 +1,156 @@
+{
+  "num": "015",
+  "title_en": "BEATITUDES, of Old and New Testaments",
+  "title_zh": "八福与诸福（新旧约的福语）",
+  "html_name": "015-Beatitudes-八福.html",
+  "pages": "原书 p. 34",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "BEATITUDES, of Old and New Testaments. Who are Blessed, or Happy.",
+          "zh": "新旧约的福语（Beatitudes）——谁是有福的、蒙福的人。",
+          "grammar": [
+            {"id": "headline-style", "note": "标题＋一个总领问句式短语（Who are Blessed：谁有福）。beatitude 源自拉丁文 beatus『蒙福的』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、旧约的福语 / Old Testament",
+      "blocks": [
+        {
+          "en": "Ps. 1:1-3. The man whose delight is in the law of Jehovah, and (who) doth meditate (therein) day and night. Whatsoever he doeth shall prosper. IV. 42, 43, 45.",
+          "zh": "诗篇 1:1-3 —— 惟喜爱耶和华的律法，昼夜思想，这人便为有福。……凡他所做的尽都顺利。",
+          "bsb": "Psalm 1:1-3",
+          "grammar": [
+            {"note": "Whatsoever = whatever 的古体（凡……的一切）；doth meditate：doth + 原形，古体强调式（= meditates）。"}
+          ]
+        },
+        {
+          "en": "Ps. 2:12. They that put their trust (take refuge) in Him. Ps. 34:8. IV. 253, 298. Ps. 40:4. Ps. 41:1. He that considereth the poor.",
+          "zh": "诗篇 2:12 —— 凡投靠他的，都是有福的。34:8 —— 投靠他的人有福了。40:4 —— 那倚靠耶和华……的，这人便为有福。41:1 —— 眷顾贫穷的有福了。",
+          "bsb": "Psalm 2:12",
+          "grammar": [
+            {"id": "him-that-relative", "note": "They that put their trust / He that considereth = those who trust / he who considers。"},
+            {"id": "the-adjective", "note": "the poor：贫穷人。"}
+          ]
+        },
+        {
+          "en": "Ps. 32:1, 2. He whose transgression is forgiven; unto whom the Lord imputeth not iniquity. IV. 238.",
+          "zh": "诗篇 32:1-2 —— 得赦免其过、遮盖其罪的，这人是有福的。凡心里没有诡诈、耶和华不算为有罪的，这人是有福的。",
+          "bsb": "Psalm 32:1-2",
+          "grammar": [
+            {"id": "no-do-negation", "note": "imputeth not iniquity = does not impute iniquity：古体否定，不用 does（不算为有罪）。"},
+            {"id": "prep-relative", "note": "unto whom the Lord imputeth not…：介词 unto 前置于关系代词 whom。"}
+          ]
+        },
+        {
+          "en": "Ps. 84:5, 12. Whose strength is in Thee; in whose heart are the highways to Zion. V. 68. Ps. 94:12. The man whom Thou chastenest and teachest. Ps. 106:3. They that keep judgment and do righteousness. V. 212.",
+          "zh": "诗篇 84:5, 12 —— 靠你有力量、心中想往锡安大道的，这人便为有福。94:12 —— 你所管教、用律法所教训的人是有福的。106:3 —— 凡遵守公平、常行公义的，这人便为有福。",
+          "bsb": "Psalm 84:5",
+          "grammar": [
+            {"id": "inversion", "note": "in whose heart are the highways to Zion：介词短语前置引起倒装（= the highways to Zion are in whose heart）。"}
+          ]
+        },
+        {
+          "en": "Ps. 112:1. The man that feareth Jehovah, that delighteth greatly in His commandments. V. 248. Ps. 119:1, 2. They that are upright, who walk in the Law, keep His testimonies, seek Him with the whole heart. V. 287. Ps. 128:1. Every one that feareth the Lord, that walketh in His ways. V. 391.",
+          "zh": "诗篇 112:1 —— 敬畏耶和华、甚喜爱他命令的，这人便为有福。119:1-2 —— 行为完全、遵行耶和华律法的，这人便为有福！遵守他的法度、一心寻求他的，这人便为有福。128:1 —— 凡敬畏耶和华、遵行他道的人便为有福。",
+          "bsb": "Psalm 112:1",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "feareth / delighteth / walketh：一组 -eth 第三人称单数（敬畏、喜爱、遵行）。"},
+            {"id": "the-adjective", "note": "the upright：正直人。"}
+          ]
+        },
+        {
+          "en": "Isa. 32:20. Blessed are ye that sow beside all waters. VIII. 160. Isa. 56:2. That keepeth the Sabbath from profaning it, and keepeth his hand from doing any evil. VIII. 315. Jer. 17:7, 8. Blessed is the man that trusteth in the Lord, and whose hope the Lord is. VIII. 477.",
+          "zh": "以赛亚书 32:20 —— 你们在各水边撒种……的有福了。56:2 —— 谨守安息日而不干犯，禁止己手而不作恶，如此行、如此持守的人便为有福。耶利米书 17:7-8 —— 倚靠耶和华、以耶和华为可靠的，那人有福了。",
+          "bsb": "Jeremiah 17:7",
+          "grammar": [
+            {"id": "ellipsis", "note": "whose hope the Lord is = whose hope is the Lord：表语前置（以耶和华为其所望）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、新约的福语——基督亲口的八福 / New Testament: Christ's Words",
+      "blocks": [
+        {
+          "en": "Matt. 5:3-10. The poor in spirit, for theirs is the Kingdom of Heaven. They that mourn, for they shall be comforted. The meek, for they shall inherit the earth. They who hunger and thirst after righteousness, for they shall be filled. The merciful, for they shall obtain mercy. The pure in heart, for they shall see God. The peacemakers, for they shall be called children of God. The persecuted for righteousness' sake, for theirs is the Kingdom of Heaven. XI. 143-147.",
+          "zh": "马太福音 5:3-10（八福）—— 虚心的人有福了，因为天国是他们的。哀恸的人有福了，因为他们必得安慰。温柔的人有福了，因为他们必承受地土。饥渴慕义的人有福了，因为他们必得饱足。怜恤人的人有福了，因为他们必蒙怜恤。清心的人有福了，因为他们必得见神。使人和睦的人有福了，因为他们必称为神的儿子。为义受逼迫的人有福了，因为天国是他们的。",
+          "bsb": "Matthew 5:3-10",
+          "grammar": [
+            {"id": "the-adjective", "note": "The poor in spirit / The meek / The merciful / The pure in heart / The persecuted：the + 形容词（或分词）表一类人的密集用例——八福的主语全是这种结构。"},
+            {"id": "inversion", "note": "theirs is the Kingdom of Heaven：表语 theirs 前置（= the Kingdom of Heaven is theirs，天国是他们的）。"}
+          ]
+        },
+        {
+          "en": "Luke 11:28. They that hear the Word of God and keep it. Luke 12:37. Those whom the Lord when He cometh shall find watching. John 20:29. They that have not seen (Me) and yet have believed. X. 574.",
+          "zh": "路加福音 11:28 —— 却还不如听神之道而遵守的人有福。12:37 —— 主人来了，看见仆人警醒，那仆人就有福了。约翰福音 20:29 —— 那没有看见就信的有福了。",
+          "bsb": "John 20:29",
+          "grammar": [
+            {"note": "Those whom the Lord when He cometh shall find watching：关系从句中再嵌时间从句（when He cometh），主干为 whom the Lord shall find watching（主来时看见他们正警醒的人）；find + 宾语 + 现在分词。"}
+          ]
+        },
+        {
+          "en": "James 1:12. The man that endureth temptation. XI. 621. Rev. 14:13. The dead who die in the Lord; their works follow with them. XI. 759. Rev. 22:14. They that do His commandments.",
+          "zh": "雅各书 1:12 —— 忍受试探的人是有福的。启示录 14:13 —— 在主里面而死的人有福了……他们的作为也随着他们。22:14 —— 那些遵守他诫命的有福了（有古卷作：那些洗净自己衣服的）。【OCR 注：原书 \"The lead\" 为 The dead 之误。】",
+          "bsb": "Revelation 14:13",
+          "grammar": [
+            {"id": "the-adjective", "note": "The dead who die in the Lord：在主里面死了的人。"}
+          ]
+        },
+        {
+          "en": "These gracious Beatitudes cover every phase, touch every point and reach every depth of experience in living and dying. They are Benedictions in promise, and to the soul of great faith, in effect they are Divine realities.",
+          "zh": "这些满有恩慈的福语，覆盖生与死之经历的每一个阶段，触及每一个要点，达到每一层深处。它们是应许形态的祝福；而对信心宏大的灵魂来说，实际上它们就是神圣的现实。",
+          "grammar": [
+            {"note": "cover / touch / reach 三个动词与 every phase / every point / every depth 三个宾语构成排比；in effect：实际上。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "beatitudes": {"ipa": "/biˈætɪtjuːdz/", "def": "n. 福语；（the Beatitudes）八福（源自拉丁文 beatus 蒙福的）"},
+    "blessed": {"ipa": "/ˈblesɪd/", "def": "adj. 有福的（作形容词读两音节 /ˈblesɪd/）【四级】"},
+    "meditate": {"ipa": "/ˈmedɪteɪt/", "def": "v. 思想，默想（meditate on：昼夜思想）【六级】"},
+    "whatsoever": {"ipa": "/ˌwɒtsəʊˈevə/", "def": "pron.【古】无论什么（= whatever 的强调形式）"},
+    "refuge": {"ipa": "/ˈrefjuːdʒ/", "def": "n. 避难所（take refuge in：投靠）【六级】"},
+    "considereth": {"ipa": "/kənˈsɪdərəθ/", "def": "= considers（-eth 古词尾）：眷顾，顾念"},
+    "transgression": {"ipa": "/trænzˈɡreʃn/", "def": "n. 过犯【GRE】"},
+    "imputeth": {"ipa": "/ɪmˈpjuːtəθ/", "def": "= imputes（-eth 古词尾）：归算，算为（impute iniquity：算为有罪）"},
+    "chastenest": {"ipa": "/ˈtʃeɪsnɪst/", "def": "= chasten（与 thou 搭配的 -est 词尾）：（你）管教"},
+    "teachest": {"ipa": "/ˈtiːtʃɪst/", "def": "= teach（与 thou 搭配的 -est 词尾）：（你）教训"},
+    "feareth": {"ipa": "/ˈfɪərəθ/", "def": "= fears（-eth 古词尾）：敬畏"},
+    "delighteth": {"ipa": "/dɪˈlaɪtəθ/", "def": "= delights（-eth 古词尾）：喜爱"},
+    "trusteth": {"ipa": "/ˈtrʌstəθ/", "def": "= trusts（-eth 古词尾）：倚靠"},
+    "sabbath": {"ipa": "/ˈsæbəθ/", "def": "n. 安息日"},
+    "profaning": {"ipa": "/prəˈfeɪnɪŋ/", "def": "v. 亵渎，干犯（profane：亵渎，GRE 词）"},
+    "mourn": {"ipa": "/mɔːn/", "def": "v. 哀恸，悲哀【六级】"},
+    "meek": {"ipa": "/miːk/", "def": "adj. 温柔谦卑的【GRE】"},
+    "inherit": {"ipa": "/ɪnˈherɪt/", "def": "v. 承受，继承【四级】"},
+    "thirst": {"ipa": "/θɜːst/", "def": "v./n. 渴，渴慕（hunger and thirst after：饥渴慕）【四级】"},
+    "merciful": {"ipa": "/ˈmɜːsɪfl/", "def": "adj. 怜恤人的，有怜悯的"},
+    "peacemakers": {"ipa": "/ˈpiːsmeɪkəz/", "def": "n. 使人和睦的人（peace + maker）"},
+    "persecuted": {"ipa": "/ˈpɜːsɪkjuːtɪd/", "def": "adj./v. 受逼迫的（persecute：逼迫）【六级】"},
+    "endureth": {"ipa": "/ɪnˈdjʊərəθ/", "def": "= endures（-eth 古词尾）：忍受"},
+    "watching": {"ipa": "/ˈwɒtʃɪŋ/", "def": "v. 警醒（watch：警醒守望）【四级】"},
+    "gracious": {"ipa": "/ˈɡreɪʃəs/", "def": "adj. 恩慈的【六级】"},
+    "benedictions": {"ipa": "/ˌbenɪˈdɪkʃnz/", "def": "n. 祝福（语）（bene- 好 + diction 说话）【GRE】"},
+    "phase": {"ipa": "/feɪz/", "def": "n. 阶段，方面【四级】"}
+  },
+  "vocab_table": [
+    {"word": "beatitude", "ipa": "/biˈætɪtjuːd/", "def": "n. 福语；（复数）八福"},
+    {"word": "meditate", "ipa": "/ˈmedɪteɪt/", "def": "v. 思想，默想"},
+    {"word": "refuge", "ipa": "/ˈrefjuːdʒ/", "def": "n. 避难所（take refuge in：投靠）"},
+    {"word": "meek", "ipa": "/miːk/", "def": "adj. 温柔谦卑的"},
+    {"word": "mourn", "ipa": "/mɔːn/", "def": "v. 哀恸，悲哀"},
+    {"word": "inherit", "ipa": "/ɪnˈherɪt/", "def": "v. 承受，继承"},
+    {"word": "merciful", "ipa": "/ˈmɜːsɪfl/", "def": "adj. 怜恤人的"},
+    {"word": "persecute", "ipa": "/ˈpɜːsɪkjuːt/", "def": "v. 逼迫，迫害"},
+    {"word": "profane", "ipa": "/prəˈfeɪn/", "def": "v. 亵渎，干犯；adj. 世俗的"},
+    {"word": "benediction", "ipa": "/ˌbenɪˈdɪkʃn/", "def": "n. 祝福（语）"},
+    {"word": "sabbath", "ipa": "/ˈsæbəθ/", "def": "n. 安息日"}
+  ]
+}

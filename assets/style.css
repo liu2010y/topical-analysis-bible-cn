@@ -1,0 +1,338 @@
+/* 《圣经主题分析》中译工程 —— 护眼淡绿主题 */
+
+* { box-sizing: border-box; }
+
+:root {
+  --bg: #eff7ef;            /* 页面底色：护眼淡绿（更浅） */
+  --card: #f2f9f2;          /* 卡片底色：浅绿（不再泛白） */
+  --card-border: #d9e9d9;
+  --text: #2b3a2e;
+  --text-en: #3d4f44;
+  --accent: #2f7d46;
+  --accent-soft: #e4f0e6;
+  --grammar-bg: #e9f3e9;
+  --grammar-border: #b5d6ba;
+  --chip-bg: #dfeee1;
+  --tooltip-bg: #26382c;
+  --tooltip-text: #f2f8f2;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Source Han Serif SC", "Songti SC", "Noto Serif CJK SC", Georgia, "Times New Roman", serif;
+  line-height: 1.75;
+  font-size: 17px;
+}
+
+/* ---------- 顶部工具栏 ---------- */
+.toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 10px 18px;
+  background: rgba(239, 247, 239, 0.95);
+  backdrop-filter: blur(4px);
+  border-bottom: 1px solid var(--card-border);
+}
+
+.toolbar .home-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 14px;
+}
+.toolbar .home-link:hover { text-decoration: underline; }
+
+.toolbar .spacer { flex: 1; }
+
+.btn {
+  appearance: none;
+  border: 1px solid var(--grammar-border);
+  background: var(--card);
+  color: var(--text);
+  border-radius: 16px;
+  padding: 4px 14px;
+  font-size: 14px;
+  line-height: 1.5;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, color 0.15s;
+}
+.btn:hover { background: var(--accent-soft); }
+.btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* ---------- 页面主体 ---------- */
+main {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 24px 20px 80px;
+}
+
+h1 {
+  font-size: 26px;
+  line-height: 1.4;
+  margin: 10px 0 6px;
+  color: #1f4d2c;
+}
+
+.source-note {
+  font-size: 13.5px;
+  color: #5a6f5e;
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  padding: 10px 14px;
+  margin: 14px 0 26px;
+}
+.source-note p { margin: 4px 0; }
+
+/* ---------- 小节卡片 ---------- */
+.section {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 18px 22px;
+  margin: 22px 0;
+  box-shadow: 0 1px 3px rgba(47, 93, 58, 0.06);
+}
+
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.section-head h2 {
+  font-size: 19px;
+  margin: 0;
+  color: #245633;
+  flex: 1;
+  line-height: 1.5;
+}
+
+.en-toggle {
+  flex-shrink: 0;
+  font-size: 12.5px;
+  border-radius: 12px;
+  padding: 2px 10px;
+}
+
+/* ---------- 对照块 ---------- */
+.block { margin: 14px 0; }
+.block + .block { border-top: 1px dashed #e3efe4; padding-top: 12px; }
+
+.en {
+  color: var(--text-en);
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0 0 6px;
+}
+.en .lbl, .zh .lbl {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: bold;
+  color: #fff;
+  background: #8fb897;
+  border-radius: 4px;
+  padding: 0 5px;
+  margin-right: 8px;
+  vertical-align: 2px;
+  letter-spacing: 0.5px;
+}
+.zh .lbl { background: var(--accent); }
+
+.zh { margin: 0; }
+
+/* 现代英译（BSB）对照行 */
+.bsb {
+  margin: 0 0 6px;
+  padding-left: 6px;
+  border-left: 3px solid #b7d8bd;
+  color: #4c6353;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 15.5px;
+}
+.bsb .lbl {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: bold;
+  color: #fff;
+  background: #6a9e74;
+  border-radius: 4px;
+  padding: 0 5px;
+  margin-right: 8px;
+  vertical-align: 2px;
+  letter-spacing: 0.5px;
+}
+.bsb .ref { color: #6b806f; font-size: 13px; margin-right: 6px; }
+.bsb b { color: #2f7d46; font-weight: bold; font-size: 12px; }
+
+body.hide-bsb .bsb { display: none; }
+
+/* 小节内英文隐藏（原文、现代英译、语法一并隐藏） */
+.section.en-hidden .en,
+.section.en-hidden .bsb,
+.section.en-hidden .grammar { display: none; }
+
+/* ---------- 可查词 ---------- */
+.w {
+  border-bottom: 1px dotted #7fae89;
+  cursor: help;
+}
+.w:hover { background: #e7f4e9; }
+
+/* 未标注词：无视觉标记，悬停走兜底词典 */
+.w2:hover { background: #ebf5ec; }
+
+/* ---------- 悬停词典 tooltip ---------- */
+#dict-tip {
+  position: fixed;
+  z-index: 200;
+  max-width: 320px;
+  background: var(--tooltip-bg);
+  color: var(--tooltip-text);
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-size: 14px;
+  line-height: 1.6;
+  box-shadow: 0 4px 16px rgba(20, 40, 26, 0.35);
+  pointer-events: auto;   /* 允许移入弹窗点击朗读按钮 */
+  display: none;
+}
+#dict-tip .tip-word { font-weight: bold; font-size: 16px; }
+#dict-tip .tip-ipa { color: #a6d9b0; margin-left: 8px; font-family: Georgia, serif; }
+#dict-tip .tip-def { margin-top: 2px; }
+#dict-tip .tip-src {
+  display: inline-block;
+  font-size: 11px;
+  color: #cfe8d4;
+  border: 1px solid #55705d;
+  border-radius: 8px;
+  padding: 0 6px;
+  margin-left: 8px;
+  vertical-align: 2px;
+}
+#dict-tip .tip-link {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 13px;
+  color: #a6d9b0;
+  text-decoration: none;
+}
+#dict-tip .tip-link:hover { text-decoration: underline; }
+
+/* 朗读按钮（弹窗内 / 词汇表内） */
+.tip-speak, .speak {
+  appearance: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 15px;
+  padding: 0 4px;
+  margin-left: 6px;
+  vertical-align: 1px;
+  line-height: 1;
+}
+.tip-speak:hover, .speak:hover { transform: scale(1.2); }
+.speak { font-size: 14px; }
+
+/* ---------- 语法说明 ---------- */
+.grammar { display: none; }
+body.show-grammar .grammar {
+  display: block;
+  background: var(--grammar-bg);
+  border: 1px solid var(--grammar-border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 6px 0 8px;
+  font-size: 14px;
+  color: #33503a;
+}
+
+.grammar .gtag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: bold;
+  color: #fff;
+  background: #6a9e74;
+  border-radius: 4px;
+  padding: 0 5px;
+  margin-right: 6px;
+  letter-spacing: 0.5px;
+}
+
+.gitem { margin: 4px 0; }
+.gitem .gtitle { font-weight: bold; color: #245633; }
+
+/* 首次出现：完整讲解 */
+.gfull .gbody { margin-top: 3px; }
+
+/* 引用注解 chip */
+.gchip {
+  display: inline-block;
+  background: var(--chip-bg);
+  border: 1px solid var(--grammar-border);
+  border-radius: 12px;
+  padding: 1px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+}
+.gchip:hover { background: #cbe6cf; }
+.gchip .arrow { color: var(--accent); font-weight: bold; }
+
+.gexpand {
+  display: none;
+  margin-top: 5px;
+  padding: 6px 10px;
+  border-left: 3px solid var(--grammar-border);
+  background: #f4faf4;
+  border-radius: 0 6px 6px 0;
+}
+.gitem.expanded .gexpand { display: block; }
+
+/* ---------- 词汇表 ---------- */
+table.vocab {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+  background: var(--card);
+}
+table.vocab th, table.vocab td {
+  border: 1px solid var(--card-border);
+  padding: 6px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+table.vocab th { background: var(--accent-soft); color: #245633; }
+table.vocab td.ipa { font-family: Georgia, serif; white-space: nowrap; color: #4a6b52; }
+
+/* ---------- 目录页 ---------- */
+ul.toc { list-style: none; padding: 0; }
+ul.toc li {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  margin: 8px 0;
+  padding: 10px 16px;
+}
+ul.toc li a { color: #245633; text-decoration: none; font-size: 17px; }
+ul.toc li a:hover { text-decoration: underline; }
+ul.toc li .meta { font-size: 13px; color: #6b806f; margin-left: 8px; }
+
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  main { padding: 16px 12px 60px; }
+  .section { padding: 14px 14px; }
+}

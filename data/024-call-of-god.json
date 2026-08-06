@@ -1,0 +1,182 @@
+{
+  "num": "024",
+  "title_en": "CALL OF GOD TO MAN",
+  "title_zh": "神对人的呼召",
+  "html_name": "024-Call-of-God-神的呼召.html",
+  "pages": "原书 p. 46–48",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CALL OF GOD TO MAN. Personal and Urgent; Ever Seeking to win Back to Obedience, Childship, and Heart-Fellowship.",
+          "zh": "神对人的呼召——亲自而恳切；始终寻求把人赢回到顺服、儿女身份与心灵相交之中。",
+          "grammar": [
+            {"id": "headline-style", "note": "标题＋两个形容词与一个分词短语的纲要式说明（呼召是亲自的、恳切的、始终寻求挽回的）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、始于人堕落之时 / Commenced at the Fall",
+      "blocks": [
+        {
+          "en": "God sought Adam. Gen. 3:9. The Lord God called unto the man (Where art thou?). I. 186. God sought Cain, the first-born man and offender. Gen. 4:6, 7. The Lord said to Cain, If thou doest well, shalt thou not be accepted? I. 209.",
+          "zh": "神寻找亚当。创世记 3:9 —— 耶和华神呼唤那人，对他说：『你在哪里？』神寻找该隐——头生的人、也是犯罪的人。创世记 4:6-7 —— 耶和华对该隐说：你若行得好，岂不蒙悦纳？",
+          "bsb": "Genesis 3:9",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Where art thou? / If thou doest well, shalt thou not be accepted?：art = are、doest = do、shalt = shall 的第二人称形式；疑问句直接倒装、不借助 do。"}
+          ]
+        },
+        {
+          "en": "God warns the evil generation of Noah, and announces a period of patient waiting. Gen. 6:3. The Lord said, My Spirit shall not strive with man for ever; yet shall his days be an hundred and twenty years. I. 228-231. The Covenant of God's forbearance announced to Noah. Gen. 9:8-17. The Covenant of Grace made with Abraham. Gen. 15:9, 10; 17:4-7. Gen. 22:16-18. In thy seed shall all the nations of the earth be blessed. Renewed to Isaac, Gen. 26:3, 4; to Jacob, Gen. 28:13, 14.",
+          "zh": "神警告挪亚时代邪恶的世代，并宣告一段忍耐等候的时期。创世记 6:3 —— 耶和华说：人既属乎血气，我的灵就不永远住在他里面（原书直译：我的灵不永远与人相争）；然而他的日子还可到一百二十年。神向挪亚宣告宽容之约（创世记 9:8-17，虹为记号）。与亚伯拉罕立恩典之约（创世记 15:9-10；17:4-7）。22:16-18 —— 地上万国都必因你的后裔得福。此约向以撒重申（26:3-4），向雅各重申（28:13-14）。",
+          "bsb": "Genesis 6:3",
+          "grammar": [
+            {"id": "inversion", "note": "yet shall his days be an hundred and twenty years：yet 前置引起倒装；an hundred 为古拼写（= a hundred）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、藉摩西、约书亚与诗篇智慧书 / Through Moses, Joshua, Psalms and Proverbs",
+      "blocks": [
+        {
+          "en": "Expressed through Moses. Ex. 19:3-5. Deut. 11:26, 27. I set before you a blessing and a curse. II. 658. Deut. 30:15, 19. Choose life. II. 712-715. Through Joshua. Josh. 24:15. Choose you this day whom ye will serve. III. 152-155. Elijah. 1 Kings 18:21. How long halt ye (between two opinions)? If the Lord be God, follow Him. VII. 110.",
+          "zh": "藉摩西表达。出埃及记 19:3-5（你们要在万民中作属我的子民）。申命记 11:26-27 —— 看哪，我今日将祝福与咒诅的话都陈明在你们面前。30:15, 19 —— 所以你要拣选生命。藉约书亚：约书亚记 24:15 —— 今日就可以选择所要事奉的。以利亚：列王纪上 18:21 —— 你们心持两意要到几时呢？若耶和华是神，就当顺从耶和华。",
+          "bsb": "Deuteronomy 30:19",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If the Lord be God：if 从句用 be 原形，虚拟语气。"},
+            {"note": "How long halt ye?：halt 古义『跛行、踌躇』（心持两意），与现代义『停止』不同；ye 主语后置于动词（古体疑问）。"}
+          ]
+        },
+        {
+          "en": "Prov. 8:4, 17. Unto you, O men, I call. Those that seek Me diligently shall find Me. VI. 287, 8. Ps. 27:8. (When Thou saidst, Seek ye My face, my heart said, Thy face, Lord, will I seek.) IV. 207-209. Ps. 95:7, 8. To-day, if ye will hear His voice, harden not your heart. V. 142, 3. Ps. 119:60. I made haste, and delayed not. V. 314.",
+          "zh": "箴言 8:4, 17 —— 众人哪，我呼叫你们……恳切寻求我的，必寻得见。诗篇 27:8 —— 你说：你们当寻求我的面；那时我心向你说：耶和华啊，你的面我正要寻求。95:7-8 —— 惟愿你们今天听他的话，你们不可硬着心。119:60 —— 我急忙遵守你的命令，并不迟延。【OCR 注：原书 \"119:6\" 依引文（I made haste and delayed not）推定为 119:60。】",
+          "bsb": "Psalm 95:7-8",
+          "grammar": [
+            {"id": "vocative-o", "note": "Unto you, O men, I call：呼格＋状语前置（众人哪，我呼叫你们）。"},
+            {"id": "no-do-negation", "note": "harden not your heart = do not harden…：古体否定祈使（不可硬着心）。"},
+            {"id": "inversion", "note": "Thy face, Lord, will I seek：宾语前置引起倒装（你的面我正要寻求）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、藉众先知 / Through the Prophets",
+      "blocks": [
+        {
+          "en": "Isa. 1:18-20. Come now, and let us reason together. VIII. 24. Isa. 28:13. Line upon line. VIII. 139. Isa. 43:26. Let us plead together. VIII. 228. Isa. 45:22. Look unto Me, and be ye saved. VIII. 240. Isa. 55:1-7. Incline your ear, and come unto Me; hear, and your soul shall live. Seek ye the Lord while He may be found. VIII. 298-306.",
+          "zh": "以赛亚书 1:18-20 —— 你们来，我们彼此辩论。耶和华说：你们的罪虽像朱红，必变成雪白。28:13 —— 命上加命，令上加令，律上加律，例上加例。43:26 —— 你要提醒我，你我可以一同辩论。45:22 —— 地极的人都当仰望我，就必得救。55:1-7 —— 你们当侧耳而听，就近我来；听，就必得活……当趁耶和华可寻找的时候寻找他。",
+          "bsb": "Isaiah 1:18",
+          "grammar": [
+            {"id": "let-imperative", "note": "let us reason together / Let us plead together：Let + 第一人称复数祈使（我们来彼此辩论）。"}
+          ]
+        },
+        {
+          "en": "Jer. 7:13, 25. I spake unto you, rising up early and speaking. VIII. 435. Jer. 21:8. I set before you the way of life and the way of death. Ezek. 18:31, 32. Cast away your transgressions; for why will ye die? IX. 85-89. Ezek. 33:10, 11. Turn ye from your evil ways; for why will ye die? IX. 142, 3. Hosea 6:1. Come, and let us return unto the Lord. IX. 352. Joel 2:13. Turn unto Me with all your heart. IX. 395, 6. Amos 5:6. Seek the Lord, and ye shall live. IX. 418. See also Jer. 29:12, 13. Hosea 11:4.",
+          "zh": "耶利米书 7:13, 25 —— 我从早起来警戒你们，我不断地警戒（原书直译：清早起来说话）。21:8 —— 看哪，我将生命的路和死亡的路摆在你们面前。以西结书 18:31-32 —— 你们要将所犯的一切罪过尽行抛弃……何必死亡呢？33:10-11 —— 你们转回，转回吧！离开恶道，何必死亡呢？何西阿书 6:1 —— 来吧，我们归向耶和华。约珥书 2:13 —— 一心归向耶和华你们的神。阿摩司书 5:6 —— 要寻求耶和华，就必存活。另参：耶利米书 29:12-13（你们寻求我，若专心寻求我，就必寻见）；何西阿书 11:4（我用慈绳爱索牵引他们）。",
+          "bsb": "Ezekiel 33:11",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "『rising up early and speaking』的拟人表达：参 008 神格拟人词条的详解——形容神恳切不倦地劝戒。"},
+            {"note": "why will ye die?：will 此处保留『愿意』的实义（你们为何偏要死呢）——古英语 will 的意愿义。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、基督的恳劝与警告 / Christ's Pleadings and Warning Words",
+      "blocks": [
+        {
+          "en": "Matt. 11:28. Come unto Me, and I will give you rest. X. 180. John 7:37. If any man thirst, let him come unto Me, and drink. X. 307. John 6:37. Him that cometh to Me I will in no wise cast out. X. 252. Matt. 6:33. Seek ye first the Kingdom of God, and His righteousness. X. 163. Matt. 6:24. Luke 16:13. Ye cannot serve God and mammon. X. 162, 375. Matt. 12:30. He that is not with Me is against Me. X. 187. John 5:40. Ye will not come unto Me. X. 133.",
+          "zh": "马太福音 11:28 —— 凡劳苦担重担的人，可以到我这里来，我就使你们得安息。约翰福音 7:37 —— 人若渴了，可以到我这里来喝。6:37 —— 到我这里来的，我总不丢弃他。马太福音 6:33 —— 你们要先求他的国和他的义。6:24；路加福音 16:13 —— 你们不能又事奉神，又事奉玛门。马太福音 12:30 —— 不与我相合的，就是敌我的。约翰福音 5:40 —— 然而你们不肯到我这里来得生命。",
+          "bsb": "Matthew 11:28",
+          "grammar": [
+            {"id": "inversion", "note": "Him that cometh to Me I will in no wise cast out：宾语前置强调（到我这里来的，我总不丢弃）；in no wise =【古】决不（= in no way）。"},
+            {"id": "subjunctive-though", "note": "If any man thirst：thirst 用原形，虚拟语气。"},
+            {"id": "him-that-relative", "note": "Him that cometh / He that is not with Me：that 指人的定语从句。"}
+          ]
+        },
+        {
+          "en": "Lament over Jerusalem: Luke 19:41. X. 411. Matt. 23:37. (How often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!) X. 434, 437. Rev. 22:17. The Spirit and the bride say, Come. And let him that heareth say, Come. (The believer's great commission.) And whosoever will, let him take of the water of life freely. XI. 783, 785.",
+          "zh": "为耶路撒冷哀哭：路加福音 19:41（耶稣快到耶路撒冷，看见城，就为它哀哭）。马太福音 23:37 —— 我多次愿意聚集你的儿女，好像母鸡把小鸡聚集在翅膀底下，只是你们不愿意。启示录 22:17 —— 圣灵和新妇都说：『来！』听见的人也该说：『来！』（这是信徒的大使命。）……愿意的，都可以白白取生命的水喝。",
+          "bsb": "Revelation 22:17",
+          "grammar": [
+            {"id": "let-imperative", "note": "let him that heareth say, Come / whosoever will, let him take：Let + 第三人称祈使连用两次。"},
+            {"note": "whosoever will：whosoever（= whoever 的古体）+ will 作实义动词『愿意』（凡愿意的）；ye would not：would 同样保留『愿意』义（你们竟不愿意）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "五、结语：神永远是先爱、先寻找、先呼召的那一位 / God Ever First to Love, to Seek, to Call",
+      "blocks": [
+        {
+          "en": "All these words of direct pleading show that God has ever been first to love (Jer. 31:3. I have loved thee with an everlasting love), first to seek, and first to call to the salvation promised at the Fall, through His own sacrifice. He gives His heart to every sinning child, before He pleads, \"My son, give Me thy heart!\" He expresses His good will to men in the abundance of natural and providential gifts, gratifying every sense and supplying every need. Matt. 5:45. Ps. 145:16.",
+          "zh": "这一切直接恳劝的话表明：神永远是先爱的那一位（耶利米书 31:3 —— 我以永远的爱爱你），先寻找的那一位，也是先呼召人来领受那在堕落之时便已应许、借他自己牺牲而成就之救恩的那一位。在他恳求『我儿，要将你的心归我』之先，他已经把自己的心给了每一个犯罪的儿女。他借着自然与护理之恩的丰盛厚赐——满足每一种感官、供应每一样需要——向人表明他的美意（马太福音 5:45——他叫日头照好人也照歹人；诗篇 145:16——你张手，使有生气的都随愿饱足）。",
+          "bsb": "Jeremiah 31:3",
+          "grammar": [
+            {"note": "first to love … first to seek, and first to call：三重排比（不定式作后置定语）；gratifying every sense and supplying every need：两个现在分词短语作伴随状语。"}
+          ]
+        },
+        {
+          "en": "His very law uttered from Sinai is prefaced upon an assurance of past goodness and mercy, and followed by many pledges (conditioned only on obedience) of all possible mercy and blessing. Thus the Commandments (all instinct with promise) impressively voice His call to men. And the chief central symbol of the Ceremonial Institutes, the Altar for Sacrifice—signifying His approach to man, not man's approach to Him—gives the most signal and sublime emphasis to His Call. II. 362. The altar an Oracle of Grace. And the whole Bible is filled with the spirit of this vital truth and fact. It finds utterance in manifold forms—in History, Psalm and Proverb, Prophecy and Epistle. Examples: Ps. 34:8. Prov. 23:26. 2 Cor. 6:1, 2. XI. 368, 9.",
+          "zh": "连他在西奈山颁布的律法，也以过往恩慈怜悯的申明为前言，又以诸多应许（惟以顺服为条件）的怜悯与赐福为后随。这样，十诫（字字都洋溢着应许）有力地发出他对人的呼召。而礼仪制度的中心表记——献祭的坛——表明的是神向人走近、而非人向神走近，这就给他的呼召以最显著、最崇高的强调（祭坛乃是恩典的神谕所）。整部圣经都充满这一重大真理与事实的精神：它借历史、诗篇、箴言、预言、书信等多种形式发声。例证：诗篇 34:8（你们要尝尝主恩的滋味，便知道他是美善）；箴言 23:26（我儿，要将你的心归我）；哥林多后书 6:1-2（看哪，现在正是悦纳的时候）。【OCR 注：原书 \"1 Cor. 6:1, 2\" 依卷页号与文义推定为 2 Cor. 6:1-2。】",
+          "bsb": "2 Corinthians 6:1-2",
+          "grammar": [
+            {"note": "all instinct with promise：instinct 此处为形容词古义『充满，洋溢』（= filled with），与名词『本能』不同；His approach to man, not man's approach to Him：镜像对仗。"},
+            {"id": "ellipsis", "note": "The altar an Oracle of Grace = The altar is an Oracle…：省略系动词的纲要句。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "pleading": {"ipa": "/ˈpliːdɪŋ/", "def": "n./adj. 恳劝，恳求（plead：恳求；辩诉）【六级】"},
+    "pleadings": {"ipa": "/ˈpliːdɪŋz/", "def": "n. 恳劝之言（plead 的名词复数）"},
+    "urgent": {"ipa": "/ˈɜːdʒənt/", "def": "adj. 恳切的，急切的【四级】"},
+    "forbearance": {"ipa": "/fɔːˈbeərəns/", "def": "n. 宽容，容忍（forbear：忍住）【GRE】"},
+    "strive": {"ipa": "/straɪv/", "def": "v. 相争；努力（My Spirit shall not strive with man：我的灵不永远与人相争）【四级】"},
+    "doest": {"ipa": "/ˈduːɪst/", "def": "= do（与 thou 搭配的 -est 词尾）：（你）行"},
+    "halt": {"ipa": "/hɔːlt/", "def": "v.【古义】跛行，踌躇（halt between two opinions：心持两意）；现代义：停止【四级】"},
+    "diligently": {"ipa": "/ˈdɪlɪdʒəntli/", "def": "adv. 恳切地，殷勤地【六级】"},
+    "saidst": {"ipa": "/sedst/", "def": "= said（与 thou 搭配：Thou saidst = You said）"},
+    "harden": {"ipa": "/ˈhɑːdn/", "def": "v. 使硬（harden not your heart：不可硬着心）【四级】"},
+    "reason": {"ipa": "/ˈriːzn/", "def": "v.【此处义】辩论，理论（let us reason together：我们彼此辩论）；n. 理由【四级】"},
+    "plead": {"ipa": "/pliːd/", "def": "v. 辩诉；恳求【六级】"},
+    "incline": {"ipa": "/ɪnˈklaɪn/", "def": "v. 侧（耳），倾向（incline your ear：侧耳）【六级】"},
+    "mammon": {"ipa": "/ˈmæmən/", "def": "n. 玛门（亚兰语：钱财；事奉玛门＝以财利为主）"},
+    "lament": {"ipa": "/ləˈment/", "def": "n./v. 哀哭，哀悼【六级/GRE】"},
+    "bride": {"ipa": "/braɪd/", "def": "n. 新妇，新娘（启示录中喻教会）【四级】"},
+    "commission": {"ipa": "/kəˈmɪʃn/", "def": "n. 使命，委任（the great commission：大使命）【四级】"},
+    "whosoever": {"ipa": "/ˌhuːsəʊˈevə/", "def": "pron.【古】无论何人（= whoever 的强调形式）"},
+    "heareth": {"ipa": "/ˈhɪərəθ/", "def": "= hears（-eth 古词尾）：听见"},
+    "gathereth": {"ipa": "/ˈɡæðərəθ/", "def": "= gathers（-eth 古词尾）：聚集"},
+    "providential": {"ipa": "/ˌprɒvɪˈdenʃl/", "def": "adj. 护理之恩的；天意的（providence 的形容词）"},
+    "gratifying": {"ipa": "/ˈɡrætɪfaɪɪŋ/", "def": "v. 使满足（gratify）【六级】"},
+    "prefaced": {"ipa": "/ˈprefəst/", "def": "v. 以……为前言（preface：前言；作序）【六级】"},
+    "pledges": {"ipa": "/ˈpledʒɪz/", "def": "n. 保证，质押（pledge）【六级】"},
+    "instinct": {"ipa": "/ɪnˈstɪŋkt/", "def": "adj.【古义，作表语】充满的（instinct with promise：洋溢着应许，注意此用法重音在后）；n. 本能【四级】"},
+    "impressively": {"ipa": "/ɪmˈpresɪvli/", "def": "adv. 有力地，令人印象深刻地"},
+    "institutes": {"ipa": "/ˈɪnstɪtjuːts/", "def": "n.【此处义】制度，法制（Ceremonial Institutes：礼仪制度）；学院【四级】"},
+    "signifying": {"ipa": "/ˈsɪɡnɪfaɪɪŋ/", "def": "v. 表明，意指（signify）【六级】"},
+    "signal": {"ipa": "/ˈsɪɡnəl/", "def": "adj.【此处义】显著的（signal emphasis：显著的强调）；n. 信号【四级】"},
+    "oracle": {"ipa": "/ˈɒrəkl/", "def": "n. 神谕，神谕所【GRE】"},
+    "utterance": {"ipa": "/ˈʌtərəns/", "def": "n. 发声，言语（find utterance：得以发声）【六级】"},
+    "spake": {"ipa": "/speɪk/", "def": "v.【古】speak 的过去式（= spoke）"},
+    "wise": {"ipa": "/waɪz/", "def": "n.【古义】方式（in no wise：决不）；adj. 智慧的【四级】"}
+  },
+  "vocab_table": [
+    {"word": "plead", "ipa": "/pliːd/", "def": "v. 恳求；辩诉（pleading：恳劝）"},
+    {"word": "forbearance", "ipa": "/fɔːˈbeərəns/", "def": "n. 宽容，容忍"},
+    {"word": "halt", "ipa": "/hɔːlt/", "def": "v.【古义】跛行，踌躇；现代义：停止"},
+    {"word": "incline", "ipa": "/ɪnˈklaɪn/", "def": "v. 侧（耳），倾向"},
+    {"word": "lament", "ipa": "/ləˈment/", "def": "n./v. 哀哭，哀悼"},
+    {"word": "commission", "ipa": "/kəˈmɪʃn/", "def": "n. 使命，委任"},
+    {"word": "providential", "ipa": "/ˌprɒvɪˈdenʃl/", "def": "adj. 护理之恩的；天意的"},
+    {"word": "gratify", "ipa": "/ˈɡrætɪfaɪ/", "def": "v. 使满足"},
+    {"word": "pledge", "ipa": "/pledʒ/", "def": "n./v. 保证，质押"},
+    {"word": "oracle", "ipa": "/ˈɒrəkl/", "def": "n. 神谕，神谕所"},
+    {"word": "utterance", "ipa": "/ˈʌtərəns/", "def": "n. 发声，言语"}
+  ]
+}

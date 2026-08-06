@@ -1,0 +1,34 @@
+{
+  "num": "022",
+  "title_en": "BLESSINGS AND CURSES of the Law of Moses",
+  "title_zh": "摩西律法的祝福与咒诅",
+  "html_name": "022-Blessings-Curses-祝福与咒诅.html",
+  "pages": "原书 p. 44",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "BLESSINGS AND CURSES of the Law of Moses. Lev. 26:3-13. Deut. 27:15-26; 28:1-14. II. 678, 682. Also Responsive Threatenings. IX. 440, 472. See Woes; Condemnation.",
+          "zh": "摩西律法的祝福与咒诅。利未记 26:3-13（你们若遵行我的律例……我要赐福）；申命记 27:15-26（以巴路山上十二样咒诅，百姓应声说阿们）；28:1-14（你若留意听从耶和华你神的话……这以下的福必追随你，临到你身上）。另有应答式的警告（Responsive Threatenings）。另参主题词条：祸哉（Woes）；定罪（Condemnation）。【OCR 注：原书 \"Also Re-\" 与 \"sponsive Threatenings\" 为跨栏断词，已重建。】",
+          "bsb": "Deuteronomy 28:1-2",
+          "grammar": [
+            {"note": "Responsive Threatenings：responsive 指申命记 27 章『利未人宣告、百姓齐声应答“阿们”』的应答式仪文；threatening 作名词『警告性的宣告』。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "curses": {"ipa": "/ˈkɜːsɪz/", "def": "n. 咒诅（curse）【四级】"},
+    "responsive": {"ipa": "/rɪˈspɒnsɪv/", "def": "adj. 应答式的，回应的【六级】"},
+    "threatenings": {"ipa": "/ˈθretnɪŋz/", "def": "n. 警告，威吓之言（threaten 的名词用法）"},
+    "woes": {"ipa": "/wəʊz/", "def": "n. 祸哉；灾祸（woe，圣经中『祸哉』的宣告）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "curse", "ipa": "/kɜːs/", "def": "n./v. 咒诅"},
+    {"word": "responsive", "ipa": "/rɪˈspɒnsɪv/", "def": "adj. 应答式的，回应的"},
+    {"word": "woe", "ipa": "/wəʊ/", "def": "n. 祸哉；灾祸"}
+  ]
+}

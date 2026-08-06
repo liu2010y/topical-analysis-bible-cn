@@ -1,0 +1,255 @@
+{
+  "num": "004",
+  "title_en": "AGENCY, DIVINE AND HUMAN",
+  "title_zh": "神人协作（神的作为与人的作为）",
+  "html_name": "004-Agency-神人协作.html",
+  "pages": "原书 p. 16–18",
+  "ocr_note": "本词条原书为左右两栏对观排版（左栏为人的本分，右栏为神的作为），扫描时栏序被打乱（该页 OCR 准确率约 30%），此处按主题重组为成对呈现，并依经文体系修复了若干引用编号（以【OCR 注】标明）。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "AGENCY, DIVINE AND HUMAN, in Providence and Redemption. Divine Willing and Working the Source and Cause. Human Willing and Doing a Condition and Means. Human Agency Demanded. Divine Agency Assures Results.",
+          "zh": "神人协作——在护理与救赎之工中。神的意愿与运行是源头与原因；人的意愿与行动是条件与途径。人的作为是被要求的本分；神的作为保证成果。",
+          "grammar": [
+            {"id": "headline-style", "note": "四个纲要式短句，均无谓语或省略系动词：Divine Willing and Working (is) the Source and Cause…。"},
+            {"id": "gerund-nominal", "note": "Willing / Working / Doing：动名词名词化，指『意愿』『运行』『行动』这些行为本身。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、在护理之工中 / In Providence",
+      "blocks": [
+        {
+          "en": "Gen. 3:19. In the sweat of thy face shalt thou eat bread. — Ps. 104:14. He causeth the grass to grow, and herb for the service of man.",
+          "zh": "【人】创世记 3:19 —— 你必汗流满面才得糊口。 ⇔ 【神】诗篇 104:14 —— 他使草生长，给六畜吃，使菜蔬发长，供给人用。",
+          "bsb": "Genesis 3:19; Psalm 104:14",
+          "grammar": [
+            {"id": "inversion", "note": "In the sweat of thy face shalt thou eat：状语前置引起倒装（= thou shalt eat bread in the sweat of thy face）。"}
+          ]
+        },
+        {
+          "en": "James 5:7. The husbandman waiteth for the fruit. 2 Tim. 2:6. The husbandman that laboreth must be the first to partake of the fruits. — Isa. 55:10. (The rain giveth) seed to the sower.",
+          "zh": "【人】雅各书 5:7 —— 农夫忍耐等候地里宝贵的出产。提摩太后书 2:6 —— 劳力的农夫理当先得粮食。 ⇔ 【神】以赛亚书 55:10 ——（雨雪滋润大地）使撒种的有种，使要吃的有粮。",
+          "bsb": "James 5:7; Isaiah 55:10",
+          "grammar": [
+            {"id": "him-that-relative", "note": "The husbandman that laboreth = the farmer who labors（劳力的农夫）。"}
+          ]
+        },
+        {
+          "en": "2 Thes. 3:10. If any will not work, neither let him eat. — Matt. 6:11. Give us this day our daily bread.",
+          "zh": "【人】帖撒罗尼迦后书 3:10 —— 若有人不肯做工，就不可吃饭。 ⇔ 【神】马太福音 6:11 —— 我们日用的饮食，今日赐给我们。",
+          "bsb": "2 Thessalonians 3:10; Matthew 6:11",
+          "grammar": [
+            {"id": "let-imperative", "note": "neither let him eat：Let + 第三人称的否定祈使（就不可让他吃饭）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、在救赎之工中 / In Redemption",
+      "blocks": [
+        {
+          "en": "Phil. 2:12. Work out your own salvation. — Phil. 2:13. For it is God which worketh in you, both to will and to do.",
+          "zh": "【人】腓立比书 2:12 —— 当恐惧战兢，做成你们得救的工夫。 ⇔ 【神】2:13 —— 因为你们立志行事，都是神在你们心里运行。（本词条的核心对句。）",
+          "bsb": "Philippians 2:12-13",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "worketh = works：运行，动工。"}
+          ]
+        },
+        {
+          "en": "Lev. 19:14. Thou shalt fear thy God. Isa. 1:16. Wash you, make you clean. — Jer. 32:40. I will put My fear in their hearts. 1 John 1:9. (He) will cleanse us from all unrighteousness. Ps. 51:10. Create in me a clean heart, O God.",
+          "zh": "【人】利未记 19:14 —— 要敬畏你的神。以赛亚书 1:16 —— 你们要洗濯、自洁。 ⇔ 【神】耶利米书 32:40 —— 我要将敬畏我的心放在他们心里。约翰一书 1:9 —— 必要……洗净我们一切的不义。诗篇 51:10 —— 神啊，求你为我造清洁的心。【OCR 注：原书 \"Jer. 32:4\" 依文义推定为 32:40。】",
+          "bsb": false,
+          "grammar": [
+            {"note": "Wash you, make you clean：you 作反身宾语的古用法（= wash yourselves, make yourselves clean，你们要洗净自己）。"},
+            {"id": "vocative-o", "note": "O God：呼格，『神啊』。"}
+          ]
+        },
+        {
+          "en": "Ezek. 18:31. Make you a new heart. Eph. 4:23. Be renewed in the spirit of your mind. Eph. 4:22-24. Put off the old man, put on the new. — Ezek. 36:26. A new heart also will I give you. 2 Cor. 4:16. Our inward man is renewed day by day. Col. 3:10. (The new man) is being renewed after the image of Him.",
+          "zh": "【人】以西结书 18:31 —— 自作一个新心。以弗所书 4:23 —— 将你们的心志改换一新。4:22-24 —— 脱去旧人，穿上新人。 ⇔ 【神】以西结书 36:26 —— 我也要赐给你们一个新心。哥林多后书 4:16 —— 内心却一天新似一天。歌罗西书 3:10 —— 这新人在知识上渐渐更新，正如造他主的形像。【OCR 注：原书 \"Ezek. 26:36\" 与 \"Col. 3:16\" 依经文体系推定为 36:26 与 3:10。】",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "A new heart also will I give you：宾语前置引起倒装（= I will also give you a new heart）。"}
+          ]
+        },
+        {
+          "en": "Rom. 6:12. Let not sin reign in your body. Rom. 13:14. Put ye on the Lord Jesus Christ. Rom. 12:2. Be not conformed to this world, but be ye transformed by the renewing of your mind. — Rom. 6:14. Sin shall not have dominion over you. Col. 1:27. Christ in you. Eph. 3:17. (That Christ may) dwell in your hearts. Rom. 8:29. Foreordained to be conformed to the image of His Son.",
+          "zh": "【人】罗马书 6:12 —— 不要容罪在你们必死的身上作王。13:14 —— 总要披戴主耶稣基督。12:2 —— 不要效法这个世界，只要心意更新而变化。 ⇔ 【神】罗马书 6:14 —— 罪必不能作你们的主。歌罗西书 1:27 —— 基督在你们心里成了有荣耀的盼望。以弗所书 3:17 —— 使基督因你们的信，住在你们心里。罗马书 8:29 —— 预先定下效法他儿子的模样。",
+          "bsb": false,
+          "grammar": [
+            {"id": "no-do-negation", "note": "Be not conformed / Let not sin reign：古体否定祈使，不用 do（= Do not be conformed / Do not let sin reign）。"},
+            {"id": "kjv-pronouns", "note": "Put ye on / be ye transformed：祈使句中保留主语 ye（你们），起强调作用。"}
+          ]
+        },
+        {
+          "en": "Prov. 4:23. Keep thy heart with all diligence. 1 Tim. 5:22. Keep thyself pure. Jude 21. Keep yourselves in the love of God. 2 Tim. 1:14. That good thing keep. — Prov. 3:1. Let thine heart keep My commandments. 1 Pet. 1:5. Kept by the power of God through faith. Phil. 4:7. The peace of God shall keep your hearts. Jude 24. Unto Him that is able to keep you. Jer. 31:33. I will write My law in their hearts.",
+          "zh": "【人】箴言 4:23 —— 你要保守你心，胜过保守一切。提摩太前书 5:22 —— 要保守自己清洁。犹大书 21 —— 保守自己常在神的爱中。提摩太后书 1:14 —— 牢牢地守着那善道。 ⇔ 【神】箴言 3:1 —— 你心要谨守我的诫命。彼得前书 1:5 —— 你们这因信蒙神能力保守的人。腓立比书 4:7 —— 神所赐出人意外的平安，必保守你们的心怀意念。犹大书 24 —— 那能保守你们不失脚的。耶利米书 31:33 —— 我要将我的律法放在他们里面，写在他们心上。",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "That good thing keep：宾语前置（= keep that good thing，守住那美善之事／善道）。"},
+            {"id": "him-that-relative", "note": "Him that is able to keep you = Him who is able…（那位能保守你们的）。"}
+          ]
+        },
+        {
+          "en": "Eph. 6:10. Be strong in the Lord, and in the strength of His might. 1 Cor. 16:13. Stand fast, quit you like men, be strong. — Phil. 4:13. I can do all things through Christ which strengtheneth me. 2 Cor. 12:9. My strength is made perfect in weakness.",
+          "zh": "【人】以弗所书 6:10 —— 你们要靠着主，倚赖他的大能大力，作刚强的人。哥林多前书 16:13 —— 要站立得稳……要作大丈夫，要刚强。 ⇔ 【神】腓立比书 4:13 —— 我靠着那加给我力量的，凡事都能做。哥林多后书 12:9 —— 我的能力是在人的软弱上显得完全。",
+          "bsb": "Philippians 4:13",
+          "grammar": [
+            {"note": "quit you like men：quit + 反身宾语的古用法（= acquit yourselves like men，表现得像大丈夫）；which strengtheneth me 中 which 指人（基督），为古用法（= who strengthens me）。"}
+          ]
+        },
+        {
+          "en": "Ps. 119:32. I will run the way of Thy commandments, when Thou shalt enlarge my heart. Phil. 3:12. I press on, that I may apprehend that for which also I was apprehended by Christ Jesus. 2 Cor. 6:1. Working together with Him. — Col. 1:29. (His working) which worketh in me mightily. 1 Thes. 2:13. (The word of God) effectually worketh in you that believe.",
+          "zh": "【人】诗篇 119:32 —— 你开广我心的时候，我就往你命令的道上直奔。腓立比书 3:12 —— 我乃是竭力追求，或者可以得着基督耶稣所以得着我的。哥林多后书 6:1 —— 我们与神同工。 ⇔ 【神】歌罗西书 1:29 —— 照着他在我里面运用的大能尽心竭力。帖撒罗尼迦前书 2:13 —— （神的道）运行在你们信主的人心中。【OCR 注：原书 \"Col. 1:2\" 依文义推定为 1:29。】",
+          "bsb": "Psalm 119:32",
+          "grammar": [
+            {"id": "prep-relative", "note": "that for which also I was apprehended：介词 for 前置于关系代词 which——『那个我为之被（基督）得着的目标』。同一节里 apprehend 出现两次：我要『得着』那目标，正如我曾被基督『得着』。"}
+          ]
+        },
+        {
+          "en": "2 Pet. 1:10. Give diligence to make your calling and election sure. 1 Pet. 1:22. Ye have purified your souls in obeying the truth. Rom. 8:13. If ye mortify the deeds of the body, ye shall live. Matt. 5:48. Be ye perfect, even as your Father in heaven is perfect. — 2 Thes. 2:13. God chose you to salvation, through sanctification of the Spirit and belief of the truth.",
+          "zh": "【人】彼得后书 1:10 —— 应当更加殷勤，使你们所蒙的恩召和拣选坚定不移。彼得前书 1:22 —— 你们既因顺从真理洁净了自己的心。罗马书 8:13 —— 若靠着圣灵治死身体的恶行，必要活着。马太福音 5:48 —— 所以你们要完全，像你们的天父完全一样。 ⇔ 【神】帖撒罗尼迦后书 2:13 —— 神从起初拣选了你们，叫你们因信真道，又被圣灵感动成为圣洁，能以得救。【OCR 注：原书 \"1 Pet. 1:23\" 依引文推定为 1:22。】",
+          "bsb": "2 Peter 1:10",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "even as your Father … is perfect：as 引导比较从句，『像你们的天父那样完全』。"}
+          ]
+        },
+        {
+          "en": "Luke 13:24. Strive to enter in by the narrow door. Matt. 11:28. Come unto Me. John 5:40. (Ye will not come to Me.) John 15:4. Abide in Me, and I in you. Isa. 27:5. Let him lay hold of My strength. Isa. 1:19. If ye be willing and obedient. Isa. 55:6, 7. Let the wicked return unto the Lord. Heb. 2:3. How shall we escape, if we neglect so great salvation?",
+          "zh": "【呼召与警告】路加福音 13:24 —— 你们要努力进窄门。马太福音 11:28 —— 凡劳苦担重担的人，可以到我这里来。约翰福音 5:40 —— 然而你们不肯到我这里来得生命。15:4 —— 你们要常在我里面，我也常在你们里面。以赛亚书 27:5 —— 让他持住我的能力，使他与我和好。1:19 —— 你们若甘心听从。55:6-7 —— 恶人当离弃自己的道路……归向耶和华。希伯来书 2:3 —— 我们若忽略这么大的救恩，怎能逃罪呢？【OCR 注：原书 \"Luke 13:23\" 依引文推定为 13:24。】",
+          "bsb": "Hebrews 2:3",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If ye be willing：if 从句中 be 用原形，虚拟语气。"},
+            {"id": "ellipsis", "note": "Abide in Me, and I in you = and I will abide in you：后半句省略谓语。"},
+            {"id": "the-adjective", "note": "the wicked：恶人。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、奥古斯丁的祷告与陶匠的比喻 / Augustine; The Potter and the Clay",
+      "blocks": [
+        {
+          "en": "\"Demand what Thou wilt, only give what Thou demandest.\" — Augustine.",
+          "zh": "「你要求什么都可以，只求你把你所要求的赐给我。」——奥古斯丁（Augustine）。",
+          "bsb": false,
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Thou wilt / Thou demandest：wilt = will，-est 为与 thou 搭配的动词词尾。"}
+          ]
+        },
+        {
+          "en": "The Potter and the clay. Jer. 18:1-10. Divine side, vs. 1-6: God Sovereign in National and Individual life. VIII. 488. Also Job 10:9. Isa. 64:8. Rom. 9:20, 21. Human side, vs. 7-10: Influenced by man. VIII. 489-492. Intervolution of Divine and human plans illustrated: VII. 61, 62, 151-154, 211-214.",
+          "zh": "陶匠与泥土的比喻（耶利米书 18:1-10）。神的一面（1-6 节）：神在民族与个人的生命中掌主权；另参约伯记 10:9；以赛亚书 64:8；罗马书 9:20-21。人的一面（7-10 节）：神宣告的对待随人的回转而改变。神人两方计划的交织互动，参《圣经工作》相关卷页。【OCR 注：原书 \"Rom. 9:10\" 依陶匠主题推定为 9:20-21。】",
+          "bsb": "Jeremiah 18:6"
+        }
+      ]
+    },
+    {
+      "heading": "四、论述摘录 / Extracts",
+      "blocks": [
+        {
+          "en": "[If the gospel be accepted, it must be by a process in which the will has a part, and to which the soul gives determinant force. It is true that the gospel offers to man reasonable grounds for decision, but it never crushes out his individuality. The prodigal remembers his Father's house, and is melted. The sinner looks to Him that \"first loved him,\" but is neither captured by force nor imprisoned with violence. If he be saved, it will be by the exercise of that which is most distinctive of him as a man and an individual—the use of God's noblest gift to the spirit, the free human Will. — Interior.]",
+          "zh": "【摘录】福音若被接受，必是经由一个过程：人的意志在其中有份，心灵为其注入决定性的力量。福音固然向人提供合理的抉择根据，却从不碾碎人的个体性。浪子想起父家，心就融化；罪人仰望那『先爱他』的主，却既非被强力掳获，也非被暴力囚禁。人若得救，必是借着运用他作为人、作为个体最独特的禀赋——神赐给人灵最尊贵的礼物：自由的人类意志。——《Interior》杂志",
+          "bsb": false,
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If the gospel be accepted / If he be saved：if 从句用 be 原形，古典虚拟语气。"},
+            {"id": "prep-relative", "note": "a process in which the will has a part, and to which the soul gives determinant force：两个介词前置的关系从句并列修饰 process。"},
+            {"id": "apposition", "note": "the use of God's noblest gift to the spirit, the free human Will：the free human Will 是 gift 的同位语。"}
+          ]
+        },
+        {
+          "en": "[When treating of the divine efficiency in redemption and of the divine origination of it, Paul speaks freely and unreservedly from the standpoint of God's good pleasure in the choice of men to salvation; when speaking of the human conditions of its appropriation, he speaks as unreservedly from that point of view, laying full, strong emphasis upon the capacity of men to receive or reject the offered grace, and upon their responsibility for their choice. … When the aim is to humble human pride and pretension before the sovereign might of God, he overleaps all human conditions, and without definition or qualification asserts the divine absoluteness, as though God dealt with men as the potter deals with passive clay. But when the aim is to silence human excuses for neglect and disobedience, he brings into full prominence the free wrong choices and conduct of men as the reason for God's rejection and condemnation. These two truths Paul asserts with equal energy and plainness. He adds no word of comment upon their relation to each other. He betrays no consciousness of any conflict or contradiction between them. — G. B. Stevens.]",
+          "zh": "【摘录】保罗论到救赎中神的效力、救赎出于神的发起时，全然站在神乐意拣选人得救恩的立场上，畅所欲言、毫无保留；而论到人领受救恩的条件时，他同样毫无保留地站在另一立场，全力强调人有接受或拒绝所赐恩典的能力，以及人对自己抉择所负的责任。……当目的是要使人的骄傲与僭妄在神主权的大能面前降卑时，他越过一切属人的条件，不加界定、不设限制地宣告神的绝对性，仿佛神对待人就像陶匠对待无生命的泥土；但当目的是要堵住人为疏忽悖逆所找的借口时，他又把人自由做出的错误选择与行为摆在最显眼处，作为神弃绝定罪的理由。这两个真理，保罗以同等的力度和明晰来宣讲；对两者之间的关系，他不置一词；在他身上也看不出丝毫察觉二者冲突矛盾的意识。——G. B. 史蒂文斯（G. B. Stevens）",
+          "bsb": false,
+          "grammar": [
+            {"note": "When treating of… / when speaking of…：现在分词短语作时间状语，逻辑主语为句子主语 Paul（当他论到……时）。laying full, strong emphasis upon…：分词短语作伴随状语。"},
+            {"id": "subjunctive-though", "note": "as though God dealt with men…：as though + 过去式表虚拟（仿佛神真是这样待人——实际并非全貌）。"},
+            {"id": "inversion", "note": "These two truths Paul asserts…：宾语前置（= Paul asserts these two truths…），此处前置但不倒装，用于强调与承接。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "agency": {"ipa": "/ˈeɪdʒənsi/", "def": "n. 作为，作用；能动性（本词条指神与人各自的作为）【四级】"},
+    "sovereign": {"ipa": "/ˈsɒvrɪn/", "def": "adj. 有主权的，至高的；n. 君主【六级/考研】"},
+    "husbandman": {"ipa": "/ˈhʌzbəndmən/", "def": "n.【古】农夫（= farmer，与 husband『丈夫』同源但义异）"},
+    "laboreth": {"ipa": "/ˈleɪbərəθ/", "def": "= labors（-eth 古词尾）：劳力，劳作"},
+    "partake": {"ipa": "/pɑːˈteɪk/", "def": "v. 分享，同享（partake of：分享）【六级】"},
+    "sower": {"ipa": "/ˈsəʊə/", "def": "n. 撒种的人（sow /səʊ/：撒种）"},
+    "causeth": {"ipa": "/ˈkɔːzəθ/", "def": "= causes（-eth 古词尾）：使，令"},
+    "worketh": {"ipa": "/ˈwɜːkəθ/", "def": "= works（-eth 古词尾）：运行，动工"},
+    "waiteth": {"ipa": "/ˈweɪtəθ/", "def": "= waits（-eth 古词尾）：等候"},
+    "strengtheneth": {"ipa": "/ˈstreŋθnəθ/", "def": "= strengthens（-eth 古词尾）：加力量给"},
+    "demandest": {"ipa": "/dɪˈmɑːndɪst/", "def": "= demand（与 thou 搭配的 -est 词尾）：（你）要求"},
+    "unrighteousness": {"ipa": "/ʌnˈraɪtʃəsnəs/", "def": "n. 不义"},
+    "dominion": {"ipa": "/dəˈmɪniən/", "def": "n. 辖制，统治权【六级/GRE】"},
+    "conformed": {"ipa": "/kənˈfɔːmd/", "def": "v. 效法，顺应（conform to：与……一致）【四级】"},
+    "transformed": {"ipa": "/trænsˈfɔːmd/", "def": "v. 改变，变化（transform）【四级】"},
+    "renewing": {"ipa": "/rɪˈnjuːɪŋ/", "def": "n. 更新（renew：更新，恢复）【四级】"},
+    "foreordained": {"ipa": "/ˌfɔːrɔːˈdeɪnd/", "def": "v. 预先定下（foreordain = 预定，fore- 表『预先』＋ ordain 命定）"},
+    "mortify": {"ipa": "/ˈmɔːtɪfaɪ/", "def": "v. 治死（圣经用语）；使羞愧【GRE】"},
+    "diligence": {"ipa": "/ˈdɪlɪdʒəns/", "def": "n. 殷勤，勤奋【六级/考研】"},
+    "election": {"ipa": "/ɪˈlekʃn/", "def": "n.（神学）拣选；选举【四级】"},
+    "apprehend": {"ipa": "/ˌæprɪˈhend/", "def": "v. 得着，抓住；领悟；逮捕【六级/GRE】"},
+    "apprehended": {"ipa": "/ˌæprɪˈhendɪd/", "def": "v. 被得着，被抓住（apprehend 的过去分词）"},
+    "effectually": {"ipa": "/ɪˈfektʃuəli/", "def": "adv. 有效地，起功效地"},
+    "sanctification": {"ipa": "/ˌsæŋktɪfɪˈkeɪʃn/", "def": "n. 成圣，成为圣洁（sanctify：使成圣）"},
+    "abide": {"ipa": "/əˈbaɪd/", "def": "v. 常在，住在；持守（abide in Me：常在我里面）【六级/GRE】"},
+    "strive": {"ipa": "/straɪv/", "def": "v. 努力，竭力（strove, striven）【四级】"},
+    "neglect": {"ipa": "/nɪˈɡlekt/", "def": "v./n. 忽略，忽视【四级】"},
+    "obedient": {"ipa": "/əˈbiːdiənt/", "def": "adj. 听从的，顺服的【四级】"},
+    "prodigal": {"ipa": "/ˈprɒdɪɡl/", "def": "adj./n. 挥霍的；浪子（the prodigal：浪子，指路加福音十五章的比喻）【GRE】"},
+    "determinant": {"ipa": "/dɪˈtɜːmɪnənt/", "def": "adj./n. 决定性的；决定因素"},
+    "individuality": {"ipa": "/ˌɪndɪˌvɪdʒuˈæləti/", "def": "n. 个体性，个性【六级】"},
+    "imprisoned": {"ipa": "/ɪmˈprɪznd/", "def": "v. 被囚禁（imprison）【六级】"},
+    "distinctive": {"ipa": "/dɪˈstɪŋktɪv/", "def": "adj. 独特的，与众不同的【四级】"},
+    "efficiency": {"ipa": "/ɪˈfɪʃnsi/", "def": "n. 效力，效能【四级】"},
+    "origination": {"ipa": "/əˌrɪdʒɪˈneɪʃn/", "def": "n. 发起，起源（originate：起源于）"},
+    "unreservedly": {"ipa": "/ˌʌnrɪˈzɜːvɪdli/", "def": "adv. 毫无保留地"},
+    "standpoint": {"ipa": "/ˈstændpɔɪnt/", "def": "n. 立场，观点【六级】"},
+    "appropriation": {"ipa": "/əˌprəʊpriˈeɪʃn/", "def": "n. 领受，据为己有；拨款（此处指人对救恩的领受）【GRE】"},
+    "capacity": {"ipa": "/kəˈpæsəti/", "def": "n. 能力，容量【四级】"},
+    "pretension": {"ipa": "/prɪˈtenʃn/", "def": "n. 僭妄，自命不凡【GRE】"},
+    "overleaps": {"ipa": "/ˌəʊvəˈliːps/", "def": "v. 跃过，越过（overleap 的第三人称单数）"},
+    "qualification": {"ipa": "/ˌkwɒlɪfɪˈkeɪʃn/", "def": "n. 限制条件；资格（此处指『限定语』）【四级】"},
+    "absoluteness": {"ipa": "/ˈæbsəluːtnəs/", "def": "n. 绝对性（absolute 的名词）"},
+    "potter": {"ipa": "/ˈpɒtə/", "def": "n. 陶匠，制陶者【四级】"},
+    "clay": {"ipa": "/kleɪ/", "def": "n. 泥土，黏土【四级】"},
+    "prominence": {"ipa": "/ˈprɒmɪnəns/", "def": "n. 显眼，突出（bring into prominence：使凸显）【六级/GRE】"},
+    "disobedience": {"ipa": "/ˌdɪsəˈbiːdiəns/", "def": "n. 悖逆，不顺从"},
+    "plainness": {"ipa": "/ˈpleɪnnəs/", "def": "n. 明晰，直白（plain 的名词）"},
+    "betrays": {"ipa": "/bɪˈtreɪz/", "def": "v. 流露出；背叛（betray no consciousness：毫不流露……的意识）【四级】"},
+    "consciousness": {"ipa": "/ˈkɒnʃəsnəs/", "def": "n. 意识，觉察【四级】"},
+    "contradiction": {"ipa": "/ˌkɒntrəˈdɪkʃn/", "def": "n. 矛盾，抵触【四级】"},
+    "intervolution": {"ipa": "/ˌɪntəvəˈluːʃn/", "def": "n. 交织，相互缠绕（罕用词，inter- 相互 + volution 卷绕）"},
+    "mightily": {"ipa": "/ˈmaɪtɪli/", "def": "adv. 大有能力地，强有力地（might：大能）"}
+  },
+  "vocab_table": [
+    {"word": "agency", "ipa": "/ˈeɪdʒənsi/", "def": "n. 作为，作用；能动性"},
+    {"word": "sovereign", "ipa": "/ˈsɒvrɪn/", "def": "adj. 有主权的，至高的"},
+    {"word": "husbandman", "ipa": "/ˈhʌzbəndmən/", "def": "n.【古】农夫（= farmer）"},
+    {"word": "partake", "ipa": "/pɑːˈteɪk/", "def": "v. 分享，同享"},
+    {"word": "dominion", "ipa": "/dəˈmɪniən/", "def": "n. 辖制，统治权"},
+    {"word": "conform", "ipa": "/kənˈfɔːm/", "def": "v. 效法，顺应"},
+    {"word": "transform", "ipa": "/trænsˈfɔːm/", "def": "v. 改变，变化"},
+    {"word": "foreordain", "ipa": "/ˌfɔːrɔːˈdeɪn/", "def": "v. 预先定下，预定"},
+    {"word": "mortify", "ipa": "/ˈmɔːtɪfaɪ/", "def": "v. 治死（圣经用语）；使羞愧"},
+    {"word": "diligence", "ipa": "/ˈdɪlɪdʒəns/", "def": "n. 殷勤，勤奋"},
+    {"word": "election", "ipa": "/ɪˈlekʃn/", "def": "n.（神学）拣选；选举"},
+    {"word": "apprehend", "ipa": "/ˌæprɪˈhend/", "def": "v. 得着，抓住；领悟；逮捕"},
+    {"word": "sanctification", "ipa": "/ˌsæŋktɪfɪˈkeɪʃn/", "def": "n. 成圣，成为圣洁"},
+    {"word": "abide", "ipa": "/əˈbaɪd/", "def": "v. 常在，住在；持守"},
+    {"word": "strive", "ipa": "/straɪv/", "def": "v. 努力，竭力"},
+    {"word": "prodigal", "ipa": "/ˈprɒdɪɡl/", "def": "adj./n. 挥霍的；浪子"},
+    {"word": "individuality", "ipa": "/ˌɪndɪˌvɪdʒuˈæləti/", "def": "n. 个体性，个性"},
+    {"word": "capacity", "ipa": "/kəˈpæsəti/", "def": "n. 能力，容量"},
+    {"word": "pretension", "ipa": "/prɪˈtenʃn/", "def": "n. 僭妄，自命不凡"},
+    {"word": "prominence", "ipa": "/ˈprɒmɪnəns/", "def": "n. 显眼，突出"},
+    {"word": "contradiction", "ipa": "/ˌkɒntrəˈdɪkʃn/", "def": "n. 矛盾，抵触"}
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "num": "005",
+  "title_en": "ALTAR, FOR SACRIFICE",
+  "title_zh": "祭坛（献祭之坛）",
+  "html_name": "005-Altar-祭坛.html",
+  "pages": "原书 p. 18",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ALTAR, FOR SACRIFICE.",
+          "zh": "祭坛——献祭之用。",
+          "grammar": [
+            {"id": "headline-style", "note": "词条标题：中心名词 ALTAR ＋ 逗号后接介词短语限定用途（献祭用的坛）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "First Altar, and first mention of the Burnt-Offering: Noah. Gen. 8:20. I. 250.",
+          "zh": "第一座祭坛与燔祭的首次记载：挪亚（创世记 8:20 —— 挪亚为耶和华筑了一座坛，……献在坛上为燔祭）。",
+          "bsb": "Genesis 8:20"
+        },
+        {
+          "en": "Others of special significance: Abraham, Gen. 12:7, 8; 13:18; 22:9. Jacob, Gen. 35:1. Moses (Tabernacle), Ex. 17:15; 20:24. II. 312, 3. Solomon (Temple), 2 Chron. 4:1. III. 544.",
+          "zh": "其他具有特殊意义的祭坛：亚伯拉罕（创世记 12:7-8；13:18；22:9——摩利亚山上献以撒之坛）；雅各（创世记 35:1——伯特利之坛）；摩西与会幕（出埃及记 17:15——耶和华尼西之坛；20:24——筑坛的条例）；所罗门与圣殿（历代志下 4:1——铜坛）。【OCR 注：原书 \"9:18\" 与 \"20:34\" 依经文体系推定为 13:18 与 20:24。】",
+          "bsb": false
+        },
+        {
+          "en": "See Sacrifice.",
+          "zh": "另参主题词条：献祭（Sacrifice）。"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "altar": {"ipa": "/ˈɔːltə/", "def": "n. 祭坛（注意与 alter『改变』同音异义）【六级】"},
+    "sacrifice": {"ipa": "/ˈsækrɪfaɪs/", "def": "n./v. 祭，祭物；献祭；牺牲【四级】"},
+    "burnt-offering": {"ipa": "/ˈbɜːnt ˌɒfərɪŋ/", "def": "n. 燔祭（全烧在坛上的祭，burnt = burn 的过去分词）"},
+    "significance": {"ipa": "/sɪɡˈnɪfɪkəns/", "def": "n. 意义，重要性【四级】"},
+    "tabernacle": {"ipa": "/ˈtæbənækl/", "def": "n. 会幕（旷野时期的移动圣所）"},
+    "temple": {"ipa": "/ˈtempl/", "def": "n. 圣殿；庙宇【四级】"}
+  },
+  "vocab_table": [
+    {"word": "altar", "ipa": "/ˈɔːltə/", "def": "n. 祭坛（注意与 alter『改变』同音异义）"},
+    {"word": "sacrifice", "ipa": "/ˈsækrɪfaɪs/", "def": "n./v. 祭，祭物；献祭；牺牲"},
+    {"word": "burnt-offering", "ipa": "/ˈbɜːnt ˌɒfərɪŋ/", "def": "n. 燔祭（全烧在坛上的祭）"},
+    {"word": "significance", "ipa": "/sɪɡˈnɪfɪkəns/", "def": "n. 意义，重要性"},
+    {"word": "tabernacle", "ipa": "/ˈtæbənækl/", "def": "n. 会幕（旷野时期的移动圣所）"}
+  ]
+}

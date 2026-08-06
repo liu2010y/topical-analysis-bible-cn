@@ -1,0 +1,43 @@
+{
+  "num": "026",
+  "title_en": "CAPTIVITY, of Israel and Judah",
+  "title_zh": "被掳（以色列与犹大）",
+  "html_name": "026-Captivity-被掳.html",
+  "pages": "原书 p. 48",
+  "ocr_note": "本词条为原书的索引式短词条（正文详解在《圣经工作》第七卷），并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CAPTIVITY, of Israel and Judah. Prediction: Jer. 25:11, 12. (This whole land shall be a desolation … and these nations shall serve the king of Babylon seventy years.) VIII. 521. Jer. 29:10; 30:3-11. VIII. 532.",
+          "zh": "被掳——以色列与犹大。预言：耶利米书 25:11-12 —— 这全地必然荒凉……这些国民要服事巴比伦王七十年。29:10 —— 为巴比伦所定的七十年满了以后，我要眷顾你们，向你们成就我的恩言，使你们仍回此地。30:3-11（我也要使我的百姓被掳的人归回）。",
+          "bsb": "Jeremiah 29:10",
+          "grammar": [
+            {"id": "shall-archaic", "note": "shall be a desolation / shall serve … seventy years：shall 表预言中命定的必然。"}
+          ]
+        },
+        {
+          "en": "Israel. VII. 254-256. The Ten Tribes not Lost. VII. 261-264. Judah. VII. 452-455. Period of Captivity, Condition of Exiles, and Effects of Captivity. VII. 465-474.",
+          "zh": "以色列（北国）被掳；『十支派并未失落』（原书专节论证）；犹大（南国）被掳；被掳的时期、被掳之民的境况、被掳的果效（详见《圣经工作》第七卷相关各节）。",
+          "bsb": false,
+          "grammar": [
+            {"id": "ellipsis", "note": "The Ten Tribes (were) not Lost：纲要式标题省略系动词——针对『失落的十支派』传说，原书立场是十支派并未失落。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "captivity": {"ipa": "/kæpˈtɪvəti/", "def": "n. 被掳，掳掠期（the Captivity：以色列/犹大被掳巴比伦）【六级】"},
+    "prediction": {"ipa": "/prɪˈdɪkʃn/", "def": "n. 预言，预告【四级】"},
+    "desolation": {"ipa": "/ˌdesəˈleɪʃn/", "def": "n. 荒凉【GRE】"},
+    "tribes": {"ipa": "/traɪbz/", "def": "n. 支派，部族（tribe）【四级】"},
+    "exiles": {"ipa": "/ˈeksaɪlz/", "def": "n. 被掳之民，流亡者（exile）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "captivity", "ipa": "/kæpˈtɪvəti/", "def": "n. 被掳，掳掠期"},
+    {"word": "exile", "ipa": "/ˈeksaɪl/", "def": "n. 流亡（者），被掳"},
+    {"word": "tribe", "ipa": "/traɪb/", "def": "n. 支派，部族"}
+  ]
+}

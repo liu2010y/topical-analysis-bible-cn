@@ -1,0 +1,69 @@
+{
+  "num": "014",
+  "title_en": "BACKSLIDERS, BACKSLIDINGS",
+  "title_zh": "退后背道的人；背道",
+  "html_name": "014-Backsliders-背道.html",
+  "pages": "原书 p. 33",
+  "ocr_note": "本词条为原书的索引式短词条，仅经文清单与劝责经文两组，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "BACKSLIDERS, BACKSLIDINGS.",
+          "zh": "退后背道的人；背道（复数：屡次的背道）。"
+        }
+      ]
+    },
+    {
+      "heading": "一、背道者的光景与神的医治 / The Backslider and God's Healing",
+      "blocks": [
+        {
+          "en": "Prov. 14:14. The backslider in heart shall be filled with his own ways. VI. 323.",
+          "zh": "箴言 14:14 —— 心中背道的，必满得自己的结果。",
+          "bsb": "Proverbs 14:14"
+        },
+        {
+          "en": "Jer. 2:19. VIII. 405. Jer. 3:22; 4:3. VIII. 415, 6. Jer. 14:7. VIII. 464.",
+          "zh": "另参：耶利米书 2:19（你自己的恶必惩治你，你背道的事必责备你）；3:22（你们这背道的儿女啊，回来吧！我要医治你们背道的病）；4:3；14:7（我们的罪孽……我们本是多次背道，得罪了你）。",
+          "bsb": "Jeremiah 3:22"
+        },
+        {
+          "en": "Hosea 14:4. I will heal their backsliding; I will love them freely. IX. 378, 9.",
+          "zh": "何西阿书 14:4 —— 我必医治他们背道的病，甘心爱他们。",
+          "bsb": "Hosea 14:4"
+        }
+      ]
+    },
+    {
+      "heading": "二、责备与劝勉之言 / Words of Rebuke and Counsel",
+      "blocks": [
+        {
+          "en": "Rev. 2:5, 14-16, 20; 3:1, 2, 15-18.",
+          "zh": "启示录 2:5（回想你是从哪里坠落的，并要悔改，行起初所行的事）；2:14-16, 20；3:1-2（按名你是活的，其实是死的……要警醒）；3:15-18（你既如温水，也不冷也不热……）。",
+          "bsb": "Revelation 2:5"
+        },
+        {
+          "en": "Jer. 4:3. Break up your fallow ground. VIII. 416. Hosea 10:12. IX. 365.",
+          "zh": "耶利米书 4:3 —— 要开垦你们的荒地，不要撒种在荆棘中。何西阿书 10:12 —— 开垦你们的荒地，因为现今正是寻求耶和华的时候。【OCR 注：原书 \"Rosea\" 为 Hosea 之误。】",
+          "bsb": "Jeremiah 4:3"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "backslider": {"ipa": "/ˈbækslaɪdə/", "def": "n. 背道者，退后跌倒的人（backslide：倒退，背道）"},
+    "backsliding": {"ipa": "/ˈbækslaɪdɪŋ/", "def": "n. 背道，退后（复数 backslidings：屡次的背道）"},
+    "rebuke": {"ipa": "/rɪˈbjuːk/", "def": "n./v. 责备，斥责【六级/GRE】"},
+    "counsel": {"ipa": "/ˈkaʊnsl/", "def": "n. 劝勉，忠告；v. 劝导【六级】"},
+    "fallow": {"ipa": "/ˈfæləʊ/", "def": "adj. 休耕的，荒着的（fallow ground：荒地）【GRE】"},
+    "freely": {"ipa": "/ˈfriːli/", "def": "adv. 甘心地，白白地【四级】"},
+    "healing": {"ipa": "/ˈhiːlɪŋ/", "def": "n. 医治（heal：医治）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "backslider", "ipa": "/ˈbækslaɪdə/", "def": "n. 背道者，退后跌倒的人"},
+    {"word": "rebuke", "ipa": "/rɪˈbjuːk/", "def": "n./v. 责备，斥责"},
+    {"word": "counsel", "ipa": "/ˈkaʊnsl/", "def": "n. 劝勉，忠告；v. 劝导"},
+    {"word": "fallow", "ipa": "/ˈfæləʊ/", "def": "adj. 休耕的，荒着的（fallow ground：荒地）"}
+  ]
+}

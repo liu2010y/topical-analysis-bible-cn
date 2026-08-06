@@ -1,0 +1,66 @@
+{
+  "num": "010",
+  "title_en": "APOSTLESHIP. APOSTLES",
+  "title_zh": "使徒职分；使徒",
+  "html_name": "010-Apostleship-使徒职分.html",
+  "pages": "原书 p. 21",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "APOSTLESHIP. APOSTLES.",
+          "zh": "使徒职分；使徒。",
+          "grammar": [
+            {"id": "headline-style", "note": "词条标题：抽象名词（职分）与具体名词（使徒）并列。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、使徒的条件 / Conditions of Apostleship",
+      "blocks": [
+        {
+          "en": "Seeing Jesus Christ. Witnesses by His personal call and intercourse. 1 Cor. 9:1. Acts 1:21-26. Acts 9:4-6. Gal. 2:8.",
+          "zh": "亲眼见过耶稣基督；借着祂亲自的呼召与交往而作见证人。哥林多前书 9:1（我不是使徒吗？我不是见过我们的主耶稣吗？）；使徒行传 1:21-26（补选使徒的资格：从约翰施洗起……常与我们作伴的人）；9:4-6（保罗在大马士革路上遇见主）；加拉太书 2:8。",
+          "bsb": "1 Corinthians 9:1",
+          "grammar": [
+            {"note": "Seeing Jesus Christ：动名词短语作纲要式小标题（条件一：见过耶稣基督）。intercourse 在 19 世纪英语中指『交往，往来』，与现代常见义不同。"}
+          ]
+        },
+        {
+          "en": "Signs and Wonders Wrought. Acts 5:12. 2 Cor. 12:12.",
+          "zh": "行过神迹奇事。使徒行传 5:12（主藉使徒的手在民间行了许多神迹奇事）；哥林多后书 12:12（我在你们中间……藉着神迹、奇事、异能显出使徒的凭据来）。",
+          "bsb": "2 Corinthians 12:12",
+          "grammar": [
+            {"note": "Signs and Wonders Wrought = signs and wonders (that were) wrought：过去分词后置作定语；wrought 是 work 的古过去式/过去分词（= worked，行出的）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、基督所立的使徒 / Apostles of Christ's Appointment",
+      "blocks": [
+        {
+          "en": "The Twelve: Matt. 10:2-4. Matthias: Acts 1:21-26. Paul: Acts 9:4-6.",
+          "zh": "十二使徒（马太福音 10:2-4）；马提亚（使徒行传 1:21-26，替补犹大）；保罗（使徒行传 9:4-6）。【OCR 注：原文 \"MatARCHEOLOGY / thias\" 为跨栏断词，重建为 Matthias。】",
+          "bsb": false
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "apostleship": {"ipa": "/əˈpɒslʃɪp/", "def": "n. 使徒职分（apostle + -ship 表身份职分）"},
+    "intercourse": {"ipa": "/ˈɪntəkɔːs/", "def": "n.【19世纪用法】交往，往来（= dealings, communication）【六级】"},
+    "witnesses": {"ipa": "/ˈwɪtnəsɪz/", "def": "n. 见证人（witness 的复数）【四级】"},
+    "wonders": {"ipa": "/ˈwʌndəz/", "def": "n. 奇事（signs and wonders：神迹奇事）【四级】"},
+    "wrought": {"ipa": "/rɔːt/", "def": "v.【古】work 的过去式/过去分词（= worked，行出，做成）"},
+    "appointment": {"ipa": "/əˈpɔɪntmənt/", "def": "n. 设立，指派（of Christ's appointment：基督所立的）；约会【四级】"}
+  },
+  "vocab_table": [
+    {"word": "apostleship", "ipa": "/əˈpɒslʃɪp/", "def": "n. 使徒职分"},
+    {"word": "intercourse", "ipa": "/ˈɪntəkɔːs/", "def": "n.【19世纪用法】交往，往来"},
+    {"word": "wrought", "ipa": "/rɔːt/", "def": "v.【古】work 的过去式/过去分词（行出，做成）"},
+    {"word": "appointment", "ipa": "/əˈpɔɪntmənt/", "def": "n. 设立，指派；约会"}
+  ]
+}

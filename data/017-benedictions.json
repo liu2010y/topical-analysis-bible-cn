@@ -1,0 +1,73 @@
+{
+  "num": "017",
+  "title_en": "BENEDICTIONS",
+  "title_zh": "祝福（祝祷）",
+  "html_name": "017-Benedictions-祝福.html",
+  "pages": "原书 p. 35",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "BENEDICTIONS.",
+          "zh": "祝福（祝祷语）。"
+        }
+      ]
+    },
+    {
+      "heading": "一、旧约：亚伦大祭司的祝福 / Aaronic, High-Priestly, Old Testament",
+      "blocks": [
+        {
+          "en": "Num. 6:24-26. Jehovah bless thee, and keep thee; Jehovah make His face shine upon thee, and be gracious unto thee; Jehovah lift up His countenance upon thee, and give thee peace. II. 344. Ps. 129:8. V. 398.",
+          "zh": "民数记 6:24-26 —— 愿耶和华赐福给你，保护你。愿耶和华使他的脸光照你，赐恩给你。愿耶和华向你仰脸，赐你平安。另参诗篇 129:8（愿耶和华所赐的福归与你们）。",
+          "bsb": "Numbers 6:24-26",
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "Jehovah bless thee / make His face shine / lift up His countenance：三组动词全用原形——祈愿虚拟语气的经典范例（愿耶和华赐福……）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、新约：使徒的祝福 / Apostolic, New Testament",
+      "blocks": [
+        {
+          "en": "2 Cor. 13:14. The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen. Rom. 16:20. 1 Cor. 16:23. XI. 390.",
+          "zh": "哥林多后书 13:14 —— 愿主耶稣基督的恩惠、神的慈爱、圣灵的感动（原文作交通），常与你们众人同在！阿们。另参：罗马书 16:20；哥林多前书 16:23（愿主耶稣基督的恩常与你们众人同在）。",
+          "bsb": "2 Corinthians 13:14",
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "The grace … be with you all：be 用原形，祈愿语气（愿恩惠……同在）。Holy Ghost 是 Holy Spirit（圣灵）的旧译。"}
+          ]
+        },
+        {
+          "en": "Heb. 13:20, 21. The God of peace, Who brought again from the dead the great Shepherd of the sheep with the blood of the eternal covenant, even our Lord Jesus Christ, make you perfect in every good thing to do His will, working in us that which is well-pleasing in His sight, through Jesus Christ; to Whom be the glory for ever and ever. Amen.",
+          "zh": "希伯来书 13:20-21 —— 但愿赐平安的神，就是那凭永约之血、使群羊的大牧人我主耶稣从死里复活的神，在各样善事上成全你们，叫你们遵行他的旨意；又藉着耶稣基督在你们心里行他所喜悦的事。愿荣耀归给他，直到永永远远。阿们！",
+          "bsb": "Hebrews 13:20-21",
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "The God of peace … make you perfect / to Whom be the glory：make 与 be 均用原形，双重祈愿。"},
+            {"id": "apposition", "note": "the great Shepherd of the sheep …, even our Lord Jesus Christ：even 引出同位语，『就是我们的主耶稣基督』（even 此处 =【古】that is）。"},
+            {"id": "the-adjective", "note": "brought again from the dead：the dead 死人（从死人中领回来 = 使复活）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "benedictions": {"ipa": "/ˌbenɪˈdɪkʃnz/", "def": "n. 祝福，祝祷语（bene- 好 + diction 言语）【GRE】"},
+    "aaronic": {"ipa": "/eəˈrɒnɪk/", "def": "adj. 亚伦的（Aaronic Benediction：亚伦的祝福，民数记 6 章）"},
+    "high-priestly": {"ipa": "/ˌhaɪ ˈpriːstli/", "def": "adj. 大祭司的（high priest：大祭司）"},
+    "countenance": {"ipa": "/ˈkaʊntənəns/", "def": "n. 脸面，面容（lift up His countenance：向你仰脸）【GRE】"},
+    "apostolic": {"ipa": "/ˌæpəˈstɒlɪk/", "def": "adj. 使徒的"},
+    "communion": {"ipa": "/kəˈmjuːniən/", "def": "n. 交通，团契；圣餐【六级】"},
+    "ghost": {"ipa": "/ɡəʊst/", "def": "n. Holy Ghost：圣灵（Spirit 的旧译）；幽灵【四级】"},
+    "shepherd": {"ipa": "/ˈʃepəd/", "def": "n. 牧人，牧者【四级】"},
+    "well-pleasing": {"ipa": "/ˌwel ˈpliːzɪŋ/", "def": "adj. 蒙悦纳的，所喜悦的（复合形容词）"},
+    "amen": {"ipa": "/ɑːˈmen/", "def": "int. 阿们（希伯来语：诚心所愿）"}
+  },
+  "vocab_table": [
+    {"word": "benediction", "ipa": "/ˌbenɪˈdɪkʃn/", "def": "n. 祝福，祝祷语"},
+    {"word": "countenance", "ipa": "/ˈkaʊntənəns/", "def": "n. 脸面，面容"},
+    {"word": "communion", "ipa": "/kəˈmjuːniən/", "def": "n. 交通，团契；圣餐"},
+    {"word": "apostolic", "ipa": "/ˌæpəˈstɒlɪk/", "def": "adj. 使徒的"},
+    {"word": "shepherd", "ipa": "/ˈʃepəd/", "def": "n. 牧人，牧者"}
+  ]
+}

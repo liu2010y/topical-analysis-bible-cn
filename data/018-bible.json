@@ -1,0 +1,383 @@
+{
+  "num": "018",
+  "title_en": "BIBLE",
+  "title_zh": "圣经",
+  "html_name": "018-Bible-圣经.html",
+  "pages": "原书 p. 35–42",
+  "ocr_note": "本词条为 B 字部大词条，跨 6 页余，含多段论述摘录；引用者人名讹误已修复（/. R. Miner→J. R. Miller、H. S. Storrs→R. S. Storrs 等）。",
+  "sections": [
+    {
+      "heading": "一、圣经的名称 / Called",
+      "blocks": [
+        {
+          "en": "In O. T.: Law of the Lord. Ps. 1:2; 19:7; 119:1. Law and Testimony. Isa. 8:20. VIII. 59. Book of the Lord. Isa. 34:16. VIII. 171.",
+          "zh": "在旧约中称为：耶和华的律法（诗篇 1:2；19:7；119:1）；训诲和法度（以赛亚书 8:20）；耶和华的书（以赛亚书 34:16）。",
+          "bsb": "Psalm 19:7"
+        },
+        {
+          "en": "In N. T.: Scripture. Mark 12:10. Luke 4:21. 2 Tim. 3:16. 1 Pet. 2:6. Scriptures. Luke 24:27. John 5:39. 2 Tim. 3:15. Holy Scriptures. Rom. 1:2. Word. Rom. 10:8. James 1:21. Word of God. 1 Pet. 1:23, 25. Mark 7:13. Luke 4:4. Acts 19:20. Rom. 10:17. Heb. 4:12. Word of Christ. Col. 3:16. Word of Salvation. Acts 13:26. Word of Life. Phil. 2:16. Word of Prophecy. 2 Pet. 1:19. Word of Truth. Eph. 1:13. 2 Tim. 2:15. James 1:18. Gospel. Mark 1:15. Rom. 1:16; 15:16, 29. Eph. 1:13. 1 Thes. 1:5. 1 Tim. 1:11.",
+          "zh": "在新约中称为：经／圣经（马可福音 12:10；路加福音 4:21；提摩太后书 3:16；彼得前书 2:6；路加福音 24:27；约翰福音 5:39；提摩太后书 3:15）；圣经（罗马书 1:2）；道（罗马书 10:8；雅各书 1:21）；神的道（彼得前书 1:23, 25；马可福音 7:13；路加福音 4:4；使徒行传 19:20；罗马书 10:17；希伯来书 4:12）；基督的道（歌罗西书 3:16）；救世的道（使徒行传 13:26）；生命的道（腓立比书 2:16）；预言（彼得后书 1:19）；真理的道（以弗所书 1:13；提摩太后书 2:15；雅各书 1:18）；福音（马可福音 1:15；罗马书 1:16 等）。【OCR 注：原书 \"Col. 3:10\"、\"Luke 20:24\" 依名称主题推定为 3:16 与 24:27。】",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "二、导言要点：结构与主题的合一 / Points Introductory: Structure and Unity",
+      "blocks": [
+        {
+          "en": "Structure and Elements; Writers and Writings. I. 9. III. 361. Unity of Teaching and Theme. I. 13-15, 51, 53. II. 11-14, 132-139. Christ the Centre of Unity. I. 51. Redemption the Central Theme. VII. 19. Rev. 19:10. XI. 763, 766, 786.",
+          "zh": "结构与要素；作者与著作。教训与主题的合一。基督是合一的中心；救赎是中心主题（启示录 19:10——预言中的灵意乃是为耶稣作见证）。",
+          "bsb": "Revelation 19:10",
+          "grammar": [
+            {"id": "headline-style", "note": "纲要式条目：Christ (is) the Centre of Unity / Redemption (is) the Central Theme，均省略系动词。"}
+          ]
+        },
+        {
+          "en": "[The nature and method of salvation is the one all-important subject of Revelation. In the Old Testament it is the heart of the whole sacrificial and priestly system and ritual, on which the religion of Judaism rested. In the New Testament three of the principal epistles of Paul are devoted to the doctrine of salvation, guarding against the three errors into which Jew, Greek and Roman—the world-races of that age and the representative and typical men of all time—were peculiarly liable to fall. In the Epistle to the Galatians it is shown, for the Jew, the representative of religious forms and ceremonies, that man is not to be saved by the observance of the ceremonial law, but by faith in Christ and \"circumcision of the heart.\" In the Epistles to the Corinthians it is made clear, to the Greek, the representative of reason and philosophy, that salvation is not to be obtained by human wisdom, but by faith in \"Jesus Christ and Him crucified,\" \"who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.\" In the Epistle to the Romans it is demonstrated, for the Roman, the representative of activity and works and law, that salvation cannot be secured by any human acts or works, but that, \"being justified by faith, we have peace with God through our Lord Jesus Christ.\" Of these three epistles, that to the Romans manifestly approaches nearest to being of universal application—partaking of the character of a systematic treatise, and in its sweep taking in the whole range of law, human and divine. The Epistle to the Romans may be taken as God's presentation, according to Paul, of the preacher's message in the business of saving mankind. — D. S. Gregory.]",
+          "zh": "【摘录】救恩的性质与方法，是启示独一无二、至关重要的主题。在旧约，它是整个献祭与祭司体系及礼仪的核心——犹太教即安放于其上。在新约，保罗的三卷主要书信专论救恩要道，分别防备犹太人、希腊人、罗马人——那个时代的世界性民族，也是万世之人的代表与典型——各自特别容易陷入的三种错谬。加拉太书向犹太人（宗教形式与礼仪的代表）表明：人得救不在乎谨守礼仪律法，而在乎信基督并『心里的割礼』。哥林多前后书向希腊人（理性与哲学的代表）阐明：救恩不能凭人的智慧获得，而是凭信『耶稣基督并他钉十字架』——他『成为我们的智慧、公义、圣洁、救赎』。罗马书向罗马人（行动、事功与法律的代表）论证：救恩绝不能靠任何属人的行为或功德取得，而是『我们既因信称义，就藉着我们的主耶稣基督得与神相和』。这三卷书信中，罗马书显然最接近普世的适用——带着系统论著的性质，其纵览囊括属人与属神之法的全部范围。罗马书可视为神藉保罗对传道者信息的呈示，用于拯救人类的大业。——D. S. 格雷戈里（Gregory）",
+          "bsb": false,
+          "grammar": [
+            {"id": "prep-relative", "note": "the three errors into which Jew, Greek and Roman … were … liable to fall：介词 into 前置于 which（容易陷入的三种错谬）。"},
+            {"id": "apposition", "note": "the Jew, the representative of religious forms and ceremonies：三个民族各带一个同位语说明其代表性。"}
+          ]
+        },
+        {
+          "en": "[The Bible itself, interlocked as it is in all its parts, receives its final demonstration as the one Book of God for the world, from the discovery of the Christ pervading it all—in history, prophecy, song and symbol, in narrative, argument, foreshadowing of the future. It is the book in which He appears, through which He speaks, and whose apparently fragmentary or incidental pages take a lustre from Him, like that of the common frayed threads of His Galilean raiment, when on the mount He appeared in His glory, and when not only \"His face did shine as the sun,\" but even \"His raiment was white and glistening.\" — R. S. Storrs.]",
+          "zh": "【摘录】圣经本身——它的各部分本就环环相扣——之所以最终被证明为神赐给世界的独一之书，乃在于人发现基督贯穿其全部：在历史、预言、诗歌与表记里，在叙事、论证、对未来的预影里。它是他在其中显现的书，是他藉以说话的书；它那些看似零碎或附带的书页，都从他得着光彩——正如他那加利利衣袍上寻常的磨损线缕，当他在山上荣耀显现时，不但『脸面明亮如日头』，连『衣裳也洁白放光』。——R. S. 斯托尔斯（Storrs）",
+          "bsb": false,
+          "grammar": [
+            {"note": "interlocked as it is in all its parts：『形容词/分词 + as + 主语 + be』的让步/原因插入结构（它本就各部环环相扣）；His face did shine：did + 原形的古体强调式（= shone）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、方法、来源与默示 / Method, Source, and Inspiration",
+      "blocks": [
+        {
+          "en": "Method, Historical and Progressive. I. 16. History the Basis of both Testaments. VII. 11. God its Source. I. 18. Divine-Human in its Construction. I. 20. Its Inspiration: 2 Pet. 1:21. Men spake from God, being moved by the Holy Spirit. XI. 674. 2 Tim. 3:16. Every Scripture is inspired of God. I. 24. XI. 813-819. See Inspiration. Fitness to Human Condition and Needs. I. 26. Achievements and Effects. I. 28. Revelation and Science. I. 35. See Nature.",
+          "zh": "其方法：历史性的、渐进性的。历史是新旧两约共同的根基。神是它的源头；其构成是神人合作的。其默示：彼得后书 1:21 —— 乃是人被圣灵感动，说出神的话来。提摩太后书 3:16 —— 圣经都是神所默示的。另参主题词条：默示（Inspiration）。切合人类的境况与需要；其成就与果效；启示与科学（另参：自然 Nature）。",
+          "bsb": "2 Peter 1:21",
+          "grammar": [
+            {"note": "spake 是 speak 的古过去式（= spoke）；inspired of God：古英语以 of 引出施动者（= inspired by God）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、圣经与社会学 / Sociology and the Bible",
+      "blocks": [
+        {
+          "en": "[Sociology is the science of social well-being; it concerns the relations of men to each other in society. Society is a divine organism in which God lives, and through which He is carrying out His will. This organic conception of society is the result of Bible teaching; the Gospel gives the strongest impulse in social movements. The Bible is a sociological book. The Old Testament is a history and text-book of national life. The Psalms, the most fervid voice of the individual soul, rarely fail in some way to teach the social or national spirit. And the message of the Prophets—is it not to the nation, as the society that should embody God's will and be the means of God's blessing to the world? \"Patriotism, strong as a man's passion and tender as a woman's love, is the key-note of every chapter of Jeremiah's prophecies.\" (Stalker.)",
+          "zh": "【摘录】社会学是关于社会福祉的科学，研究人在社会中彼此的关系。社会是一个神圣的有机体：神住在其中，并藉着它施行自己的旨意。这种对社会的有机理解正是圣经教导的结果；福音给社会运动提供最强大的推动力。圣经本是一部社会学之书：旧约是一部民族生活的历史与教科书；诗篇虽是个人灵魂最炽热的声音，却几乎无一不以某种方式教导社会与民族的精神；而众先知的信息——岂不正是对那作为『当体现神旨意、作神赐福世界之媒介』的社会——民族——说的吗？『爱国之情，烈如男子的激情，柔如妇人的爱，是耶利米预言每一章的主调。』（斯托克 Stalker 语）",
+          "bsb": false,
+          "grammar": [
+            {"note": "is it not to the nation…?：否定疑问的修辞问句（岂不是……吗）；strong as a man's passion and tender as a woman's love：形容词 + as 的两个比喻状语对仗。"}
+          ]
+        },
+        {
+          "en": "The New Testament is not less sociological. The Kingdom is the great word of Christ, and it is essentially social. The Sermon on the Mount, the Magna Charta of the new society, touches all the relations of man. Social duties arise from the Christian conception of manhood: \"We are members one of another; wherefore, putting away falsehood, speak ye truth, each with his neighbor.\" Eph. 4:25. The second commandment in Christ's summary of the law is as important as the first: \"Thou shalt love thy neighbor as thyself.\" Matt. 22:39. And Paul: \"For the whole law is fulfilled in one word, even in this: Thou shalt love thy neighbor as thyself.\" Gal. 5:14. The Lord's Prayer is sociological. The test of the final judgment is sociological. Christ worked for the whole man, and His promise is of a redeemed humanity. — A. S. Hoyt.] See Practical Christian Sociology, by W. F. Crafts.",
+          "zh": "新约的社会学色彩毫不逊色。『国度』是基督的大词，而国度本质上是社会性的。登山宝训——新社会的大宪章——触及人的一切关系。社会责任出自基督教对人之为人的理解：『我们是互相为肢体……所以你们要弃绝谎言，各人与邻舍说实话』（以弗所书 4:25）。基督总括律法时，第二条诫命与第一条同等重要：『要爱人如己』（马太福音 22:39）。保罗更说：『因为全律法都包在“爱人如己”这一句话之内了』（加拉太书 5:14）。主祷文是社会性的；末日审判的检验标准是社会性的。基督为整全的人工作，他所应许的是蒙救赎的人类全体。——A. S. 霍伊特（Hoyt）。另可读克拉夫茨（W. F. Crafts）《实用基督教社会学》。",
+          "bsb": "Ephesians 4:25",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "speak ye truth / Thou shalt love thy neighbor as thyself：ye 作祈使主语；thou shalt + thy + thyself 一句集齐古体第二人称全套。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "五、地理与风土的见证 / Testimony of Geography and Exploration",
+      "blocks": [
+        {
+          "en": "Testimony of Geography, Exploration, and Social Customs. III. 21. See Archeology. [The Bible is the record of God's revelation of Himself to man in the way of grace. This revelation was made in connection with and through the history of a particular people, the children of Israel. The history of that people and God's revelation are closely intertwined. Now as a divine revelation implies a history, a history in turn implies a locality. It is Palestine. We go to that locality and study it and interrogate it, and by it prove the history, and by the history prove the revelation. If the locality, as pictured in the Book, be false, everything else is false; if the locality be true, everything else is true. The land existed for the covenant people of God, and the covenant people of God existed for the world; i.e., they existed to give the world the Book and the Christ of the Book. As an argument I point out certain remarkable correspondences between the land and the Book—correspondences which indicate the presence of the hand of God, and which illustrate an accuracy in the Book that can come only from the guidance and superintendence of God. These correspondences make God the God of the Book, and the Book the Book of God.",
+          "zh": "地理、考察与风土人情的见证（另参主题词条：考古学 Archeology）。【摘录】圣经是神在恩典之路上向人启示自己的记录。这启示是联结着、并借着一个特定民族——以色列子民——的历史作成的。这民族的历史与神的启示紧密交织。既然神圣的启示预设一段历史，历史又反过来预设一处地域——这地域就是巴勒斯坦。我们前往那地，研究它、究问它：以地域证历史，再以历史证启示。倘若书中所描绘的地域是假的，其余一切皆假；倘若地域是真的，其余一切皆真。这地为神的约民存在，而神的约民为世界存在——也就是说，他们存在的目的，是把这书和书中的基督给予世界。作为论证，我要指出这地与这书之间若干显著的对应——这些对应显明神之手的同在，也彰显书中那种惟有出于神的引导与督理才可能有的精确。这些对应使神成为这书的神，使这书成为神的书。",
+          "bsb": false,
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If the locality … be false：if 从句用 be 原形，虚拟语气。"}
+          ]
+        },
+        {
+          "en": "1. The land and the Book correspond in that they are both universal. In Palestine the geologist finds all the rock formations of the earth. Between the tepid waters of the Salt Sea and the perpetual snows of Mount Hermon—which never lifts its white cap from its brow—you have packed all zones and climates, from the frigid belt to the tropical equator, and also all the flora and fauna of the earth. Palestine is the world in a nutshell. The Bible is a world-book made in a world-land. As the Jew is the miracle of history, even so the cosmopolitan land of the Jew is the miracle of geography. Sacred geography, you see, has an apologetic value: the land and the people and the Book constitute a trinity of truth, and the testimony of one is strengthened by the testimony of the others. Another element in the universality is its location amid other lands: with Egypt to its south, Babylonia and Assyria to its east, and Greece and Rome to its west, it was the very centre of civilization. A centre of the world's life only can grow a world's book of life.",
+          "zh": "一、这地与这书相应，因为二者都是普世性的。在巴勒斯坦，地质学家能找到地球上所有的岩层构造。从盐海（死海）的温水到黑门山从不摘下白帽的常年积雪之间，浓缩了从寒带到热带赤道的所有气候带，也汇集了地上全部的动植物群。巴勒斯坦是浓缩于果壳中的世界；圣经是在一块『世界之地』上写成的『世界之书』。犹太人既是历史的奇迹，犹太人那四通八达的土地照样是地理的奇迹。可见，圣地地理自有其护教价值：这地、这民、这书构成真理的三重见证，其中任何一方的见证都因另两方的见证而加强。其普世性的另一要素是它居于列邦之中的位置：南邻埃及，东接巴比伦与亚述，西望希腊罗马——它正是文明的中心。惟有世界生活的中心，才能长出世界的生命之书。",
+          "bsb": false,
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As the Jew is the miracle of history, even so the cosmopolitan land … is the miracle of geography：as… even so… 关联结构。"},
+            {"note": "in a nutshell：习语『浓缩为一言/一处』（果壳里的世界）。"}
+          ]
+        },
+        {
+          "en": "2. There is a remarkable correspondence between the statements of the Book and the physical features of the land. The Book weaves the physical features of the land into its statements—fearlessly, knowing that it can be refuted if its references are false. No book in all the literature of the world has as honest a face as the Bible. Its narratives are accompanied with all the minute circumstances of time and place and situation and distance; yet in no single instance has geographical incorrectness been detected. Dean Stanley says: \"It is impossible not to be struck by the constant agreement between the recorded history and the natural geography of both the Old and the New Testament, and many of these coincidences are manifestly undesigned.\"",
+          "zh": "二、书中的陈述与这地的自然地貌之间有惊人的对应。这书无所畏惧地把土地的自然地貌编织进自己的叙述——明知一旦所引不实即可被驳倒。全世界的文学中，没有一部书的面孔像圣经这样诚实：它的叙事带着时间、地点、情境、距离的一切细节；然而至今没有查出过一处地理错误。斯坦利院长（Dean Stanley）说：『新旧约所载的历史与自然地理之间恒常的一致，令人不能不惊叹；而这些吻合之中，有许多显然是无意为之的。』",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "in no single instance has geographical incorrectness been detected：否定状语前置引起倒装（从无一例查出地理错误）。"}
+          ]
+        },
+        {
+          "en": "3. There is a confirmatory correspondence between the land and the prophecies of the Book which predict desolation for the land—which predicted desolation marks the features of the land at this very hour. Moses records this prophecy concerning the land in the event of the people proving faithless: \"Your land shall be desolate and your cities waste.\" Looking out over the land, Dean Stanley says, \"Palestine is a land of ruins.\" Jesus predicted the destruction of Jerusalem, and in the twenty-fourth chapter of Matthew describes minutely the horrors of its fall. History matches these one by one. Palestine is the Bible in geography. God be praised for the Holy Land, with its Jordan and Bethlehem and Hermon and Zion and Calvary and Olivet: for these are all indestructible pages of the divine and indestructible Book—witnesses that God has spoken to men, and lived among men, and wrought out salvation for men. — D. Gregg. Read \"The Testimony of the Land to the Book,\" by David Gregg, D.D.]",
+          "zh": "三、这地与书中预言荒凉的众预言之间，还有一种印证性的对应——所预言的荒凉，此时此刻正刻画在这地的面貌上。摩西记下神论这地的预言：百姓若背信，『你们的地要成为荒场，你们的城邑要变为荒凉』。斯坦利院长纵览此地后说：『巴勒斯坦是一片废墟之地。』耶稣预言了耶路撒冷的倾覆，在马太福音二十四章细述其陷落的惨状——历史一一应验。巴勒斯坦就是写在地理上的圣经。为圣地赞美神：它的约旦河、伯利恒、黑门山、锡安、髑髅地、橄榄山——这些都是那神圣而不可毁坏之书的不可毁坏的书页，见证神曾向人说话、曾住在人间、曾为人成就救恩。——D. 格雷格（Gregg）。可读格雷格《圣地对圣书的见证》。",
+          "bsb": false,
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "God be praised：be 用原形，祈愿语气（愿神受赞美）。"},
+            {"note": "which predicted desolation marks the features…：which + 名词的关系结构（而这被预言的荒凉正刻画着……）；in the event of the people proving faithless：of + 名词 + 动名词复合结构（万一百姓背信）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "六、两约之间；解释・保存・译本 / Between the Testaments; Interpretation, Preservation, Versions",
+      "blocks": [
+        {
+          "en": "Between the Testaments: The History. VII. 615-623. The Literature. VII. 624-634. Interpretation. I. 38, 39. Preservation. I. 40, 41. Notable Versions. I. 42. English Translations. I. 43. See Old Testament; Pentateuch; New Testament; Gospel.",
+          "zh": "两约之间：历史；文献（次经与两约间文学）。圣经的解释；圣经的保存；重要古译本；英文译本。另参主题词条：旧约（Old Testament）；摩西五经（Pentateuch）；新约（New Testament）；福音（Gospel）。",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "七、圣灵大能而使人活的工具 / The Potent, Quickening Instrument of the Spirit of God",
+      "blocks": [
+        {
+          "en": "Ps. 138:2. Thou hast magnified Thy Word. V. 435, 6. John 6:63. The words that I have spoken unto you are spirit, and are life. X. 256. Eph. 6:17. The sword of the Spirit, which is the Word of God. Heb. 4:12. Living, and active, and sharper than any two-edged sword, quick to discern the thoughts and intents of the heart. Jer. 23:29. Is not My word like a fire, and like a hammer that breaketh the rock in pieces? VIII. 514. Luke 24:32. Did not our heart burn within us, while He opened to us the Scriptures? Isa. 55:10, 11. My word shall not return unto Me void. VIII. 306-313.",
+          "zh": "诗篇 138:2 —— 你使你的话显为大，过于你所应许的（原书直译：你高举了你的言语）。约翰福音 6:63 —— 我对你们所说的话就是灵，就是生命。以弗所书 6:17 —— 圣灵的宝剑，就是神的道。希伯来书 4:12 —— 神的道是活泼的，是有功效的，比一切两刃的剑更快，……连心中的思念和主意都能辨明。耶利米书 23:29 —— 我的话岂不像火，又像能打碎磐石的大锤吗？路加福音 24:32 —— 在路上，他和我们说话、给我们讲解圣经的时候，我们的心岂不是火热的吗？以赛亚书 55:10-11 —— 我口所出的话也必如此，决不徒然返回。",
+          "bsb": "Hebrews 4:12",
+          "grammar": [
+            {"note": "Did not our heart burn within us…?：否定疑问表确认（我们的心岂不是火热的吗）；void 此处作补语『徒然、落空』（not return void：不徒然返回）。"}
+          ]
+        },
+        {
+          "en": "Its Power in Regeneration. James 1:18. Of His own will He brought us forth by the Word of truth. 1 Pet. 1:23. Begotten again … through the Word of God, which liveth and abideth. 1 Thess. 2:13. Worketh in you that believe. Rom. 1:16. The power of God unto salvation. James 1:21. The implanted Word, which is able to save your souls. XI. 624. 2 Tim. 3:15. Able to make thee wise unto salvation, through faith. John 20:31. X. 588.",
+          "zh": "圣道重生之能。雅各书 1:18 —— 他按自己的旨意，用真道生了我们。彼得前书 1:23 —— 你们蒙了重生，……是藉着神活泼常存的道。帖撒罗尼迦前书 2:13 —— 运行在你们信主的人心中。罗马书 1:16 —— 这福音本是神的大能，要救一切相信的。雅各书 1:21 —— 所栽种的道，就是能救你们灵魂的道。提摩太后书 3:15 —— 这圣经能使你因信基督耶稣，有得救的智慧。另参约翰福音 20:31。",
+          "bsb": "James 1:18",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "liveth and abideth：活泼常存（= lives and abides）。"}
+          ]
+        },
+        {
+          "en": "Its Agency in Sanctification. John 17:17. Sanctify them through Thy truth: Thy Word is truth. 2 Pet. 1:4. Through the promises, partakers of the divine nature. Ps. 17:4. IV. 127. Acts 20:32. The word of His grace, which is able to build you up. 2 Tim. 3:16. Profitable for teaching, for reproof, for correction, for instruction in righteousness. Matt. 4:4. Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. X. 70. Deut. 8:3. II. 648.",
+          "zh": "圣道成圣之功。约翰福音 17:17 —— 求你用真理使他们成圣；你的道就是真理。彼得后书 1:4 —— 叫我们既脱离世上从情欲来的败坏，就得与神的性情有份。诗篇 17:4；使徒行传 20:32 —— 如今我把你们交托神和他恩惠的道，这道能建立你们。提摩太后书 3:16 —— 于教训、督责、使人归正、教导人学义都是有益的。马太福音 4:4 —— 人活着，不是单靠食物，乃是靠神口里所出的一切话。另参申命记 8:3。",
+          "bsb": "John 17:17"
+        }
+      ]
+    },
+    {
+      "heading": "八、其所定意并成就的果效 / Its Designed and Realized Effects",
+      "blocks": [
+        {
+          "en": "Rom. 15:4. Written, that through patience and comfort of the Scriptures we might have hope. Jer. 15:16. Thy words were unto me a joy. VIII. 469. Ps. 119:165. Great peace have they which love Thy Law. Micah 2:7. My words do good to him that walketh uprightly. IX. 471. Prov. 6:22, 23. It shall lead thee, watch over thee, talk with thee: for the commandment is a lamp, and the law is light. VI. 281-283. Ps. 19:7-11. IV. 152-162. Also the 119th Psalm throughout. 2 Pet. 1:19. Ye do well that ye take heed, as unto a lamp shining in a dark place. XI. 673, 4.",
+          "zh": "罗马书 15:4 —— 从前所写的圣经都是为教训我们写的，叫我们因圣经所生的忍耐和安慰，可以得着盼望。耶利米书 15:16 —— 你的言语是我心中的欢喜快乐。诗篇 119:165 —— 爱你律法的人有大平安。弥迦书 2:7 —— 我的言语岂不是与行动正直的人有益吗？箴言 6:22-23 —— 你行走，它必引导你；你躺卧，它必保守你；你睡醒，它必与你谈论。因为诫命是灯，法则（或作指教）是光。诗篇 19:7-11（耶和华的律法全备，能苏醒人心）；诗篇 119 篇通篇。彼得后书 1:19 —— 你们在这预言上留意，直等到天发亮……如同灯照在暗处，你们这样行就好了。",
+          "bsb": "Psalm 119:165",
+          "grammar": [
+            {"id": "inversion", "note": "Great peace have they which love Thy Law：宾语前置引起倒装（= they which love Thy Law have great peace）。"},
+            {"id": "him-that-relative", "note": "him that walketh uprightly / they which love：that/which 指人。"}
+          ]
+        },
+        {
+          "en": "Prayer for vision: Ps. 119:18. Open Thou mine eyes, that I may behold wondrous things out of Thy Law. Ps. 119:130. The entrance of Thy words giveth light. Comfort: Ps. 119:50, 54. Better than gold and silver: Ps. 119:72. Lamp and Light: Ps. 119:105. Thy Word is a lamp unto my feet, and a light unto my path.",
+          "zh": "求开眼的祷告：诗篇 119:18 —— 求你开我的眼睛，使我看出你律法中的奇妙。119:130 —— 你的言语一解开，就发出亮光。安慰：119:50, 54（这话将我救活了）。胜于金银：119:72 —— 你口中的训言与我有益，胜于千万的金银。灯与光：119:105 —— 你的话是我脚前的灯，是我路上的光。",
+          "bsb": "Psalm 119:105",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Open Thou mine eyes：祈使句保留主语 Thou（求你开……）；mine =【古】my（元音前用 mine，如 mine eyes）。"}
+          ]
+        },
+        {
+          "en": "[Where is a second book, uninspired by Scripture, that has demonstrated its inherent and unassisted energy to take hold of life, grapple with it, transform it, regenerate it, and lead it out into the likeness of the life of God? Only he who knows man could have made man a book. Only He that made all hearts could produce a book that should go to the wants of all hearts. \"I see,\" wrote Hallam, \"that the Bible fits into every fold and crevice of the human heart. I am a man, and I believe that this is God's book because it is man's book.\" — C. H. Parkhurst.]",
+          "zh": "【摘录】除圣经之外，哪里还有第二部书，曾显出这种内在的、无所凭借的能力——抓住生命、与之角力、改变它、重生它、引它长成神生命的样式？惟有认识人的那一位，才能为人造一部书；惟有造众人心的那一位，才能造出一部通达众人心之需要的书。哈勒姆（Hallam）写道：『我看出圣经嵌合于人心的每一道褶皱与缝隙。我是人，我相信这是神的书，正因为它是人的书。』——C. H. 帕克赫斯特（Parkhurst）",
+          "bsb": false,
+          "grammar": [
+            {"id": "him-that-relative", "note": "he who knows man / He that made all hearts：he who / He that = 那认识人的／那造众人心的。"},
+            {"note": "Only he … could have made：could have + 过去分词，对已然事实的推断（惟有他才可能造出）；Only 开头的强调。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "九、确据的最终依归 / The Final Appeal for Certitude",
+      "blocks": [
+        {
+          "en": "Isa. 8:20. To the Law and to the Testimony! VIII. 59. Prov. 22:21. That thou mightest know the certainty of the words of truth. VI. 380-382. Tried: Ps. 12:6. The words of the Lord are pure words, as silver tried in a furnace. IV. 101-103. Ps. 18:30. The word of the Lord is tried. IV. 142, 3.",
+          "zh": "以赛亚书 8:20 —— 人当以训诲和法度为标准！箴言 22:21 —— 要使你知道真言的实理。经过试验的话：诗篇 12:6 —— 耶和华的言语是纯净的言语，如同银子在泥炉中炼过七次。18:30 —— 耶和华的话是炼净的。",
+          "bsb": "Psalm 12:6",
+          "grammar": [
+            {"note": "mightest：may/might 的第二人称古形式（that thou mightest know：使你可以知道）。"}
+          ]
+        },
+        {
+          "en": "[This Bible of ours is a grand book, and it goes on into time without any fear. It challenges us to test it, that we may increase the faith of humanity in it. Coming from God, and conscious of nothing but God's truth, it awaits the progress of all knowledge with calm security. From the march of time it fears no evil, but quietly waits for the fulfilment of its prophecies. It is not light, but darkness, which the Bible deprecates. It seeks above all things to be tested, for it can stand every test. — D. Gregg.]",
+          "zh": "【摘录】我们这部圣经是一部恢宏之书，它无所畏惧地走进时间深处。它邀请我们检验它，好叫人类对它的信心加增。它既出于神，心中惟有神的真理，便以从容稳妥等候一切知识的进步。对时光的行进，它不怕遭害，只安静等候自己预言的应验。圣经所拒斥的不是光明，而是黑暗；它最渴望的就是被检验，因为它经得起每一样检验。——D. 格雷格（Gregg）",
+          "bsb": false,
+          "grammar": [
+            {"note": "It is not light, but darkness, which the Bible deprecates：强调句（分裂句）＋ not…but… 对比（圣经所拒斥的不是光、而是黑暗）。Coming from God, and conscious of…：分词与形容词短语并列作状语。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "十、圣言的亲近、清晰与充足 / The Nearness, Clearness and Sufficiency of the Word",
+      "blocks": [
+        {
+          "en": "Deut. 29:29. The things revealed belong unto us and to our children for ever, that we may do all the words of this law. II. 704-708. Josh. 1:8. Thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein; for then thou shalt make thy way prosperous, and then thou shalt have good success. III. 34, 39-41.",
+          "zh": "申命记 29:29 —— 惟有明显的事是永远属我们和我们子孙的，好叫我们遵行这律法上的一切话。约书亚记 1:8 —— 这律法书不可离开你的口，总要昼夜思想，好使你谨守遵行这书上所写的一切话。如此，你的道路就可以亨通，凡事顺利。",
+          "bsb": "Joshua 1:8",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Thou shalt meditate / thou mayest observe：shalt/mayest 为与 thou 搭配的形式；therein = in it（在其中）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "十一、当受、当听、当查考、当思想 / To Be Received, Heard, Searched, Pondered",
+      "blocks": [
+        {
+          "en": "James 1:21. Receive with meekness the implanted Word. 1 Pet. 2:1, 2. Ps. 85:8. I will hear what God the Lord will speak. V. 75, 6. John 5:39. Search the Scriptures. X. 133. Isa. 34:16. Seek ye out of the Book of the Lord, and read. VIII. 171, 2. Deut. 6:6; 11:18. Lay up My words in your heart and in your soul. II. 218-221. Ps. 119:15, 16. Col. 3:16. Let the Word of Christ dwell in you richly. XI. 480. Rom. 15:4. Things written aforetime for our learning. Acts 17:11. Received the Word, and searched the Scriptures daily. XI. 118, 120. Acts 8:30. Understandest thou what thou readest? XI. 58. Illus. Hosea 8:12. IX. 361. Amos 8:11. IX. 431. Neh. 8:2, 3, 8. VII. 562.",
+          "zh": "雅各书 1:21 —— 存温柔的心领受那所栽种的道。彼得前书 2:1-2（要爱慕那纯净的灵奶）。诗篇 85:8 —— 我要听神耶和华所说的话。约翰福音 5:39 —— 你们查考圣经（或作应当查考圣经）。以赛亚书 34:16 —— 你们要查考宣读耶和华的书。申命记 6:6；11:18 —— 你们要将我这话存在心内，留在意中。诗篇 119:15-16；歌罗西书 3:16 —— 当用各样的智慧，把基督的道理丰丰富富地存在心里。罗马书 15:4 —— 从前所写的圣经都是为教训我们写的。使徒行传 17:11 —— 甘心领受这道，天天考查圣经。8:30 —— 你所念的，你明白吗？例证：何西阿书 8:12（我为他写了律法万条，他却以为与他毫无关涉）；阿摩司书 8:11（不听耶和华话语的饥荒）；尼希米记 8:2-3, 8（清清楚楚地念神的律法书，讲明意思）。",
+          "bsb": "Acts 17:11",
+          "grammar": [
+            {"note": "Understandest thou what thou readest?：古体疑问句——不借助 do，直接把带 -est 词尾的动词提到主语前（= Do you understand what you read?）。"}
+          ]
+        },
+        {
+          "en": "[\"No habit more profoundly exalts the whole life than that of daily devotional reading of the Bible. No education produces so fine a character as thinking the thoughts of God and walking with Him.\" The Bible yields up its value and help to us only when we receive its truths into our heart and take its lessons into our life. The Bible can bless us only as it brings us into loving fellowship with God. — J. R. Miller.]",
+          "zh": "【摘录】『没有一种习惯比每日灵修读经更深地提升人的整个生命；没有一种教育能造就出如此美好的品格，胜过思想神的意念、与神同行。』圣经惟有在我们把它的真理接到心里、把它的功课带进生活时，才向我们交出它的价值与帮助；圣经惟有把我们带进与神相爱的团契时，才能赐福于我们。——J. R. 米勒（Miller）【OCR 注：原书 \"/. R. Miner\" 修复为 J. R. Miller。】",
+          "bsb": false,
+          "grammar": [
+            {"note": "No habit more profoundly exalts … than that of…：no + 比较级结构表最高级含义（没有比……更……的）；that 替代 the habit 避免重复。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "十二、一部完成的启示；圣言永存 / A Finished Revelation; The Word Abideth",
+      "blocks": [
+        {
+          "en": "A Finished Revelation; a Complete Whole, that may not be Added to, Diminished, Altered, or Mutilated. John 10:35. The Scripture cannot be broken. Deut. 4:2. Ye shall not add unto the Word, neither shall ye diminish from it. II. 637. Rev. 22:18, 19. If any man shall add, God shall add unto him the plagues that are written in this book; and if any man shall take away from the words of the book, God shall take away his part from the tree of life. 2 Tim. 1:13. Hold fast the form of sound (healthful) words. XI. 531.",
+          "zh": "一部完成的启示；一个完整的整体，不可加添、删减、更改或残割。约翰福音 10:35 —— 经上的话是不能废的。申命记 4:2 —— 所吩咐你们的话，你们不可加添，也不可删减。启示录 22:18-19 —— 若有人在这预言上加添什么，神必将写在这书上的灾祸加在他身上；这书上的预言，若有人删去什么，神必从这书上所写的生命树和圣城删去他的份。提摩太后书 1:13 —— 你从我听的那纯正（原文作健康）话语的规模，要……常常守着。",
+          "bsb": "Revelation 22:18-19",
+          "grammar": [
+            {"id": "inversion", "note": "neither shall ye diminish from it：neither 开头引起倒装（也不可删减）。"}
+          ]
+        },
+        {
+          "en": "It Admits and Demands larger Discovery, fuller Apprehension, and wider Application. Hosea 6:3. Then shall we know, if we follow on to know the Lord. IX. 353. Prov. 2:1-5. VI. 242-244. The Word Abideth. Isa. 40:6-8. The Word of our God shall stand for ever. VIII. 206-208. Matt. 24:35. My words shall not pass away. 1 Pet. 1:23, 25. XI. 651.",
+          "zh": "它容许并要求更多的发现、更充分的领会、更广的应用。何西阿书 6:3 —— 我们务要认识耶和华，竭力追求认识他（直译：若竭力追求，就必认识）。箴言 2:1-5（寻找它如寻找银子……就必明白敬畏耶和华）。圣言永存。以赛亚书 40:6-8 —— 草必枯干，花必凋残，惟有我们神的话必永远立定！马太福音 24:35 —— 天地要废去，我的话却不能废去。另参彼得前书 1:23, 25。",
+          "bsb": "Isaiah 40:8",
+          "grammar": [
+            {"id": "inversion", "note": "Then shall we know：then 前置引起倒装（那时我们就必知道）。"},
+            {"id": "eth-est-endings", "note": "The Word Abideth：圣言常存（abideth = abides）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "testimony": {"ipa": "/ˈtestɪməni/", "def": "n. 法度；见证（Law and Testimony：训诲和法度）【六级/考研】"},
+    "introductory": {"ipa": "/ˌɪntrəˈdʌktəri/", "def": "adj. 导言性的，引介的"},
+    "priestly": {"ipa": "/ˈpriːstli/", "def": "adj. 祭司的（priest：祭司）"},
+    "judaism": {"ipa": "/ˈdʒuːdeɪɪzəm/", "def": "n. 犹太教"},
+    "epistles": {"ipa": "/ɪˈpɪslz/", "def": "n. 书信（新约使徒书信）【GRE】"},
+    "circumcision": {"ipa": "/ˌsɜːkəmˈsɪʒn/", "def": "n. 割礼（circumcision of the heart：心里的割礼）"},
+    "treatise": {"ipa": "/ˈtriːtɪs/", "def": "n. 论著，专论【GRE】"},
+    "interlocked": {"ipa": "/ˌɪntəˈlɒkt/", "def": "adj. 环环相扣的（interlock：互相咬合）"},
+    "pervading": {"ipa": "/pəˈveɪdɪŋ/", "def": "v. 贯穿，弥漫于（pervade）【六级/GRE】"},
+    "foreshadowing": {"ipa": "/fɔːˈʃædəʊɪŋ/", "def": "n./v. 预影，预示（foreshadow）"},
+    "lustre": {"ipa": "/ˈlʌstə/", "def": "n. 光彩，光泽（美式拼写 luster）【GRE】"},
+    "frayed": {"ipa": "/freɪd/", "def": "adj. 磨损的（fray：磨损）"},
+    "raiment": {"ipa": "/ˈreɪmənt/", "def": "n.【古/书面】衣裳（= clothing）"},
+    "glistening": {"ipa": "/ˈɡlɪsnɪŋ/", "def": "adj. 闪亮的，放光的（glisten：闪光）【六级】"},
+    "spake": {"ipa": "/speɪk/", "def": "v.【古】speak 的过去式（= spoke）"},
+    "inspiration": {"ipa": "/ˌɪnspəˈreɪʃn/", "def": "n. 默示；灵感【四级】"},
+    "sociology": {"ipa": "/ˌsəʊsiˈɒlədʒi/", "def": "n. 社会学【六级】"},
+    "sociological": {"ipa": "/ˌsəʊsiəˈlɒdʒɪkl/", "def": "adj. 社会学的"},
+    "organism": {"ipa": "/ˈɔːɡənɪzəm/", "def": "n. 有机体【四级】"},
+    "organic": {"ipa": "/ɔːˈɡænɪk/", "def": "adj. 有机的，整体性的【四级】"},
+    "impulse": {"ipa": "/ˈɪmpʌls/", "def": "n. 推动力，冲动【四级】"},
+    "fervid": {"ipa": "/ˈfɜːvɪd/", "def": "adj. 炽热的，热切的【GRE】"},
+    "patriotism": {"ipa": "/ˈpætriətɪzəm/", "def": "n. 爱国心【六级】"},
+    "key-note": {"ipa": "/ˈkiːnəʊt/", "def": "n. 主调，基调（今拼 keynote）"},
+    "manhood": {"ipa": "/ˈmænhʊd/", "def": "n. 人之为人；成年男子身份"},
+    "falsehood": {"ipa": "/ˈfɔːlshʊd/", "def": "n. 谎言，虚假【六级】"},
+    "humanity": {"ipa": "/hjuːˈmænəti/", "def": "n. 人类；人性【四级】"},
+    "intertwined": {"ipa": "/ˌɪntəˈtwaɪnd/", "def": "adj. 交织的（intertwine：缠绕交织）"},
+    "locality": {"ipa": "/ləʊˈkæləti/", "def": "n. 地域，地点【六级】"},
+    "interrogate": {"ipa": "/ɪnˈterəɡeɪt/", "def": "v. 究问，讯问【六级/GRE】"},
+    "correspondences": {"ipa": "/ˌkɒrəˈspɒndənsɪz/", "def": "n. 对应（关系）（correspondence）【四级】"},
+    "superintendence": {"ipa": "/ˌsuːpərɪnˈtendəns/", "def": "n. 监督，督导（superintend：监管）"},
+    "geologist": {"ipa": "/dʒiˈɒlədʒɪst/", "def": "n. 地质学家【六级】"},
+    "tepid": {"ipa": "/ˈtepɪd/", "def": "adj. 微温的【GRE】"},
+    "perpetual": {"ipa": "/pəˈpetʃuəl/", "def": "adj. 常年不断的，永久的【六级/GRE】"},
+    "frigid": {"ipa": "/ˈfrɪdʒɪd/", "def": "adj. 寒冷的（frigid belt：寒带）【GRE】"},
+    "equator": {"ipa": "/ɪˈkweɪtə/", "def": "n. 赤道【四级】"},
+    "flora": {"ipa": "/ˈflɔːrə/", "def": "n. 植物群（flora and fauna：动植物群）【GRE】"},
+    "fauna": {"ipa": "/ˈfɔːnə/", "def": "n. 动物群【GRE】"},
+    "nutshell": {"ipa": "/ˈnʌtʃel/", "def": "n. 果壳（in a nutshell：概括地说，浓缩于一处）【六级】"},
+    "cosmopolitan": {"ipa": "/ˌkɒzməˈpɒlɪtən/", "def": "adj. 世界性的，四方辐辏的【六级/GRE】"},
+    "apologetic": {"ipa": "/əˌpɒləˈdʒetɪk/", "def": "adj.【此处神学义】护教的（apologetics：护教学）；道歉的【六级】"},
+    "refuted": {"ipa": "/rɪˈfjuːtɪd/", "def": "v. 被驳倒（refute：驳斥）【六级/GRE】"},
+    "minute": {"ipa": "/maɪˈnjuːt/", "def": "adj. 细微详尽的（注意：作形容词与名词『分钟』/ˈmɪnɪt/ 读音不同）【四级】"},
+    "coincidences": {"ipa": "/kəʊˈɪnsɪdənsɪz/", "def": "n. 巧合，吻合（coincidence）【四级】"},
+    "undesigned": {"ipa": "/ˌʌndɪˈzaɪnd/", "def": "adj. 非刻意的，无意为之的"},
+    "confirmatory": {"ipa": "/kənˈfɜːmətəri/", "def": "adj. 印证性的（confirm：证实）"},
+    "desolation": {"ipa": "/ˌdesəˈleɪʃn/", "def": "n. 荒凉，荒废【GRE】"},
+    "desolate": {"ipa": "/ˈdesələt/", "def": "adj. 荒凉的【六级/GRE】"},
+    "faithless": {"ipa": "/ˈfeɪθləs/", "def": "adj. 背信的，不忠的"},
+    "indestructible": {"ipa": "/ˌɪndɪˈstrʌktəbl/", "def": "adj. 不可毁坏的（in- + destruct + -ible）"},
+    "quickening": {"ipa": "/ˈkwɪkənɪŋ/", "def": "adj.【古义】使人活的（quicken：使活）"},
+    "potent": {"ipa": "/ˈpəʊtnt/", "def": "adj. 大能的，强有力的【六级/GRE】"},
+    "magnified": {"ipa": "/ˈmæɡnɪfaɪd/", "def": "v. 使显为大（magnify）【六级】"},
+    "two-edged": {"ipa": "/ˌtuː ˈedʒd/", "def": "adj. 两刃的（two-edged sword：两刃剑）"},
+    "intents": {"ipa": "/ɪnˈtents/", "def": "n. 主意，意图（intent）【六级】"},
+    "breaketh": {"ipa": "/ˈbreɪkəθ/", "def": "= breaks（-eth 古词尾）：打碎"},
+    "void": {"ipa": "/vɔɪd/", "def": "adj. 徒然的，落空的（return void：徒然返回）【六级】"},
+    "regeneration": {"ipa": "/rɪˌdʒenəˈreɪʃn/", "def": "n. 重生【GRE】"},
+    "begotten": {"ipa": "/bɪˈɡɒtn/", "def": "v. 蒙（重）生（beget 的过去分词：生）"},
+    "implanted": {"ipa": "/ɪmˈplɑːntɪd/", "def": "adj. 栽种的（implant：栽植）【六级】"},
+    "sanctify": {"ipa": "/ˈsæŋktɪfaɪ/", "def": "v. 使成圣【GRE】"},
+    "reproof": {"ipa": "/rɪˈpruːf/", "def": "n. 督责，责备（reprove 的名词）"},
+    "proceedeth": {"ipa": "/prəˈsiːdəθ/", "def": "= proceeds（-eth 古词尾）：发出（proceed out of：从……口里所出）"},
+    "uprightly": {"ipa": "/ˈʌpraɪtli/", "def": "adv. 正直地（walk uprightly：行动正直）"},
+    "wondrous": {"ipa": "/ˈwʌndrəs/", "def": "adj.【书面】奇妙的（= wonderful）"},
+    "mine": {"ipa": "/maɪn/", "def": "pron.【古】my 的元音前形式（mine eyes = my eyes）；我的（所有物）"},
+    "uninspired": {"ipa": "/ˌʌnɪnˈspaɪəd/", "def": "adj. 未受默示的；平庸的"},
+    "unassisted": {"ipa": "/ˌʌnəˈsɪstɪd/", "def": "adj. 无所凭借的，无助力的"},
+    "grapple": {"ipa": "/ˈɡræpl/", "def": "v. 角力，搏斗（grapple with：与……较力）【GRE】"},
+    "crevice": {"ipa": "/ˈkrevɪs/", "def": "n. 缝隙，裂缝【GRE】"},
+    "certitude": {"ipa": "/ˈsɜːtɪtjuːd/", "def": "n. 确据，确信【GRE】"},
+    "certainty": {"ipa": "/ˈsɜːtnti/", "def": "n. 实理，确实性【四级】"},
+    "deprecates": {"ipa": "/ˈdeprəkeɪts/", "def": "v. 拒斥，非难（deprecate）【GRE】"},
+    "fulfilment": {"ipa": "/fʊlˈfɪlmənt/", "def": "n. 应验，成就（美式拼写 fulfillment）【六级】"},
+    "meekness": {"ipa": "/ˈmiːknəs/", "def": "n. 温柔（meek 的名词）"},
+    "pondered": {"ipa": "/ˈpɒndəd/", "def": "v. 思想，默想（ponder）【六级】"},
+    "devotional": {"ipa": "/dɪˈvəʊʃənl/", "def": "adj. 灵修的，虔敬的（devotion：敬虔）"},
+    "exalts": {"ipa": "/ɪɡˈzɔːlts/", "def": "v. 提升，高举（exalt）【GRE】"},
+    "diminished": {"ipa": "/dɪˈmɪnɪʃt/", "def": "v. 被删减（diminish：减少）【四级】"},
+    "mutilated": {"ipa": "/ˈmjuːtɪleɪtɪd/", "def": "v. 被残割（mutilate：残害肢体，GRE 词）"},
+    "plagues": {"ipa": "/pleɪɡz/", "def": "n. 灾祸，灾病（plague）【六级】"},
+    "apprehension": {"ipa": "/ˌæprɪˈhenʃn/", "def": "n. 领会，理解；忧惧【六级/GRE】"},
+    "abideth": {"ipa": "/əˈbaɪdəθ/", "def": "= abides（-eth 古词尾）：常存，长存"}
+  },
+  "vocab_table": [
+    {"word": "epistle", "ipa": "/ɪˈpɪsl/", "def": "n. 书信（新约使徒书信）"},
+    {"word": "treatise", "ipa": "/ˈtriːtɪs/", "def": "n. 论著，专论"},
+    {"word": "pervade", "ipa": "/pəˈveɪd/", "def": "v. 贯穿，弥漫于"},
+    {"word": "lustre", "ipa": "/ˈlʌstə/", "def": "n. 光彩，光泽"},
+    {"word": "raiment", "ipa": "/ˈreɪmənt/", "def": "n.【古/书面】衣裳"},
+    {"word": "sociology", "ipa": "/ˌsəʊsiˈɒlədʒi/", "def": "n. 社会学"},
+    {"word": "fervid", "ipa": "/ˈfɜːvɪd/", "def": "adj. 炽热的，热切的"},
+    {"word": "interrogate", "ipa": "/ɪnˈterəɡeɪt/", "def": "v. 究问，讯问"},
+    {"word": "cosmopolitan", "ipa": "/ˌkɒzməˈpɒlɪtən/", "def": "adj. 世界性的"},
+    {"word": "refute", "ipa": "/rɪˈfjuːt/", "def": "v. 驳斥，驳倒"},
+    {"word": "desolation", "ipa": "/ˌdesəˈleɪʃn/", "def": "n. 荒凉，荒废"},
+    {"word": "potent", "ipa": "/ˈpəʊtnt/", "def": "adj. 大能的，强有力的"},
+    {"word": "regeneration", "ipa": "/rɪˌdʒenəˈreɪʃn/", "def": "n. 重生"},
+    {"word": "sanctify", "ipa": "/ˈsæŋktɪfaɪ/", "def": "v. 使成圣"},
+    {"word": "grapple", "ipa": "/ˈɡræpl/", "def": "v. 角力，搏斗"},
+    {"word": "crevice", "ipa": "/ˈkrevɪs/", "def": "n. 缝隙，裂缝"},
+    {"word": "certitude", "ipa": "/ˈsɜːtɪtjuːd/", "def": "n. 确据，确信"},
+    {"word": "deprecate", "ipa": "/ˈdeprəkeɪt/", "def": "v. 拒斥，非难"},
+    {"word": "devotional", "ipa": "/dɪˈvəʊʃənl/", "def": "adj. 灵修的，虔敬的"},
+    {"word": "exalt", "ipa": "/ɪɡˈzɔːlt/", "def": "v. 提升，高举"},
+    {"word": "mutilate", "ipa": "/ˈmjuːtɪleɪt/", "def": "v. 残割，残害"},
+    {"word": "apprehension", "ipa": "/ˌæprɪˈhenʃn/", "def": "n. 领会，理解；忧惧"},
+    {"word": "wondrous", "ipa": "/ˈwʌndrəs/", "def": "adj.【书面】奇妙的"}
+  ]
+}

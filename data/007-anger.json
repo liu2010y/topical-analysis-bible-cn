@@ -1,0 +1,117 @@
+{
+  "num": "007",
+  "title_en": "ANGER OF MAN",
+  "title_zh": "人的怒气",
+  "html_name": "007-Anger-人的怒气.html",
+  "pages": "原书 p. 19–20",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ANGER OF MAN; Wrath; Vengeance. See Condemnation (Wrath of God).",
+          "zh": "人的怒气；忿怒；报复。（神的忿怒另参主题词条：定罪 Condemnation。）",
+          "grammar": [
+            {"id": "headline-style", "note": "词条标题：主题词＋分号并列近义词，并用 See 指出相关词条。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、怒气的恶果 / The Evil of Anger",
+      "blocks": [
+        {
+          "en": "Prov. 27:4. Wrath is cruel, and anger is overwhelming. Prov. 29:22. An angry man stirreth up strife. Prov. 14:17. He that is soon angry dealeth foolishly.",
+          "zh": "箴言 27:4 —— 忿怒为残忍，怒气为狂澜。29:22 —— 好气的人挑启争端。14:17 —— 轻易发怒的，行事愚妄。",
+          "bsb": "Proverbs 27:4",
+          "grammar": [
+            {"id": "him-that-relative", "note": "He that is soon angry = he who is quickly angered（轻易发怒的人）。"},
+            {"id": "eth-est-endings", "note": "stirreth = stirs（挑动），dealeth = deals（行事）。"}
+          ]
+        },
+        {
+          "en": "Eph. 4:31. Let all bitterness, and wrath, and anger be put away from you, with all malice. Col. 3:8. Ps. 37:8. Rom. 12:19. Eph. 6:4.",
+          "zh": "以弗所书 4:31 —— 一切苦毒、恼恨、忿怒……并一切的恶毒，都当从你们中间除掉。另参：歌罗西书 3:8；诗篇 37:8；罗马书 12:19；以弗所书 6:4（不要惹儿女的气）。",
+          "bsb": "Ephesians 4:31",
+          "grammar": [
+            {"id": "let-imperative", "note": "Let all bitterness … be put away：Let + 第三人称的被动祈使（愿这一切都被除掉）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、制怒的智慧 / Wisdom in Restraining Anger",
+      "blocks": [
+        {
+          "en": "Prov. 15:1. A soft answer turneth away wrath, but a grievous word stirreth up anger. VI. 330. Prov. 29:11. A fool uttereth all his anger, but a wise man keepeth it back and stilleth it. VI. 418.",
+          "zh": "箴言 15:1 —— 回答柔和，使怒消退；言语暴戾，触动怒气。29:11 —— 愚妄人怒气全发，智慧人忍气含怒。",
+          "bsb": "Proverbs 15:1",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "turneth / stirreth / uttereth / keepeth / stilleth：全部是 -eth 第三人称单数（= turns / stirs / utters / keeps / stills）。"}
+          ]
+        },
+        {
+          "en": "Eccles. 7:9. Be not hasty in thy spirit to be angry, for anger resteth in the bosom of fools. Eph. 4:26. Be ye angry, and sin not; let not the sun go down upon your wrath. James 1:19. Slow to wrath. Prov. 14:29. He that is slow to anger is of great understanding. VI. 326.",
+          "zh": "传道书 7:9 —— 你不要心里急躁恼怒，因为恼怒存在愚昧人的怀中。以弗所书 4:26 —— 生气却不要犯罪，不可含怒到日落。雅各书 1:19 —— 慢慢地动怒。箴言 14:29 —— 不轻易发怒的，大有聪明。",
+          "bsb": "Ecclesiastes 7:9",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Be not hasty / sin not / let not the sun go down：三个古体否定祈使，均不用 do。"},
+            {"id": "kjv-pronouns", "note": "Be ye angry：祈使句保留主语 ye（你们）。"}
+          ]
+        },
+        {
+          "en": "Prov. 16:32. VI. 343, 4. Prov. 19:11. VI. 359. Prov. 20:22. VI. 366. Prov. 24:29. VI. 398. Prov. 25:21, 22, 28. VI. 402.",
+          "zh": "另参：箴言 16:32（不轻易发怒的，胜过勇士；治服己心的，强如取城）；19:11（人有见识，就不轻易发怒）；20:22（不要说：我要以恶报恶）；24:29；25:21-22, 28。",
+          "bsb": "Proverbs 16:32"
+        }
+      ]
+    },
+    {
+      "heading": "三、伸冤在神 / Vengeance Belongs to God",
+      "blocks": [
+        {
+          "en": "Deut. 32:35. To Me belongeth vengeance, and recompense. Ps. 94:1. Rom. 12:19. Heb. 10:30. III. 439.",
+          "zh": "申命记 32:35 —— 他们失脚的时候，伸冤报应在我。另参：诗篇 94:1（耶和华啊，你是伸冤的神）；罗马书 12:19（主说，伸冤在我，我必报应）；希伯来书 10:30。",
+          "bsb": "Deuteronomy 32:35",
+          "grammar": [
+            {"id": "inversion", "note": "To Me belongeth vengeance：状语前置引起倒装（= vengeance belongs to Me，伸冤在我）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "wrath": {"ipa": "/rɒθ/", "def": "n. 忿怒，震怒（比 anger 更烈的书面语）【六级/GRE】"},
+    "vengeance": {"ipa": "/ˈvendʒəns/", "def": "n. 报复，伸冤【六级/GRE】"},
+    "overwhelming": {"ipa": "/ˌəʊvəˈwelmɪŋ/", "def": "adj. 势不可挡的，狂澜般的【四级】"},
+    "stirreth": {"ipa": "/ˈstɜːrəθ/", "def": "= stirs（-eth 古词尾）：挑动，激起（stir up strife：挑启争端）"},
+    "strife": {"ipa": "/straɪf/", "def": "n. 争端，冲突【六级/GRE】"},
+    "dealeth": {"ipa": "/ˈdiːləθ/", "def": "= deals（-eth 古词尾）：行事"},
+    "foolishly": {"ipa": "/ˈfuːlɪʃli/", "def": "adv. 愚妄地，愚蠢地"},
+    "bitterness": {"ipa": "/ˈbɪtənəs/", "def": "n. 苦毒，怨恨【四级】"},
+    "malice": {"ipa": "/ˈmælɪs/", "def": "n. 恶毒，恶意【六级/GRE】"},
+    "turneth": {"ipa": "/ˈtɜːnəθ/", "def": "= turns（-eth 古词尾）：使转移（turn away wrath：使怒气消退）"},
+    "grievous": {"ipa": "/ˈɡriːvəs/", "def": "adj. 暴戾的，沉重的（grievous word：暴戾的话）【GRE】"},
+    "uttereth": {"ipa": "/ˈʌtərəθ/", "def": "= utters（-eth 古词尾）：发出，倾吐"},
+    "keepeth": {"ipa": "/ˈkiːpəθ/", "def": "= keeps（-eth 古词尾）：忍住（keep back：抑制）"},
+    "stilleth": {"ipa": "/ˈstɪləθ/", "def": "= stills（-eth 古词尾）：平息，使安静"},
+    "hasty": {"ipa": "/ˈheɪsti/", "def": "adj. 急躁的，仓促的【四级】"},
+    "resteth": {"ipa": "/ˈrestəθ/", "def": "= rests（-eth 古词尾）：存留，安居"},
+    "bosom": {"ipa": "/ˈbʊzəm/", "def": "n. 怀，胸怀【六级】"},
+    "belongeth": {"ipa": "/bɪˈlɒŋəθ/", "def": "= belongs（-eth 古词尾）：属于"},
+    "recompense": {"ipa": "/ˈrekəmpens/", "def": "n./v. 报应，报偿【GRE】"},
+    "restraining": {"ipa": "/rɪˈstreɪnɪŋ/", "def": "v. 克制，约束（restrain）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "wrath", "ipa": "/rɒθ/", "def": "n. 忿怒，震怒（比 anger 更烈的书面语）"},
+    {"word": "vengeance", "ipa": "/ˈvendʒəns/", "def": "n. 报复，伸冤"},
+    {"word": "strife", "ipa": "/straɪf/", "def": "n. 争端，冲突"},
+    {"word": "malice", "ipa": "/ˈmælɪs/", "def": "n. 恶毒，恶意"},
+    {"word": "bitterness", "ipa": "/ˈbɪtənəs/", "def": "n. 苦毒，怨恨"},
+    {"word": "hasty", "ipa": "/ˈheɪsti/", "def": "adj. 急躁的，仓促的"},
+    {"word": "bosom", "ipa": "/ˈbʊzəm/", "def": "n. 怀，胸怀"},
+    {"word": "grievous", "ipa": "/ˈɡriːvəs/", "def": "adj. 暴戾的，沉重的"},
+    {"word": "recompense", "ipa": "/ˈrekəmpens/", "def": "n./v. 报应，报偿"},
+    {"word": "restrain", "ipa": "/rɪˈstreɪn/", "def": "v. 克制，约束"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "num": "025",
+  "title_en": "CALLING, Life Occupation",
+  "title_zh": "蒙召的职业（人生的天职）",
+  "html_name": "025-Calling-天职.html",
+  "pages": "原书 p. 48",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CALLING, Life Occupation; Every Calling Divine. Bezaleel and Aholiab. II. 285, 6. 1 Cor. 7:20-24. XI. 301.",
+          "zh": "天职——人生的职业；一切正当的职业都是神圣的呼召。例证：比撒列与亚何利亚伯（出埃及记 31 章——神以自己的灵充满他们，使他们有智慧、聪明、知识，能做各样的巧工，为建造会幕）。哥林多前书 7:20-24 —— 各人蒙召的时候是什么身份，仍要守住这身份。……弟兄们，你们各人蒙召的时候是什么身份，仍要在神面前守住这身份。【OCR 注：原书 \"1 Cor. 1:20-24\" 依主题与卷页号推定为 7:20-24。】",
+          "bsb": "1 Corinthians 7:20",
+          "grammar": [
+            {"id": "ellipsis", "note": "Every Calling (is) Divine：省略系动词的纲要句——本词条的论点：连工匠的手艺（比撒列的金工木工）也是出于神灵充满的呼召。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "calling": {"ipa": "/ˈkɔːlɪŋ/", "def": "n. 天职，职业；呼召（内含『蒙召』的宗教意味）【四级】"},
+    "occupation": {"ipa": "/ˌɒkjuˈpeɪʃn/", "def": "n. 职业【四级】"}
+  },
+  "vocab_table": [
+    {"word": "calling", "ipa": "/ˈkɔːlɪŋ/", "def": "n. 天职，职业；呼召"},
+    {"word": "occupation", "ipa": "/ˌɒkjuˈpeɪʃn/", "def": "n. 职业"}
+  ]
+}

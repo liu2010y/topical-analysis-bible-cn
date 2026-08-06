@@ -1,0 +1,214 @@
+{
+  "num": "011",
+  "title_en": "ARCHEOLOGY AND EXPLORATION",
+  "title_zh": "考古学与考察",
+  "html_name": "011-Archeology-考古学.html",
+  "pages": "原书 p. 21–24",
+  "ocr_note": "本词条为长篇论述（A. C. Zenos 执笔，附 Hilprecht、Sayce 论述摘录），扫描中人名、书名多有讹误，已据文义与史实修复（如 Brngsch→Brugsch）。",
+  "sections": [
+    {
+      "heading": "标题与参考条目 / Title & References",
+      "blocks": [
+        {
+          "en": "ARCHEOLOGY AND EXPLORATION. Some References: Assyrian Discovery, I. 66-68. Antiquity of Man, I. 145. Rosetta Stone, I. 501. Moabite Stone, VII. 86, 7, 166. Stone of Temple Wall, X. 621. See Criticism.",
+          "zh": "考古学与考察。若干参考条目：亚述的发现；人类的古远；罗塞塔石碑；摩押石碑；圣殿墙石。另参主题词条：批评学（Criticism）。",
+          "bsb": false,
+          "grammar": [
+            {"id": "headline-style", "note": "标题＋参考条目列表，均为名词短语。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、东方考古学的范围与成果 / Scope and Results",
+      "blocks": [
+        {
+          "en": "In its broader sense Oriental archeology includes all that may be made known of Oriental lands and peoples. The Bible may be used as one of its sources. The extra-Biblical sources are the fragmentary notices of ancient historians and the discoveries of recent excavators and explorers. During the last half century the extra-Biblical source has been made to yield a vast array of facts.",
+          "zh": "就其广义而言，东方考古学涵盖一切可以查知的关于东方各地与各民族的知识。圣经可以作为它的资料来源之一；圣经以外的来源，则是古代史家的零星记载，以及近代发掘者与考察者的发现。在过去的半个世纪里，这些圣经以外的来源已经产出了极其可观的大量事实。",
+          "grammar": [
+            {"note": "all that may be made known of…：that 引导定语从句修饰 all（一切可以被查知的……）；has been made to yield：使役动词 make 的被动式后接不定式要还原 to（被促使产出）。"}
+          ]
+        },
+        {
+          "en": "The labors of Societies and individuals have enriched the museums of Europe with a vast store of interesting articles from antiquity, besides occasioning the erection of local museums for the care of such articles as might not be removed from the scene of their discovery. Rock and wall inscriptions have been copied with exemplary accuracy. Temples, columns, statues, monoliths, and obelisks have been studied, photographed, and described in detail. Cylinders, seals, coins, funeral tablets, contract tablets, papyrus rolls and slabs have been collected, and the inscriptions on them have been reproduced in facsimile impressions.",
+          "zh": "各学会与个人的辛劳，使欧洲的博物馆充实了来自上古的大批珍贵文物；对于那些不宜移离发现地的文物，还促成了当地博物馆的建立以妥为保管。岩壁与墙面的铭文已按堪称典范的精确度誊录；神庙、石柱、雕像、独石碑、方尖碑都经过研究、拍摄并详加著录；圆柱印、印章、钱币、墓志泥板、契约泥板、纸草卷与石板均已收集，其上的铭文也以摹真本复制刊布。",
+          "grammar": [
+            {"note": "besides occasioning…：besides + 动名词作补充状语（此外还促成了……）；such articles as might not be removed：such…as… 引导定语从句（那些不宜移走的文物），as 从句中用 might 表委婉。"}
+          ]
+        },
+        {
+          "en": "The whole territory of Egypt, Mesopotamia, Arabia, Syria, Phoenicia, and Palestine has been surveyed and accurately mapped out, with a view to bringing before the mind the precise surroundings within which events occurred. To bring about these results two classes of patient, specially qualified, hard-working scholars have devoted their time and energy, viz., the explorers and excavators on the field and in the midst of the mounds and ruins of the East, and philologists and historians in European museums, who have taken the discoveries of the excavators, deciphered them, arranged them, and out of their contents have written the histories of the Egyptians, the Hittites, the Chaldeans, the Assyrians, the Babylonians, and the Persians.",
+          "zh": "埃及、美索不达米亚、阿拉伯、叙利亚、腓尼基与巴勒斯坦的全部疆域都已经过勘测并精确绘制成图，为要把历史事件发生时的确切环境呈现在人的心目之前。为促成这些成果，有两类耐心、专精、勤勉的学者倾注了时间与精力：一类是在东方的丘冢废墟之间从事田野工作的考察者与发掘者；另一类是欧洲博物馆中的语文学家与历史学家——他们接过发掘者的发现，加以释读、整理，并从其内容中写出了埃及人、赫人、迦勒底人、亚述人、巴比伦人和波斯人的历史。",
+          "grammar": [
+            {"note": "with a view to bringing…：with a view to + 动名词（为要……），to 是介词；viz. 读作 namely，『即，也就是』；句末 who 引导的定语从句含四个并列谓语（have taken… deciphered… arranged… have written…）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、考古学为批评学设定的界限 / Limits Set for Criticism",
+      "blocks": [
+        {
+          "en": "Archeology has made known a large number of historical facts, in the light of which certain views become absolutely certain and their opposites absolutely untenable. It has therefore thus set some general limits within which criticism must move. Some of these may be stated as follows:",
+          "zh": "考古学已经揭示了大量历史事实；在这些事实的光照之下，某些观点变得绝对确定，而其对立面则绝对站不住脚。因此，考古学为批评学划定了若干必须在其中活动的总体界限。兹举其要者如下：",
+          "grammar": [
+            {"id": "prep-relative", "note": "in the light of which… / within which criticism must move：介词短语＋关系代词 which，先行词分别为 facts 和 limits。"}
+          ]
+        },
+        {
+          "en": "1. The general credibility of Biblical history. Formerly criticism was free to begin with the assumption that the historic accounts in the books of the Bible were not credible. Archeology now changes the situation. It says to the critic that that assumption is not only arbitrary but contrary to all the known facts. This result archeology has brought about by throwing considerable light on the darkest and most isolated portions of the Biblical history—the patriarchal age and the monarchical age of Israel.",
+          "zh": "一、圣经历史的总体可信性。从前，批评学尽可以从『圣经各卷中的历史记载不可信』这一假设出发；如今考古学改变了这个局面。它告诉批评家：那个假设不仅武断，而且与一切已知事实相悖。考古学之所以能带来这一结果，是因为它照亮了圣经历史中最幽暗、最孤立的部分——族长时代与以色列王国时代。",
+          "grammar": [
+            {"id": "inversion", "note": "This result archeology has brought about…：宾语前置（= archeology has brought about this result…），承接上文并强调。"},
+            {"id": "apposition", "note": "the assumption that the historic accounts … were not credible：that 引导同位语从句，说明 assumption 的内容。"}
+          ]
+        },
+        {
+          "en": "2. There is a special correlation of the history gathered from the monuments with the history recorded in the Biblical sources. The Egypt of the Exodus corresponds with the Egypt of the period of the Exodus as read in the hieroglyphics. The accounts of the kings of Judah and Israel fit into the accounts of the conditions of the world as found in the Assyrian tablets. Ahab, Jehu, Benhadad, Azariah, Menahem, Pekah, Hoshea, Rezon, Jehoahaz, Hezekiah, are names which occur in the Assyrian monuments, and what is said of them positively coincides with what is recorded in the Biblical books as far as the two accounts touch on the same points, and neither account renders impossible the truthfulness of the other at those points where they do not touch. These histories dovetail into one another. Any results of criticism that would undertake to dislocate and rearrange this history, so constructed and verified by facts drawn from two sources, must now settle its accounts, not with the Bible merely, but with Oriental archeology also.",
+          "zh": "二、碑铭史料与圣经史料之间存在特殊的呼应。出埃及记里的埃及，与象形文字所载同时期的埃及相符；犹大和以色列诸王的记载，与亚述泥板所见的天下情势彼此吻合。亚哈、耶户、便哈达、亚撒利雅、米拿现、比加、何细亚、利汛、约哈斯、希西家——这些名字都出现在亚述碑铭中；凡两种记载触及同一史事之处，碑铭所述与圣经所载确然一致；而在彼此未曾相涉之处，任何一方也不曾使另一方的真实性成为不可能。这两套历史彼此榫合、互相嵌接。批评学若要把这部由两种来源的事实共同构筑并验证的历史拆散重排，如今就不仅要向圣经交账，还得向东方考古学交账。",
+          "grammar": [
+            {"note": "as read in the hieroglyphics / as found in the Assyrian tablets：as + 过去分词的省略从句（= as it is read / as they are found，按象形文字所载）。so constructed and verified by…：过去分词短语作后置定语，so 指『以上述方式』。not with the Bible merely, but with … also：not…merely, but…also 关联结构。"}
+          ]
+        },
+        {
+          "en": "3. Archeology renders untenable any theories which assume false positions regarding literary work in early and Oriental surroundings. The date of the beginning of the art of writing has been set much farther back than it was commonly supposed to be before the dawn of modern archeological science. The first historical critics of the Pentateuch denied its Mosaic authorship, partly on the assumption that the art of writing was not known at the time of Moses. Such a conclusion would now find itself face to face with the remains of the art of writing that come from centuries, if not, as some say, millenniums, before the time of Moses. One may now actually see in the museums of Europe papyri from Egypt, tablets from Assyria, and inscriptions from Babylonia which antedate Moses.",
+          "zh": "三、凡对早期东方著述环境持错误预设的理论，考古学都使之无法成立。书写艺术起源的年代，已被推到比现代考古科学兴起以前人们通常设想的远为古早。最早否认摩西五经出自摩西之手的历史批评家，部分理由正是假定摩西时代尚不知有书写之术。这样的结论如今将不得不直面那些早于摩西数百年——甚至如有人所说早出数千年——的书写遗存。今天人们在欧洲的博物馆里，实实在在可以看到早于摩西的埃及纸草、亚述泥板和巴比伦铭文。",
+          "grammar": [
+            {"note": "renders untenable any theories…：render + 宾语补足语前置（使……站不住脚），宾语较长时补语提前是正式文体常态。if not, as some say, millenniums：插入语套插入语——『如果不是（如某些人所说的）数千年的话』。"}
+          ]
+        },
+        {
+          "en": "4. Archeology and Chronology. Strictly speaking, there is no chronology in the Biblical records, but only chronological data. Now, if archeology throws light on the nature and mode of using the chronological data above mentioned, and if, above all, it enable the critic to proceed not on the basis of assumptions, but of well-established facts, in building his chronology, the use of the historical argument will be strengthened by so much. As a matter of fact, this has been a most fertile field of research and a source of many valuable results. Many of the prophetic discourses of Isaiah and Jeremiah, not to speak of others of the Biblical writers, have received an immense amount of light in this way. The chronological and historical data furnished by archeology have enabled critics to rearrange and to surround these writings with their natural environments. It is thus made possible to realize, in a measure, the situations within which they were first used. — A. C. Zenos, \"Elements of the Higher Criticism.\"",
+          "zh": "四、考古学与年代学。严格说来，圣经的记载中并没有现成的年代学，只有年代学的素材。那么，考古学若能照明上述年代素材的性质与使用方法，尤其若能使批评家在构建年代体系时不再基于假设、而是基于确凿的事实，历史论证的效力就将随之增强。事实上，这正是一块极其丰饶的研究园地，出产了许多宝贵成果。以赛亚书和耶利米书中的许多先知讲论——更不用说其他圣经作者的作品——都借此获得了大量的光照。考古学提供的年代与历史资料，使批评家得以重新编排这些著作，并将它们置回其原生的历史环境之中；这样，人们才有可能在一定程度上体认这些话语最初被使用时的处境。——A. C. 齐诺斯（A. C. Zenos），《高等批评学要义》",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "if … it enable the critic to proceed：enable 用原形（不作 enables），if 从句中的现在时虚拟语气，正式书面语。"},
+            {"note": "not to speak of…：插入语，『更不用说……』；in a measure：『在一定程度上』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、论述摘录 / Extracts",
+      "blocks": [
+        {
+          "en": "The monuments are brought to light just at the time when we are prepared by scientific knowledge to understand them, and by the historic spirit to appreciate them. In any earlier age they would have been lost, destroyed, or wasted. It is now in place to use the word \"illustrate\" almost exclusively, instead of \"confirm,\" in describing the Biblical function of the monuments. The stadium of needed vindication of the historical accuracy of the Old Testament is now as good as past in our progress toward the final goal of truth and knowledge. — H. V. Hilprecht.",
+          "zh": "【摘录】这些碑铭古迹恰恰在我们既有科学知识足以理解它们、又有历史精神足以珍视它们的时代重见天日；若在更早的任何时代出土，它们早已散失、毁坏或糟蹋掉了。如今描述碑铭古迹对圣经的功用时，几乎可以专用『印证说明』（illustrate）一词，而不必再说『证实』（confirm）——在我们迈向真理与知识这一终极目标的进程中，为旧约历史准确性作辩护的那个阶段，如今可以说已经过去了。——H. V. 希尔普雷希特（H. V. Hilprecht）",
+          "grammar": [
+            {"note": "In any earlier age they would have been lost…：would have + 过去分词，对过去的虚拟（若在更早时代必已散失）——条件隐含在状语 In any earlier age 中。as good as past：习语，『几乎等于过去了』。stadium 此处为拉丁义『阶段』（= stage）。"}
+          ]
+        },
+        {
+          "en": "Egyptian civilization is at the very outset full-grown. The monumental history of Egypt gives no countenance to the theories of to-day which derive civilized man, by a slow process of evolution, out of a brute-like ancestor. So far as excavation has made it known to us, it is a history, not of evolution and progress, but of retrogression and decay. … The age of the Hebrew Patriarchs lies exposed to the full glare of history. It is not prehistoric; it does not even belong to the dawn of civilization. We possess an abundance of contemporaneous records which enable us to test the truthfulness and credibility of the narratives of the Old Testament. And the narratives fully stand the test. … The discovery of the tablets of Tel-el-Amarna shows how extensive were the knowledge and use of writing throughout the East in the time of Moses. We know now that, so far from being an illiterate age, it was an age of the highest literary activity, and it would be nothing short of a miracle if the Israelites alone, in the midst of literary populations like the Canaanites, the Egyptians, and the Babylonians, should have been in a state of intellectual slumber. — A. H. Sayce.",
+          "zh": "【摘录】埃及文明在其最初起点上就已经是成熟的。埃及的碑铭历史丝毫不支持今日那种主张文明人经由缓慢进化、从类兽祖先演变而来的理论。就发掘所能告诉我们的而言，那是一部退化衰败的历史，而非进化进步的历史。……希伯来族长的时代完全暴露在历史的强光之下：它并非史前时期，甚至算不上文明的黎明。我们拥有大量同时代的文献，足以检验旧约叙事的真实性与可信性——而这些叙事完全经得起检验。……泰勒·阿马尔纳泥板的发现表明，摩西时代书写知识在整个东方的运用何等普遍。我们如今知道，那非但不是一个不识文字的时代，反而是文字活动最兴盛的时代；若说在迦南人、埃及人、巴比伦人这些惯于著述的民族环伺之中，独独以色列人处于心智沉睡的状态，那简直无异于一个奇迹。——A. H. 塞斯（A. H. Sayce）",
+          "grammar": [
+            {"id": "inversion", "note": "how extensive were the knowledge and use of writing：感叹性宾语从句中表语前置引起倒装（= how extensive the knowledge and use … were）。"},
+            {"note": "so far from being an illiterate age：『非但不是……』；nothing short of a miracle：『简直就是奇迹』；if … should have been：if + should 表极不可能的假设（竟然会……）。"}
+          ]
+        },
+        {
+          "en": "On the relations of archeology to the Higher Criticism, see Sayce, The Higher Criticism and the Monuments, 1895; and cf. The Records of the Past, published by S. Bagster, 1873 and onward; By-Paths of Bible Knowledge, published by the Religious Tract Society, 1883 and onward; St. Clair, Buried Cities, 1892; Brugsch, Egypt under the Pharaohs, new edition, 1891; Flinders Petrie, Egyptian Tales from the Papyri, 1895; Schrader, Die Keilinschriften und das Alte Testament, 1872, 2d ed. 1883 (English translation: The Cuneiform Inscriptions and the Old Testament, 1885-86); McCurdy, Prophecy, History, and the Monuments, 1894. — A. C. Zenos. See also Hilprecht, Recent Researches in Bible Lands; and note current explorations and discoveries in Egypt and the Desert, Syria and Palestine, Babylonia and Assyria.",
+          "zh": "【书目】关于考古学与高等批评学的关系，参塞斯《高等批评学与碑铭古迹》（1895）；另参《往古实录》（S. Bagster 刊行，1873 起）；《圣经知识小径丛书》（宗教小册会刊行，1883 起）；圣克莱尔《埋没的城市》（1892）；布鲁格施《法老治下的埃及》（新版，1891）；弗林德斯·皮特里《纸草中的埃及故事》（1895）；施拉德《楔形文字铭文与旧约》（1872；1883 年二版；英译本《楔形铭文与旧约》，1885-86）；麦柯迪《预言、历史与碑铭》（1894）。——A. C. 齐诺斯。另见希尔普雷希特《圣经地域考察新得》；并请留意埃及与沙漠地带、叙利亚与巴勒斯坦、巴比伦与亚述的最新考察发现。【OCR 注：出版者名原书扫描作 \"S. Baxter\"，据史实为 S. Bagster（圣经出版商）；\"Brngsch\" 修复为 Brugsch。】",
+          "bsb": false
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "archeology": {"ipa": "/ˌɑːkiˈɒlədʒi/", "def": "n. 考古学（= archaeology）【六级】"},
+    "archeological": {"ipa": "/ˌɑːkiəˈlɒdʒɪkl/", "def": "adj. 考古学的"},
+    "exploration": {"ipa": "/ˌekspləˈreɪʃn/", "def": "n. 考察，勘探【四级】"},
+    "antiquity": {"ipa": "/ænˈtɪkwəti/", "def": "n. 上古；古物，古董【六级/GRE】"},
+    "fragmentary": {"ipa": "/ˈfræɡməntri/", "def": "adj. 零星的，碎片式的"},
+    "excavators": {"ipa": "/ˈekskəveɪtəz/", "def": "n. 发掘者（excavate：发掘）【六级】"},
+    "excavation": {"ipa": "/ˌekskəˈveɪʃn/", "def": "n. 发掘，挖掘【六级】"},
+    "occasioning": {"ipa": "/əˈkeɪʒənɪŋ/", "def": "v. 促成，引起（occasion 作动词）"},
+    "erection": {"ipa": "/ɪˈrekʃn/", "def": "n. 建立，建造（erect：建立）【六级】"},
+    "inscriptions": {"ipa": "/ɪnˈskrɪpʃnz/", "def": "n. 铭文，碑文（inscribe：铭刻）【六级/GRE】"},
+    "exemplary": {"ipa": "/ɪɡˈzempləri/", "def": "adj. 堪称典范的【GRE】"},
+    "monoliths": {"ipa": "/ˈmɒnəlɪθs/", "def": "n. 独石碑（mono- 单一 + lith 石）"},
+    "obelisks": {"ipa": "/ˈɒbəlɪsks/", "def": "n. 方尖碑"},
+    "papyrus": {"ipa": "/pəˈpaɪrəs/", "def": "n. 纸草，纸草文献（复数 papyri /pəˈpaɪraɪ/）"},
+    "papyri": {"ipa": "/pəˈpaɪraɪ/", "def": "n. 纸草文献（papyrus 的复数）"},
+    "slabs": {"ipa": "/slæbz/", "def": "n. 石板，厚板（slab）【六级】"},
+    "facsimile": {"ipa": "/fækˈsɪməli/", "def": "n. 摹真本，精确复制品（fax 即其缩写）【GRE】"},
+    "surveyed": {"ipa": "/səˈveɪd/", "def": "v. 勘测（survey）【四级】"},
+    "viz": {"ipa": "/vɪz/", "def": "abbr. 即，也就是（拉丁 videlicet 的缩写，读作 namely）"},
+    "mounds": {"ipa": "/maʊndz/", "def": "n. 丘冢，土墩（考古遗址的土丘）【六级】"},
+    "philologists": {"ipa": "/fɪˈlɒlədʒɪsts/", "def": "n. 语文学家（philology：语文学，historical linguistics 的旧称）"},
+    "deciphered": {"ipa": "/dɪˈsaɪfəd/", "def": "v. 释读，破译（decipher）【六级/GRE】"},
+    "untenable": {"ipa": "/ʌnˈtenəbl/", "def": "adj. 站不住脚的，难以维持的【GRE】"},
+    "credibility": {"ipa": "/ˌkredəˈbɪləti/", "def": "n. 可信性【六级】"},
+    "credible": {"ipa": "/ˈkredəbl/", "def": "adj. 可信的【六级】"},
+    "assumption": {"ipa": "/əˈsʌmpʃn/", "def": "n. 假设，预设【四级】"},
+    "arbitrary": {"ipa": "/ˈɑːbɪtrəri/", "def": "adj. 武断的，任意的【四级】"},
+    "patriarchal": {"ipa": "/ˌpeɪtriˈɑːkl/", "def": "adj. 族长（时代）的（patriarch：族长）"},
+    "patriarchs": {"ipa": "/ˈpeɪtriɑːks/", "def": "n. 族长（指亚伯拉罕、以撒、雅各；ch 读 /k/）"},
+    "monarchical": {"ipa": "/məˈnɑːkɪkl/", "def": "adj. 王国（王政）时代的（monarch：君主）"},
+    "correlation": {"ipa": "/ˌkɒrəˈleɪʃn/", "def": "n. 呼应，相关性【六级】"},
+    "hieroglyphics": {"ipa": "/ˌhaɪərəˈɡlɪfɪks/", "def": "n. （埃及）象形文字"},
+    "coincides": {"ipa": "/ˌkəʊɪnˈsaɪdz/", "def": "v. 一致，吻合（coincide with）【四级】"},
+    "dovetail": {"ipa": "/ˈdʌvteɪl/", "def": "v. 榫合，紧密吻合（原义：燕尾榫）【GRE】"},
+    "dislocate": {"ipa": "/ˈdɪsləkeɪt/", "def": "v. 使脱节，打乱【六级】"},
+    "rearrange": {"ipa": "/ˌriːəˈreɪndʒ/", "def": "v. 重新编排"},
+    "pentateuch": {"ipa": "/ˈpentətjuːk/", "def": "n. 摩西五经（penta- 五 + teuch 卷）"},
+    "mosaic": {"ipa": "/məʊˈzeɪɪk/", "def": "adj.（大写）摩西的（Mosaic authorship：摩西著作权）；n.（小写）马赛克"},
+    "authorship": {"ipa": "/ˈɔːθəʃɪp/", "def": "n. 著作权，作者身份"},
+    "millenniums": {"ipa": "/mɪˈleniəmz/", "def": "n. 千年（millennium，复数亦作 millennia）【六级】"},
+    "antedate": {"ipa": "/ˌæntiˈdeɪt/", "def": "v. 早于，先于（ante- 前 + date）【GRE】"},
+    "chronology": {"ipa": "/krəˈnɒlədʒi/", "def": "n. 年代学，年表【六级/GRE】"},
+    "chronological": {"ipa": "/ˌkrɒnəˈlɒdʒɪkl/", "def": "adj. 按年代的，年代学的【六级】"},
+    "fertile": {"ipa": "/ˈfɜːtaɪl/", "def": "adj. 丰饶的，富于成果的【四级】"},
+    "prophetic": {"ipa": "/prəˈfetɪk/", "def": "adj. 先知的，预言的"},
+    "discourses": {"ipa": "/ˈdɪskɔːsɪz/", "def": "n. 讲论，论述（discourse）【六级】"},
+    "immense": {"ipa": "/ɪˈmens/", "def": "adj. 巨大的，极多的【四级】"},
+    "furnished": {"ipa": "/ˈfɜːnɪʃt/", "def": "v. 提供（furnish = provide）；布置家具【四级】"},
+    "vindication": {"ipa": "/ˌvɪndɪˈkeɪʃn/", "def": "n. 辩护，昭雪（vindicate：为……辩白）【GRE】"},
+    "stadium": {"ipa": "/ˈsteɪdiəm/", "def": "n.【此处拉丁义】阶段（= stage）；现代义：体育场【四级】"},
+    "countenance": {"ipa": "/ˈkaʊntənəns/", "def": "n.【此处特殊义】支持，赞同（give no countenance to：绝不支持）；面容【GRE】"},
+    "brute-like": {"ipa": "/ˈbruːt laɪk/", "def": "adj. 类兽的（brute：野兽）"},
+    "ancestor": {"ipa": "/ˈænsestə/", "def": "n. 祖先【四级】"},
+    "retrogression": {"ipa": "/ˌretrəˈɡreʃn/", "def": "n. 退化，倒退（retro- 向后 + gress 行走）"},
+    "decay": {"ipa": "/dɪˈkeɪ/", "def": "n./v. 衰败，腐朽【四级】"},
+    "prehistoric": {"ipa": "/ˌpriːhɪˈstɒrɪk/", "def": "adj. 史前的【六级】"},
+    "glare": {"ipa": "/ɡleə/", "def": "n. 强光，刺眼的光（the full glare of history：历史的强光之下）【六级】"},
+    "contemporaneous": {"ipa": "/kənˌtempəˈreɪniəs/", "def": "adj. 同时代的【GRE】"},
+    "narratives": {"ipa": "/ˈnærətɪvz/", "def": "n. 叙事，记事（narrative）【六级】"},
+    "illiterate": {"ipa": "/ɪˈlɪtərət/", "def": "adj. 不识字的，无文字的【六级】"},
+    "slumber": {"ipa": "/ˈslʌmbə/", "def": "n./v. 沉睡（intellectual slumber：心智的沉睡）【GRE】"},
+    "cuneiform": {"ipa": "/kjuːˈneɪɪfɔːm/", "def": "adj./n. 楔形文字（的）"},
+    "criticism": {"ipa": "/ˈkrɪtɪsɪzəm/", "def": "n. 批评学（Higher Criticism：高等批评学，19 世纪圣经文本历史研究）；批评【四级】"},
+    "vast": {"ipa": "/vɑːst/", "def": "adj. 巨大的，大量的【四级】"},
+    "abundance": {"ipa": "/əˈbʌndəns/", "def": "n. 大量，丰富（an abundance of：大量的）【四级】"},
+    "civilization": {"ipa": "/ˌsɪvəlaɪˈzeɪʃn/", "def": "n. 文明【四级】"},
+    "evolution": {"ipa": "/ˌiːvəˈluːʃn/", "def": "n. 进化，演变【四级】"},
+    "miracle": {"ipa": "/ˈmɪrəkl/", "def": "n. 奇迹，神迹【四级】"},
+    "extensive": {"ipa": "/ɪkˈstensɪv/", "def": "adj. 广泛的，普遍的【四级】"},
+    "truthfulness": {"ipa": "/ˈtruːθflnəs/", "def": "n. 真实性，诚实"},
+    "array": {"ipa": "/əˈreɪ/", "def": "n. 大批，一系列（a vast array of：大量的）【六级】"},
+    "tablets": {"ipa": "/ˈtæblɪts/", "def": "n. 泥板，碑版（tablet）【四级】"},
+    "monuments": {"ipa": "/ˈmɒnjumənts/", "def": "n. 碑铭古迹，纪念物（monument）【四级】"},
+    "monumental": {"ipa": "/ˌmɒnjuˈmentl/", "def": "adj. 碑铭的；不朽的【六级】"}
+  },
+  "vocab_table": [
+    {"word": "archeology", "ipa": "/ˌɑːkiˈɒlədʒi/", "def": "n. 考古学（= archaeology）"},
+    {"word": "antiquity", "ipa": "/ænˈtɪkwəti/", "def": "n. 上古；古物"},
+    {"word": "excavate", "ipa": "/ˈekskəveɪt/", "def": "v. 发掘，挖掘"},
+    {"word": "inscription", "ipa": "/ɪnˈskrɪpʃn/", "def": "n. 铭文，碑文"},
+    {"word": "decipher", "ipa": "/dɪˈsaɪfə/", "def": "v. 释读，破译"},
+    {"word": "untenable", "ipa": "/ʌnˈtenəbl/", "def": "adj. 站不住脚的"},
+    {"word": "arbitrary", "ipa": "/ˈɑːbɪtrəri/", "def": "adj. 武断的，任意的"},
+    {"word": "correlation", "ipa": "/ˌkɒrəˈleɪʃn/", "def": "n. 呼应，相关性"},
+    {"word": "coincide", "ipa": "/ˌkəʊɪnˈsaɪd/", "def": "v. 一致，吻合"},
+    {"word": "dovetail", "ipa": "/ˈdʌvteɪl/", "def": "v. 榫合，紧密吻合"},
+    {"word": "antedate", "ipa": "/ˌæntiˈdeɪt/", "def": "v. 早于，先于"},
+    {"word": "chronology", "ipa": "/krəˈnɒlədʒi/", "def": "n. 年代学，年表"},
+    {"word": "vindication", "ipa": "/ˌvɪndɪˈkeɪʃn/", "def": "n. 辩护，昭雪"},
+    {"word": "countenance", "ipa": "/ˈkaʊntənəns/", "def": "n.【特殊义】支持，赞同；面容"},
+    {"word": "contemporaneous", "ipa": "/kənˌtempəˈreɪniəs/", "def": "adj. 同时代的"},
+    {"word": "retrogression", "ipa": "/ˌretrəˈɡreʃn/", "def": "n. 退化，倒退"},
+    {"word": "illiterate", "ipa": "/ɪˈlɪtərət/", "def": "adj. 不识字的，无文字的"},
+    {"word": "slumber", "ipa": "/ˈslʌmbə/", "def": "n./v. 沉睡"},
+    {"word": "facsimile", "ipa": "/fækˈsɪməli/", "def": "n. 摹真本（fax 即其缩写）"},
+    {"word": "exemplary", "ipa": "/ɪɡˈzempləri/", "def": "adj. 堪称典范的"}
+  ]
+}

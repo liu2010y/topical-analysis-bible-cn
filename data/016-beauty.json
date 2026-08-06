@@ -1,0 +1,101 @@
+{
+  "num": "016",
+  "title_en": "BEAUTY; Beautiful",
+  "title_zh": "荣美；美好",
+  "html_name": "016-Beauty-荣美.html",
+  "pages": "原书 p. 35",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "BEAUTY; Beautiful.",
+          "zh": "荣美；美好。"
+        }
+      ]
+    },
+    {
+      "heading": "一、耶和华的荣美 / Of Jehovah",
+      "blocks": [
+        {
+          "en": "Ps. 27:4. To behold the beauty of the Lord. IV. 204. Ps. 90:17. Let the beauty of the Lord our God be upon us. V. 114-117. Isa. 33:17. The King in His beauty. VIII. 165, 166. Zech. 9:17. How great is His beauty! IX. 592.",
+          "zh": "诗篇 27:4 —— 瞻仰他的荣美。90:17 —— 愿主我们神的荣美归于我们身上。以赛亚书 33:17 —— 你的眼必见王的荣美。撒迦利亚书 9:17 —— 他的恩慈何等大！他的荣美何其盛！",
+          "bsb": "Psalm 27:4",
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "Let the beauty … be upon us：Let 式祈愿（愿荣美归于我们）。"},
+            {"note": "How great is His beauty!：how + 形容词的感叹句，主谓倒装。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、圣洁的妆饰 / Of Holiness",
+      "blocks": [
+        {
+          "en": "2 Chron. 20:21. Praise the beauty of holiness. VII. 295. Ps. 110:3. In the beauty of holiness. V. 234-237. Ps. 29:2. Worship the Lord in the beauty of holiness. IV. 220-223. Ps. 96:9. V. 152.",
+          "zh": "历代志下 20:21 —— 赞美耶和华……穿上圣洁的礼服（直译：赞美圣洁的妆饰）。诗篇 110:3 —— 以圣洁的妆饰为衣。29:2 —— 以圣洁的妆饰（原文或作以圣洁为妆饰）敬拜耶和华。另参 96:9。",
+          "bsb": "Psalm 29:2"
+        }
+      ]
+    },
+    {
+      "heading": "三、锡安圣所的华美 / Of the Sanctuary in Zion",
+      "blocks": [
+        {
+          "en": "Ps. 50:2. Out of Zion, the perfection of beauty, God hath shined. IV. 357. Ps. 96:6. Strength and beauty are in His Sanctuary. V. 150, 151. Isa. 60:13. To beautify the place of My Sanctuary. VIII. 349.",
+          "zh": "诗篇 50:2 —— 从全美的锡安中，神已经发光了。96:6 —— 有能力与华美在他圣所。以赛亚书 60:13 —— 修饰我圣所之地（使我圣所之地得荣耀）。",
+          "bsb": "Psalm 50:2",
+          "grammar": [
+            {"id": "apposition", "note": "Zion, the perfection of beauty：the perfection of beauty 是 Zion 的同位语（全美的锡安）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、报佳音者脚踪的佳美 / Of the Advancing Steps of Christ's Heralds",
+      "blocks": [
+        {
+          "en": "Isa. 52:7. How beautiful upon the mountains are the feet of him that bringeth good tidings of good! VIII. 272.",
+          "zh": "以赛亚书 52:7 —— 那报佳音、传平安、报好信、传救恩的……这人的脚登山何等佳美！",
+          "bsb": "Isaiah 52:7",
+          "grammar": [
+            {"id": "inversion", "note": "How beautiful … are the feet：感叹句中表语前置＋主谓倒装（= the feet … are how beautiful）。"},
+            {"id": "him-that-relative", "note": "him that bringeth good tidings = him who brings good news（那报好信息的人）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "五、神所造万物的美好 / Of God's Natural Creation",
+      "blocks": [
+        {
+          "en": "Eccles. 3:11. He hath made everything beautiful in its time. VI. 456-458, 465.",
+          "zh": "传道书 3:11 —— 神造万物，各按其时成为美好。",
+          "bsb": "Ecclesiastes 3:11",
+          "grammar": [
+            {"id": "object-complement", "note": "made everything beautiful：make + 宾语 + 形容词补语（使万物成为美好）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "beauty": {"ipa": "/ˈbjuːti/", "def": "n. 荣美，华美（圣经语境常译『荣美』）【四级】"},
+    "beautify": {"ipa": "/ˈbjuːtɪfaɪ/", "def": "v. 修饰，使美（-fy 使动词尾）"},
+    "holiness": {"ipa": "/ˈhəʊlinəs/", "def": "n. 圣洁（the beauty of holiness：圣洁的妆饰）"},
+    "worship": {"ipa": "/ˈwɜːʃɪp/", "def": "v./n. 敬拜【四级】"},
+    "perfection": {"ipa": "/pəˈfekʃn/", "def": "n. 全美，完全【四级】"},
+    "shined": {"ipa": "/ʃaɪnd/", "def": "v. 发光（shine 的旧式过去分词，今多作 shone）"},
+    "heralds": {"ipa": "/ˈherəldz/", "def": "n. 先驱，报信者（herald）【六级】"},
+    "advancing": {"ipa": "/ədˈvɑːnsɪŋ/", "def": "adj. 前行的，行进的【四级】"},
+    "bringeth": {"ipa": "/ˈbrɪŋəθ/", "def": "= brings（-eth 古词尾）：带来，报（信）"},
+    "tidings": {"ipa": "/ˈtaɪdɪŋz/", "def": "n.【古/书面】消息（good tidings：佳音）"}
+  },
+  "vocab_table": [
+    {"word": "beautify", "ipa": "/ˈbjuːtɪfaɪ/", "def": "v. 修饰，使美"},
+    {"word": "holiness", "ipa": "/ˈhəʊlinəs/", "def": "n. 圣洁"},
+    {"word": "perfection", "ipa": "/pəˈfekʃn/", "def": "n. 全美，完全"},
+    {"word": "herald", "ipa": "/ˈherəld/", "def": "n. 先驱，报信者"},
+    {"word": "tidings", "ipa": "/ˈtaɪdɪŋz/", "def": "n.【古/书面】消息（good tidings：佳音）"}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "圣经主题分析 · 中英对照",
+  "short_name": "主题分析",
+  "description": "Topical Analysis of the Bible (1897) 中英对照学习版：悬停查词、TTS 朗读、语法说明、BSB 现代英译对照",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eff7ef",
+  "theme_color": "#2f7d46",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

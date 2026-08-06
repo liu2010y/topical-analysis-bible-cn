@@ -1,0 +1,146 @@
+{
+  "num": "019",
+  "title_en": "BIBLE LANDS AND PLACES",
+  "title_zh": "圣经的地域与地名",
+  "html_name": "019-Bible-Lands-圣经地理.html",
+  "pages": "原书 p. 42–44",
+  "ocr_note": "本词条为地名索引（地名＋《圣经工作》卷页引用）。地名给出和合本通译名，卷页引用保留。p. 44 的双栏识别失败：城镇列表在 Dalmanutha 之后中断，Damascus（大马士革）、Jerusalem（耶路撒冷）等后续条目在扫描中丢失。",
+  "sections": [
+    {
+      "heading": "标题与纲目 / Title & Outline",
+      "blocks": [
+        {
+          "en": "BIBLE LANDS AND PLACES: GEOGRAPHY, TOPOGRAPHY AND HISTORY. 1. Countries, Divisions and Sections, including Plains. 2. Mountains. 3. Lakes or Inland Seas. 4. Rivers. 5. Cities, Villages, etc.",
+          "zh": "圣经的地域与地名：地理、地形与历史。一、国家、区域与平原；二、山岳；三、湖泊与内海；四、河流；五、城镇村庄等。",
+          "grammar": [
+            {"id": "headline-style", "note": "地名志（gazetteer）式纲目：五个并列名词短语分类。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、国家、区域与平原 / Countries, Divisions, Sections, Plains",
+      "blocks": [
+        {
+          "en": "Asia Minor (12 Divisions). Assyria (Explorations). Bashan (Argob), its cities. Canaan; Land of Israel; Palestine—brief description; Topography, Characteristics, Adaptation to its purpose, Peoples, and Typical Aspect; Physical Features of Tribal Inheritances; O. T. and N. T. Divisions; Galilee; Perea. Cyprus. Edom, Mt. Seir. Egypt. Esdraelon (Plain). Gennesaret (Plain). Goshen (Land of Rameses). Moab. Peninsula of Sinai. Wilderness of Paran.",
+          "zh": "小亚细亚（十二区）；亚述（考察）；巴珊（亚珥歌伯）及其城邑；迦南——以色列地、巴勒斯坦（概述；地形、特征、其目的之适配、居民与预表意义；各支派产业的自然地貌；新旧约时期的区划）；加利利；比利亚；居比路（塞浦路斯）；以东（西珥山）；埃及；耶斯列平原（原书作 Esdraelon）；革尼撒勒平原；歌珊地（兰塞地）；摩押；西奈半岛；巴兰旷野。【OCR 注：CAWAAIV、Siuai 分别修复为 Canaan、Sinai。】",
+          "bsb": false
+        },
+        {
+          "en": "Note.—The Geographical and Historical matter relating to Assyria, Babylonia, Media, Persia, and Syria is of necessity interwoven with the details of Israel's story. For satisfactory information the reader is referred to Rawlinson's masterly volumes (\"Great Monarchies\").",
+          "zh": "按语：凡涉及亚述、巴比伦、玛代、波斯、叙利亚的地理历史材料，必然与以色列历史的细节交织在一起。欲得详备资料，请读者参阅罗林森（Rawlinson）的名著《古代五大帝国》（Great Monarchies）。",
+          "bsb": false,
+          "grammar": [
+            {"note": "of necessity：介词短语作状语，『必然地』（= necessarily）；is referred to…：refer sb to sth 的被动（请读者参阅）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、山岳 / Mountains",
+      "blocks": [
+        {
+          "en": "Ararat. Ebal and Gerizim. Hermon. Hor. Horeb. Lebanon. Olivet. Sinai. Tabor.",
+          "zh": "亚拉腊山（方舟停靠处）；以巴路山与基利心山（宣读咒诅与祝福之处）；黑门山；何珥山（亚伦离世处）；何烈山；黎巴嫩（和合本作利巴嫩）；橄榄山；西奈山；他泊山。",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "三、湖泊与内海 / Lakes, or Inland Seas",
+      "blocks": [
+        {
+          "en": "Sea of Chinnereth; Lake of Galilee; Sea of Tiberias. Josh. 12:3. Lake Merom (Huleh).",
+          "zh": "基尼烈湖——即加利利海，又称提比哩亚海（约书亚记 12:3）。米伦湖（呼勒湖）。",
+          "bsb": false
+        },
+        {
+          "en": "Dead Sea and its Buried Cities. [The destruction of the oldest seats of civilization and culture in the Jordan Valley and the Dead Sea districts—namely, that of the four cities of Sodom, Gomorrah, Admah, and Zeboim—is one of the fixed facts of earliest tradition, and for the critical geologist the phenomenon presents no difficulty, as far as it can be traced at all. The tragedy was caused by a sudden break of the valley basin in the southern part of the Dead Sea, resulting in the sinking of the soil—a phenomenon which, without any doubt, was in intimate connection with a catastrophe in nature, or an earthquake accompanied by such sinking of the soil along one or more rents in the earth, whereby these cities were destroyed or \"overturned,\" so that the Salt Sea now occupies their territory.",
+          "zh": "死海及其被埋没的城邑。【摘录】约旦河谷与死海地区最古老的文明与文化聚落的覆灭——即所多玛、蛾摩拉、押玛、洗扁四城的毁灭——是最早传统中确凿的事实之一；就其可以追溯的程度而言，这一现象对严谨的地质学家并不构成任何困难。这场惨祸起因于死海南部谷底盆地的突然断裂，导致地层陷落——毫无疑问，这一现象与一场自然界的巨变紧密相关，亦即一场地震，伴随着沿一条或多条地裂缝发生的地层下沉；这些城便因此被毁灭、被『倾覆』，如今盐海占据了它们的故地。",
+          "bsb": false,
+          "grammar": [
+            {"id": "compound-relatives", "note": "whereby these cities were destroyed = by which…（诸城借此被毁）。"},
+            {"note": "namely, that of the four cities…：namely 引出同位说明，that 复指 the destruction（即那四城的毁灭）；as far as it can be traced at all：『就其大体可考的范围而言』。"}
+          ]
+        },
+        {
+          "en": "The view that this sea did not exist at all before this catastrophe, or that the Jordan before this period flowed into the Mediterranean Sea, contradicts throughout all geological and natural science teachings concerning the formation of this whole region. That the Pentapolis at one time was situated in the southern part of the Dead Sea is proved also, among other things, by the probable location at this place of Zoar, the place which escaped destruction in the days of Lot—in accordance, too, with the writers of antiquity and of the Middle Ages, including the Arabian geographers. As yet nothing certain can be determined concerning the location of the four other cities, of which names only that of Sodom, in Djebel Usdum, is found reflected in any place in these precincts. And even apart from geological reasons, this seems to be the natural thing, as the Book of Genesis represents these places as having been thoroughly destroyed without leaving trace or remnant behind. — Max Blanckenhorn.]",
+          "zh": "至于认为这海在那场巨变之前根本不存在、或约旦河在此之前流入地中海的观点，则与关于整个区域地质构造的一切地质学与自然科学的教导全然抵触。『五城』（Pentapolis）一度位于死海南部这一点，除其他证据外，还可由罗得时代逃过毁灭的琐珥很可能位于此处而得到证明——这也与古代及中世纪作家（包括阿拉伯地理学家）的记载相合。四座被毁之城的具体位置迄今无法确定；四城之名中，惟有所多玛之名在乌斯杜姆山（Djebel Usdum）一名中留有回响。而即便撇开地质学的理由，这似乎也是自然而然的——因为创世记所描绘的这些地方，本就是被彻底毁灭、不留痕迹与残余的。——马克斯·布兰肯霍恩（Max Blanckenhorn）【OCR 注：原书人名扫描作 Blanckenthorn，据史实修复。】",
+          "bsb": false,
+          "grammar": [
+            {"id": "apposition", "note": "The view that this sea did not exist… / That the Pentapolis … was situated … is proved：前者为 that 同位语从句说明 view 的内容，后者为 that 主语从句作句子主语。"},
+            {"note": "represents these places as having been thoroughly destroyed：represent … as + 动名词完成被动式（把这些地方描绘为早已被彻底毁灭的）。"}
+          ]
+        },
+        {
+          "en": "[We entered upon the Sea with conflicting opinions. One of the party was sceptical, and another was a professed unbeliever in the Mosaic account. After twenty-two days' investigation we were unanimous in our conviction of the truth of the scriptural account of the destruction of the cities of the plain. — Lieut. Lynch, \"Narrative of Dead Sea Exploration.\"]",
+          "zh": "【摘录】我们带着彼此相左的意见登上这片海。队伍中一人持怀疑态度，另一人公然自称不信摩西的记载。经过二十二天的考察，我们一致确信：圣经关于平原诸城毁灭的记载是真实的。——林奇上尉（Lieut. Lynch），《死海考察记》",
+          "bsb": false,
+          "grammar": [
+            {"note": "a professed unbeliever：professed『公开自称的』；twenty-two days' investigation：名词所有格表时段（二十二天的考察）；unanimous in our conviction：一致确信。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、河流 / Rivers",
+      "blocks": [
+        {
+          "en": "Abana and Pharpar. Euphrates and Tigris (Hiddekel). Jordan and its Valley. Kishon.",
+          "zh": "亚罢拿河与法珥法河（大马士革的河，乃缦故事）；幼发拉底河（伯拉大河）与底格里斯河（希底结河）；约旦河及其河谷；基顺河（底波拉之战）。",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "五、城镇村庄 / Cities, Villages, etc.",
+      "blocks": [
+        {
+          "en": "Antioch (Pisidia). Antioch (Syria). Athens. Babylon. Beersheba. Bethany. Bethphage. Bethel. Bethlehem. Bethsaida. Bethsaida Julias. Cana. Capernaum. Cesarea. Cesarea Philippi. Chorazin. Corinth. Dalmanutha. …",
+          "zh": "彼西底的安提阿；叙利亚的安提阿；雅典；巴比伦；别是巴；伯大尼；伯法其；伯特利；伯利恒；伯赛大；伯赛大·犹利亚；迦拿；迦百农；凯撒利亚（该撒利亚）；凯撒利亚·腓立比；哥拉汛；哥林多；大玛努他……【OCR 注：城镇列表自 Dalmanutha 之后在扫描中丢失（p. 44 双栏识别失败），Damascus（大马士革）、Jerusalem（耶路撒冷）、Nazareth（拿撒勒）等后续条目缺；原书各地名均附《圣经工作》卷页号，此处从略。】",
+          "bsb": false
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "topography": {"ipa": "/təˈpɒɡrəfi/", "def": "n. 地形，地形学【GRE】"},
+    "peninsula": {"ipa": "/pəˈnɪnsjələ/", "def": "n. 半岛【四级】"},
+    "wilderness": {"ipa": "/ˈwɪldənəs/", "def": "n. 旷野【六级】"},
+    "interwoven": {"ipa": "/ˌɪntəˈwəʊvn/", "def": "adj. 交织的（interweave 的过去分词）"},
+    "masterly": {"ipa": "/ˈmɑːstəli/", "def": "adj. 大师手笔的，精湛的"},
+    "monarchies": {"ipa": "/ˈmɒnəkiz/", "def": "n. 君主国，帝国（monarchy）【六级】"},
+    "tradition": {"ipa": "/trəˈdɪʃn/", "def": "n. 传统，古传【四级】"},
+    "phenomenon": {"ipa": "/fəˈnɒmɪnən/", "def": "n. 现象（复数 phenomena）【四级】"},
+    "basin": {"ipa": "/ˈbeɪsn/", "def": "n. 盆地；盆【四级】"},
+    "catastrophe": {"ipa": "/kəˈtæstrəfi/", "def": "n. 巨变，大灾难【六级/GRE】"},
+    "earthquake": {"ipa": "/ˈɜːθkweɪk/", "def": "n. 地震【四级】"},
+    "rents": {"ipa": "/rents/", "def": "n.【此处特殊义】裂缝，裂口（rend 的名词）；常见义：租金"},
+    "overturned": {"ipa": "/ˌəʊvəˈtɜːnd/", "def": "v. 倾覆（overturn；创世记用语『倾覆所多玛』）【六级】"},
+    "contradicts": {"ipa": "/ˌkɒntrəˈdɪkts/", "def": "v. 抵触，与……矛盾（contradict）【四级】"},
+    "formation": {"ipa": "/fɔːˈmeɪʃn/", "def": "n. （地质）构造，形成【四级】"},
+    "pentapolis": {"ipa": "/penˈtæpəlɪs/", "def": "n. 五城联盟（penta- 五 + polis 城；指所多玛等平原五城）"},
+    "antiquity": {"ipa": "/ænˈtɪkwəti/", "def": "n. 古代；上古【六级/GRE】"},
+    "precincts": {"ipa": "/ˈpriːsɪŋkts/", "def": "n. 周边地带，界域（precinct）【GRE】"},
+    "remnant": {"ipa": "/ˈremnənt/", "def": "n. 残余，剩余【六级/GRE】"},
+    "sceptical": {"ipa": "/ˈskeptɪkl/", "def": "adj. 怀疑的（美式拼写 skeptical）【六级】"},
+    "professed": {"ipa": "/prəˈfest/", "def": "adj. 公开自称的（profess：公开声称）【GRE】"},
+    "unbeliever": {"ipa": "/ˌʌnbɪˈliːvə/", "def": "n. 不信者"},
+    "unanimous": {"ipa": "/juˈnænɪməs/", "def": "adj. 一致的（unanimous in：一致认为）【六级】"},
+    "conviction": {"ipa": "/kənˈvɪkʃn/", "def": "n. 确信【四级】"},
+    "investigation": {"ipa": "/ɪnˌvestɪˈɡeɪʃn/", "def": "n. 考察，调查【四级】"},
+    "buried": {"ipa": "/ˈberid/", "def": "adj. 被埋没的（bury /ˈberi/ 注意读音）【四级】"},
+    "conflicting": {"ipa": "/kənˈflɪktɪŋ/", "def": "adj. 彼此相左的，冲突的【四级】"},
+    "geographers": {"ipa": "/dʒiˈɒɡrəfəz/", "def": "n. 地理学家（geographer）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "topography", "ipa": "/təˈpɒɡrəfi/", "def": "n. 地形，地形学"},
+    {"word": "catastrophe", "ipa": "/kəˈtæstrəfi/", "def": "n. 巨变，大灾难"},
+    {"word": "phenomenon", "ipa": "/fəˈnɒmɪnən/", "def": "n. 现象（复数 phenomena）"},
+    {"word": "remnant", "ipa": "/ˈremnənt/", "def": "n. 残余，剩余"},
+    {"word": "precinct", "ipa": "/ˈpriːsɪŋkt/", "def": "n. 周边地带，界域"},
+    {"word": "sceptical", "ipa": "/ˈskeptɪkl/", "def": "adj. 怀疑的"},
+    {"word": "unanimous", "ipa": "/juˈnænɪməs/", "def": "adj. 一致的"},
+    {"word": "peninsula", "ipa": "/pəˈnɪnsjələ/", "def": "n. 半岛"}
+  ]
+}

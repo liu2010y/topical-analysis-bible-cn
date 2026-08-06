@@ -1,0 +1,38 @@
+{
+  "num": "020",
+  "title_en": "BISHOP",
+  "title_zh": "监督",
+  "html_name": "020-Bishop-监督.html",
+  "pages": "原书 p. 44",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "BISHOP. Gr. episcopos, Overseer. Acts 20:28. (The Holy Spirit) hath made you overseers. XI. 117. 1 Pet. 5:2. Taking the oversight (of the flock). Also vs. 3-5 for duties. XI. 666. And Titus 1:5-7. XI. 545. See Elder.",
+          "zh": "监督（Bishop）。希腊文 episcopos，意为『监督者、照管者』。使徒行传 20:28 —— 圣灵立你们作全群的监督。彼得前书 5:2 —— 务要牧养在你们中间神的群羊，按着神旨意照管他们（taking the oversight）；3-5 节续言监督的职责（不是辖制所托付的，乃是作群羊的榜样）。提多书 1:5-7 —— 监督既是神的管家，必须无可指责。另参主题词条：长老（Elder）。",
+          "bsb": "Acts 20:28",
+          "grammar": [
+            {"note": "episcopos：epi-（在上）+ skopos（察看者）→ 监督；英文 bishop 即由此词演变而来。Taking the oversight：动名词短语承接上文祈使（藉着尽照管之责来牧养）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "bishop": {"ipa": "/ˈbɪʃəp/", "def": "n. 监督；主教（源自希腊文 episcopos）【六级】"},
+    "overseer": {"ipa": "/ˌəʊvəˈsɪə/", "def": "n. 监督者，照管者（oversee：监管）"},
+    "overseers": {"ipa": "/ˌəʊvəˈsɪəz/", "def": "n. 监督（overseer 的复数）"},
+    "oversight": {"ipa": "/ˈəʊvəsaɪt/", "def": "n.【此处义】照管，监督之责；常见义：疏忽【六级】"},
+    "flock": {"ipa": "/flɒk/", "def": "n. 羊群；（喻）会众【四级】"},
+    "elder": {"ipa": "/ˈeldə/", "def": "n. 长老；adj. 年长的【四级】"},
+    "duties": {"ipa": "/ˈdjuːtiz/", "def": "n. 职责（duty）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "bishop", "ipa": "/ˈbɪʃəp/", "def": "n. 监督；主教"},
+    {"word": "overseer", "ipa": "/ˌəʊvəˈsɪə/", "def": "n. 监督者，照管者"},
+    {"word": "oversight", "ipa": "/ˈəʊvəsaɪt/", "def": "n.【此处义】照管；常见义：疏忽"},
+    {"word": "elder", "ipa": "/ˈeldə/", "def": "n. 长老"}
+  ]
+}

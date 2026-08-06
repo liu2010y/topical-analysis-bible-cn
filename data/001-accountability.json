@@ -1,0 +1,240 @@
+{
+  "num": "001",
+  "title_en": "ACCOUNTABILITY TO GOD",
+  "title_zh": "向神交账的责任",
+  "html_name": "001-Accountability-向神交账的责任.html",
+  "pages": "原书 p. 11",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "ACCOUNTABILITY TO GOD; Responsibility, Individual and Personal; Judgment according to Life-Work.",
+          "zh": "向神交账的责任；个人性、切身的责任；照一生行为受审判。",
+          "grammar": [
+            {"id": "headline-style", "note": "三个名词短语以分号并列，全句无谓语动词：Accountability to God／Responsibility...／Judgment...，从三个角度点出本词条主题。"},
+            {"id": "postpositive-adjective", "note": "Responsibility, Individual and Personal = Individual and Personal Responsibility：形容词后置，突出中心词 Responsibility。"},
+            {"note": "Judgment according to Life-Work：according to 引导的介词短语作后置定语，修饰 Judgment——『照一生行为（所作之工）的审判』。类似结构：Judgment according to his deeds。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "The sense of accountability, the inward conscious conviction of personal responsibility, is an inherent product of the conscience or moral judgment, that exists and spontaneously acts in every man by nature.",
+          "zh": "交账的意识，即内心对个人责任的自觉确信，是良心（道德判断力）与生俱来的产物；这种良心天然存在于每个人里面，并自发地运行。",
+          "grammar": [
+            {"id": "apposition", "note": "the inward conscious conviction of personal responsibility 是主语 The sense of accountability 的同位语；that exists and spontaneously acts... 是修饰 the conscience or moral judgment 的定语从句。全句主干：The sense is an inherent product。"}
+          ]
+        },
+        {
+          "en": "The recognition by the moral judgment of right and wrong, good and evil, is necessarily accompanied by the moral feeling consequent upon the willing or doing the right or the wrong.",
+          "zh": "道德判断力对是非、善恶的辨识，必然伴随着一种道德感受——这感受随着人意愿或行出正事或恶事而产生。",
+          "grammar": [
+            {"id": "gerund-nominal", "note": "the willing or doing the right or the wrong：定冠词 + 动名词的名词化结构，动名词后直接带宾语，意为『意愿或行出正与恶（这件事）』。"}
+          ]
+        },
+        {
+          "en": "And, like the other self-recognized fact of dependence, which is produced and set in every man's conviction by known and felt helplessness, this conviction of responsibility implies of necessity a Being to whom the account must be rendered, or a rightful and supreme Moral Ruler and Judge.",
+          "zh": "正如人因深知并切身感到自己的无助，而在心中确认“依赖”这一自明的事实一样，这种责任感也必然指向一位受账的存在者——一位名正言顺、至高无上的道德主宰与审判者。",
+          "grammar": [
+            {"id": "prep-relative", "note": "a Being to whom the account must be rendered：介词 to 前置于关系代词 whom，= a Being whom the account must be rendered to（必须向其交账的那位）。"}
+          ]
+        },
+        {
+          "en": "To this character the fact of dependence intimates the further relation of Creator, Upholder, and Provider. So much of God is assuredly disclosed by conscience and by actual living.",
+          "zh": "在此之上，“依赖”这一事实进一步暗示出祂作为创造者、扶持者、供应者的关系。关于神的这些方面，确实已借着良心和实际的生活显明出来。",
+          "grammar": [
+            {"note": "To this character 为状语前置（正常语序：the fact of dependence intimates ... to this character），此处前置但不倒装，用于承接上文。So much of God 作主语：『关于神的这么多内容』，of 表『关于……的部分』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "经文见证 / Scripture Testimony",
+      "blocks": [
+        {
+          "en": "Rom. 14:10, 12. We shall all stand before the judgment-seat of God. Each one of us shall give account of himself to God. XI. 268.",
+          "zh": "罗马书 14:10, 12 —— 我们都要站在神的台前……我们各人必要将自己的事在神面前说明。",
+          "grammar": [
+            {"id": "shall-archaic", "note": "We shall all stand / shall give account：shall 表命定、必然的将来（必要站在……必要说明），语气强于 will。"}
+          ]
+        },
+        {
+          "en": "1 Pet. 4:5. Shall give account to Him that is ready to judge the quick and dead.",
+          "zh": "彼得前书 4:5 —— 他们必在那将要审判活人死人的主面前交账。",
+          "grammar": [
+            {"id": "him-that-relative", "note": "Him that is ready to judge = 现代英语 Him who is ready to judge。另注意 the quick 是古义『活人』（quick = living），与 dead 相对。"}
+          ]
+        },
+        {
+          "en": "Matt. 12:36. Every idle word … shall give account in the day of judgment.",
+          "zh": "马太福音 12:36 —— 凡人所说的闲话，当审判的日子，必要句句供出来。"
+        },
+        {
+          "en": "Heb. 13:17. As they that shall give account.",
+          "zh": "希伯来书 13:17 —— 好像那将来交账的人。",
+          "grammar": [
+            {"id": "him-that-relative", "note": "they that shall give account = those who shall give account（将来要交账的人）。"}
+          ]
+        },
+        {
+          "en": "Eccles. 3:15. God requireth (seeketh again) the past. VI. 462.",
+          "zh": "传道书 3:15 —— 并且神使已过的事重新再来（原文直译：神必再寻回已过的事）。",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "requireth = requires，seeketh = seeks：-eth 为古英语第三人称单数词尾。"}
+          ]
+        },
+        {
+          "en": "Eccles. 11:9. VI. 511. Eccles. 12:14. VI. 528.",
+          "zh": "另参：传道书 11:9；12:14。"
+        },
+        {
+          "en": "Matt. 25:15. To every man according to his ability.",
+          "zh": "马太福音 25:15 —— 按着各人的才干给他们银子。"
+        },
+        {
+          "en": "Prov. 9:12. Wise for thyself; if thou scornest thou alone shalt bear it. VI. 293.",
+          "zh": "箴言 9:12 —— 你若有智慧，是与自己有益；你若亵慢，就必独自担当。",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "thou（你，主格）、thyself（你自己）；thou scornest 中 -est 是与 thou 搭配的动词词尾；shalt = shall 的第二人称形式。"}
+          ]
+        },
+        {
+          "en": "Job 34:11. The work of a man shall He render to him, and cause every man to find according to his way. VI. 179.",
+          "zh": "约伯记 34:11 —— 他必按人所做的报应人，使各人照所行的得报。",
+          "grammar": [
+            {"id": "inversion", "note": "The work of a man shall He render to him：宾语 The work of a man 前置引起主谓倒装，还原为 He shall render the work of a man to him。"}
+          ]
+        },
+        {
+          "en": "Ps. 62:12.",
+          "zh": "诗篇 62:12 —— 主啊，慈爱也是属乎你，因为你照着各人所行的报应他。"
+        },
+        {
+          "en": "Rom. 2:5. Who will render to every man according to his deeds.",
+          "zh": "罗马书 2:5（-6）—— 他必照各人的行为报应各人。",
+          "bsb": "Romans 2:6"
+        },
+        {
+          "en": "2 Cor. 5:10. We must be made manifest before the judgment-seat of Christ, that every one may receive according to that he hath done. XI. 362.",
+          "zh": "哥林多后书 5:10 —— 因为我们众人必要在基督台前显露出来，叫各人按着本身所行的，或善或恶受报。",
+          "grammar": [
+            {"id": "archaic-aux", "note": "he hath done = he has done：hath 是 has 的古体。according to that he hath done 中 that = what（按他所行的）。"}
+          ]
+        },
+        {
+          "en": "Rev. 2:23. I will give unto each one of you according to your works.",
+          "zh": "启示录 2:23 —— 我要照你们的行为报应你们各人。"
+        },
+        {
+          "en": "Rev. 22:12.",
+          "zh": "启示录 22:12 —— 看哪，我必快来！赏罚在我，要照各人所行的报应他。"
+        },
+        {
+          "en": "Ezek. 18:20. The soul that sinneth, it shall die; the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him. IX. 81-86.",
+          "zh": "以西结书 18:20 —— 惟有犯罪的，他必死亡。义人的善果必归自己，恶人的恶报也必归自己。",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "sinneth = sins。"},
+            {"id": "shall-archaic", "note": "it shall die / shall be upon him：shall 表命定的必然。"},
+            {"id": "the-adjective", "note": "the righteous 义人 / the wicked 恶人：the + 形容词表一类人。"}
+          ]
+        },
+        {
+          "en": "See Condemnation; Day of the Lord; Conscience.",
+          "zh": "另参主题词条：定罪（Condemnation）；主的日子（Day of the Lord）；良心（Conscience）。"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "accountability": {"ipa": "/əˌkaʊntəˈbɪləti/", "def": "n. 责任；问责；交账的义务"},
+    "inward": {"ipa": "/ˈɪnwəd/", "def": "adj. 内心的，内在的；向内的【六级/考研】"},
+    "conscious": {"ipa": "/ˈkɒnʃəs/", "def": "adj. 有意识的，自觉的【四级】"},
+    "moral": {"ipa": "/ˈmɒrəl/", "def": "adj. 道德的（moral judgment：道德判断力）【四级】"},
+    "judgment": {"ipa": "/ˈdʒʌdʒmənt/", "def": "n. 判断（力）；审判（day of judgment：审判的日子）【四级】"},
+    "necessarily": {"ipa": "/ˌnesəˈserəli/", "def": "adv. 必然地，必定【四级】"},
+    "accompanied": {"ipa": "/əˈkʌmpənid/", "def": "v. 伴随（accompany 的过去分词；be accompanied by：伴随着）【四级】"},
+    "being": {"ipa": "/ˈbiːɪŋ/", "def": "n.（大写 a Being）存在者，位格者；存在【四级】"},
+    "account": {"ipa": "/əˈkaʊnt/", "def": "n. 账目；交代（give account：交账，供出）【四级】"},
+    "scripture": {"ipa": "/ˈskrɪptʃə/", "def": "n. 圣经，经文（Scripture Testimony：经文见证）"},
+    "creator": {"ipa": "/kriˈeɪtə/", "def": "n. 创造者，造物主（create 的名词）【四级】"},
+    "individual": {"ipa": "/ˌɪndɪˈvɪdʒuəl/", "def": "adj. 个人的，个别的；n. 个人【四级】"},
+    "life-work": {"ipa": "/ˈlaɪf wɜːk/", "def": "n. 一生的工作，毕生事业（复合词）"},
+    "self-recognized": {"ipa": "/ˌself ˈrekəɡnaɪzd/", "def": "adj. 自我确认的，自明的（复合词）"},
+    "provider": {"ipa": "/prəˈvaɪdə/", "def": "n. 供应者（provide 的名词）【四级】"},
+    "ruler": {"ipa": "/ˈruːlə/", "def": "n. 主宰者，统治者（rule 的名词）【四级】"},
+    "willing": {"ipa": "/ˈwɪlɪŋ/", "def": "n.（此处为动名词）意愿这一行为；adj. 甘心乐意的【四级】"},
+    "conviction": {"ipa": "/kənˈvɪkʃn/", "def": "n. 确信，坚定的信念；定罪"},
+    "inherent": {"ipa": "/ɪnˈhɪərənt/", "def": "adj. 固有的，与生俱来的"},
+    "conscience": {"ipa": "/ˈkɒnʃəns/", "def": "n. 良心，道德感"},
+    "spontaneously": {"ipa": "/spɒnˈteɪniəsli/", "def": "adv. 自发地，不由自主地"},
+    "recognition": {"ipa": "/ˌrekəɡˈnɪʃn/", "def": "n. 辨识，认出；承认"},
+    "consequent": {"ipa": "/ˈkɒnsɪkwənt/", "def": "adj. 随之发生的，作为结果的"},
+    "dependence": {"ipa": "/dɪˈpendəns/", "def": "n. 依赖，依靠"},
+    "helplessness": {"ipa": "/ˈhelpləsnəs/", "def": "n. 无助，无能为力"},
+    "implies": {"ipa": "/ɪmˈplaɪz/", "def": "v. 暗示；必然包含（imply 的第三人称单数）"},
+    "necessity": {"ipa": "/nəˈsesəti/", "def": "n. 必然性，必需（of necessity：必然地）"},
+    "rendered": {"ipa": "/ˈrendəd/", "def": "v. 交出，呈报（render 的过去分词）；the account must be rendered：必须交账"},
+    "render": {"ipa": "/ˈrendə/", "def": "v. 交出，呈报（账目）；报应；使成为"},
+    "rightful": {"ipa": "/ˈraɪtfl/", "def": "adj. 合法的，名正言顺的"},
+    "supreme": {"ipa": "/suːˈpriːm/", "def": "adj. 至高的，最高的"},
+    "intimates": {"ipa": "/ˈɪntɪmeɪts/", "def": "v. 暗示，示意（intimate 作动词；与形容词『亲密的』/ˈɪntɪmət/ 读音不同）"},
+    "upholder": {"ipa": "/ʌpˈhəʊldə/", "def": "n. 扶持者，维护者（uphold：支持，扶持）"},
+    "assuredly": {"ipa": "/əˈʃʊərɪdli/", "def": "adv. 确实地，无疑地"},
+    "disclosed": {"ipa": "/dɪsˈkləʊzd/", "def": "v. 显明，揭示（disclose 的过去分词）"},
+    "judgment-seat": {"ipa": "/ˈdʒʌdʒmənt siːt/", "def": "n. 审判台，审判席"},
+    "quick": {"ipa": "/kwɪk/", "def": "adj.【古义】活着的（the quick and dead：活人与死人）；现代义『快的』"},
+    "idle": {"ipa": "/ˈaɪdl/", "def": "adj. 无用的，闲散的（idle word：闲话）"},
+    "requireth": {"ipa": "/rɪˈkwaɪərəθ/", "def": "= requires（-eth 为古英语第三人称单数词尾）：寻讨，要求"},
+    "seeketh": {"ipa": "/ˈsiːkəθ/", "def": "= seeks（-eth 古词尾）：寻找，寻回"},
+    "ability": {"ipa": "/əˈbɪləti/", "def": "n. 才干，能力"},
+    "thyself": {"ipa": "/ðaɪˈself/", "def": "pron.【古】你自己（= yourself，与 thou 搭配）"},
+    "thou": {"ipa": "/ðaʊ/", "def": "pron.【古】你（第二人称单数主格，= you）"},
+    "scornest": {"ipa": "/ˈskɔːnɪst/", "def": "= scorn（-est 为与 thou 搭配的动词词尾）：轻蔑，亵慢"},
+    "shalt": {"ipa": "/ʃælt/", "def": "= shall 的第二人称单数形式（thou shalt：你必）"},
+    "sinneth": {"ipa": "/ˈsɪnəθ/", "def": "= sins（-eth 古词尾）：犯罪"},
+    "hath": {"ipa": "/hæθ/", "def": "= has 的古体（he hath done = he has done）"},
+    "manifest": {"ipa": "/ˈmænɪfest/", "def": "v. 显露，显明；adj. 明显的（be made manifest：被显露出来）"},
+    "righteousness": {"ipa": "/ˈraɪtʃəsnəs/", "def": "n. 公义，正义"},
+    "righteous": {"ipa": "/ˈraɪtʃəs/", "def": "adj. 公义的，正直的（the righteous：义人）"},
+    "wickedness": {"ipa": "/ˈwɪkɪdnəs/", "def": "n. 邪恶，恶行"},
+    "wicked": {"ipa": "/ˈwɪkɪd/", "def": "adj. 邪恶的（the wicked：恶人）"},
+    "condemnation": {"ipa": "/ˌkɒndemˈneɪʃn/", "def": "n. 定罪；谴责"},
+    "testimony": {"ipa": "/ˈtestɪməni/", "def": "n. 见证，证言"},
+    "deeds": {"ipa": "/diːdz/", "def": "n. 行为，作为（deed 的复数）"}
+  },
+  "vocab_table": [
+    {"word": "accountability", "ipa": "/əˌkaʊntəˈbɪləti/", "def": "n. 责任；问责；交账的义务"},
+    {"word": "inward", "ipa": "/ˈɪnwəd/", "def": "adj. 内心的，内在的；向内的"},
+    {"word": "conscious", "ipa": "/ˈkɒnʃəs/", "def": "adj. 有意识的，自觉的"},
+    {"word": "necessarily", "ipa": "/ˌnesəˈserəli/", "def": "adv. 必然地，必定"},
+    {"word": "accompany", "ipa": "/əˈkʌmpəni/", "def": "v. 伴随，陪伴（be accompanied by：伴随着）"},
+    {"word": "judgment", "ipa": "/ˈdʒʌdʒmənt/", "def": "n. 判断（力）；审判"},
+    {"word": "scripture", "ipa": "/ˈskrɪptʃə/", "def": "n. 圣经，经文"},
+    {"word": "conviction", "ipa": "/kənˈvɪkʃn/", "def": "n. 确信，坚定的信念；定罪"},
+    {"word": "inherent", "ipa": "/ɪnˈhɪərənt/", "def": "adj. 固有的，与生俱来的"},
+    {"word": "conscience", "ipa": "/ˈkɒnʃəns/", "def": "n. 良心，道德感"},
+    {"word": "spontaneously", "ipa": "/spɒnˈteɪniəsli/", "def": "adv. 自发地，不由自主地"},
+    {"word": "consequent", "ipa": "/ˈkɒnsɪkwənt/", "def": "adj. 随之发生的，作为结果的"},
+    {"word": "dependence", "ipa": "/dɪˈpendəns/", "def": "n. 依赖，依靠"},
+    {"word": "helplessness", "ipa": "/ˈhelpləsnəs/", "def": "n. 无助，无能为力"},
+    {"word": "imply", "ipa": "/ɪmˈplaɪ/", "def": "v. 暗示；必然包含"},
+    {"word": "render", "ipa": "/ˈrendə/", "def": "v. 交出，呈报（账目）；报应；使成为"},
+    {"word": "rightful", "ipa": "/ˈraɪtfl/", "def": "adj. 合法的，名正言顺的"},
+    {"word": "supreme", "ipa": "/suːˈpriːm/", "def": "adj. 至高的，最高的"},
+    {"word": "intimate", "ipa": "/ˈɪntɪmeɪt/", "def": "v. 暗示，示意（作动词时与形容词『亲密的』读音不同）"},
+    {"word": "uphold", "ipa": "/ʌpˈhəʊld/", "def": "v. 支持，维护；扶持（Upholder：扶持者）"},
+    {"word": "assuredly", "ipa": "/əˈʃʊərɪdli/", "def": "adv. 确实地，无疑地"},
+    {"word": "disclose", "ipa": "/dɪsˈkləʊz/", "def": "v. 显明，揭示，透露"},
+    {"word": "judgment-seat", "ipa": "/ˈdʒʌdʒmənt siːt/", "def": "n. 审判台，审判席"},
+    {"word": "idle", "ipa": "/ˈaɪdl/", "def": "adj. 无用的，闲散的（idle word：闲话）"},
+    {"word": "scorn", "ipa": "/skɔːn/", "def": "v./n. 轻蔑，亵慢"},
+    {"word": "manifest", "ipa": "/ˈmænɪfest/", "def": "v. 显露，显明；adj. 明显的"},
+    {"word": "righteousness", "ipa": "/ˈraɪtʃəsnəs/", "def": "n. 公义，正义"},
+    {"word": "wickedness", "ipa": "/ˈwɪkɪdnəs/", "def": "n. 邪恶，恶行"},
+    {"word": "condemnation", "ipa": "/ˌkɒndemˈneɪʃn/", "def": "n. 定罪；谴责"}
+  ]
+}

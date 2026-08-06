@@ -1,0 +1,218 @@
+{
+  "num": "023",
+  "title_en": "BOOKS AND READING",
+  "title_zh": "书籍与阅读",
+  "html_name": "023-Books-书籍与阅读.html",
+  "pages": "原书 p. 44–45",
+  "sections": [
+    {
+      "heading": "标题与经文 / Title & Text",
+      "blocks": [
+        {
+          "en": "BOOKS. Eccles. 12:12. Of making many books there is no end; and much study is a weariness of the flesh. VI. 523-526.",
+          "zh": "书籍。传道书 12:12 —— 我儿，还有一层，你当受劝戒：著书多，没有穷尽；读书多，身体疲倦。",
+          "bsb": "Ecclesiastes 12:12",
+          "grammar": [
+            {"id": "inversion", "note": "Of making many books there is no end：介词短语前置（= there is no end of making many books，著书没有穷尽）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、读书之道 / On Reading",
+      "blocks": [
+        {
+          "en": "[Reading is useful only as it imparts information, inspiration, and enticing ideals. The romance does not inform, but it describes admirable or else revolting characters. Count up, you can readily, all the authors of fiction whose work has been distinctly for the welfare of the world; and out of the best they have done, how much might be cast away without any large loss to the world? But it is this least valuable, with floods of flashy works and some that are feculent, that make the most of the reading matter of the masses at present. Such pabulum is pernicious to the mind. Nothing is worth reading that is not worth a vigorous effort to retain. But nobody attempts to hold the plot or even the names of the cheap volumes which roll in deluge waves from the printing presses.",
+          "zh": "【摘录】阅读之为有益，只在于它传递知识、激发志气、树立引人向上的理想。言情传奇并不给人知识，只是描绘或可敬或可憎的人物。你不妨数一数——很容易数得过来——所有作品确实造福世界的小说家；而即便在他们最好的作品里，又有多少删去也不为世界造成什么大损失？然而如今大众读物的主体，恰恰是这些最无价值的东西，外加洪水般的浮华之作，其中一些更是污秽不堪。这样的精神食粮是有毒于心智的。凡不值得费一番大力气去记住的东西，就不值得读；可是那些从印刷机上如洪流滚滚而出的廉价书卷，没有人打算记住其情节、甚至书名。",
+          "bsb": false,
+          "grammar": [
+            {"note": "Nothing is worth reading that is not worth a vigorous effort to retain：that 定语从句与先行词 Nothing 分离（分离定语从句），双重否定 =『值得读的必值得费力记住』。it is this least valuable … that make…：强调句框架。"}
+          ]
+        },
+        {
+          "en": "A thorough reformation of the reading habits of the people would immensely improve the moral health of society. The average novel has become a mental nuisance. As the intemperate require drinks to be made hotter to take effect, so old wonder stories, having given way to intenser romance, are now displaced by realism, and the rush is toward nude art in letters. Aside from all other injurious results, more strenuous mental exertion becomes impossible to one whose leisure hours are given to light reading. — Interior.]",
+          "zh": "彻底改革民众的阅读习惯，将极大改善社会的道德健康。寻常小说已经成了心智的公害。正如酗酒者需要把酒调得越来越烈才觉得过瘾，从前的传奇故事也让位于更刺激的言情，如今言情又被写实主义取代，文坛正竞逐『文字里的裸体艺术』。且不说其他种种害处，一个把闲暇时光都交给消遣性阅读的人，就再也无力从事更费心力的脑力劳作了。——《Interior》杂志",
+          "bsb": false,
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As the intemperate require drinks to be made hotter…, so old wonder stories…：as…so… 关联结构（正如……照样……）。"},
+            {"id": "the-adjective", "note": "the intemperate：无节制的人，酗酒者。"},
+            {"note": "having given way to intenser romance：完成式分词短语作状语（既已让位于更刺激的言情之后）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、诗歌中败坏人的理想 / Debasing Ideals of Poetry",
+      "blocks": [
+        {
+          "en": "All works of poetic genius which present evil for its own sake, and array it in brilliant colors, are potent in inducing the formation of false ideals. Ostensibly the same being figures in Paradise Lost, in Faust, in Cain, in A Drama of Exile, and in the Bible. The Miltonic Satan has exalted virtues which attract, but he has vices which repel more, so that only the proud and scornful man of ambition, who \"would rather reign in hell than serve in Heaven,\" would be drawn to him; the Mephistopheles of Goethe appeals to all the baser instincts, so that every basest man longs to be just such a devil; the Byronic Lucifer attracts more than the Byronic God, so that he who accepts the poet's delineation must, in his worship, put him in the place of God; the Lucifer of Mrs. Browning is one \"To whom the highest and the lowest alike / Say, 'Go from us, we have no need of thee'\"; the Satan of the Bible is a terror to every human being, whether base or otherwise.",
+          "zh": "凡为写恶而写恶、并给恶披上绚烂色彩的诗才之作，都在有力地诱发虚假理想的形成。表面看来，同一个存在者出现在《失乐园》《浮士德》《该隐》《流亡剧》和圣经之中：弥尔顿笔下的撒但有崇高的德性令人倾慕，但他令人憎恶的恶德更甚，所以只有那种『宁在地狱称王、不在天堂为仆』的骄傲轻蔑的野心家才会被他吸引；歌德的靡菲斯特迎合人一切较卑下的本能，于是每个最卑劣的人都巴不得成为这样一个魔鬼；拜伦的路锡甫比拜伦的神更有魅力，接受这位诗人刻画的人，在其崇拜中势必把魔鬼放到神的位置上；勃朗宁夫人的路锡甫，则是一位『至高者与至卑者同声对他说：离开我们去吧，我们不需要你』的存在；而圣经中的撒但，对每一个人——无论卑劣与否——都是可怖的。",
+          "bsb": false,
+          "grammar": [
+            {"note": "would rather reign in hell than serve in Heaven：would rather … than … 结构（宁可……而不……，语出《失乐园》）；whether base or otherwise：whether … or … 让步省略（无论卑劣与否）。"},
+            {"id": "him-that-relative", "note": "he who accepts the poet's delineation：接受诗人刻画的人。"},
+            {"id": "the-adjective", "note": "the highest and the lowest：至高者与至卑者。"}
+          ]
+        },
+        {
+          "en": "The character (drawn) by the man of moderate Christian instincts, if not drawn in truest lines, would yet lead the generality of men upward; the portraitures by the infidel and the God-hater are only and intensely evil, and can but hurry men downward; that by the woman who represents Christianity in its more earnest form is, in its power to repel men from evil, second only to that by the divine pen, which is made one of the mightiest motives to urge the lost heavenward. All sympathizing intercourse with the brilliant portraiture of the evil one, for the love of him, leads man to fashion his ideal in the image of the devil, and so debases and drags him down with it.",
+          "zh": "出自温和基督徒气质之手（弥尔顿）的形象，纵使线条未必最真，尚能引大多数人向上；出自不信者与恨神者（歌德、拜伦）之手的刻画，则纯粹而强烈地邪恶，只能催人堕落；出自那位以更恳切的形态代表基督教的女性（勃朗宁夫人）之手的形象，其使人远离恶的力量，仅次于那出自神圣之笔的形象——后者正是催逼失丧者奔向天家的最有力动机之一。凡出于喜爱而与那恶者的华彩画像亲昵交往的，都会照着魔鬼的形象塑造自己的理想，从而随之堕落沉沦。",
+          "bsb": false,
+          "grammar": [
+            {"id": "ellipsis", "note": "The character by the man… / the portraitures by the infidel… / that by the woman…：三个平行主语均省略 drawn（所绘的形象）；that 替代 the portraiture 避免重复。"},
+            {"note": "second only to…：『仅次于……』；can but hurry = can only hurry（只能催逼）；the lost：失丧的人。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、小说中败坏人的理想 / Debasing Ideals of Fiction",
+      "blocks": [
+        {
+          "en": "No less evil in its influence is much of the portraiture of evil which abounds in the novels of the day. It inevitably lowers man's ideal. The vulgarity which is tainted by pretension and arrogance in the so-called higher classes, and by slang in the lower; the vulgarity that produces snappish wives, coarse husbands, and rude children; that shows itself in the envy, the ill-temper, the vanity and the affectation which good breeding corrects or at least conceals—only disgusts, and, when disgust is over, debases by actual contact in real life, and can do no better in the novel. Still worse is that deep probing of the moral ulcers of society which is so common with the novelists.",
+          "zh": "当今小说中充斥的对恶的描绘，其影响之恶劣毫不逊色——它不可避免地拉低人的理想。那种在所谓上流社会沾染着做作与傲慢、在底层沾染着粗俗俚语的鄙俗；那种制造出尖刻的妻子、粗鲁的丈夫、无礼的儿女的鄙俗；那种在嫉妒、坏脾气、虚荣与矫饰中显露自己——而良好教养本会矫正或至少遮掩这些——的鄙俗：在现实生活中它只令人作呕，而作呕过后，借着实际接触使人堕落；到了小说里，它同样好不到哪里去。更糟的是小说家们如此惯常的、对社会道德溃疡的深挖细掘。",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "No less evil in its influence is much of the portraiture… / Still worse is that deep probing…：两处表语前置引起的倒装，把评价语推到句首。"},
+            {"note": "good breeding：教养（breeding 此处非『繁殖』义）；三个 the vulgarity which/that… 排比铺陈后，谓语 only disgusts 迟迟才出现——长主语悬置是 19 世纪论说文的典型笔法。"}
+          ]
+        },
+        {
+          "en": "Besides that class of pamphlets issued in the interest of vice and sold everywhere by the ton in defiance of law, there is a more pretentious class of works, of which the French school is the representative, whose aim it is to array deadly vices in gilded vesture and to paint the worst crimes in gorgeous colors to captivate the uninitiated. They have no better right in the world than have the vices and crimes which they portray and gild. Familiarity with vice lessens its repulsiveness to all. Human nature, shattered and defiled as it is, cannot gaze upon such scenes without peril of more complete wreck and deeper defilement.",
+          "zh": "除了那类为伤风败俗的营生而印行、蔑视法律、按吨售卖于各处的小册子之外，还有一类更冠冕堂皇的作品——法国流派是其代表——其宗旨就是给致命的恶行披上镀金的华服，用绚丽的色彩涂饰最坏的罪行，以魅惑未经世事的人。这类作品在世上存在的权利，并不比它们所描绘、所镀金的恶行罪案更多。与恶相熟，人人对恶的憎恶感便随之消减；人性本已破碎玷污，再凝视这样的场景，就难免更彻底的毁坏与更深的污损之危。",
+          "bsb": false,
+          "grammar": [
+            {"id": "prep-relative", "note": "of which the French school is the representative：介词 of 前置的关系从句（法国流派是其代表）。"},
+            {"note": "whose aim it is to array…：whose aim + 形式主语 it 的正式结构（其宗旨就在于……）；shattered and defiled as it is：『分词 + as + 主语 + be』的让步插入（人性虽已破碎玷污——参 018 词条 interlocked as it is）；no better right … than have the vices：than 之后倒装。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、读小说的道德影响 / Moral Influence of Novel Reading",
+      "blocks": [
+        {
+          "en": "It has been shown by those princes among reasoners, Bishop Butler and Henry Rogers—the former furnishing the principle, the latter its application—that the inordinate reading of works of fiction, of even the highest character, must weaken the intellect and deaden true feeling. It is an admitted fact that such reading destroys all taste for the other and more solid reading which is essential for every intelligent man or woman, and so, in the end, all taste for real, right life.",
+          "zh": "推理家中的王者——巴特勒主教与亨利·罗杰斯（前者提供原理，后者作出应用）——已经证明：对小说作品的无节制阅读，哪怕所读尽是品位最高之作，也必然削弱心智、麻木真情。一个公认的事实是：这样的阅读会摧毁人对另一类更坚实的阅读（这类阅读是每个有心智的男女所必需）的全部兴味，最终也摧毁人对真实正当生活的全部兴味。",
+          "bsb": false,
+          "grammar": [
+            {"id": "apposition", "note": "those princes among reasoners, Bishop Butler and Henry Rogers：同位语点名；the former furnishing the principle, the latter (furnishing) its application：独立主格结构＋former/latter 对举，后半省略 furnishing。"}
+          ]
+        },
+        {
+          "en": "And it is a still more momentous fact that when such immoderate reading of fiction becomes likewise indiscriminate, the reader is led by it away from the facts of history and the truths of science, away from the laws of ethics and the doctrines of religion, away from the realities of this life and the transcendent glories of the life to come; his precious time for mental improvement is wasted, and he is made to move in a fictitious world, until all his notions of society are warped, all his views of life perverted, all his ideas of religion distorted—in short, until his ideal of life is wholly transformed and base. — D. S. Gregory, \"Christian Ethics.\"",
+          "zh": "还有一个更为重大的事实：当这种无度的小说阅读进而变得不加拣择时，读者就被它带离历史的事实与科学的真理，带离伦理的法则与宗教的要道，带离今生的实际与来生超越的荣耀；他用于心智长进的宝贵光阴被虚掷，他被迫活动在一个虚构的世界里——直到他对社会的一切观念被扭曲，对人生的一切看法被颠倒，对宗教的一切认识被歪曲——一言以蔽之，直到他的人生理想整个变质、沦为卑下。——D. S. 格雷戈里，《基督教伦理学》",
+          "bsb": false,
+          "grammar": [
+            {"id": "ellipsis", "note": "all his notions … are warped, all his views … perverted, all his ideas … distorted：三联排比，后两句省略 are。"},
+            {"note": "away from … away from … away from …：三重排比状语，层层推远；the life to come：来生（to come 作后置定语）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "weariness": {"ipa": "/ˈwɪərinəs/", "def": "n. 疲倦（much study is a weariness of the flesh：读书多身体疲倦）"},
+    "imparts": {"ipa": "/ɪmˈpɑːts/", "def": "v. 传递，赋予（impart）【六级/GRE】"},
+    "enticing": {"ipa": "/ɪnˈtaɪsɪŋ/", "def": "adj. 诱人的，引人向往的（entice：引诱）【GRE】"},
+    "revolting": {"ipa": "/rɪˈvəʊltɪŋ/", "def": "adj. 可憎的，令人作呕的（revolt：反感）【六级】"},
+    "welfare": {"ipa": "/ˈwelfeə/", "def": "n. 福祉，福利【四级】"},
+    "flashy": {"ipa": "/ˈflæʃi/", "def": "adj. 浮华的，华而不实的"},
+    "feculent": {"ipa": "/ˈfekjələnt/", "def": "adj. 污秽的，浊臭的（罕用词，feces 同源）"},
+    "pabulum": {"ipa": "/ˈpæbjələm/", "def": "n. 精神食粮；乏味的东西（拉丁借词）【GRE】"},
+    "pernicious": {"ipa": "/pəˈnɪʃəs/", "def": "adj. 有害的，险恶的【GRE】"},
+    "retain": {"ipa": "/rɪˈteɪn/", "def": "v. 记住，保持【四级】"},
+    "deluge": {"ipa": "/ˈdeljuːdʒ/", "def": "n. 洪水，泛滥（in deluge waves：如洪流般）【GRE】"},
+    "reformation": {"ipa": "/ˌrefəˈmeɪʃn/", "def": "n. 改革（the Reformation：宗教改革）【六级】"},
+    "immensely": {"ipa": "/ɪˈmensli/", "def": "adv. 极大地【四级】"},
+    "nuisance": {"ipa": "/ˈnjuːsns/", "def": "n. 公害，讨厌的东西【六级】"},
+    "intemperate": {"ipa": "/ɪnˈtempərət/", "def": "adj. 无节制的（the intemperate：酗酒者）【GRE】"},
+    "realism": {"ipa": "/ˈriːəlɪzəm/", "def": "n. 写实主义，现实主义【六级】"},
+    "injurious": {"ipa": "/ɪnˈdʒʊəriəs/", "def": "adj. 有害的（injure 的形容词）【六级】"},
+    "strenuous": {"ipa": "/ˈstrenjuəs/", "def": "adj. 费力的，艰苦的【六级/GRE】"},
+    "exertion": {"ipa": "/ɪɡˈzɜːʃn/", "def": "n. 用力，劳作（mental exertion：脑力劳作）【六级】"},
+    "leisure": {"ipa": "/ˈleʒə/", "def": "n. 闲暇【四级】"},
+    "debasing": {"ipa": "/dɪˈbeɪsɪŋ/", "def": "adj./v. 使卑下的，败坏的（debase：贬低，败坏）【GRE】"},
+    "debases": {"ipa": "/dɪˈbeɪsɪz/", "def": "v. 使堕落，贬低（debase）【GRE】"},
+    "array": {"ipa": "/əˈreɪ/", "def": "v.【此处义】装扮，披上（array in colors：给……着色打扮）；n. 一系列【六级】"},
+    "inducing": {"ipa": "/ɪnˈdjuːsɪŋ/", "def": "v. 诱发，引起（induce）【六级】"},
+    "ostensibly": {"ipa": "/ɒˈstensəbli/", "def": "adv. 表面上看来【GRE】"},
+    "exalted": {"ipa": "/ɪɡˈzɔːltɪd/", "def": "adj. 崇高的（exalt：高举）【GRE】"},
+    "scornful": {"ipa": "/ˈskɔːnfl/", "def": "adj. 轻蔑的（scorn：轻蔑）【六级】"},
+    "instincts": {"ipa": "/ˈɪnstɪŋkts/", "def": "n. 本能（instinct）【四级】"},
+    "delineation": {"ipa": "/dɪˌlɪniˈeɪʃn/", "def": "n. 刻画，描绘（delineate：勾画，GRE 词）"},
+    "portraiture": {"ipa": "/ˈpɔːtrɪtʃə/", "def": "n. 画像，人物刻画（portrait 的抽象名词）"},
+    "portraitures": {"ipa": "/ˈpɔːtrɪtʃəz/", "def": "n. 人物刻画（portraiture 的复数）"},
+    "infidel": {"ipa": "/ˈɪnfɪdəl/", "def": "n. 不信者，异教徒（in- 不 + fidel 信）【GRE】"},
+    "generality": {"ipa": "/ˌdʒenəˈræləti/", "def": "n. 大多数（the generality of men：大多数人）；概括性"},
+    "sympathizing": {"ipa": "/ˈsɪmpəθaɪzɪŋ/", "def": "adj. 亲昵同情的（sympathize：同情，共鸣）【六级】"},
+    "fashion": {"ipa": "/ˈfæʃn/", "def": "v.【此处义】塑造（fashion his ideal：塑造他的理想）；n. 时尚【四级】"},
+    "vulgarity": {"ipa": "/vʌlˈɡærəti/", "def": "n. 鄙俗，粗俗（vulgar：粗俗的）【GRE】"},
+    "tainted": {"ipa": "/ˈteɪntɪd/", "def": "adj. 被玷染的（taint：玷污）【GRE】"},
+    "pretension": {"ipa": "/prɪˈtenʃn/", "def": "n. 做作，自命不凡【GRE】"},
+    "arrogance": {"ipa": "/ˈærəɡəns/", "def": "n. 傲慢【六级】"},
+    "slang": {"ipa": "/slæŋ/", "def": "n. 俚语，粗话【四级】"},
+    "snappish": {"ipa": "/ˈsnæpɪʃ/", "def": "adj. 尖刻易怒的（snap：厉声说话）"},
+    "coarse": {"ipa": "/kɔːs/", "def": "adj. 粗鲁的，粗糙的【四级】"},
+    "envy": {"ipa": "/ˈenvi/", "def": "n./v. 嫉妒【四级】"},
+    "ill-temper": {"ipa": "/ˌɪl ˈtempə/", "def": "n. 坏脾气（复合词）"},
+    "vanity": {"ipa": "/ˈvænəti/", "def": "n. 虚荣【六级】"},
+    "affectation": {"ipa": "/ˌæfekˈteɪʃn/", "def": "n. 矫饰，装腔作势【GRE】"},
+    "breeding": {"ipa": "/ˈbriːdɪŋ/", "def": "n.【此处义】教养（good breeding：良好教养）；繁殖【四级】"},
+    "conceals": {"ipa": "/kənˈsiːlz/", "def": "v. 遮掩（conceal）【四级】"},
+    "disgusts": {"ipa": "/dɪsˈɡʌsts/", "def": "v. 令人作呕（disgust）【四级】"},
+    "probing": {"ipa": "/ˈprəʊbɪŋ/", "def": "n./v. 深挖，探查（probe：探针，探查）【六级】"},
+    "ulcers": {"ipa": "/ˈʌlsəz/", "def": "n. 溃疡（moral ulcers：道德溃疡）（ulcer）【六级】"},
+    "pamphlets": {"ipa": "/ˈpæmflɪts/", "def": "n. 小册子（pamphlet）【六级】"},
+    "defiance": {"ipa": "/dɪˈfaɪəns/", "def": "n. 蔑视，公然违抗（in defiance of law：蔑视法律）【六级/GRE】"},
+    "pretentious": {"ipa": "/prɪˈtenʃəs/", "def": "adj. 冠冕堂皇的，自命不凡的【GRE】"},
+    "gilded": {"ipa": "/ˈɡɪldɪd/", "def": "adj. 镀金的（gild：镀金，粉饰）【GRE】"},
+    "gild": {"ipa": "/ɡɪld/", "def": "v. 镀金；粉饰【GRE】"},
+    "vesture": {"ipa": "/ˈvestʃə/", "def": "n.【古/书面】衣服，华服（= clothing）"},
+    "gorgeous": {"ipa": "/ˈɡɔːdʒəs/", "def": "adj. 绚丽的，华美的【四级】"},
+    "captivate": {"ipa": "/ˈkæptɪveɪt/", "def": "v. 魅惑，迷住【GRE】"},
+    "uninitiated": {"ipa": "/ˌʌnɪˈnɪʃieɪtɪd/", "def": "adj. 未经世事的，外行的（the uninitiated：未入门者）"},
+    "repulsiveness": {"ipa": "/rɪˈpʌlsɪvnəs/", "def": "n. 令人憎恶（repulsive：使人反感的）"},
+    "shattered": {"ipa": "/ˈʃætəd/", "def": "adj. 破碎的（shatter：粉碎）【四级】"},
+    "defiled": {"ipa": "/dɪˈfaɪld/", "def": "adj. 被玷污的（defile：玷污，GRE 词）"},
+    "defilement": {"ipa": "/dɪˈfaɪlmənt/", "def": "n. 玷污，污损"},
+    "peril": {"ipa": "/ˈperəl/", "def": "n. 危险（without peril of：难免……之危）【六级/GRE】"},
+    "wreck": {"ipa": "/rek/", "def": "n./v. 毁坏，残骸【四级】"},
+    "reasoners": {"ipa": "/ˈriːznəz/", "def": "n. 推理家（reason 作动词『推理』+ -er）"},
+    "furnishing": {"ipa": "/ˈfɜːnɪʃɪŋ/", "def": "v. 提供（furnish = provide）【四级】"},
+    "inordinate": {"ipa": "/ɪnˈɔːdɪnət/", "def": "adj. 无节制的，过度的【GRE】"},
+    "deaden": {"ipa": "/ˈdedn/", "def": "v. 使麻木，使迟钝（dead + -en 使动词尾）"},
+    "momentous": {"ipa": "/məˈmentəs/", "def": "adj. 重大的【六级/GRE】"},
+    "immoderate": {"ipa": "/ɪˈmɒdərət/", "def": "adj. 无度的（im- + moderate 适度的）【GRE】"},
+    "indiscriminate": {"ipa": "/ˌɪndɪˈskrɪmɪnət/", "def": "adj. 不加拣择的，不分青红皂白的【GRE】"},
+    "ethics": {"ipa": "/ˈeθɪks/", "def": "n. 伦理，伦理学【六级】"},
+    "fictitious": {"ipa": "/fɪkˈtɪʃəs/", "def": "adj. 虚构的【六级/GRE】"},
+    "warped": {"ipa": "/wɔːpt/", "def": "adj. 被扭曲的（warp：使变形）【GRE】"},
+    "perverted": {"ipa": "/pəˈvɜːtɪd/", "def": "adj. 被颠倒的，反常的（pervert：使堕落）【GRE】"},
+    "distorted": {"ipa": "/dɪˈstɔːtɪd/", "def": "adj. 被歪曲的（distort：歪曲）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "pernicious", "ipa": "/pəˈnɪʃəs/", "def": "adj. 有害的，险恶的"},
+    {"word": "pabulum", "ipa": "/ˈpæbjələm/", "def": "n. 精神食粮；乏味的东西"},
+    {"word": "deluge", "ipa": "/ˈdeljuːdʒ/", "def": "n. 洪水，泛滥"},
+    {"word": "nuisance", "ipa": "/ˈnjuːsns/", "def": "n. 公害，讨厌的东西"},
+    {"word": "intemperate", "ipa": "/ɪnˈtempərət/", "def": "adj. 无节制的"},
+    {"word": "strenuous", "ipa": "/ˈstrenjuəs/", "def": "adj. 费力的，艰苦的"},
+    {"word": "debase", "ipa": "/dɪˈbeɪs/", "def": "v. 使堕落，贬低"},
+    {"word": "ostensibly", "ipa": "/ɒˈstensəbli/", "def": "adv. 表面上看来"},
+    {"word": "delineation", "ipa": "/dɪˌlɪniˈeɪʃn/", "def": "n. 刻画，描绘"},
+    {"word": "infidel", "ipa": "/ˈɪnfɪdəl/", "def": "n. 不信者，异教徒"},
+    {"word": "vulgarity", "ipa": "/vʌlˈɡærəti/", "def": "n. 鄙俗，粗俗"},
+    {"word": "affectation", "ipa": "/ˌæfekˈteɪʃn/", "def": "n. 矫饰，装腔作势"},
+    {"word": "defiance", "ipa": "/dɪˈfaɪəns/", "def": "n. 蔑视，公然违抗"},
+    {"word": "pretentious", "ipa": "/prɪˈtenʃəs/", "def": "adj. 冠冕堂皇的，自命不凡的"},
+    {"word": "captivate", "ipa": "/ˈkæptɪveɪt/", "def": "v. 魅惑，迷住"},
+    {"word": "gild", "ipa": "/ɡɪld/", "def": "v. 镀金；粉饰"},
+    {"word": "peril", "ipa": "/ˈperəl/", "def": "n. 危险"},
+    {"word": "inordinate", "ipa": "/ɪnˈɔːdɪnət/", "def": "adj. 无节制的，过度的"},
+    {"word": "momentous", "ipa": "/məˈmentəs/", "def": "adj. 重大的"},
+    {"word": "indiscriminate", "ipa": "/ˌɪndɪˈskrɪmɪnət/", "def": "adj. 不加拣择的"},
+    {"word": "fictitious", "ipa": "/fɪkˈtɪʃəs/", "def": "adj. 虚构的"},
+    {"word": "warp", "ipa": "/wɔːp/", "def": "v. 扭曲，使变形"}
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "num": "002",
+  "title_en": "ADOPTION",
+  "title_zh": "得儿子的名分（收养）",
+  "html_name": "002-Adoption-得儿子的名分.html",
+  "pages": "原书 p. 12",
+  "sections": [
+    {
+      "heading": "标题与定义 / Title & Definition",
+      "blocks": [
+        {
+          "en": "ADOPTION. Admission, by gracious Reinstatement, to full rights and privileges of Childship and Home Fellowship with God.",
+          "zh": "得儿子的名分：借着恩典中的复位，被接纳进入与神之间儿女身份和家中团契的完整权利与特权。",
+          "grammar": [
+            {"id": "headline-style", "note": "词典释义式的无谓语句：全句是一个名词短语，主干为 Admission to full rights and privileges（被接纳获得完整的权利与特权），by gracious Reinstatement 为插入的方式状语。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "A Fruit and Proof of the Father's love. 1 John 3:1. A result of Christ's redeeming work. Gal. 4:4, 5. Childship ensures heirship with Christ to eternal glory. Rom. 8:17.",
+          "zh": "这是父之爱的果实与明证（约翰一书 3:1）；是基督救赎之工的成果（加拉太书 4:4-5）。儿女的身份确保与基督同作后嗣，承受永远的荣耀（罗马书 8:17）。",
+          "grammar": [
+            {"id": "ellipsis", "note": "前两句为省略 It is 的名词短语句：A Fruit and Proof of the Father's love = (It is) a fruit and proof...（这是父爱的果实与明证）。纲要式文体常用。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "预言 / Predicted",
+      "blocks": [
+        {
+          "en": "Jer. 3:19. Ye shall call Me, my Father, and shall follow Me. VIII. 414.",
+          "zh": "耶利米书 3:19 —— 你们必称我为父，也不再转去不跟从我。",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Ye = 你们（第二人称复数主格）。"},
+            {"id": "shall-archaic", "note": "Ye shall call：shall 表应许的必然（你们必称……）。"}
+          ]
+        },
+        {
+          "en": "Hos. 1:10. Sons.",
+          "zh": "何西阿书 1:10 ——（你们必称为）永生神的儿子。"
+        }
+      ]
+    },
+    {
+      "heading": "应许给信徒 / Assured to Believers",
+      "blocks": [
+        {
+          "en": "John 1:12. To them that believe on His name, gave He the right to become children of God.",
+          "zh": "约翰福音 1:12 —— 凡接待他的，就是信他名的人，他就赐他们权柄作神的儿女。",
+          "grammar": [
+            {"id": "inversion", "note": "To them ... gave He the right：状语前置引起倒装，= He gave the right to them ...。"},
+            {"id": "him-that-relative", "note": "them that believe = those who believe（信的人）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "借圣灵的见证与引导 / By the Witness and Leading of the Holy Spirit",
+      "blocks": [
+        {
+          "en": "Rom. 8:14-16. As many as are led by the Spirit of God, are the sons of God. Ye have received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit beareth witness with our spirit that we are the children of God. If children, then heirs with Christ. XI. 236.",
+          "zh": "罗马书 8:14-16 —— 因为凡被神的灵引导的，都是神的儿子。……你们所受的乃是儿子的心（原文直译：得儿子名分之灵），因此我们呼叫：“阿爸！父！”圣灵与我们的心同证我们是神的儿女；既是儿女，便是后嗣，……和基督同作后嗣。",
+          "grammar": [
+            {"id": "as-many-as", "note": "As many as are led by the Spirit = all who are led（凡被圣灵引导的人）。"},
+            {"id": "compound-relatives", "note": "whereby we cry = by which we cry（借着这灵我们呼叫）。"},
+            {"id": "ellipsis", "note": "If children, then heirs：省略系动词，= If we are children, then we are heirs。"}
+          ]
+        },
+        {
+          "en": "Tit. 3:7. Heirs according to hope of eternal life.",
+          "zh": "提多书 3:7 —— 可以凭着永生的盼望成为后嗣。"
+        },
+        {
+          "en": "Gal. 4:4-7. God sent forth His Son, that we might receive the adoption of sons. And because sons, God sent forth the Spirit of His Son into our hearts, crying, Abba, Father. XI. 402, 3.",
+          "zh": "加拉太书 4:4-7 —— 神就差遣他的儿子……叫我们得着儿子的名分。你们既为儿子，神就差他儿子的灵进入你们（原文作“我们”）的心，呼叫：“阿爸！父！”",
+          "grammar": [
+            {"id": "ellipsis", "note": "And because sons = And because we are sons：省略主语和系动词。"}
+          ]
+        },
+        {
+          "en": "1 John 3:1, 2. Now are we the sons of God. XI. 690.",
+          "zh": "约翰一书 3:1-2 —— 我们现在是神的儿女。",
+          "grammar": [
+            {"id": "inversion", "note": "Now are we = Now we are：状语 Now 前置引起倒装。"}
+          ]
+        },
+        {
+          "en": "Eph. 1:5. The adoption of children by Jesus Christ.",
+          "zh": "以弗所书 1:5 —— 预定我们藉着耶稣基督得儿子的名分。"
+        },
+        {
+          "en": "Gal. 3:26. Ye are the children of God by faith in Christ Jesus. XI. 400.",
+          "zh": "加拉太书 3:26 —— 所以，你们因信基督耶稣都是神的儿子。"
+        },
+        {
+          "en": "1 Pet. 1:14. Obedient children. XI. 649.",
+          "zh": "彼得前书 1:14 —— 你们既作顺命的儿女。"
+        },
+        {
+          "en": "Eph. 5:1. Beloved children. XI. 435.",
+          "zh": "以弗所书 5:1 ——（你们该效法神，）好像蒙慈爱的儿女一样。"
+        },
+        {
+          "en": "Rom. 9:26. Called children of the living God.",
+          "zh": "罗马书 9:26 —— 他们必称为永生神的儿子。"
+        },
+        {
+          "en": "Eph. 2:19. Of the household of God.",
+          "zh": "以弗所书 2:19 —— 是神家里的人了。"
+        },
+        {
+          "en": "Heb. 12:7. God dealeth with you as with sons.",
+          "zh": "希伯来书 12:7 —— 神待你们如同待儿子。",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "dealeth = deals（deal with：对待）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "神仍然眷顾迷失的儿女 / Lost Childship Still Recognized by God",
+      "blocks": [
+        {
+          "en": "Prov. 23:26. My son, give Me thy heart. VI. 383.",
+          "zh": "箴言 23:26 —— 我儿，要将你的心归我。",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "thy heart = your heart（thy 是 thou 的所有格）。"}
+          ]
+        },
+        {
+          "en": "Luke 15:20-24. His father saw him, and had compassion, and ran and fell on his neck and kissed him. … This my son was dead, and is alive again. X. 370.",
+          "zh": "路加福音 15:20-24 —— 相离还远，他父亲看见，就动了慈心，跑去抱着他的颈项，连连与他亲嘴。……因为我这个儿子是死而复活、失而又得的。",
+          "bsb": "Luke 15:20, 24"
+        },
+        {
+          "en": "With many teachings regarding the process and results of genuine conversion, the Parable mainly emphasizes God's yearning over His lost child and His delight in regaining the child's affection and fellowship.",
+          "zh": "这个比喻（浪子的比喻）虽然包含关于真实悔改归正之过程与结果的许多教训，但它主要强调的是：神对迷失儿女的切切渴慕，以及祂重新赢回儿女之爱与团契时的喜悦。",
+          "grammar": [
+            {"note": "With many teachings regarding...：with 引导的介词短语前置作让步/伴随状语（虽有许多教训）；regaining 是动名词作介词 in 的宾语：His delight in regaining...（祂重新赢回……时的喜悦）。"}
+          ]
+        },
+        {
+          "en": "See Childlikeness.",
+          "zh": "另参主题词条：赤子之心（Childlikeness）。"
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "adoption": {"ipa": "/əˈdɒpʃn/", "def": "n. 收养；（圣经用语）得儿子的名分；采纳"},
+    "admission": {"ipa": "/ədˈmɪʃn/", "def": "n. 准入，接纳；承认"},
+    "gracious": {"ipa": "/ˈɡreɪʃəs/", "def": "adj. 恩慈的，仁慈的"},
+    "reinstatement": {"ipa": "/ˌriːɪnˈsteɪtmənt/", "def": "n. 恢复原职（原位）；复位"},
+    "privileges": {"ipa": "/ˈprɪvəlɪdʒɪz/", "def": "n. 特权，殊荣（privilege 的复数）"},
+    "childship": {"ipa": "/ˈtʃaɪldʃɪp/", "def": "n. 儿女身份（罕用词，= sonship，作者自铸的神学用语）"},
+    "fellowship": {"ipa": "/ˈfeləʊʃɪp/", "def": "n. 团契；交往，情谊"},
+    "redeeming": {"ipa": "/rɪˈdiːmɪŋ/", "def": "adj./v. 救赎的（redeem：救赎，赎回）"},
+    "ensures": {"ipa": "/ɪnˈʃʊəz/", "def": "v. 确保，保证（ensure 的第三人称单数）"},
+    "heirship": {"ipa": "/ˈeəʃɪp/", "def": "n. 继承权，后嗣身份（heir /eə/ 继承人，h 不发音）"},
+    "heirs": {"ipa": "/eəz/", "def": "n. 后嗣，继承人（heir 的复数，h 不发音）"},
+    "eternal": {"ipa": "/ɪˈtɜːnl/", "def": "adj. 永恒的，永远的"},
+    "predicted": {"ipa": "/prɪˈdɪktɪd/", "def": "v. 预言（predict 的过去分词）"},
+    "assured": {"ipa": "/əˈʃʊəd/", "def": "v./adj. 保证的，确定无疑的（assure：保证）"},
+    "ye": {"ipa": "/jiː/", "def": "pron.【古】你们（第二人称复数主格，= you）"},
+    "thy": {"ipa": "/ðaɪ/", "def": "pron.【古】你的（= your，thou 的所有格）"},
+    "whereby": {"ipa": "/weəˈbaɪ/", "def": "adv.【正式/古】借此，凭此（= by which）"},
+    "beareth": {"ipa": "/ˈbeərəθ/", "def": "= bears（-eth 古词尾）；beareth witness：作见证"},
+    "witness": {"ipa": "/ˈwɪtnəs/", "def": "n./v. 见证；见证人（bear witness：作见证）"},
+    "obedient": {"ipa": "/əˈbiːdiənt/", "def": "adj. 顺服的，服从的"},
+    "beloved": {"ipa": "/bɪˈlʌvɪd/", "def": "adj. 蒙爱的，亲爱的"},
+    "household": {"ipa": "/ˈhaʊshəʊld/", "def": "n. 家庭，家眷；一家人"},
+    "dealeth": {"ipa": "/ˈdiːləθ/", "def": "= deals（-eth 古词尾）；deal with：对待"},
+    "compassion": {"ipa": "/kəmˈpæʃn/", "def": "n. 怜悯，慈心（have compassion：动慈心）"},
+    "genuine": {"ipa": "/ˈdʒenjuɪn/", "def": "adj. 真实的，真正的"},
+    "conversion": {"ipa": "/kənˈvɜːʃn/", "def": "n. 归信，悔改归正；转变"},
+    "parable": {"ipa": "/ˈpærəbl/", "def": "n. 比喻，寓言（尤指圣经中的比喻）"},
+    "emphasizes": {"ipa": "/ˈemfəsaɪzɪz/", "def": "v. 强调（emphasize 的第三人称单数）"},
+    "yearning": {"ipa": "/ˈjɜːnɪŋ/", "def": "n. 渴望，思慕（yearn over：为……切切渴慕）"},
+    "regaining": {"ipa": "/rɪˈɡeɪnɪŋ/", "def": "v. 重新获得（regain 的动名词）"},
+    "affection": {"ipa": "/əˈfekʃn/", "def": "n. 爱，感情"},
+    "abba": {"ipa": "/ˈæbə/", "def": "n. 阿爸（亚兰语『父亲』的亲昵称呼）"},
+    "delight": {"ipa": "/dɪˈlaɪt/", "def": "n. 喜悦，愉快（delight in：因……而喜悦）【四级】"},
+    "glory": {"ipa": "/ˈɡlɔːri/", "def": "n. 荣耀，光荣【四级】"},
+    "proof": {"ipa": "/pruːf/", "def": "n. 证据，明证【四级】"},
+    "process": {"ipa": "/ˈprəʊses/", "def": "n. 过程，进程【四级】"},
+    "spirit": {"ipa": "/ˈspɪrɪt/", "def": "n. 灵，圣灵（the Spirit）；精神【四级】"},
+    "faith": {"ipa": "/feɪθ/", "def": "n. 信，信心，信仰（by faith：因信）【四级】"},
+    "childlikeness": {"ipa": "/ˈtʃaɪldlaɪknəs/", "def": "n. 赤子之心，孩童般的品性（childlike：天真的，孩子般的）"},
+    "forth": {"ipa": "/fɔːθ/", "def": "adv.【正式/古】向前，出来（sent forth：差遣出去）【四级】"},
+    "regarding": {"ipa": "/rɪˈɡɑːdɪŋ/", "def": "prep. 关于（= about, concerning）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "adoption", "ipa": "/əˈdɒpʃn/", "def": "n. 收养；（圣经用语）得儿子的名分；采纳"},
+    {"word": "admission", "ipa": "/ədˈmɪʃn/", "def": "n. 准入，接纳；承认"},
+    {"word": "gracious", "ipa": "/ˈɡreɪʃəs/", "def": "adj. 恩慈的，仁慈的"},
+    {"word": "reinstatement", "ipa": "/ˌriːɪnˈsteɪtmənt/", "def": "n. 恢复原职（原位）；复位"},
+    {"word": "privilege", "ipa": "/ˈprɪvəlɪdʒ/", "def": "n. 特权，殊荣"},
+    {"word": "fellowship", "ipa": "/ˈfeləʊʃɪp/", "def": "n. 团契；交往，情谊"},
+    {"word": "redeem", "ipa": "/rɪˈdiːm/", "def": "v. 救赎，赎回（redeeming work：救赎之工）"},
+    {"word": "heirship", "ipa": "/ˈeəʃɪp/", "def": "n. 继承权，后嗣身份（heir /eə/ 继承人，h 不发音）"},
+    {"word": "eternal", "ipa": "/ɪˈtɜːnl/", "def": "adj. 永恒的，永远的"},
+    {"word": "predict", "ipa": "/prɪˈdɪkt/", "def": "v. 预言，预告"},
+    {"word": "assure", "ipa": "/əˈʃʊə/", "def": "v. 保证，使确信"},
+    {"word": "witness", "ipa": "/ˈwɪtnəs/", "def": "n./v. 见证；见证人"},
+    {"word": "obedient", "ipa": "/əˈbiːdiənt/", "def": "adj. 顺服的，服从的"},
+    {"word": "household", "ipa": "/ˈhaʊshəʊld/", "def": "n. 家庭，家眷；一家人"},
+    {"word": "compassion", "ipa": "/kəmˈpæʃn/", "def": "n. 怜悯，慈心"},
+    {"word": "conversion", "ipa": "/kənˈvɜːʃn/", "def": "n. 归信，悔改归正；转变"},
+    {"word": "parable", "ipa": "/ˈpærəbl/", "def": "n. 比喻，寓言（尤指圣经中的比喻）"},
+    {"word": "yearning", "ipa": "/ˈjɜːnɪŋ/", "def": "n. 渴望，思慕"},
+    {"word": "affection", "ipa": "/əˈfekʃn/", "def": "n. 爱，感情"},
+    {"word": "delight", "ipa": "/dɪˈlaɪt/", "def": "n. 喜悦，愉快（delight in：因……而喜悦）"},
+    {"word": "glory", "ipa": "/ˈɡlɔːri/", "def": "n. 荣耀，光荣"}
+  ]
+}

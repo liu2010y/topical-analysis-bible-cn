@@ -1,0 +1,48 @@
+{
+  "num": "029",
+  "title_en": "CHERUBIM",
+  "title_zh": "基路伯",
+  "html_name": "029-Cherubim-基路伯.html",
+  "pages": "原书 p. 50",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CHERUBIM. Of Eden: Gen. 3:24. (He placed at the east of the garden of Eden the Cherubim, and the flame of a sword which turned every way, to keep the way of the tree of life.) I. 201-203.",
+          "zh": "基路伯。伊甸园的基路伯：创世记 3:24 —— 于是把他赶出去了，又在伊甸园的东边安设基路伯和四面转动发火焰的剑，要把守生命树的道路。",
+          "bsb": "Genesis 3:24"
+        },
+        {
+          "en": "Of the Tabernacle: Ex. 25:18-20. (Two cherubim of gold, of beaten work, at the two ends of the mercy-seat, stretching forth their wings on high, covering the mercy-seat with their wings.) II. 301. Of Solomon's Temple: 1 Kings 6:23-28. III. 544.",
+          "zh": "会幕的基路伯：出埃及记 25:18-20 —— 要用金子锤出两个基路伯来，安在施恩座的两头……基路伯要高张翅膀，遮掩施恩座。所罗门圣殿的基路伯：列王纪上 6:23-28（用橄榄木做两个基路伯，各高十肘，安在内殿）。【OCR 注：原书 \"1 Kings 6:25\" 依主题推定为 6:23-28。】",
+          "bsb": "Exodus 25:20",
+          "grammar": [
+            {"note": "of beaten work：锤揲工艺（beaten 过去分词作定语：锤出来的）；stretching forth … covering …：两个现在分词短语作伴随状语。cherubim 为希伯来复数（单数 cherub），英语沿用原文复数形式。"}
+          ]
+        },
+        {
+          "en": "Of Isaiah's Vision: Isa. 6:1-6. VIII. 41. Of Ezekiel's Vision: chaps. 1 and 10. IX. 20. Of John's Vision: Rev. 4. XI. 738.",
+          "zh": "以赛亚异象中的（撒拉弗与宝座）：以赛亚书 6:1-6（我见主坐在高高的宝座上……其上有撒拉弗侍立）。以西结异象中的：以西结书 1 章与 10 章（四活物——人脸、狮脸、牛脸、鹰脸；轮中套轮）。约翰异象中的：启示录 4 章（宝座周围的四活物，昼夜不住地说：圣哉！圣哉！圣哉！）。",
+          "bsb": "Ezekiel 10:20",
+          "grammar": [
+            {"note": "原书把以赛亚书 6 章的撒拉弗（seraphim）也归入本词条——两词同为希伯来复数：cherub/cherubim，seraph/seraphim。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "cherubim": {"ipa": "/ˈtʃerəbɪm/", "def": "n. 基路伯（希伯来复数；单数 cherub /ˈtʃerəb/）"},
+    "eden": {"ipa": "/ˈiːdn/", "def": "n. 伊甸（园）"},
+    "flame": {"ipa": "/fleɪm/", "def": "n. 火焰【四级】"},
+    "beaten": {"ipa": "/ˈbiːtn/", "def": "adj. 锤出的，锻打的（beaten work：锤揲工艺）【四级】"},
+    "stretching": {"ipa": "/ˈstretʃɪŋ/", "def": "v. 张开，伸展（stretch forth：向前伸张）【四级】"},
+    "vision": {"ipa": "/ˈvɪʒn/", "def": "n. 异象；视觉【四级】"}
+  },
+  "vocab_table": [
+    {"word": "cherub", "ipa": "/ˈtʃerəb/", "def": "n. 基路伯（复数 cherubim）"},
+    {"word": "vision", "ipa": "/ˈvɪʒn/", "def": "n. 异象；视觉"}
+  ]
+}

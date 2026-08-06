@@ -80,6 +80,9 @@
 | 024 | Call of God to Man（神对人的呼召） | p. 46–48 | ✅ |
 | 025 | Calling, Life Occupation（蒙召的职业） | p. 48 | ✅（短词条） |
 | 026 | Captivity（被掳） | p. 48 | ✅（短词条） |
-| 027– | Character, Moral（品格）起 | p. 48– | ⏳ |
+| 027 | Character, Moral（道德品格） | p. 48–49 | ✅ |
+| 028 | Characters of Old Testament（旧约人物） | p. 49–50 | ✅（人物索引） |
+| 029 | Cherubim（基路伯） | p. 50 | ✅（短词条） |
+| 030– | Childlikeness（赤子之心）起 | p. 50– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

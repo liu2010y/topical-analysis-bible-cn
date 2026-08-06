@@ -1,0 +1,86 @@
+{
+  "num": "027",
+  "title_en": "CHARACTER, Moral",
+  "title_zh": "道德品格",
+  "html_name": "027-Character-品格.html",
+  "pages": "原书 p. 48–49",
+  "sections": [
+    {
+      "heading": "标题与定义 / Title & Definition",
+      "blocks": [
+        {
+          "en": "CHARACTER, Moral. May be defined as both the sum and the product of the mental and moral forces actuating a man's daily living. In other words, Character consists in the aggregate of a man's life-ruling estimates, desires, motives, aims and purposes, together with the permanent effects wrought by these in actual living upon the moral and spiritual nature. These effects may be indicated by a man's expressed moral sentiments, tastes and judgments, by his preferences of persons and books, as well as by his deportment and dealings in the home, and in business and social life.",
+          "zh": "道德品格。可以定义为驱动一个人日常生活的心智与道德诸力的总和兼产物。换言之，品格由一个人支配一生的种种评断、愿望、动机、目标与志向汇聚而成，连同这些（评断等）在实际生活中作用于道德与属灵本性所留下的恒久果效。这些果效可以从以下方面显示出来：一个人表露的道德情感、趣味与判断，他对人与书的偏好，以及他在家庭、职场与社交生活中的举止和待人接物。",
+          "grammar": [
+            {"note": "May be defined as…：词典定义体，省略主语（= Character may be defined as…）；both the sum and the product：既是总和又是产物的双重同位；wrought by these … upon…：wrought 是 work 的古过去分词（造成的果效）。"}
+          ]
+        },
+        {
+          "en": "The will and the conscience are the immediately determining factors of the product we call character, acting upon real experiences and upon recognized high ideals. The practical point to be noted is that every man builds his own character and is responsible for the result—on the one side with the help of God and good men, on the other under the temptation of Satan and evil men. And every man contributes to the building of the character of those with whom he is brought into association. Further, while the building of character is a life-process, at the end of this life the completed structure, good or evil, abides unchanged forever.",
+          "zh": "意志与良心是我们称为品格的这一产物的直接决定因素，它们作用于真实的经历和所认定的高尚理想之上。当注意的要点是：每个人都在建造自己的品格，并要为其结果负责——一面有神和善人的帮助，另一面受撒但和恶人的试探。而且，每个人都在参与建造与他交往之人的品格。更进一步说：品格的建造虽是一生之久的过程，但今生结束之时，那座已然完工的建筑——无论善恶——将永远留存，不再改变。",
+          "grammar": [
+            {"id": "prep-relative", "note": "those with whom he is brought into association：介词 with 前置于关系代词 whom（与他有交往的人）。"},
+            {"note": "on the one side … on the other (side)：对举结构，后半省略 side；the completed structure, good or evil, abides：good or evil 为插入的让步性同位语（无论善恶）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "经文 / Scripture",
+      "blocks": [
+        {
+          "en": "Prov. 22:1. A good name is rather to be chosen than great riches. VI. 374. Eccles. 7:1. (A good name is better than precious ointment.) VI. 481. Prov. 23:7. As he thinketh within himself, so is he. VI. 385. Prov. 14:14. VI. 323.",
+          "zh": "箴言 22:1 —— 美名胜过大财；恩宠强如金银。传道书 7:1 —— 名誉强如美好的膏油。箴言 23:7 —— 因为他心怎样思量，他为人就是怎样。另参箴言 14:14（心中背道的，必满得自己的结果）。",
+          "bsb": "Proverbs 22:1",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As he thinketh within himself, so is he：as…so… 关联＋so 后倒装（他心里怎样想，他这人就怎样）——论品格的经典经文。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "品格的若干要素 / Some Elements",
+      "blocks": [
+        {
+          "en": "Some Elements: Decision, Courage, Fortitude, Steadfastness. Illus.: Gideon. Judges 8:4. Faint, yet pursuing. III. 220. Nehemiah. Neh. 6:3. I cannot come down. 6:11. (Should such a man as I flee?) I will not flee. VII. 552-554.",
+          "zh": "品格的若干要素：果断、勇气、坚忍、坚定。例证：基甸——士师记 8:4 —— 虽然疲乏，还是追赶（原书节引：疲乏，犹追赶）。尼希米——尼希米记 6:3 —— 我现在办理大工，不能下去。6:11 —— 像我这样的人岂要逃跑呢？……我不进去！",
+          "bsb": "Judges 8:4",
+          "grammar": [
+            {"id": "ellipsis", "note": "Faint, yet pursuing = (They were) faint, yet (they were) pursuing：省略主语与系动词的名句式概括（虽疲乏、犹追赶）。"},
+            {"note": "Should such a man as I flee?：should 开头的反问（像我这样的人岂可逃跑），such … as I 中 as 后用主格 I（正式文体）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "actuating": {"ipa": "/ˈæktʃueɪtɪŋ/", "def": "v. 驱动，推动（actuate）【GRE】"},
+    "aggregate": {"ipa": "/ˈæɡrɪɡət/", "def": "n. 汇聚的总体，总计【六级/GRE】"},
+    "estimates": {"ipa": "/ˈestɪməts/", "def": "n. 评断，评价（estimate）【四级】"},
+    "motives": {"ipa": "/ˈməʊtɪvz/", "def": "n. 动机（motive）【四级】"},
+    "sentiments": {"ipa": "/ˈsentɪmənts/", "def": "n. 情感，观点（sentiment）【六级】"},
+    "deportment": {"ipa": "/dɪˈpɔːtmənt/", "def": "n. 举止，风度【GRE】"},
+    "dealings": {"ipa": "/ˈdiːlɪŋz/", "def": "n. 待人接物，交往（deal 的名词复数）"},
+    "conscience": {"ipa": "/ˈkɒnʃəns/", "def": "n. 良心【四级】"},
+    "association": {"ipa": "/əˌsəʊsiˈeɪʃn/", "def": "n. 交往；协会（be brought into association with：与……有交往）【四级】"},
+    "life-process": {"ipa": "/ˈlaɪf ˌprəʊses/", "def": "n. 一生之久的过程（复合词）"},
+    "abides": {"ipa": "/əˈbaɪdz/", "def": "v. 留存，常存（abide）【六级】"},
+    "ointment": {"ipa": "/ˈɔɪntmənt/", "def": "n. 膏油，软膏【六级】"},
+    "thinketh": {"ipa": "/ˈθɪŋkəθ/", "def": "= thinks（-eth 古词尾）：思量"},
+    "fortitude": {"ipa": "/ˈfɔːtɪtjuːd/", "def": "n. 坚忍，刚毅【GRE】"},
+    "steadfastness": {"ipa": "/ˈstedfɑːstnəs/", "def": "n. 坚定（steadfast 的名词）"},
+    "decision": {"ipa": "/dɪˈsɪʒn/", "def": "n.【此处义】果断，决断力；常见义：决定【四级】"},
+    "faint": {"ipa": "/feɪnt/", "def": "adj. 疲乏的；v. 发昏【四级】"},
+    "pursuing": {"ipa": "/pəˈsjuːɪŋ/", "def": "v. 追赶（pursue）【四级】"},
+    "flee": {"ipa": "/fliː/", "def": "v. 逃跑（fled, fled）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "aggregate", "ipa": "/ˈæɡrɪɡət/", "def": "n. 汇聚的总体，总计"},
+    {"word": "actuate", "ipa": "/ˈæktʃueɪt/", "def": "v. 驱动，推动"},
+    {"word": "sentiment", "ipa": "/ˈsentɪmənt/", "def": "n. 情感，观点"},
+    {"word": "deportment", "ipa": "/dɪˈpɔːtmənt/", "def": "n. 举止，风度"},
+    {"word": "fortitude", "ipa": "/ˈfɔːtɪtjuːd/", "def": "n. 坚忍，刚毅"},
+    {"word": "ointment", "ipa": "/ˈɔɪntmənt/", "def": "n. 膏油，软膏"},
+    {"word": "abide", "ipa": "/əˈbaɪd/", "def": "v. 留存，常存"}
+  ]
+}

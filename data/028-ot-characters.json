@@ -1,0 +1,102 @@
+{
+  "num": "028",
+  "title_en": "CHARACTERS OF OLD TESTAMENT",
+  "title_zh": "旧约人物（附生命功课）",
+  "html_name": "028-OT-Characters-旧约人物.html",
+  "pages": "原书 p. 49–50",
+  "ocr_note": "本词条为人物索引：仅亚伯拉罕、以利亚、摩西附有纲要，其余人物为人名＋《圣经工作》卷页引用（此处保留人名并给出和合本通译名，卷页号从略）。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CHARACTERS OF OLD TESTAMENT, with notable Life-Lessons.",
+          "zh": "旧约人物——附值得记取的生命功课。"
+        }
+      ]
+    },
+    {
+      "heading": "一、亚伯拉罕（详纲） / Abraham",
+      "blocks": [
+        {
+          "en": "Abraham. Call and blessing: Gen. 12:1-3. Obedience by Faith: Gen. 12:4. Heb. 11:8-10. (By faith Abraham, when he was called, obeyed; and he went out, not knowing whither he went.) Builded altars wherever he sojourned: Gen. 12:7, 8; 13:18; 22:9.",
+          "zh": "亚伯拉罕。蒙召与得福：创世记 12:1-3（我必叫你成为大国……地上的万族都要因你得福）。因信顺服：12:4；希伯来书 11:8-10 —— 亚伯拉罕因着信，蒙召的时候就遵命出去……出去的时候，还不知往哪里去。所到之处随地筑坛：创世记 12:7-8；13:18；22:9。",
+          "bsb": "Hebrews 11:8",
+          "grammar": [
+            {"note": "not knowing whither he went：现在分词否定式作伴随状语；whither =【古】to where（往何处）。builded 是 build 的旧式过去式（今作 built）。"}
+          ]
+        },
+        {
+          "en": "Received Covenant Promises: at Haran, Gen. 12:2, 3; at Shechem, 12:7; at Bethel, 13:14, 15; at Hebron, 15:4, 5, 8-18; renewed and sealed by Circumcision, 17:1-14; 18:18; at Moriah, 22:18. His deceit in Egypt: Gen. 12:11-13; at Gerar, 20:1-13. Rescues Lot: 14:12-16. Faith counted for Righteousness: Gen. 15:6. Purposed Sacrifice of Isaac: 22:1-18. Summary Points of Character: I. 421-423.",
+          "zh": "领受立约的应许：在哈兰（创世记 12:2-3）；在示剑（12:7）；在伯特利（13:14-15）；在希伯仑（15:4-5, 8-18）；以割礼重申并印证（17:1-14；18:18）；在摩利亚（22:18）。他在埃及的诡诈（12:11-13——谎称撒拉为妹）；在基拉耳（20:1-13）。营救罗得（14:12-16）。信就算为他的义（15:6——亚伯兰信耶和华，耶和华就以此为他的义）。献以撒之举（22:1-18）。品格要点综述（《圣经工作》I. 421-423）。【OCR 注：原书 \"Gen. 12:23\"、\"9:18\" 依经文体系推定为 12:2-3 与 13:18。】",
+          "bsb": "Genesis 15:6",
+          "grammar": [
+            {"id": "ellipsis", "note": "Faith (was) counted for Righteousness / Purposed Sacrifice：纲要式省略——counted 前省略 was，purposed 作前置定语（既定的献祭之举）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、以利亚与摩西（小纲） / Elijah and Moses",
+      "blocks": [
+        {
+          "en": "Elijah. First appearance. Three years' retirement. Bold Fidelity at Carmel. One failure; flight to Horeb. God's Treatment for his restoration. Translation. VII. 95-160.",
+          "zh": "以利亚：初次登场（列王纪上 17:1，向亚哈宣告旱灾）；三年的退隐（基立溪旁、撒勒法寡妇家）；迦密山上的无畏忠贞（王上 18 章，与巴力先知对决）；一次失败——逃往何烈山（王上 19 章，求死）；神为使他复原所施的对待（微小的声音）；被接升天（王下 2 章，火车火马）。",
+          "bsb": false,
+          "grammar": [
+            {"note": "Translation 此处为特殊义『被接升天』（translate 古义：迁移、接去，希伯来书 11:5 论以诺 was translated 即此义），与现代义『翻译』不同。"}
+          ]
+        },
+        {
+          "en": "Moses. Greatness of Character and Service. As an Intercessor. As God's Avenger. His Disobedience. Announcement of Death. Ascent of Nebo, and Vision from Pisgah. Death, Burial and Encomium. II. 226-748.",
+          "zh": "摩西：品格与侍奉之伟大；作代求者（金牛犊事件后为民代求：『不然，求你从你所写的册上涂抹我的名』）；作神的伸冤者；他的悖逆（米利巴水，击打磐石）；死期的宣告；登尼波山、从毗斯迦顶眺望应许之地；死亡、埋葬与身后的颂辞（申命记 34 章——以后以色列中再没有兴起先知像摩西的）。",
+          "bsb": false,
+          "grammar": [
+            {"note": "Encomium：颂辞（GRE 词，希腊借词）——指申命记 34 章末尾对摩西的盖棺定论。全段为名词短语纲要体。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、人物名录 / Roll of Characters",
+      "blocks": [
+        {
+          "en": "Ahab. Ahaz. Asa. Balaam (Micah 6:5. 2 Pet. 2:15. Jude 11. Rev. 2:14). Caleb (Josh. 14:8. He wholly followed the Lord). David. Elisha (appointed successor; miracles and other deeds). Esau. Esther (Suggestions of the Story). Ezra. Gehazi. Hazael. Hezekiah. Jael. Jezebel. Jehoshaphat. Jeroboam. Jonadab. Jonah. Jonathan. Joseph. Joshua. Josiah. Lot. Melchisedek. Manasseh. Nehemiah. Noah (2 Pet. 2:5. 1 Pet. 3:18-20). Rehoboam. Ruth. Samuel. Saul. Solomon. Uzziah.",
+          "zh": "亚哈；亚哈斯；亚撒；巴兰（弥迦书 6:5；彼得后书 2:15——贪爱不义之工价；犹大书 11；启示录 2:14）；迦勒（约书亚记 14:8 —— 我专心跟从耶和华我的神）；大卫；以利沙（被立为以利亚的继承人；诸多神迹与作为）；以扫；以斯帖（故事的启迪）；以斯拉；基哈西；哈薛；希西家；雅亿；耶洗别；约沙法；耶罗波安；约拿达；约拿；约拿单；约瑟；约书亚；约西亚；罗得；麦基洗德；玛拿西；尼希米；挪亚（彼得后书 2:5——传义道的挪亚；彼得前书 3:18-20）；罗波安；路得；撒母耳；扫罗；所罗门；乌西雅。（各人物的详解见《圣经工作》相应卷页。）【OCR 注：原书 \"Micah 6:2\"、\"Josh. 14:7\" 依引文推定为 6:5 与 14:8。】",
+          "bsb": false
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "sojourned": {"ipa": "/ˈsɒdʒənd/", "def": "v. 寄居，旅居（sojourn）【GRE】"},
+    "covenant": {"ipa": "/ˈkʌvənənt/", "def": "n. 约，圣约【六级/考研】"},
+    "circumcision": {"ipa": "/ˌsɜːkəmˈsɪʒn/", "def": "n. 割礼"},
+    "deceit": {"ipa": "/dɪˈsiːt/", "def": "n. 诡诈，欺骗【六级】"},
+    "rescues": {"ipa": "/ˈreskjuːz/", "def": "v. 营救（rescue）【四级】"},
+    "purposed": {"ipa": "/ˈpɜːpəst/", "def": "adj./v. 定意的，既定的（purpose 作动词：定意）"},
+    "whither": {"ipa": "/ˈwɪðə/", "def": "adv.【古】往何处（= to where）"},
+    "builded": {"ipa": "/ˈbɪldɪd/", "def": "v.【旧式】build 的过去式（今作 built）"},
+    "retirement": {"ipa": "/rɪˈtaɪəmənt/", "def": "n.【此处义】退隐，隐居；常见义：退休【四级】"},
+    "fidelity": {"ipa": "/fɪˈdeləti/", "def": "n. 忠贞，忠诚【GRE】"},
+    "restoration": {"ipa": "/ˌrestəˈreɪʃn/", "def": "n. 复原，恢复【六级】"},
+    "translation": {"ipa": "/trænzˈleɪʃn/", "def": "n.【此处古义】被接升天（translate 古义：迁移）；常见义：翻译【四级】"},
+    "intercessor": {"ipa": "/ˌɪntəˈsesə/", "def": "n. 代求者，中保（intercede：代求）"},
+    "avenger": {"ipa": "/əˈvendʒə/", "def": "n. 伸冤者，复仇者（avenge：伸冤）【六级】"},
+    "ascent": {"ipa": "/əˈsent/", "def": "n. 登上，上升【六级】"},
+    "burial": {"ipa": "/ˈberiəl/", "def": "n. 埋葬（bury 的名词，注意读音）【六级】"},
+    "encomium": {"ipa": "/enˈkəʊmiəm/", "def": "n. 颂辞，赞词【GRE】"},
+    "successor": {"ipa": "/səkˈsesə/", "def": "n. 继承人，继任者【四级】"},
+    "wholly": {"ipa": "/ˈhəʊlli/", "def": "adv. 专心地，完全地【四级】"},
+    "roll": {"ipa": "/rəʊl/", "def": "n.【此处义】名录，名册（roll of characters：人物名录）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "sojourn", "ipa": "/ˈsɒdʒən/", "def": "v./n. 寄居，旅居"},
+    {"word": "deceit", "ipa": "/dɪˈsiːt/", "def": "n. 诡诈，欺骗"},
+    {"word": "fidelity", "ipa": "/fɪˈdeləti/", "def": "n. 忠贞，忠诚"},
+    {"word": "intercessor", "ipa": "/ˌɪntəˈsesə/", "def": "n. 代求者，中保"},
+    {"word": "avenger", "ipa": "/əˈvendʒə/", "def": "n. 伸冤者，复仇者"},
+    {"word": "encomium", "ipa": "/enˈkəʊmiəm/", "def": "n. 颂辞，赞词"},
+    {"word": "whither", "ipa": "/ˈwɪðə/", "def": "adv.【古】往何处"}
+  ]
+}

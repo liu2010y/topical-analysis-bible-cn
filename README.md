@@ -83,6 +83,8 @@
 | 027 | Character, Moral（道德品格） | p. 48–49 | ✅ |
 | 028 | Characters of Old Testament（旧约人物） | p. 49–50 | ✅（人物索引） |
 | 029 | Cherubim（基路伯） | p. 50 | ✅（短词条） |
-| 030– | Childlikeness（赤子之心）起 | p. 50– | ⏳ |
+| 030 | Childlikeness（赤子之心） | p. 50–51 | ✅ |
+| 031 | Choices Offered to Men（摆在人面前的抉择） | p. 51–52 | ✅ |
+| 032– | Christ 系列词条起 | p. 53– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

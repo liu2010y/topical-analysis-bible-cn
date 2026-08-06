@@ -1,0 +1,125 @@
+{
+  "num": "030",
+  "title_en": "CHILDLIKENESS",
+  "title_zh": "赤子之心（宗教中的孩童之灵）",
+  "html_name": "030-Childlikeness-赤子之心.html",
+  "pages": "原书 p. 50–51",
+  "sections": [
+    {
+      "heading": "标题与定义 / Title & Definition",
+      "blocks": [
+        {
+          "en": "CHILDLIKENESS, or the Childlike Spirit in Religion. This may be described as a condition or frame of mind, combining a feeling of restful dependence upon, and a docile, obedient, loving trust in, the Divine Caretaker. It includes simplicity of spirit, openness of ear and heart, with assurance of faith and hope and love.",
+          "zh": "赤子之心，即宗教中的孩童之灵。可以把它描述为一种心境：把对神圣看顾者安息的倚赖之情，与温顺、听话、爱的信靠合而为一。它包含灵里的纯一、耳与心的敞开，以及信、望、爱的确据。",
+          "grammar": [
+            {"note": "dependence upon, and … trust in, the Divine Caretaker：两个名词各带介词（upon / in），共用同一个宾语 the Divine Caretaker——正式文体的『双介词共宾』结构，逗号标出共享边界。frame of mind：心境（frame 特殊义）。"}
+          ]
+        },
+        {
+          "en": "It carries within it a living sense of childship to God, a deep quiet realization of the child-relation to God, and a daily experience of glad response in heart and word and deed to every call of the Father to fellowship and service. This is the vital essence of \"pure religion\" or genuine godliness.",
+          "zh": "它内里怀着一种活泼的、作神儿女的意识，一种对与神的父子关系深沉安静的领会，以及一种日复一日的经历——对天父每一次相交与服事的呼唤，都在心思、言语和行为上作出欢然的回应。这就是『清洁的虔诚』（雅各书 1:27）——真敬虔——的核心本质。",
+          "grammar": [
+            {"note": "a living sense… / a deep quiet realization… / a daily experience…：三个名词短语的排比宾语；in heart and word and deed：三重并列（心思、言语、行为）省略冠词，古典节奏。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、基督的话 / The Utterances of Christ",
+      "blocks": [
+        {
+          "en": "The Scriptures present many points bearing upon the nature, elements, and blessed effects of the childlike spirit. Chief among these, distinctive and clear, are the utterances of Christ. Matt. 18:2-5. Except ye become as little children, ye shall not enter into the kingdom of heaven. X. 290. Mark 10:15. Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein. X. 337, 338.",
+          "zh": "圣经从多个方面论及孩童之灵的性质、要素与蒙福的果效；其中最卓著清晰的，是基督亲口的话。马太福音 18:2-5 —— 你们若不回转，变成小孩子的样式，断不得进天国。马可福音 10:15 —— 凡要承受神国的，若不像小孩子，断不能进去。",
+          "bsb": "Mark 10:15",
+          "grammar": [
+            {"id": "inversion", "note": "Chief among these … are the utterances of Christ：表语前置引起倒装（其中最主要的是基督的话）。"},
+            {"id": "subjunctive-though", "note": "Except ye become as little children：except 古义 = unless（若不）；become 用原形，虚拟语气。"},
+            {"note": "Whosoever shall not receive…, he shall not enter：whosoever 引导的主语从句后用 he 复指——古典句法（凡不……的，他就不能……）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、赤子之灵的特征性果效 / Characteristic Effects of the Child-Spirit",
+      "blocks": [
+        {
+          "en": "Matt. 5:9. The peacemakers shall be called the children of God. Matt. 5:44, 45. Love your enemies, and pray for them that persecute you; that ye may be the children of your Father in heaven. X. 153, 154. Eph. 5:1. Imitators of God, as beloved children. Eph. 5:8. Walk as children of light. XI. 436.",
+          "zh": "马太福音 5:9 —— 使人和睦的人有福了，因为他们必称为神的儿子。5:44-45 —— 要爱你们的仇敌，为那逼迫你们的祷告，这样就可以作你们天父的儿子。以弗所书 5:1 —— 所以你们该效法神，好像蒙慈爱的儿女一样。5:8 —— 行事为人就当像光明的子女。",
+          "bsb": "Matthew 5:44-45",
+          "grammar": [
+            {"id": "him-that-relative", "note": "them that persecute you = those who persecute you（那逼迫你们的人）。"}
+          ]
+        },
+        {
+          "en": "Heb. 12:5. Regard not lightly the chastening of the Lord, nor faint when thou art reproved of Him. XI. 605. 1 Pet. 1:14. As children of obedience, not fashioning yourselves according to your former lusts in the time of your ignorance; but be ye yourselves holy in all manner of living. XI. 649. Prov. 4:20. My son, attend to My words. VI. 268.",
+          "zh": "希伯来书 12:5 —— 我儿，你不可轻看主的管教，被他责备的时候也不可灰心。彼得前书 1:14 —— 你们既作顺命的儿女，就不要效法从前蒙昧无知的时候那放纵私欲的样子。（15 节）你们在一切所行的事上也要圣洁。箴言 4:20 —— 我儿，要留心听我的言词。",
+          "bsb": "1 Peter 1:14",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Regard not lightly … nor faint：古体否定祈使连用（不可轻看……也不可灰心）。"},
+            {"note": "reproved of Him：of 引出施动者（= reproved by Him，被他责备）；fashioning yourselves according to…：fashion 作动词『模塑、效法』——not fashioning… 分词否定式（不要照……塑造自己）。"},
+            {"id": "kjv-pronouns", "note": "be ye yourselves holy：祈使句带 ye + 强调反身（你们自己务要圣洁）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、应许・例证・警语 / Promise, Illustration, Caution",
+      "blocks": [
+        {
+          "en": "Promise. Isa. 54:13. All thy children shall be taught of the Lord; and great shall be the peace of thy children. VIII. 296.",
+          "zh": "应许。以赛亚书 54:13 —— 你的儿女都要受耶和华的教训，你的儿女必大享平安。",
+          "bsb": "Isaiah 54:13",
+          "grammar": [
+            {"id": "inversion", "note": "great shall be the peace of thy children：表语前置引起倒装（你儿女的平安必是大的）。"}
+          ]
+        },
+        {
+          "en": "Illustration. Ps. 131:2. My soul is even as a weaned child. V. 407, 408.",
+          "zh": "例证。诗篇 131:2 —— 我的心平稳安静，好像断过奶的孩子在他母亲的怀中；我的心在我里面真像断过奶的孩子。",
+          "bsb": "Psalm 131:2"
+        },
+        {
+          "en": "Word of Caution. 2 Cor. 11:3. I fear lest your minds should be corrupted from the simplicity and the purity that is toward Christ. XI. 383. See Adoption, p. 12.",
+          "zh": "警语。哥林多后书 11:3 —— 我只怕你们的心或偏于邪，失去那向基督所存纯一清洁的心，就像蛇用诡诈诱惑了夏娃一样。另参主题词条：得儿子的名分（Adoption，002）。",
+          "bsb": "2 Corinthians 11:3",
+          "grammar": [
+            {"id": "lest-clause", "note": "lest your minds should be corrupted：lest（惟恐）+ should + 原形，虚拟语气。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "childlikeness": {"ipa": "/ˈtʃaɪldlaɪknəs/", "def": "n. 赤子之心，孩童般的品性（childlike 天真的＋-ness）"},
+    "childlike": {"ipa": "/ˈtʃaɪldlaɪk/", "def": "adj. 孩童般的，天真的（褒义；对比 childish 幼稚的，贬义）【六级】"},
+    "frame": {"ipa": "/freɪm/", "def": "n.【此处义】心境（frame of mind）；常见义：框架【四级】"},
+    "restful": {"ipa": "/ˈrestfl/", "def": "adj. 安息的，宁静的"},
+    "docile": {"ipa": "/ˈdəʊsaɪl/", "def": "adj. 温顺的，可教的【GRE】"},
+    "caretaker": {"ipa": "/ˈkeəteɪkə/", "def": "n. 看顾者，照管者【六级】"},
+    "simplicity": {"ipa": "/sɪmˈplɪsəti/", "def": "n. 纯一，单纯【四级】"},
+    "godliness": {"ipa": "/ˈɡɒdlinəs/", "def": "n. 敬虔（godly：敬虔的）"},
+    "utterances": {"ipa": "/ˈʌtərənsɪz/", "def": "n. 言语，话（utterance）【六级】"},
+    "peacemakers": {"ipa": "/ˈpiːsmeɪkəz/", "def": "n. 使人和睦的人"},
+    "persecute": {"ipa": "/ˈpɜːsɪkjuːt/", "def": "v. 逼迫【六级】"},
+    "imitators": {"ipa": "/ˈɪmɪteɪtəz/", "def": "n. 效法者（imitate：效法）【四级】"},
+    "chastening": {"ipa": "/ˈtʃeɪsnɪŋ/", "def": "n. 管教"},
+    "reproved": {"ipa": "/rɪˈpruːvd/", "def": "v. 被责备（reprove）【GRE】"},
+    "fashioning": {"ipa": "/ˈfæʃnɪŋ/", "def": "v.【特殊义】模塑，效法（fashion 作动词）"},
+    "lusts": {"ipa": "/lʌsts/", "def": "n. 私欲（lust）【六级】"},
+    "ignorance": {"ipa": "/ˈɪɡnərəns/", "def": "n. 蒙昧无知【四级】"},
+    "weaned": {"ipa": "/wiːnd/", "def": "adj. 断过奶的（wean：使断奶；weaned child：断奶的孩子）【GRE】"},
+    "corrupted": {"ipa": "/kəˈrʌptɪd/", "def": "v. 被败坏，偏于邪（corrupt）【四级】"},
+    "purity": {"ipa": "/ˈpjʊərəti/", "def": "n. 清洁，纯洁【六级】"},
+    "caution": {"ipa": "/ˈkɔːʃn/", "def": "n. 警语，告诫【四级】"},
+    "except": {"ipa": "/ɪkˈsept/", "def": "conj.【古义】若不，除非（= unless）；现代义：除了【四级】"}
+  },
+  "vocab_table": [
+    {"word": "childlike", "ipa": "/ˈtʃaɪldlaɪk/", "def": "adj. 孩童般的（褒义；对比 childish 幼稚的）"},
+    {"word": "docile", "ipa": "/ˈdəʊsaɪl/", "def": "adj. 温顺的，可教的"},
+    {"word": "godliness", "ipa": "/ˈɡɒdlinəs/", "def": "n. 敬虔"},
+    {"word": "wean", "ipa": "/wiːn/", "def": "v. 使断奶（wean from：使戒除）"},
+    {"word": "reprove", "ipa": "/rɪˈpruːv/", "def": "v. 责备"},
+    {"word": "lust", "ipa": "/lʌst/", "def": "n. 私欲"},
+    {"word": "simplicity", "ipa": "/sɪmˈplɪsəti/", "def": "n. 纯一，单纯"}
+  ]
+}

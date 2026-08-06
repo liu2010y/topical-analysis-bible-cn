@@ -1,0 +1,153 @@
+{
+  "num": "031",
+  "title_en": "CHOICES OFFERED TO MEN",
+  "title_zh": "摆在人面前的抉择",
+  "html_name": "031-Choices-抉择.html",
+  "pages": "原书 p. 51–52",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CHOICES OFFERED TO MEN. Things to be Chosen and Sought.",
+          "zh": "摆在人面前的抉择——当拣选、当寻求的事。",
+          "grammar": [
+            {"id": "headline-style", "note": "标题＋纲要短语；to be Chosen and Sought：不定式被动作后置定语（当被拣选与寻求的）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、二择其一的抉择 / Alternative Choices",
+      "blocks": [
+        {
+          "en": "Deut. 11:26, 27. I set before you this day a blessing and a curse: the blessing, if ye shall hearken unto the commandments of the Lord your God; and the curse, if ye shall not hearken. II. 658. Deut. 30:19. I have set before thee life and death, the blessing and the curse: therefore choose life, that thou mayest live; to love the Lord thy God, to obey His voice, and to cleave unto Him. II. 713-715.",
+          "zh": "申命记 11:26-27 —— 看哪，我今日将祝福与咒诅的话都陈明在你们面前：你们若听从耶和华你们神的诫命，就必蒙福；你们若不听从，……就必受祸。30:19 —— 我今日呼天唤地向你作见证，我将生死祸福陈明在你面前，所以你要拣选生命，使你和你的后裔都得存活；且爱耶和华你的神，听从他的话，专靠他。",
+          "bsb": "Deuteronomy 30:19",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "that thou mayest live：mayest 是与 thou 搭配的 may（使你可以存活）。"},
+            {"note": "the blessing, if ye shall hearken … and the curse, if ye shall not：对称的条件对句，祝福与咒诅各系于一个 if 从句；cleave unto Him：cleave 古义『紧贴，专靠』（另一个同形词 cleave 意为『劈开』，恰为反义——英语著名的自反义词）。"}
+          ]
+        },
+        {
+          "en": "Josh. 24:15. Choose you this day whom ye will serve. III. 152, 153. 1 Kings 18:21. If the Lord be God, follow Him; but if Baal, then follow him. VII. 110. Amos 5:14. Seek good, and not evil, that ye may live. IX. 419. 2 Chron. 1:11. (Solomon) asked not riches, wealth, and honor for thyself, but wisdom and knowledge. III. 514, 515.",
+          "zh": "约书亚记 24:15 —— 今日就可以选择所要事奉的。列王纪上 18:21 —— 若耶和华是神，就当顺从耶和华；若巴力是神，就当顺从巴力。阿摩司书 5:14 —— 你们要求善，不要求恶，就必存活。历代志下 1:11 ——（神对所罗门说：）你既不为自己求资财、丰富、尊荣……只求智慧聪明好判断我的民。",
+          "bsb": "Joshua 24:15",
+          "grammar": [
+            {"id": "ellipsis", "note": "but if Baal, (be God) then follow him：省略从句谓语（若巴力是神）。"},
+            {"id": "no-do-negation", "note": "asked not riches = did not ask for riches：古体否定。"}
+          ]
+        },
+        {
+          "en": "Matt. 6:24. God and mammon. X. 162. Matt. 7:13, 14. The broad way, that leadeth to destruction; the narrow way, that leadeth unto life. X. 107. Matt. 10:39. He that findeth his life shall lose it; and he that loseth his life for My sake shall find it. X. 238. Rom. 2:7-9. To them that by patience in well-doing seek for glory and honor, eternal life; but unto them that obey not the truth, but obey unrighteousness, wrath and indignation, tribulation and anguish. XI. 205.",
+          "zh": "马太福音 6:24 —— 神与玛门（不能两者兼事）。7:13-14 —— 引到灭亡的宽门大路；引到永生的窄门小路。10:39 —— 得着生命的，将要失丧生命；为我失丧生命的，将要得着生命。罗马书 2:7-9 —— 凡恒心行善、寻求荣耀、尊贵和不能朽坏之福的，就以永生报应他们；惟有……不顺从真理反顺从不义的，就以忿怒、恼恨报应他们……把患难、困苦加给他们。【OCR 注：原书 \"Matt. 10:34\" 依引文推定为 10:39。】",
+          "bsb": "Matthew 10:39",
+          "grammar": [
+            {"id": "him-that-relative", "note": "He that findeth … he that loseth … them that … seek：that 指人的定语从句连用。"},
+            {"id": "ellipsis", "note": "To them that … seek …, (God will render) eternal life; but unto them that …, wrath and indignation：两个分句都省略了谓语 will render（以永生报应／以忿怒报应），承罗马书 2:6 而来。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、当至高无上地拣选与寻求的 / Things to Be Supremely Chosen and Sought",
+      "blocks": [
+        {
+          "en": "Josh. 22:5. Take diligent heed, to love the Lord your God, and to walk in all His ways, and to keep His commandments, and to cleave unto Him, and to serve Him with all your heart and with all your soul. III. 143. 1 Sam. 12:24. Only fear the Lord, and serve Him in truth with all your heart; for consider how great things He hath done for you.",
+          "zh": "约书亚记 22:5 —— 只要切切地谨慎遵行……爱耶和华你们的神，行他一切的道，守他的诫命，专靠他，尽心尽性事奉他。撒母耳记上 12:24 —— 只要你们敬畏耶和华，诚诚实实地尽心事奉他，想念他向你们所行的事何等大。",
+          "bsb": "Joshua 22:5",
+          "grammar": [
+            {"note": "to love … and to walk … and to keep … and to cleave … and to serve：五个不定式的多重连缀（polysyndeton，每项都带 and），庄重的叮咛节奏。"}
+          ]
+        },
+        {
+          "en": "Jer. 6:16. Ask for the old paths, where is the good way; and walk therein, and ye shall find rest for your souls. VIII. 427, 428. Isa. 30:21. Thine ears shall hear a word behind thee, saying, This is the way, walk ye in it. VIII. 152. Prov. 3:17. Her ways are ways of pleasantness, and all her paths are peace. VI. 256, 257. Prov. 4:18. The path of the righteous is as the dawning light, that shineth more and more unto the perfect day. VI. 266-268.",
+          "zh": "耶利米书 6:16 —— 你们当站在路上察看，访问古道，哪是善道，便行在其间；这样，你们心里必得安息。以赛亚书 30:21 —— 你或向左或向右，你必听见后边有声音说：这是正路，要行在其间。箴言 3:17 ——（智慧）她的道是安乐，她的路全是平安。4:18 —— 但义人的路好像黎明的光，越照越明，直到日午。",
+          "bsb": "Proverbs 4:18",
+          "grammar": [
+            {"id": "inversion", "note": "where is the good way：从句内主谓倒装的插入问（哪是善道）。"},
+            {"id": "eth-est-endings", "note": "shineth = shines：越照越明。"}
+          ]
+        },
+        {
+          "en": "Matt. 6:33. Seek ye first His kingdom and His righteousness; and all these things (earthly needs) shall be added unto you. X. 163. Matt. 19:21 and John 21:22. Follow Me. X. 390, 579.",
+          "zh": "马太福音 6:33 —— 你们要先求他的国和他的义，这些东西（地上的需用）都要加给你们了。19:21 与约翰福音 21:22 —— 来跟从我。",
+          "bsb": "Matthew 6:33"
+        },
+        {
+          "en": "Some radical details of deep spiritual experience: Phil. 2:12, 16 and 3:8-14. Work out your own salvation with fear and trembling. … Holding forth the word of life. … I count all things to be loss for the excellency of the knowledge of Christ Jesus. … That I may gain Christ, and be found in Him. … That I may know Him, and the power of His resurrection, and the fellowship of His sufferings. … I press on, if so be that I may apprehend that for which also I was apprehended by Christ Jesus. … Forgetting the things which are behind, and stretching forward to the things which are before, I press on toward the goal, unto the prize of the upward calling of God in Christ Jesus. XI. 453-460.",
+          "zh": "深层属灵经历的若干根本要点：腓立比书 2:12, 16 与 3:8-14 —— 当恐惧战兢，做成你们得救的工夫。……将生命的道表明出来。……我为他已经丢弃万事……因我以认识我主基督耶稣为至宝。……为要得着基督，并且得以在他里面。……使我认识基督，晓得他复活的大能，并且晓得和他一同受苦。……我乃是竭力追求，或者可以得着基督耶稣所以得着我的。……忘记背后，努力面前的，向着标竿直跑，要得神在基督耶稣里从上面召我来得的奖赏。",
+          "bsb": "Philippians 3:13-14",
+          "grammar": [
+            {"note": "if so be that I may apprehend：古体条件式『if so be that』（= if it should be that，或者可以……）；radical 此处义『根本的』（触及根底的），非『激进的』。"},
+            {"id": "prep-relative", "note": "that for which also I was apprehended：介词 for 前置——『那个我为之被基督得着的目标』（参 004 词条同句详注）。"},
+            {"note": "Forgetting … and stretching forward …：两个分词短语对仗开路，主句 I press on 收束——腓立比书 3:13-14 的名句结构。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、正误抉择的显著例证 / Signal Illustrations of Right and Wrong Choices",
+      "blocks": [
+        {
+          "en": "Preferences for God and for Loyalty to Him: Abraham, Gen. 12:4. Moses, Heb. 11:24-27. (Refusing to be called the son of Pharaoh's daughter; accounting the reproach of Christ greater riches than the treasures of Egypt.) Joshua, Josh. 24:15. Caleb, Num. 14:24 and Josh. 14:8. Ruth, Ruth 1:16, 17. (Whither thou goest, I will go.) Daniel's Three Companions, Dan. ch. 3. Daniel, Dan. ch. 6. Nehemiah, Neh. 5:15. (So did not I, because of the fear of God.) Paul, Acts 26:19. (I was not disobedient unto the heavenly vision.) Gal. 1:16.",
+          "zh": "择神而忠于神的：亚伯拉罕（创世记 12:4——遵命而去）；摩西（希伯来书 11:24-27——不肯称为法老女儿之子，看为基督受的凌辱比埃及的财物更宝贵）；约书亚（书 24:15——至于我和我家，我们必定事奉耶和华）；迦勒（民数记 14:24；约书亚记 14:8——专心跟从）；路得（路得记 1:16-17——你往哪里去，我也往那里去；你的国就是我的国，你的神就是我的神）；但以理的三个同伴（但以理书 3 章，火窑）；但以理（6 章，狮子坑）；尼希米（尼希米记 5:15——但我因敬畏神，不这样行）；保罗（使徒行传 26:19——没有违背那从天上来的异象；加拉太书 1:16）。",
+          "bsb": "Hebrews 11:24-26",
+          "grammar": [
+            {"id": "inversion", "note": "So did not I：否定倒装（我却不这样行）——尼希米名句。"},
+            {"note": "Whither thou goest, I will go：whither =【古】往何处；accounting the reproach of Christ greater riches：account + 宾语 + 补语（把……看为更大的财富）。"}
+          ]
+        },
+        {
+          "en": "Selfish and Wrong Choices: Adam and Eve, Gen. 3:6. Lot, Gen. 13:11. (Chose him all the plain of the Jordan.) Esau, Gen. 25:31-33. Saul, 1 Sam. 15:26. Rehoboam, 1 Kings 12:6-11. The Young Ruler, Matt. 19:22. (He went away sorrowful; for he was one that had great possessions.) See Call of God, p. 46.",
+          "zh": "自私而错谬的抉择：亚当与夏娃（创世记 3:6——见那棵树的果子好作食物，也悦人的眼目）；罗得（13:11——选择约旦河的全平原，渐渐挪移帐棚，直到所多玛）；以扫（25:31-33——为一碗红豆汤卖了长子的名分）；扫罗（撒母耳记上 15:26——你既厌弃耶和华的命令，耶和华也厌弃你作王）；罗波安（列王纪上 12:6-11——弃老年人的计谋，从少年人的主意）；少年官（马太福音 19:22——忧忧愁愁地走了，因为他的产业很多）。另参主题词条：神的呼召（Call of God，024）。",
+          "bsb": "Genesis 13:11",
+          "grammar": [
+            {"note": "Chose him all the plain：him 为古体的『与格反身』（ethical dative，= chose for himself，为自己选择）——创世记 13:11 钦定本原文。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "alternative": {"ipa": "/ɔːlˈtɜːnətɪv/", "def": "adj./n. 二择其一的；替代选项【四级】"},
+    "hearken": {"ipa": "/ˈhɑːkən/", "def": "v.【古】听从，侧耳听（= listen to）"},
+    "cleave": {"ipa": "/kliːv/", "def": "v.【古义】紧贴，专靠（cleave unto）；另一同形词义为『劈开』——英语著名的自反义词【GRE】"},
+    "mammon": {"ipa": "/ˈmæmən/", "def": "n. 玛门（亚兰语：钱财）"},
+    "leadeth": {"ipa": "/ˈliːdəθ/", "def": "= leads（-eth 古词尾）：引到"},
+    "findeth": {"ipa": "/ˈfaɪndəθ/", "def": "= finds（-eth 古词尾）：得着"},
+    "loseth": {"ipa": "/ˈluːzəθ/", "def": "= loses（-eth 古词尾）：失丧"},
+    "indignation": {"ipa": "/ˌɪndɪɡˈneɪʃn/", "def": "n. 恼恨，义愤【六级/GRE】"},
+    "anguish": {"ipa": "/ˈæŋɡwɪʃ/", "def": "n. 困苦，极度痛苦【六级/GRE】"},
+    "heed": {"ipa": "/hiːd/", "def": "n./v. 谨慎，留心（take heed：谨慎）【六级】"},
+    "pleasantness": {"ipa": "/ˈplezntnəs/", "def": "n. 安乐，愉悦（pleasant 的名词）"},
+    "dawning": {"ipa": "/ˈdɔːnɪŋ/", "def": "adj./n. 黎明的（dawn：黎明）【四级】"},
+    "shineth": {"ipa": "/ˈʃaɪnəθ/", "def": "= shines（-eth 古词尾）：照耀"},
+    "radical": {"ipa": "/ˈrædɪkl/", "def": "adj.【此处义】根本的，触及根底的；常见义：激进的【四级】"},
+    "trembling": {"ipa": "/ˈtremblɪŋ/", "def": "n. 战兢（tremble：发抖）【四级】"},
+    "excellency": {"ipa": "/ˈeksələnsi/", "def": "n. 至宝，卓越（the excellency of the knowledge：以认识……为至宝）"},
+    "resurrection": {"ipa": "/ˌrezəˈrekʃn/", "def": "n. 复活【六级】"},
+    "apprehend": {"ipa": "/ˌæprɪˈhend/", "def": "v. 得着，抓住；领悟【六级/GRE】"},
+    "prize": {"ipa": "/praɪz/", "def": "n. 奖赏（标竿的奖赏）【四级】"},
+    "upward": {"ipa": "/ˈʌpwəd/", "def": "adj./adv. 从上面的，向上的（upward calling：从上面召来的呼召）【四级】"},
+    "preferences": {"ipa": "/ˈprefrənsɪz/", "def": "n. 偏好，取舍（preference）【四级】"},
+    "loyalty": {"ipa": "/ˈlɔɪəlti/", "def": "n. 忠诚【四级】"},
+    "reproach": {"ipa": "/rɪˈprəʊtʃ/", "def": "n. 凌辱，羞辱【GRE】"},
+    "goest": {"ipa": "/ˈɡəʊɪst/", "def": "= go（与 thou 搭配的 -est 词尾）：（你）去"},
+    "companions": {"ipa": "/kəmˈpæniənz/", "def": "n. 同伴（companion）【四级】"},
+    "disobedient": {"ipa": "/ˌdɪsəˈbiːdiənt/", "def": "adj. 违背的，不顺从的"},
+    "sorrowful": {"ipa": "/ˈsɒrəʊfl/", "def": "adj. 忧忧愁愁的"},
+    "possessions": {"ipa": "/pəˈzeʃnz/", "def": "n. 产业，财物（possession）【四级】"},
+    "selfish": {"ipa": "/ˈselfɪʃ/", "def": "adj. 自私的【四级】"}
+  },
+  "vocab_table": [
+    {"word": "hearken", "ipa": "/ˈhɑːkən/", "def": "v.【古】听从，侧耳听"},
+    {"word": "cleave", "ipa": "/kliːv/", "def": "v.【古义】紧贴，专靠；同形词义『劈开』"},
+    {"word": "heed", "ipa": "/hiːd/", "def": "n./v. 谨慎，留心（take heed）"},
+    {"word": "indignation", "ipa": "/ˌɪndɪɡˈneɪʃn/", "def": "n. 恼恨，义愤"},
+    {"word": "anguish", "ipa": "/ˈæŋɡwɪʃ/", "def": "n. 困苦，极度痛苦"},
+    {"word": "reproach", "ipa": "/rɪˈprəʊtʃ/", "def": "n. 凌辱，羞辱"},
+    {"word": "radical", "ipa": "/ˈrædɪkl/", "def": "adj.【此处义】根本的；常见义：激进的"},
+    {"word": "apprehend", "ipa": "/ˌæprɪˈhend/", "def": "v. 得着，抓住；领悟"}
+  ]
+}

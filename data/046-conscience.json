@@ -1,0 +1,50 @@
+{
+  "num": "046",
+  "title_en": "CONSCIENCE",
+  "title_zh": "良心",
+  "html_name": "046-Conscience-良心.html",
+  "pages": "原书 p. 96",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CONSCIENCE. Rom. 2:15. Their conscience bearing witness therewith, their thoughts one with another accusing or else excusing them. Rom. 9:1. 1 Cor. 8:7. Their conscience, being weak, is defiled. Titus 1:15. 1 Tim. 4:2. Seared in their own conscience as with a hot iron. 2 Cor. 1:12. The testimony of our conscience. Acts 23:1. I have lived before God in all good conscience. Acts 24:16. A conscience void of offence toward God and men. 1 Tim. 1:5, 19. A good conscience (with a pure heart and faith unfeigned).",
+          "zh": "良心。罗马书 2:15 —— 他们是非之心（原文作良心）同作见证，并且他们的思念互相较量，或以为是，或以为非。9:1（我的良心被圣灵感动，给我作见证）。哥林多前书 8:7 —— 他们的良心既然软弱，也就污秽了。提多书 1:15；提摩太前书 4:2 —— 这等人的良心如同被热铁烙惯了一般。哥林多后书 1:12 —— 我们所夸的是自己的良心。使徒行传 23:1 —— 我在神面前行事为人都是凭着良心。24:16 —— 对神对人，常存无亏的良心。提摩太前书 1:5, 19 —— 命令的总归就是爱，这爱是从清洁的心和无亏的良心、无伪的信心生出来的。",
+          "bsb": "Romans 2:15",
+          "grammar": [
+            {"note": "Seared as with a hot iron：sear『烙焦』——良心被烙惯而失去知觉的名喻；faith unfeigned：形容词后置（无伪的信心，unfeigned = 不假装的）。"}
+          ]
+        },
+        {
+          "en": "Another's conscience: 1 Cor. 8:7-12; 10:25-29. (Conscience, I say, not thine own, but the other's.) 1 Pet. 2:19. For conscience toward God endure griefs. 1 Pet. 3:16, 21. See Accountability. [Reason and conscience abide with the soul as indestructible elements of human nature—the one enforcing the sense of dependence upon God, the other compelling the consciousness of obligation to Him. — B.]",
+          "zh": "他人的良心：哥林多前书 8:7-12（伤了弟兄软弱的良心，就是得罪基督）；10:25-29 —— 我说的良心不是你的，乃是他的。彼得前书 2:19 —— 因为人若因着良心对得起神（原文作因着向神的良心），就忍受冤屈的苦楚，这是可喜爱的。3:16, 21。另参主题词条：向神交账的责任（001）。【作者按语】理性与良心作为人性中不可摧毁的要素与灵魂同在：一个强化人对神的依赖之感，一个催逼人对神的责任之识。——巴特勒（B.）",
+          "bsb": "1 Peter 3:16",
+          "grammar": [
+            {"note": "the one … the other …：分指前述二者（理性与良心）的对举句式；enforcing / compelling：两个现在分词的平行修饰。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "therewith": {"ipa": "/ˌðeəˈwɪð/", "def": "adv.【古】与此同（= with that）"},
+    "accusing": {"ipa": "/əˈkjuːzɪŋ/", "def": "v. 以为非，控告（accuse）【四级】"},
+    "excusing": {"ipa": "/ɪkˈskjuːzɪŋ/", "def": "v. 以为是，辩护（excuse）【四级】"},
+    "defiled": {"ipa": "/dɪˈfaɪld/", "def": "v. 被污秽（defile）【GRE】"},
+    "seared": {"ipa": "/sɪəd/", "def": "v. 被烙焦（sear：烙，灼——良心麻木的名喻）【GRE】"},
+    "void": {"ipa": "/vɔɪd/", "def": "adj. 没有的（void of offence：无亏的）【六级】"},
+    "offence": {"ipa": "/əˈfens/", "def": "n. 亏欠，冒犯（美拼 offense）【四级】"},
+    "unfeigned": {"ipa": "/ʌnˈfeɪnd/", "def": "adj. 无伪的（feign：假装，GRE 词）"},
+    "indestructible": {"ipa": "/ˌɪndɪˈstrʌktəbl/", "def": "adj. 不可摧毁的"},
+    "compelling": {"ipa": "/kəmˈpelɪŋ/", "def": "v. 催逼（compel）【四级】"},
+    "obligation": {"ipa": "/ˌɒblɪˈɡeɪʃn/", "def": "n. 责任【四级】"}
+  },
+  "vocab_table": [
+    {"word": "sear", "ipa": "/sɪə/", "def": "v. 烙，灼（良心被烙惯）"},
+    {"word": "defile", "ipa": "/dɪˈfaɪl/", "def": "v. 玷污"},
+    {"word": "unfeigned", "ipa": "/ʌnˈfeɪnd/", "def": "adj. 无伪的"},
+    {"word": "void", "ipa": "/vɔɪd/", "def": "adj. 没有的（void of）"}
+  ]
+}

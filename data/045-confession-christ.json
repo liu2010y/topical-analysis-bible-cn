@@ -1,0 +1,33 @@
+{
+  "num": "045",
+  "title_en": "CONFESSION OF CHRIST",
+  "title_zh": "认基督",
+  "html_name": "045-Confession-认基督.html",
+  "pages": "原书 p. 96",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CONFESSION OF CHRIST. Rom. 10:9, 10. If thou shalt confess with thy mouth Jesus as Lord … thou shalt be saved: for … with the mouth confession is made unto salvation. Matt. 10:32, 33. Whosoever shall confess Me before men, him will I also confess before My Father which is in heaven. John 12:26. If any man serve Me, let him follow Me. 2 Cor. 6:17. Come ye out from among them, and be ye separate. Rev. 3:5. I will confess his name before My Father, and before His angels. See Christian Experience; Faith.",
+          "zh": "认基督。罗马书 10:9-10 —— 你若口里认耶稣为主，心里信神叫他从死里复活，就必得救。因为人心里相信，就可以称义；口里承认，就可以得救。马太福音 10:32-33 —— 凡在人面前认我的，我在我天上的父面前也必认他；凡在人面前不认我的，我在我天上的父面前也必不认他。约翰福音 12:26 —— 若有人服事我，就当跟从我。哥林多后书 6:17 —— 你们务要从他们中间出来，与他们分别。启示录 3:5 —— 我又要在我父面前和我父众使者面前，认他的名。另参主题词条：基督徒经历（034 三）；信心（Faith）。",
+          "bsb": "Romans 10:9-10",
+          "grammar": [
+            {"id": "inversion", "note": "Whosoever shall confess Me before men, him will I also confess：whosoever 从句＋宾语 him 前置引起倒装（凡认我的，我也必认他）——与十架应许同构的对称句。"},
+            {"id": "kjv-pronouns", "note": "If thou shalt confess with thy mouth / be ye separate：thou shalt 条件式与 ye 祈使并见。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "confess": {"ipa": "/kənˈfes/", "def": "v. 承认，公开宣认（confess Christ：认基督）【四级】"},
+    "confession": {"ipa": "/kənˈfeʃn/", "def": "n. 承认，宣认【四级】"},
+    "separate": {"ipa": "/ˈsepərət/", "def": "adj./v. 分别（be ye separate：与他们分别）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "confess", "ipa": "/kənˈfes/", "def": "v. 承认，公开宣认"},
+    {"word": "confession", "ipa": "/kənˈfeʃn/", "def": "n. 承认，宣认"}
+  ]
+}

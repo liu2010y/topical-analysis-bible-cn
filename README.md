@@ -97,6 +97,11 @@
 | 041 | Civil Government（世上的政权） | p. 91 | ✅（短词条） |
 | 042 | Comfort（安慰） | p. 91 | ✅ |
 | 043 | Commandments, The Ten（十诫） | p. 92–93 | ✅（含三段摘录） |
-| 044– | Condemnation（定罪）起 | p. 93– | ⏳ |
+| 044 | Condemnation（定罪） | p. 93–95 | ✅（含 J. Orr 摘录） |
+| 045 | Confession of Christ（认基督） | p. 96 | ✅（短词条） |
+| 046 | Conscience（良心） | p. 96 | ✅（短词条） |
+| 047 | Consideration（思想） | p. 96–97 | ✅ |
+| 048 | Conversion（归正） | p. 97–98 | ✅ |
+| 049– | Covenants（诸约）起 | p. 98– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

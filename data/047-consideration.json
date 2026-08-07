@@ -1,0 +1,82 @@
+{
+  "num": "047",
+  "title_en": "CONSIDERATION",
+  "title_zh": "思想（省察・留心・默想）",
+  "html_name": "047-Consideration-思想.html",
+  "pages": "原书 p. 96–97",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CONSIDERATION; Attention; Hearkening; Heed; Pondering; Thought; Meditation.",
+          "zh": "思想；留意；侧耳听；谨慎注意；反复思量；意念；默想。",
+          "grammar": [
+            {"id": "headline-style", "note": "主题词＋六个近义词条头——本词条按『省察→留心听→反复思量→意念→默想』的谱系罗列经文。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、省察与留心 / Consider; Attend; Take Heed",
+      "blocks": [
+        {
+          "en": "Deut. 4:39. Consider it in thine heart. Isa. 41:20. That they may see … and consider. Hag. 1:5. Consider your ways. 2 Tim. 2:7. Consider what I say; and the Lord give thee understanding. Ps. 119:95. I will consider Thy testimonies. Isa. 1:3. My people doth not consider. Isa. 55:2, 3. Hearken diligently unto Me … and your soul shall live. Luke 8:18. Take heed therefore how ye hear. Prov. 4:1, 20. Attend to my words. 1 Tim. 4:13. Give heed to reading. Acts 16:14. (Lydia) attended unto the things which were spoken. Heb. 2:1. We ought to give the more earnest heed to the things that were heard, lest haply we drift away from them.",
+          "zh": "申命记 4:39 —— 你要心里思想。以赛亚书 41:20 —— 好叫人看见……思想。哈该书 1:5 —— 你们要省察自己的行为。提摩太后书 2:7 —— 我所说的话，你要思想，因为凡事主必给你聪明。诗篇 119:95 —— 我要思想你的法度。以赛亚书 1:3 —— 我的民却不留意。55:2-3 —— 你们要留意听我的话……侧耳而听……你们的心（原文作灵魂）就必存活。路加福音 8:18 —— 所以，你们应当小心怎样听。箴言 4:1, 20 —— 要留心听我的言词。提摩太前书 4:13 —— 要以宣读……为念。使徒行传 16:14 ——（吕底亚）留心听（保罗所讲的话）。希伯来书 2:1 —— 所以，我们当越发郑重所听见的道理，恐怕我们随流失去。【OCR 注：原书 \"1 Tim. 2:7\" 依引文推定为 2 Tim. 2:7。】",
+          "bsb": "Haggai 1:5",
+          "grammar": [
+            {"id": "no-do-negation", "note": "My people doth not consider：doth not + 原形（我的民却不留意）。"},
+            {"id": "optative-subjunctive", "note": "the Lord give thee understanding：give 用原形，祈愿语气（愿主给你聪明）。"},
+            {"note": "lest haply we drift away：lest + 虚拟；haply =【古】perhaps（恐怕我们或会随流失去）——drift away 的水流意象。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、思量与意念 / Ponder; Thoughts",
+      "blocks": [
+        {
+          "en": "Prov. 4:26. Ponder the path of thy feet. Luke 2:19. Mary kept all these sayings, pondering them in her heart. Ps. 48:9. We have thought on Thy lovingkindness. Ps. 119:59. I thought on my ways, and turned. 2 Cor. 10:5. Bringing every thought into captivity. Phil. 4:8. Whatsoever things are true … think on these things. Isa. 55:7. Let the unrighteous man forsake his thoughts. Rom. 2:15. Thoughts accusing or excusing. Jer. 4:14. How long shall thy vain thoughts lodge within thee? Matt. 15:19. Out of the heart proceed evil thoughts.",
+          "zh": "箴言 4:26 —— 要修平你脚下的路（英译：要思量你脚下的路径）。路加福音 2:19 —— 马利亚却把这一切的事存在心里，反复思想。诗篇 48:9 —— 神啊，我们在你的殿中想念你的慈爱。119:59 —— 我思想我所行的道，就转步归向你的法度。哥林多后书 10:5 —— 将人所有的心意夺回。腓立比书 4:8 —— 凡是真实的……这些事你们都要思念。以赛亚书 55:7 —— 不义的人当除掉自己的意念。罗马书 2:15 —— 他们的思念互相较量，或以为是，或以为非。耶利米书 4:14 —— 恶念存在你心里要到几时呢？马太福音 15:19 —— 因为从心里发出来的，有恶念……【OCR 注：原书 \"Prov. 4:20\"（第二处）依引文推定为 4:26。】",
+          "bsb": "Luke 2:19",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "How long shall thy vain thoughts lodge within thee?：thy/thee 的诘问句（lodge：存留，寄宿）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、默想 / Meditation",
+      "blocks": [
+        {
+          "en": "Josh. 1:8. Thou shalt meditate therein day and night. 1 Tim. 4:15. Meditate upon these things; give thyself wholly to them. Ps. 119:15, 97. O how love I Thy law! it is my meditation all the day. Ps. 1:2. In His law doth he meditate day and night. Ps. 39:3. While I was musing, the fire burned. Ps. 63:6. I meditate on Thee in the night watches. Ps. 104:34. My meditation of Him shall be sweet. Ps. 143:5. Isa. 26:8, 9. Jer. 23:20. In the latter days ye shall consider it perfectly.",
+          "zh": "约书亚记 1:8 —— 总要昼夜思想。提摩太前书 4:15 —— 这些事你要殷勤去做（原文作要默想这些事），并要在此专心。诗篇 119:15, 97 —— 我何等爱慕你的律法，终日不住地思想。1:2 —— 惟喜爱耶和华的律法，昼夜思想。39:3 —— 我默想的时候，火就烧起。63:6 —— 我在床上记念你，在夜更的时候思想你。104:34 —— 愿他以我的默念为甘甜。143:5；以赛亚书 26:8-9（夜间，我心中羡慕你，我里面的灵切切寻求你）；耶利米书 23:20 —— 末后的日子，你们要全然明白（英译：要透彻思想）。",
+          "bsb": "Psalm 1:2",
+          "grammar": [
+            {"id": "inversion", "note": "O how love I Thy law!：感叹句中动词提到主语前（我何等爱慕你的律法）——古体感叹倒装。"},
+            {"note": "While I was musing, the fire burned：muse『默想沉思』——诗篇 39:3 的名句（默想催生炽热）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "hearkening": {"ipa": "/ˈhɑːkənɪŋ/", "def": "n. 侧耳听（hearken：听从）"},
+    "pondering": {"ipa": "/ˈpɒndərɪŋ/", "def": "n./v. 反复思量（ponder）【六级】"},
+    "hearken": {"ipa": "/ˈhɑːkən/", "def": "v.【古】留意听，听从"},
+    "haply": {"ipa": "/ˈhæpli/", "def": "adv.【古】或许（= perhaps；hap 古义『机遇』）"},
+    "drift": {"ipa": "/drɪft/", "def": "v. 随流漂去（drift away：随流失去）【四级】"},
+    "lovingkindness": {"ipa": "/ˌlʌvɪŋˈkaɪndnəs/", "def": "n. 慈爱（钦定本对希伯来文 hesed 的经典译词）"},
+    "lodge": {"ipa": "/lɒdʒ/", "def": "v. 存留，寄宿（vain thoughts lodge within thee：恶念存在心里）【六级】"},
+    "musing": {"ipa": "/ˈmjuːzɪŋ/", "def": "n./v. 默想沉思（muse）【GRE】"},
+    "watches": {"ipa": "/ˈwɒtʃɪz/", "def": "n. 更次（the night watches：夜更时分）【四级】"},
+    "meditate": {"ipa": "/ˈmedɪteɪt/", "def": "v. 默想，思想【六级】"}
+  },
+  "vocab_table": [
+    {"word": "hearken", "ipa": "/ˈhɑːkən/", "def": "v.【古】留意听，听从"},
+    {"word": "ponder", "ipa": "/ˈpɒndə/", "def": "v. 反复思量"},
+    {"word": "muse", "ipa": "/mjuːz/", "def": "v. 默想沉思"},
+    {"word": "lodge", "ipa": "/lɒdʒ/", "def": "v. 存留，寄宿"},
+    {"word": "haply", "ipa": "/ˈhæpli/", "def": "adv.【古】或许"}
+  ]
+}

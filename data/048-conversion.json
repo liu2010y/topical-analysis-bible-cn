@@ -1,0 +1,85 @@
+{
+  "num": "048",
+  "title_en": "CONVERSION",
+  "title_zh": "归正（回转）",
+  "html_name": "048-Conversion-归正.html",
+  "pages": "原书 p. 97–98",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CONVERSION. Steps in the Process.",
+          "zh": "归正（回转归向神）。其进程中的诸步骤。（与 034 三之一『悔改与归正』相呼应：归正是 metanoia 的外在实行——实际的转身。）"
+        }
+      ]
+    },
+    {
+      "heading": "一、注意与省思，生出为罪的自觉 / Attention and Reflection, Producing Conviction of Sin",
+      "blocks": [
+        {
+          "en": "Deut. 30:1. (Thou shalt call them to mind among all the nations.) Ezek. 3:27. He that heareth, let him hear. Ps. 119:59. I thought on my ways. Luke 15:17, 18. And when he came to himself, he said … I will arise and go to my father. Acts 9:5, 6. Who art Thou, Lord? And he, trembling, said, Lord, what wilt Thou have me to do?",
+          "zh": "申命记 30:1 —— 你在诸国中心里追念（这一切咒诅与祝福）。以西结书 3:27 —— 听的可以听。诗篇 119:59 —— 我思想我所行的道。路加福音 15:17-18 —— 他醒悟过来，就说：……我要起来，到我父亲那里去。使徒行传 9:5-6 —— 主啊，你是谁？他就战兢地说：主啊，你要我做什么？（钦定本文句；和合本此语见 22:10。）",
+          "bsb": "Luke 15:17-18",
+          "grammar": [
+            {"note": "when he came to himself：习语『醒悟过来』（回到自己——浪子比喻的转折点）；Who art Thou, Lord?：art 与 Thou 搭配的古体疑问。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、决断与立行 / Decision and Instant Action",
+      "blocks": [
+        {
+          "en": "Ps. 119:59, 60. I thought on my ways, and turned my feet unto Thy testimonies: I made haste, and delayed not. Luke 15:20. And he arose, and came to his father. Acts 26:19. I was not disobedient unto the heavenly vision. Gal. 1:16. Immediately I conferred not with flesh and blood.",
+          "zh": "诗篇 119:59-60 —— 我思想我所行的道，就转步归向你的法度。我急忙遵守你的命令，并不迟延。路加福音 15:20 —— 于是起来，往他父亲那里去。使徒行传 26:19 —— 我故此没有违背那从天上来的异象。加拉太书 1:16 —— 我就没有与属血气的人商量。",
+          "bsb": "Psalm 119:60",
+          "grammar": [
+            {"id": "no-do-negation", "note": "delayed not / I conferred not with flesh and blood：两处古体否定（并不迟延／没有商量）——『立行』的句法标记。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、认罪・舍己・信靠・爱与奉献 / Confession, Self-Surrender, Trust, Love and Consecration",
+      "blocks": [
+        {
+          "en": "Luke 15:21. Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. (Read the testimonies of Paul, Peter and John.)",
+          "zh": "路加福音 15:21 —— 父亲，我得罪了天，又得罪了你，从今以后，我不配称为你的儿子。（可参读保罗、彼得、约翰的见证。）",
+          "bsb": "Luke 15:21"
+        }
+      ]
+    },
+    {
+      "heading": "四、凭据与实例 / Evidence; Recorded Conversions",
+      "blocks": [
+        {
+          "en": "Evidence: Ps. 34:8. O taste and see that the Lord is good. Ps. 66:16. Come and hear, all ye that fear God, and I will declare what He hath done for my soul. Acts 9:11. Behold, he prayeth. Some Recorded Conversions: Matthew, Luke 5:28, 29. Paul. The Ethiopian Treasurer, contrasted with Simon the Sorcerer, Acts 8:9-39. Lydia and the Jailer, Acts 16:14, 15, 27-34. See Christian Experience; Consideration. [The spirit of surrender and acceptance involved in the initial act of trust continues as the characteristic temper of the Christian man, and becomes a fixed mood of conscious dependence and receptiveness. — Stevens.]",
+          "zh": "凭据：诗篇 34:8 —— 你们要尝尝主恩的滋味，便知道他是美善。66:16 —— 凡敬畏神的人，你们都来听，我要述说他为我所行的事。使徒行传 9:11 —— 他正祷告（扫罗归正的第一个凭据）。若干归正实例：马太（路加福音 5:28-29——撇下所有的，起来跟从了耶稣）；保罗；埃提阿伯的银库总管——与行邪术的西门恰成对照（使徒行传 8:9-39）；吕底亚与腓立比狱卒（16:14-15, 27-34）。另参主题词条：基督徒经历（034 三）；思想（047）。【摘录】起初信靠之举中所含降服与领受的灵，延续为基督徒品格性的性情，成为一种自觉依赖、自觉领受的恒定心境。——史蒂文斯（Stevens）",
+          "bsb": "Psalm 34:8",
+          "grammar": [
+            {"id": "vocative-o", "note": "O taste and see：O + 祈使的呼告（你们要尝尝主恩的滋味）。"},
+            {"id": "eth-est-endings", "note": "Behold, he prayeth：看哪，他正祷告——三个词写尽归正（prayeth = prays）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "reflection": {"ipa": "/rɪˈflekʃn/", "def": "n. 省思，反思【四级】"},
+    "trembling": {"ipa": "/ˈtremblɪŋ/", "def": "adv./v. 战兢地（tremble）【四级】"},
+    "conferred": {"ipa": "/kənˈfɜːd/", "def": "v. 商量（confer with：与……商议）【六级】"},
+    "sorcerer": {"ipa": "/ˈsɔːsərə/", "def": "n. 行邪术的人，术士【GRE】"},
+    "jailer": {"ipa": "/ˈdʒeɪlə/", "def": "n. 狱卒（jail：监狱）"},
+    "treasurer": {"ipa": "/ˈtreʒərə/", "def": "n. 银库总管，司库【六级】"},
+    "receptiveness": {"ipa": "/rɪˈseptɪvnəs/", "def": "n. 领受性，善于接纳（receptive：善于领受的）"},
+    "initial": {"ipa": "/ɪˈnɪʃl/", "def": "adj. 起初的【四级】"},
+    "prayeth": {"ipa": "/ˈpreɪəθ/", "def": "= prays（-eth 古词尾）：祷告"}
+  },
+  "vocab_table": [
+    {"word": "conversion", "ipa": "/kənˈvɜːʃn/", "def": "n. 归正，回转"},
+    {"word": "confer", "ipa": "/kənˈfɜː/", "def": "v. 商议（confer with）"},
+    {"word": "sorcerer", "ipa": "/ˈsɔːsərə/", "def": "n. 行邪术的人，术士"},
+    {"word": "receptive", "ipa": "/rɪˈseptɪv/", "def": "adj. 善于领受的"}
+  ]
+}

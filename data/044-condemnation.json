@@ -1,0 +1,118 @@
+{
+  "num": "044",
+  "title_en": "CONDEMNATION",
+  "title_zh": "定罪",
+  "html_name": "044-Condemnation-定罪.html",
+  "pages": "原书 p. 93–95",
+  "ocr_note": "含 J. Orr 长摘录（原书署名及书名误作 Joseph Orr，通行作 James Orr，《神与世界的基督教观》1893）。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "CONDEMNATION; Death (the Second); Destruction; Fire; Hell; Judgment; Punishment; Wrath of God.",
+          "zh": "定罪；（第二次的）死；灭亡；火；地狱；审判；刑罚；神的忿怒。",
+          "grammar": [
+            {"id": "headline-style", "note": "主题词＋七个并列词条头——本词条按这八个圣经用语分组罗列经文。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、八个用语分组 / Under Eight Heads",
+      "blocks": [
+        {
+          "en": "Condemnation: Rom. 5:18. Judgment came unto all men to condemnation. John 3:18. He that believeth not hath been condemned already. John 5:24. Cometh not into condemnation. Rom. 8:1. Jude 4-7. Death: Ezek. 18:4, 20. The soul that sinneth, it shall die. Jer. 31:30. Every one shall die for his own iniquity. Rom. 8:13. If ye live after the flesh, ye must die. Rom. 6:23. The wages of sin is death. Rev. 20:14. The second death.",
+          "zh": "定罪：罗马书 5:18 —— 因一次的过犯，众人都被定罪。约翰福音 3:18 —— 不信的人，罪已经定了。5:24 —— 不至于定罪，是已经出死入生了。罗马书 8:1；犹大书 4-7。死：以西结书 18:4, 20 —— 犯罪的，他必死亡。耶利米书 31:30 —— 各人必因自己的罪死亡。罗马书 8:13 —— 你们若顺从肉体活着，必要死。6:23 —— 因为罪的工价乃是死。启示录 20:14 —— 这火湖就是第二次的死。",
+          "bsb": "Romans 6:23",
+          "grammar": [
+            {"note": "The soul that sinneth, it shall die：主语从句后用 it 复指（古典强调句法，参 001 词条同句）。"}
+          ]
+        },
+        {
+          "en": "Destruction: Prov. 29:1. Shall suddenly be destroyed, and that without remedy. Matt. 7:13. The way that leadeth to destruction. Phil. 3:19. Whose end is destruction. 1 Thes. 5:3. 1 Tim. 6:9. Fire (Fig.): Isa. 33:14. Who shall dwell with the devouring fire? who with everlasting burnings? Isa. 66:24. Their fire shall not be quenched. Mark 9:44. Ps. 11:6. Upon the wicked He shall rain snares, fire and brimstone. Matt. 25:41. The everlasting fire, prepared for the devil and his angels. 2 Thes. 1:8. In flaming fire, taking vengeance. Jude 7. Suffering the vengeance of eternal fire. Rev. 20:15. Whosoever was not found written in the book of life was cast into the lake of fire. Hell: Matt. 10:28. Him which is able to destroy both soul and body in hell. Matt. 23:33. Luke 16:23. (Tophet: Isa. 30:33.)",
+          "zh": "灭亡：箴言 29:1 —— 必忽然败坏，无法可治。马太福音 7:13 —— 引到灭亡（的门是宽的，路是大的）。腓立比书 3:19 —— 他们的结局就是沉沦。帖撒罗尼迦前书 5:3；提摩太前书 6:9。火（表记）：以赛亚书 33:14 —— 我们中间谁能与吞灭的火同住？我们中间谁能与永火同住呢？66:24 —— 他们的虫是不死的，他们的火是不灭的。马可福音 9:44；诗篇 11:6 —— 他要向恶人密布网罗，有烈火、硫磺、热风作他们杯中的份。马太福音 25:41 —— 那为魔鬼和他的使者所预备的永火。帖撒罗尼迦后书 1:8 —— 要在火焰中报应。犹大书 7 —— 受永火的刑罚。启示录 20:15 —— 若有人名字没记在生命册上，他就被扔在火湖里。地狱：马太福音 10:28 —— 惟有能把身体和灵魂都灭在地狱里的，正要怕他。23:33；路加福音 16:23（陀斐特：以赛亚书 30:33）。",
+          "bsb": "Matthew 10:28",
+          "grammar": [
+            {"note": "and that without remedy：that 复指前句（而且是无法可治的败坏）——古典的补充强调式。"}
+          ]
+        },
+        {
+          "en": "Judgment: Rom. 2:3, 5. The revelation of the righteous judgment of God. 1 Tim. 5:24. Some men's sins are evident, going before unto judgment. Heb. 10:27. A certain fearful expectation of judgment. 2 Pet. 2:3. Whose judgment now of a long time lingereth not. Jude 6, 15. The judgment of the great day—to execute judgment upon all. Punishment: Matt. 25:46. These shall go away into everlasting punishment. 2 Thes. 1:9. Punished with everlasting destruction from the presence of the Lord. Rom. 2:9. Tribulation and anguish, upon every soul of man that doeth evil. Ezek. 22:14. Can thine heart endure, in the days that I shall deal with thee? Jer. 8:20. The harvest is past, the summer is ended, and we are not saved. Wrath of God: John 3:36. The wrath of God abideth on him. Rom. 1:18. Revealed from heaven. Rom. 2:5. Treasurest up unto thyself wrath in the day of wrath. Matt. 3:7. Flee from the wrath to come. Rev. 6:16, 17. The wrath of the Lamb: for the great day of their wrath is come.",
+          "zh": "审判：罗马书 2:3, 5 —— 神震怒，显他公义审判的日子来到。提摩太前书 5:24 —— 有些人的罪是明显的，如同先到审判案前。希伯来书 10:27 —— 惟有战惧等候审判。彼得后书 2:3 —— 他们的刑罚，自古以来并不迟延。犹大书 6, 15 —— 大日的审判……要在众人身上行审判。刑罚：马太福音 25:46 —— 这些人要往永刑里去。帖撒罗尼迦后书 1:9 —— 他们要受刑罚，就是永远沉沦，离开主的面。罗马书 2:9 —— 将患难、困苦加给一切作恶的人。以西结书 22:14 —— 到了我惩罚你的日子，你的心还能忍受吗？你的手还能有力吗？耶利米书 8:20 —— 麦秋已过，夏令已完，我们还未得救！神的忿怒：约翰福音 3:36 —— 神的震怒常在他身上。罗马书 1:18 —— 神的忿怒从天上显明。2:5 —— 为自己积蓄忿怒，以致神震怒。马太福音 3:7 —— 逃避将来的忿怒。启示录 6:16-17 —— 羔羊的忿怒；因为他们忿怒的大日到了，谁能站得住呢？",
+          "bsb": "John 3:36",
+          "grammar": [
+            {"id": "no-do-negation", "note": "lingereth not：古体否定（并不迟延）。"},
+            {"id": "kjv-pronouns", "note": "Treasurest up unto thyself wrath：与 thou 搭配的 -est 词尾＋反身（为你自己积蓄忿怒）。"}
+          ]
+        },
+        {
+          "en": "Actual Divine Judgments, Justified: The Flood. Sodom, Gen. 19:23-25. Amalek, Ex. 17:14-16. The Golden Calf, Ex. 32:26-29. Nadab and Abihu. Korah. Sihon and Og. The Extermination of the Canaanites. Achan, Josh. 7:15, 25. The Prophet from Judah. Gehazi. Uzziah. Ananias and Sapphira. Other passages: Deut. 19:20. Those which remain shall hear, and fear, and shall henceforth commit no more any such evil.",
+          "zh": "实际施行的神圣审判（各有其公义根据）：洪水；所多玛（创世记 19:23-25）；亚玛力（出埃及记 17:14-16）；金牛犊事件（32:26-29）；拿答与亚比户（利 10 章，献凡火）；可拉一党（民 16 章）；西宏与噩；迦南人的除灭；亚干（约书亚记 7:15, 25）；犹大来的神人（王上 13 章）；基哈西（王下 5 章）；乌西雅（代下 26 章，擅自烧香长大麻风）；亚拿尼亚与撒非喇（徒 5 章）。另参：申命记 19:20 —— 别人听见都要害怕，就不敢在你们中间再行这样的恶了。【OCR 注：原书 \"Josh. 1:15, 25\" 依史事推定为 7:15, 25。】",
+          "bsb": false
+        }
+      ]
+    },
+    {
+      "heading": "二、J. Orr 摘录：确定的报应与明智的存疑 / Extract: Certain Retribution and a Wise Agnosticism",
+      "blocks": [
+        {
+          "en": "[Isaiah says (3:11), \"Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.\" This is the great and fundamental principle of certain retribution for sin—a principle we cannot hold too clearly or too strongly. Whatever tends to tamper with this principle, or to weaken its hold upon the conscience, is alien to the true Christian view. By unalterable laws impressed upon the nature of man and on the universe, righteousness is life, and sin is inevitable misery and death. Omnipotence itself could not reverse this law—that so long as a sinner continues in his sin, he must suffer. On the other hand, where this principle is firmly grasped, there ought to be much room for difference of views on points which, from the nature of the case, are obscure. In regard to those things on which Scripture gives no light and is silent, our wisdom is to imitate its caution, and refrain from dogmatism. In respect of so appalling a subject as the future fate of the lost, there is room for a wise Agnosticism: I prefer to say that, so far as my light goes, I see no end—and there to stop.",
+          "zh": "【摘录】以赛亚说（3:11）：『恶人有祸了，他必遭灾难，因为要照自己手所行的受报应。』这就是罪必受报这一伟大而根本的原则——我们对它的持守，再清楚、再坚定也不为过。凡倾向于篡改这原则、或削弱它对良心之约束力的，都与真正的基督教观格格不入。按着铭刻在人性与宇宙之上的不可更改之律：公义即生命，罪即无可避免的愁苦与死亡。全能者自己也不能推翻这条定律——罪人只要仍在罪中，就必受苦。另一方面，凡稳固持定这一原则之处，对于那些就事情本性而言幽暗难明的问题，就理应容许观点的分歧。凡圣经不予光照、保持沉默的事，我们的智慧就是效法它的谨慎、戒绝武断。对于失丧者将来的结局这样令人战栗的题目，是容得下一种明智的存疑的：我宁愿说——就我所得的光而言，我看不见尽头——并且到此为止。",
+          "bsb": false,
+          "grammar": [
+            {"note": "we cannot hold too clearly or too strongly：cannot … too … 结构（再……也不为过）；Omnipotence itself could not reverse this law：拟人化抽象名词作主语（连全能本身也不能……）。"}
+          ]
+        },
+        {
+          "en": "Concerning the untold millions who have never heard of Christ at all, we feel instinctively that the last word has not been—cannot be—spoken by us here. It may be said, with much truth, that for those who have the light there is no excuse: salvation has been put within their reach, and they have deliberately rejected it. But even here, are there not elements we dare not overlook? Men are responsible for the use they make of light; but how much here also is not due to the individual will—crossed as it is by influences from heredity, from environment, from up-bringing, from the pressure of events! God alone can disentangle the threads of freedom in the web of character and action, and say how much is a man's individual responsibility in the result. It is certain, from Christ's own statement, that in the judgment of Omniscience all these things are taken into account; that even in the administration of punishment there are gradations of penalty, proportionate to men's knowledge and opportunities (Luke 12:47, 48); that, as Paul says, a distinction is made between those who have \"sinned without law\" and those who have \"sinned under law.\" — J. Orr.] For a judicious treatment of the so-called \"Future Probation,\" see The Christian View of God and the World, by Professor Orr—an admirable work throughout. See Day of the Lord; Wicked; Woes.",
+          "zh": "至于那从未听过基督之名的亿万之众，我们本能地感到：最后的话，我们在此地还没有说出——也说不出来。或者有人说（此话大有道理）：对已经得了光的人，再无可推诿——救恩已放在他们伸手可及之处，他们却蓄意拒绝了。然而即便在这里，岂没有我们不敢忽略的因素吗？人固然要为自己怎样使用所得之光负责；但这里又有多少并非出于个人意志——那意志本被遗传、环境、教养、时势的压力纵横交错地牵制着！惟有神能从品格与行为的织网中解开自由的丝线，说出结果之中有多少是一个人自己的责任。从基督亲口的话可以确定：在全知者的审判里，这一切都被考虑在内；甚至在刑罚的施行上也有轻重的等差，与人的知识和机会成比例（路加福音 12:47-48 —— 多受责打与少受责打）；正如保罗所说，『没有律法犯了罪的』与『在律法以下犯了罪的』是有分别的。——J. 奥尔（Orr）。关于所谓『来世试炼期』的持平讨论，参奥尔教授《神与世界的基督教观》——通篇俱佳之作。另参主题词条：主的日子；恶人；祸哉。【OCR 注：原书 \"Luke 27:47, 48\" 依引文推定为 12:47-48；著者名原书误作 Joseph Orr，通行作 James Orr。】",
+          "bsb": false,
+          "grammar": [
+            {"note": "the last word has not been—cannot be—spoken：插入的情态递进（还没有说出——也说不出来）；crossed as it is by influences：『分词 + as + it is』的原因/让步插入（那意志本被……牵制着）；are there not elements we dare not overlook?：否定反问＋dare 作情态动词。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "remedy": {"ipa": "/ˈremədi/", "def": "n. 救治之法（without remedy：无法可治）【六级】"},
+    "quenched": {"ipa": "/kwentʃt/", "def": "v. 被熄灭（quench）【六级】"},
+    "brimstone": {"ipa": "/ˈbrɪmstəʊn/", "def": "n.【古】硫磺（fire and brimstone：火与硫磺）"},
+    "tophet": {"ipa": "/ˈtəʊfet/", "def": "n. 陀斐特（欣嫩子谷焚烧之地，地狱的表记）"},
+    "lingereth": {"ipa": "/ˈlɪŋɡərəθ/", "def": "= lingers（-eth 古词尾）：迟延"},
+    "treasurest": {"ipa": "/ˈtreʒərɪst/", "def": "= treasure（与 thou 搭配的 -est 词尾）：（你）积蓄"},
+    "extermination": {"ipa": "/ɪkˌstɜːmɪˈneɪʃn/", "def": "n. 除灭，灭绝（exterminate）【六级】"},
+    "retribution": {"ipa": "/ˌretrɪˈbjuːʃn/", "def": "n. 报应【GRE】"},
+    "tamper": {"ipa": "/ˈtæmpə/", "def": "v. 篡改，擅动（tamper with）【GRE】"},
+    "alien": {"ipa": "/ˈeɪliən/", "def": "adj. 格格不入的（alien to：与……相悖）【四级】"},
+    "unalterable": {"ipa": "/ʌnˈɔːltərəbl/", "def": "adj. 不可更改的（alter：改变）"},
+    "omnipotence": {"ipa": "/ɒmˈnɪpətəns/", "def": "n. 全能（omni- 全 + potence 能力）【GRE】"},
+    "obscure": {"ipa": "/əbˈskjʊə/", "def": "adj. 幽暗难明的【六级】"},
+    "dogmatism": {"ipa": "/ˈdɒɡmətɪzəm/", "def": "n. 武断，教条主义【GRE】"},
+    "appalling": {"ipa": "/əˈpɔːlɪŋ/", "def": "adj. 令人战栗的【六级】"},
+    "agnosticism": {"ipa": "/æɡˈnɒstɪsɪzəm/", "def": "n. 不可知论，存疑（a- 不 + gnostic 知）【GRE】"},
+    "instinctively": {"ipa": "/ɪnˈstɪŋktɪvli/", "def": "adv. 本能地【四级】"},
+    "deliberately": {"ipa": "/dɪˈlɪbərətli/", "def": "adv. 蓄意地【四级】"},
+    "heredity": {"ipa": "/həˈredəti/", "def": "n. 遗传【六级】"},
+    "up-bringing": {"ipa": "/ˈʌpbrɪŋɪŋ/", "def": "n. 教养（今拼 upbringing）【六级】"},
+    "disentangle": {"ipa": "/ˌdɪsɪnˈtæŋɡl/", "def": "v. 解开（缠结）【GRE】"},
+    "omniscience": {"ipa": "/ɒmˈnɪsiəns/", "def": "n. 全知（omni- 全 + science 知）【GRE】"},
+    "gradations": {"ipa": "/ɡrəˈdeɪʃnz/", "def": "n. 等差，层级（gradation）【GRE】"},
+    "proportionate": {"ipa": "/prəˈpɔːʃənət/", "def": "adj. 成比例的【六级】"},
+    "judicious": {"ipa": "/dʒuˈdɪʃəs/", "def": "adj. 持平明断的【GRE】"},
+    "probation": {"ipa": "/prəˈbeɪʃn/", "def": "n. 试炼期，察验期（Future Probation：来世试炼期之说）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "retribution", "ipa": "/ˌretrɪˈbjuːʃn/", "def": "n. 报应"},
+    {"word": "tamper", "ipa": "/ˈtæmpə/", "def": "v. 篡改，擅动（tamper with）"},
+    {"word": "omnipotence", "ipa": "/ɒmˈnɪpətəns/", "def": "n. 全能"},
+    {"word": "omniscience", "ipa": "/ɒmˈnɪsiəns/", "def": "n. 全知"},
+    {"word": "dogmatism", "ipa": "/ˈdɒɡmətɪzəm/", "def": "n. 武断，教条主义"},
+    {"word": "agnosticism", "ipa": "/æɡˈnɒstɪsɪzəm/", "def": "n. 不可知论"},
+    {"word": "disentangle", "ipa": "/ˌdɪsɪnˈtæŋɡl/", "def": "v. 解开（缠结）"},
+    {"word": "gradation", "ipa": "/ɡrəˈdeɪʃn/", "def": "n. 等差，层级"},
+    {"word": "judicious", "ipa": "/dʒuˈdɪʃəs/", "def": "adj. 持平明断的"},
+    {"word": "appalling", "ipa": "/əˈpɔːlɪŋ/", "def": "adj. 令人战栗的"}
+  ]
+}

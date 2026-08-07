@@ -4,7 +4,7 @@
   "title_zh": "基督徒生活",
   "html_name": "034-Christian-Life-基督徒生活.html",
   "pages": "原书 p. 69–96（七部连环词条）",
-  "ocr_note": "本词条为全书篇幅最大的七部连环词条（作者在导言中特别说明的『基督徒生活』系列）。本页现已完成第一、二部分，其余部分随翻译进度陆续补入。原书 p. 73–74 之间一栏内容（第二部分『见证人』末段与第三部分的标题及开头）在扫描中丢失，已标注。",
+  "ocr_note": "本词条为全书篇幅最大的七部连环词条（作者在导言中特别说明的『基督徒生活』系列）。本页现已完成第一至六部分，第七部分（劝勉与应许的口号）随翻译进度补入。原书 p. 73–74 之间一栏内容（第二部分『见证人』末段与第三部分的标题及开头）在扫描中丢失，已标注。",
   "sections": [
     {
       "heading": "总纲 / General Outline",
@@ -257,6 +257,109 @@
           ]
         }
       ]
+    },
+    {
+      "heading": "四、基督徒品格 / IV. Christian Character",
+      "blocks": [
+        {
+          "en": "CHRISTIAN CHARACTER, or the Sum of Inward Forces Actuating the Spiritual Life. (See Character.) More fully defined: the sum of the believer's ruling Estimates, Desires, Aims and Motives respecting God and Duty. Its elements are supreme reverence and love to God, with an unquestioning submission and consecration to His will. These simple elements interpret the meaning and exhaust the fulfilment of \"the first and great commandment—Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind\" (Matt. 22:37-39); while they supply the ground and motive for \"the second, which is like unto it—Thou shalt love thy neighbor as thyself.\"",
+          "zh": "基督徒品格——驱动属灵生命之内在诸力的总和（另参 027 品格词条）。更完整的定义：信徒关乎神与本分的、居支配地位的评断、愿望、目标与动机之总和。它的要素是对神至高的敬畏与爱，加上对他旨意毫无保留的降服与奉献。这几个简单的要素，解明了『诫命中的第一、且是最大的——你要尽心、尽性、尽意爱主你的神』（马太福音 22:37-39）的全部含义、穷尽了它的成全；同时也为『其次也相仿，就是要爱人如己』提供了根据与动机。",
+          "bsb": "Matthew 22:37-39",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Thou shalt love … with all thy heart：十诫式的 thou shalt 命令句。"}
+          ]
+        },
+        {
+          "en": "These elements of fear and love, of obedience and devotion to God, in actual control of the believer's judgment and heart, conscience and will, constitute the vital roots of Christian character; and from these spring all fruits in the life, demanded by and acceptable to God, and helpful to man. Their substance is infolded in \"the Preacher's\" summary charge: Eccles. 12:13. Fear God, and keep His commandments; for this is the whole of man. See also Deut. 5:29; 10:12; 13:4. Josh. 24:14. 1 Sam. 12:24. Ps. 115:11. Prov. 3:7. See Fear of God. [God's perfect nature and holy will form the norm of character and duty for man. The human will must subsist in perfect harmony with the Divine; and there should be a right state of the affections, a pure and harmonious inner life. — J. Orr.]",
+          "zh": "敬畏与爱、顺服与忠诚于神——这些要素一旦实际掌管信徒的判断与心肠、良心与意志，便构成基督徒品格的生命之根；生活中一切为神所要求、蒙神悦纳、于人有益的果子，都从这根上生发。其实质已包含在『传道者』总括的嘱咐里：传道书 12:13 —— 敬畏神，谨守他的诫命，这是人所当尽的本分（原文作这是众人的本分）。另参：申命记 5:29；10:12；13:4；约书亚记 24:14；撒母耳记上 12:24；诗篇 115:11；箴言 3:7。参主题词条：敬畏神（Fear of God）。【摘录】神完全的本性与圣洁的旨意，构成人之品格与本分的准则。人的意志必须存活于与神旨意的完全和谐之中；情感也当有正当的状态——一个纯洁而和谐的内在生命。——J. 奥尔（J. Orr）",
+          "bsb": "Ecclesiastes 12:13",
+          "grammar": [
+            {"id": "inversion", "note": "from these spring all fruits in the life：状语前置引起倒装（一切果子都从这些根上生发）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "五、基督徒行事 / V. Christian Walk or Conduct",
+      "blocks": [
+        {
+          "en": "This is Christian Character in exercise and development—the process of spiritual life carried on by and within the reverent, loving, obedient and consecrated believer. This broad, intensely personal theme is largely treated in both Testaments: (1) in summary statements, and (2) in manifold detailed points. 1. Summaries of Christian Living: Micah 6:8. What doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God? Hosea 12:6. Turn thou to thy God: keep mercy and judgment, and wait on thy God continually. Zeph. 2:3. Seek ye the Lord … seek righteousness, seek meekness. Titus 2:12. Denying ungodliness and worldly lusts, we should live soberly and righteously and godly in this present world. James 1:27. Pure religion is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 2 Pet. 1:5-8. Adding all diligence, in your faith supply virtue, knowledge, self-control, patience, godliness, brotherly kindness, love. Phil. 4:8. Whatsoever things are true, honorable, just, pure, lovely, of good report—think on these things. Jude 20, 21. Building up yourselves on your most holy faith, praying in the Holy Spirit, keep yourselves in the love of God.",
+          "zh": "这是操练中、发展中的基督徒品格——由那敬虔、爱主、顺服、奉献的信徒所进行、并在其里面进行的属灵生命进程。这个广阔而切身的主题，新旧两约都有大量论述：（一）总括性的陈述，（二）繁多的细目。1. 基督徒生活的总纲：弥迦书 6:8 —— 耶和华向你所要的是什么呢？只要你行公义，好怜悯，存谦卑的心，与你的神同行。何西阿书 12:6 —— 所以你当归向你的神，谨守仁爱、公平，常常等候你的神。西番雅书 2:3 —— 你们当寻求耶和华……当寻求公义谦卑。提多书 2:12 —— 教训我们除去不敬虔的心和世俗的情欲，在今世自守、公义、敬虔度日。雅各书 1:27 —— 在神我们的父面前，那清洁没有玷污的虔诚，就是看顾在患难中的孤儿寡妇，并且保守自己不沾染世俗。彼得后书 1:5-8 —— 正因这缘故，你们要分外地殷勤：有了信心，又要加上德行；有了德行，又要加上知识……忍耐、虔敬、爱弟兄的心、爱众人的心。腓立比书 4:8 —— 凡是真实的、可敬的、公义的、清洁的、可爱的、有美名的……这些事你们都要思念。犹大书 20-21 —— 在至圣的真道上造就自己，在圣灵里祷告，保守自己常在神的爱中。",
+          "bsb": "Micah 6:8",
+          "grammar": [
+            {"note": "What doth the Lord require of thee, but to do justly…?：but 此处 =『除了……以外』（耶和华向你所要的，无非是……）；Whatsoever things are true … think on these things：whatsoever 引导的前置宾语群＋复指 these things。"}
+          ]
+        },
+        {
+          "en": "2. Particular injunctions respecting the Christian Walk: With God—Gen. 17:1. Walk before Me, and be thou perfect. In Christ—Col. 2:6. As ye received Christ Jesus the Lord, so walk in Him. 1 John 2:6. Even as He walked. By the Spirit—Gal. 5:16, 25. Walk by the Spirit, and ye shall not fulfil the lust of the flesh. Worthily—Col. 1:10. Walk worthy of the Lord unto all pleasing. Eph. 4:1, 2. Walk worthily of the calling wherewith ye were called, with all lowliness and meekness, with longsuffering, forbearing one another in love. Phil. 1:27. Let your manner of life be worthy of the Gospel of Christ. In the light—Isa. 2:5. Come ye, and let us walk in the light of the Lord. Eph. 5:8. Walk as children of light. In love—Eph. 5:1, 2. In purity—1 Tim. 5:22. In truth—2 John 4. 3 John 4. By faith—2 Cor. 5:7. We walk by faith, not by sight. With humility—1 Pet. 5:5. Unto good works—Eph. 2:10. Created in Christ Jesus for good works, which God afore prepared that we should walk in them. Rom. 12:1. Present your bodies a living sacrifice. 1 Tim. 4:7. Exercise thyself unto godliness.",
+          "zh": "2. 关于行事为人的具体嘱咐：与神同行——创世记 17:1 —— 你当在我面前作完全人（行在我面前，作完全人）。在基督里行——歌罗西书 2:6 —— 你们既然接受了主基督耶稣，就当遵他而行。约翰一书 2:6 —— 就该自己照主所行的去行。顺圣灵而行——加拉太书 5:16, 25 —— 当顺着圣灵而行，就不放纵肉体的情欲了……就当靠圣灵行事。行事相称——歌罗西书 1:10 —— 行事为人对得起主，凡事蒙他喜悦。以弗所书 4:1-2 —— 行事为人就当与蒙召的恩相称。凡事谦虚、温柔、忍耐，用爱心互相宽容。腓立比书 1:27 —— 你们行事为人（原文作你们的国民生活）要与基督的福音相称。行在光中——以赛亚书 2:5 —— 来吧，我们在耶和华的光明中行走。以弗所书 5:8 —— 行事为人就当像光明的子女。在爱中行（弗 5:1-2）；在纯洁中（提前 5:22）；按真理行（约贰 4；约叁 4）；凭信心行——哥林多后书 5:7 —— 因我们行事为人是凭着信心，不是凭着眼见。存谦卑（彼前 5:5）；行各样善事——以弗所书 2:10 —— 我们原是他的工作，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。罗马书 12:1 —— 将身体献上，当作活祭。提摩太前书 4:7 —— 在敬虔上操练自己。",
+          "bsb": "2 Corinthians 5:7",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "be thou perfect / Exercise thyself：祈使句带 thou/thyself。"},
+            {"id": "compound-relatives", "note": "the calling wherewith ye were called：wherewith = with which（你们所蒙的召）。"},
+            {"note": "which God afore prepared：afore =【古】beforehand（神所预先预备的）。"}
+          ]
+        },
+        {
+          "en": "3. Specimen Petitions for a Closer Walk with God: Ps. 86:11. Teach me Thy way, O Lord; I will walk in Thy truth: unite my heart to fear Thy name. Ps. 143:8-10. Cause me to know the way wherein I should walk; for I lift up my soul unto Thee. 4. The Devout Life referred to: Job 22:26-29. Ps. 15:2-5. He that walketh uprightly, and worketh righteousness, and speaketh truth in his heart. Ps. 24:4, 5. He that hath clean hands and a pure heart.",
+          "zh": "3. 求与神更亲密同行的祷告范例：诗篇 86:11 —— 耶和华啊，求你将你的道指教我，我要照你的真理行；求你使我专心敬畏你的名。143:8-10 —— 求你使我知道当行的路，因我的心仰望你。4. 论敬虔的生活：约伯记 22:26-29（你就要以全能者为喜乐，向神仰起脸来）。诗篇 15:2-5 —— 就是行为正直、做事公义、心里说实话的人。24:4-5 —— 就是手洁心清……的人。",
+          "bsb": "Psalm 86:11",
+          "grammar": [
+            {"id": "him-that-relative", "note": "He that walketh uprightly … / He that hath clean hands：that 指人的定语从句（行为正直的人／手洁心清的人）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "六、基督徒工作 / VI. Christian Work or Service",
+      "blocks": [
+        {
+          "en": "CHRISTIAN WORK OR SERVICE includes all human ministries in the interest of God and His Kingdom, and in man's behalf, as the object of God's love. The obligation to Christian service has its sole source and single motive in the Law of Holiness and Love, eternal in the heart of God. A simple classification of ministries is found in the twofold Summary of that Law as expressed by Christ: (1) honoring and obeying God, by fulfilling the work assigned us in advancing His Kingdom; (2) aiding our fellow-men by every means we are able rightly and wisely to employ. In service every gift received must be fully used (2 Tim. 1:6. Stir up the gift of God which is in thee); and in this service we are honored by being \"workers together with God.\" 1 Cor. 3:9. 2 Cor. 6:1. Eph. 2:10. Titus 2:14. Created, purified, unto good works.",
+          "zh": "基督徒的工作（服事）包括为神和他的国、并为作神之爱对象的人所作的一切人间服事。基督徒服事的责任，其惟一的源头与动机在于圣洁与爱的律法——这律法永存于神的心中。服事的简明分类，见于基督对这律法的双重总括：（一）尊崇顺服神，完成他派给我们、用以推进他国度的工作；（二）用一切能正当明智使用的方法帮助同胞。在服事中，所领受的每一恩赐都必须充分使用（提摩太后书 1:6 —— 将神藉我按手所给你的恩赐再如火挑旺起来）；并且在这服事中，我们得着『与神同工』的尊荣。哥林多前书 3:9；哥林多后书 6:1；以弗所书 2:10；提多书 2:14 —— 蒙造、蒙洁净，为要行善（作热心为善的子民）。",
+          "bsb": "1 Corinthians 3:9",
+          "grammar": [
+            {"note": "Stir up the gift：stir up『挑旺』（原文如火挑旺）；unto good works：unto 表目的（为要行善）。"}
+          ]
+        },
+        {
+          "en": "In the highest sense, all service is rendered to God. Col. 3:23, 24. Whatsoever ye do, work heartily, as unto the Lord, and not unto men … ye serve the Lord Christ. Col. 3:17. Do all in the name of the Lord Jesus. 1 Cor. 10:31. Whatsoever ye do, do all to the glory of God. 1 Cor. 15:58. Always abounding in the work of the Lord. Rom. 12:11. In diligence not slothful; fervent in spirit; serving the Lord. Isa. 61:3, 6. Trees of righteousness … priests of the Lord … ministers of our God. Matt. 5:16. That they may see your good works, and glorify your Father. Mark 14:6, 8. (She hath done what she could.)",
+          "zh": "就最高的意义说，一切服事都是献给神的。歌罗西书 3:23-24 —— 无论做什么，都要从心里做，像是给主做的，不是给人做的……你们所事奉的乃是主基督。3:17 —— 无论做什么，或说话或行事，都要奉主耶稣的名。哥林多前书 10:31 —— 你们或吃或喝，无论做什么，都要为荣耀神而行。15:58 —— 常常竭力多做主工。罗马书 12:11 —— 殷勤，不可懒惰；要心里火热，常常服事主。以赛亚书 61:3, 6 —— 称为公义树……你们倒要称为耶和华的祭司，人必称你们为我们神的仆役。马太福音 5:16 —— 叫他们看见你们的好行为，便将荣耀归给你们在天上的父。马可福音 14:6, 8 ——（论伯大尼的马利亚）她所做的，是尽她所能的。",
+          "bsb": "Colossians 3:23-24",
+          "grammar": [
+            {"id": "no-do-negation", "note": "In diligence not slothful：省略系动词的否定（殷勤不可懒惰）。"},
+            {"note": "as unto the Lord, and not unto men：as 引出视角（像是给主做的）——基督徒工作观的核心句。"}
+          ]
+        },
+        {
+          "en": "Service to God through ministries to men, in fulfilment of \"the royal law—Thou shalt love thy neighbor as thyself\" (James 2:8). This service is expressed most frequently by the words \"Do good\": Ps. 34:14. Ps. 37:3, 27. Trust in the Lord, and do good. Eccles. 3:12. Matt. 5:44. Luke 6:35. Love your enemies, and do them good. Gal. 6:9, 10. Let us not be weary in well-doing … let us work that which is good toward all men. 1 Tim. 6:18. Heb. 13:16. James 4:17. To him that knoweth to do good, and doeth it not, to him it is sin. By sympathy: Rom. 12:15. Rejoice with them that rejoice; weep with them that weep. Gal. 5:13. By love serve one another. Gal. 6:2. Bear ye one another's burdens, and so fulfil the law of Christ.",
+          "zh": "藉着服事人来服事神——成全『至尊的律法：要爱人如己』（雅各书 2:8）。这类服事最常用『行善』二字表达：诗篇 34:14；37:3, 27 —— 你当倚靠耶和华而行善。传道书 3:12；马太福音 5:44；路加福音 6:35 —— 你们倒要爱仇敌，也要善待他们。加拉太书 6:9-10 —— 我们行善，不可丧志……向众人行善。提摩太前书 6:18；希伯来书 13:16；雅各书 4:17 —— 人若知道行善，却不去行，这就是他的罪了。以同情体恤服事：罗马书 12:15 —— 与喜乐的人要同乐，与哀哭的人要同哭。加拉太书 5:13 —— 总要用爱心互相服事。6:2 —— 你们各人的重担要互相担当，如此，就完全了基督的律法。",
+          "bsb": "Galatians 6:9-10",
+          "grammar": [
+            {"id": "him-that-relative", "note": "To him that knoweth to do good, and doeth it not, to him it is sin：him that 从句前置＋to him 复指（对那知善不行的人，这就是罪）——雅各书 4:17 的强调句法。"},
+            {"id": "kjv-pronouns", "note": "Bear ye one another's burdens：祈使句带 ye。"}
+          ]
+        },
+        {
+          "en": "To the fatherless, the widow, the stranger, the poor: Ex. 22:22-24. Lev. 19:34. Deut. 15:7-11. Ps. 41:1. Blessed is he that considereth the poor. To the weak, helpless, suffering: Rom. 15:1, 2. We that are strong ought to bear the infirmities of the weak. 1 Cor. 9:22. To the weak became I as weak. 1 Thes. 5:14. Encourage the fainthearted, support the weak. To the tempted: Gal. 6:1. If a man be overtaken in a trespass, restore such a one in a spirit of meekness. Comprehensive injunctions: Isa. 58:6-11. Break every yoke; deal thy bread to the hungry … then shalt thou call, and the Lord shall answer; thy light shall rise in darkness; the Lord shall guide thee continually, and satisfy thy soul. Prov. 3:27. Withhold not good from them to whom it is due, when it is in the power of thine hand to do it. Prov. 24:11, 12. 1 Tim. 6:18. Be rich in good works, ready to distribute, willing to communicate. Heb. 13:16. To do good and to communicate forget not: for with such sacrifices God is well pleased.",
+          "zh": "向孤儿、寡妇、寄居的、贫穷人：出埃及记 22:22-24（不可苦待寡妇和孤儿）；利未记 19:34（要爱寄居的如同自己）；申命记 15:7-11（总要向你地上困苦穷乏的弟兄松开手）；诗篇 41:1 —— 眷顾贫穷的有福了。向软弱无助受苦的：罗马书 15:1-2 —— 我们坚固的人应该担代不坚固人的软弱。哥林多前书 9:22 —— 向软弱的人，我就作软弱的人。帖撒罗尼迦前书 5:14 —— 勉励灰心的人，扶助软弱的人。向受试探的：加拉太书 6:1 —— 若有人偶然被过犯所胜……当用温柔的心把他挽回过来。综合性的嘱咐：以赛亚书 58:6-11 —— 折断一切的轭……把你的饼分给饥饿的人……那时你求告，耶和华必应允……你的光就必在黑暗中发现……耶和华也必时常引导你，……使你心满意足。箴言 3:27 —— 你手若有行善的力量，不可推辞，就当向那应得的人施行。24:11-12（人被拉到死地，你要解救）。提摩太前书 6:18 —— 在好事上富足，甘心施舍，乐意供给人。希伯来书 13:16 —— 只是不可忘记行善和捐输的事，因为这样的祭是神所喜悦的。",
+          "bsb": "Isaiah 58:10-11",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Withhold not good / forget not：两处古体否定祈使（不可推辞／不可忘记）。"},
+            {"id": "subjunctive-though", "note": "If a man be overtaken in a trespass：if 从句用 be 原形，虚拟语气。"},
+            {"note": "communicate 古义『分享，捐输』（willing to communicate：乐意供给人）——与现代义『沟通』迥异，本词条的词义演变代表例。"}
+          ]
+        },
+        {
+          "en": "Neighborly dealing: Rom. 12:10. In love of the brethren be tenderly affectioned one to another; in honor preferring one another. Rom. 13:8. Owe no man anything, save to love one another. Eph. 4:25. Speak ye truth each one with his neighbor. Illus.: Luke 10:37 (the Good Samaritan). Acts 9:36 (Dorcas, full of good works). Mal. 3:16. They that feared the Lord spake often one to another. Reward assured: Ps. 126:5, 6. They that sow in tears shall reap in joy. Rom. 2:6, 7, 10. To them that by patient continuance in well-doing seek for glory … eternal life; glory, honor, and peace, to every man that worketh good. Eph. 6:8. Whatsoever good thing each one doeth, the same shall he receive again from the Lord. Gal. 6:9. We shall reap, if we faint not. Heb. 6:10. God is not unrighteous to forget your work and the love which ye showed toward His name. James 1:22, 25. Be ye doers of the word … a doer that worketh, this man shall be blessed in his doing. Zech. 4:10. (Who hath despised the day of small things?) Col. 1:10. Fruitful in every good work. 2 Cor. 9:8. God is able to make all grace abound unto you; that ye, having always all sufficiency in everything, may abound unto every good work. (An exhaustless promise to the Christian worker.)",
+          "zh": "邻舍之道：罗马书 12:10 —— 爱弟兄，要彼此亲热；恭敬人，要彼此推让。13:8 —— 凡事都不可亏欠人，惟有彼此相爱，要常以为亏欠。以弗所书 4:25 —— 各人与邻舍说实话。例证：路加福音 10:37（好撒玛利亚人——你去照样行吧）；使徒行传 9:36（多加——广行善事，多施周济）；玛拉基书 3:16 —— 那时，敬畏耶和华的彼此谈论。赏赐是确定的：诗篇 126:5-6 —— 流泪撒种的，必欢呼收割。罗马书 2:6-7, 10 —— 凡恒心行善……的，就以永生报应他们……却将荣耀、尊贵、平安加给一切行善的人。以弗所书 6:8 —— 各人所行的善事，不论是为奴的，是自主的，都必按所行的得主的赏赐。加拉太书 6:9 —— 若不灰心，到了时候就要收成。希伯来书 6:10 —— 因为神并非不公义，竟忘记你们所做的工和你们为他名所显的爱心。雅各书 1:22, 25 —— 只是你们要行道，不要单单听道……这人在他所行的事上必然得福。撒迦利亚书 4:10 —— 谁藐视这日的事为小呢？歌罗西书 1:10 —— 在一切善事上结果子。哥林多后书 9:8 —— 神能将各样的恩惠多多地加给你们，使你们凡事常常充足，能多行各样善事。（这是给基督徒工人一条取之不尽的应许。）",
+          "bsb": "2 Corinthians 9:8",
+          "grammar": [
+            {"note": "tenderly affectioned：古体分词形容词（彼此亲热）；in honor preferring one another：prefer 古义『推让，看人比己强』；Owe no man anything, save to love：save =【古】except（惟有彼此相爱）。"},
+            {"id": "inversion", "note": "the same shall he receive again from the Lord：the same 复指前置宾语＋倒装（所行的善事必从主得回）。"},
+            {"id": "kjv-pronouns", "note": "Be ye doers of the word：祈使句带 ye（你们要行道）。"}
+          ]
+        }
+      ]
     }
   ],
   "hover_vocab": {
@@ -348,7 +451,38 @@
     "remnants": {"ipa": "/ˈremnənts/", "def": "n. 残余（remnant）【六级/GRE】"},
     "conquests": {"ipa": "/ˈkɒŋkwests/", "def": "n. 得胜，攻取（conquest）【六级】"},
     "begotten": {"ipa": "/bɪˈɡɒtn/", "def": "v. 所生的（beget 的过去分词：from God 从神生的）"},
-    "fruitage": {"ipa": "/ˈfruːtɪdʒ/", "def": "n. 果实（总称），结果"}
+    "fruitage": {"ipa": "/ˈfruːtɪdʒ/", "def": "n. 果实（总称），结果"},
+    "reverence": {"ipa": "/ˈrevərəns/", "def": "n. 敬畏，崇敬【六级/GRE】"},
+    "unquestioning": {"ipa": "/ʌnˈkwestʃənɪŋ/", "def": "adj. 毫无保留的，不加疑问的"},
+    "submission": {"ipa": "/səbˈmɪʃn/", "def": "n. 降服，顺服【六级】"},
+    "infolded": {"ipa": "/ɪnˈfəʊldɪd/", "def": "v. 包含在内（infold = enfold：包裹）"},
+    "norm": {"ipa": "/nɔːm/", "def": "n. 准则，规范【六级】"},
+    "subsist": {"ipa": "/səbˈsɪst/", "def": "v. 存活，存在【GRE】"},
+    "justly": {"ipa": "/ˈdʒʌstli/", "def": "adv. 公义地（do justly：行公义）"},
+    "soberly": {"ipa": "/ˈsəʊbəli/", "def": "adv. 自守地，清醒节制地（sober：清醒的）【六级】"},
+    "unspotted": {"ipa": "/ʌnˈspɒtɪd/", "def": "adj. 不沾染的，无玷污的（spot：污点）"},
+    "injunctions": {"ipa": "/ɪnˈdʒʌŋkʃnz/", "def": "n. 嘱咐，命令（injunction）【GRE】"},
+    "lowliness": {"ipa": "/ˈləʊlinəs/", "def": "n. 谦虚，卑微（lowly：卑微的）"},
+    "longsuffering": {"ipa": "/ˌlɒŋˈsʌfərɪŋ/", "def": "n./adj. 恒久忍耐（的）"},
+    "forbearing": {"ipa": "/fɔːˈbeərɪŋ/", "def": "v./adj. 宽容（的）（forbear：容忍）"},
+    "specimen": {"ipa": "/ˈspesɪmən/", "def": "n. 范例，样本【四级】"},
+    "petitions": {"ipa": "/pəˈtɪʃnz/", "def": "n. 祈求，祷文（petition）【六级】"},
+    "devout": {"ipa": "/dɪˈvaʊt/", "def": "adj. 敬虔的【GRE】"},
+    "afore": {"ipa": "/əˈfɔː/", "def": "adv.【古】预先（= beforehand；afore prepared：预先预备的）"},
+    "ministries": {"ipa": "/ˈmɪnɪstriz/", "def": "n. 服事，职事（ministry）【六级】"},
+    "slothful": {"ipa": "/ˈsləʊθfl/", "def": "adj. 懒惰的（sloth：怠惰；树懒）【GRE】"},
+    "fervent": {"ipa": "/ˈfɜːvənt/", "def": "adj. 火热的，热切的【GRE】"},
+    "fainthearted": {"ipa": "/ˌfeɪntˈhɑːtɪd/", "def": "adj. 灰心的，胆怯的（the fainthearted：灰心的人）"},
+    "yoke": {"ipa": "/jəʊk/", "def": "n. 轭（break every yoke：折断一切的轭）【六级/GRE】"},
+    "withhold": {"ipa": "/wɪðˈhəʊld/", "def": "v. 留住不给，推辞（withhold not good：不可推辞行善）【六级】"},
+    "communicate": {"ipa": "/kəˈmjuːnɪkeɪt/", "def": "v.【古义】分享，捐输（willing to communicate：乐意供给人）；现代义：沟通【四级】"},
+    "distribute": {"ipa": "/dɪˈstrɪbjuːt/", "def": "v. 施舍，分发（ready to distribute：甘心施舍）【四级】"},
+    "affectioned": {"ipa": "/əˈfekʃnd/", "def": "adj.【古】存……之情的（tenderly affectioned：彼此亲热）"},
+    "preferring": {"ipa": "/prɪˈfɜːrɪŋ/", "def": "v.【此处古义】推让，尊人居先（in honor preferring one another）；常见义：更喜欢"},
+    "continuance": {"ipa": "/kənˈtɪnjuəns/", "def": "n. 恒心持续（patient continuance in well-doing：恒心行善）"},
+    "exhaustless": {"ipa": "/ɪɡˈzɔːstləs/", "def": "adj. 取之不尽的（exhaust + -less）"},
+    "sufficiency": {"ipa": "/səˈfɪʃnsi/", "def": "n. 充足（all sufficiency：凡事充足）"},
+    "despised": {"ipa": "/dɪˈspaɪzd/", "def": "v. 藐视（despise）【四级】"}
   },
   "vocab_table": [
     {"word": "warfare", "ipa": "/ˈwɔːfeə/", "def": "n. 争战"},
@@ -373,6 +507,16 @@
     {"word": "upbraid", "ipa": "/ʌpˈbreɪd/", "def": "v. 斥责"},
     {"word": "reckon", "ipa": "/ˈrekən/", "def": "v. 算为，认作"},
     {"word": "remnant", "ipa": "/ˈremnənt/", "def": "n. 残余"},
-    {"word": "coincident", "ipa": "/kəʊˈɪnsɪdənt/", "def": "adj. 同时发生的"}
+    {"word": "coincident", "ipa": "/kəʊˈɪnsɪdənt/", "def": "adj. 同时发生的"},
+    {"word": "reverence", "ipa": "/ˈrevərəns/", "def": "n. 敬畏，崇敬"},
+    {"word": "devout", "ipa": "/dɪˈvaʊt/", "def": "adj. 敬虔的"},
+    {"word": "injunction", "ipa": "/ɪnˈdʒʌŋkʃn/", "def": "n. 嘱咐，命令"},
+    {"word": "slothful", "ipa": "/ˈsləʊθfl/", "def": "adj. 懒惰的"},
+    {"word": "fervent", "ipa": "/ˈfɜːvənt/", "def": "adj. 火热的，热切的"},
+    {"word": "yoke", "ipa": "/jəʊk/", "def": "n. 轭"},
+    {"word": "withhold", "ipa": "/wɪðˈhəʊld/", "def": "v. 留住不给，推辞"},
+    {"word": "subsist", "ipa": "/səbˈsɪst/", "def": "v. 存活，存在"},
+    {"word": "petition", "ipa": "/pəˈtɪʃn/", "def": "n. 祈求，祷文"},
+    {"word": "forbear", "ipa": "/fɔːˈbeə/", "def": "v. 容忍，宽容"}
   ]
 }

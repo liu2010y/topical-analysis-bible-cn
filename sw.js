@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-32deb2dd88';
+const CACHE = 'topical-cn-0af8f9304c';
 const ASSETS = [
   "./index.html",
   "./manifest.json",

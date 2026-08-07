@@ -1,0 +1,90 @@
+{
+  "num": "037",
+  "title_en": "CHURCH; CHURCHES",
+  "title_zh": "教会（普世的与地方的）",
+  "html_name": "037-Church-教会.html",
+  "pages": "原书 p. 89–90",
+  "sections": [
+    {
+      "heading": "一、普世教会 / The Church Universal",
+      "blocks": [
+        {
+          "en": "CHURCH, Universal. Ecclesia—that which is called out. (Read carefully, Kingdom of God.) One, Jewish and Christian; organized in Abraham. Acts 7:38. The church in the wilderness. Ps. 80:1. Israel a flock. John 10:16. One flock. Eph. 4:4, 5. One body.",
+          "zh": "普世教会。希腊文 Ecclesia——『被呼召出来的会众』（请细读主题词条：神的国）。犹太时代与基督教时代的教会本为一体，肇建于亚伯拉罕。使徒行传 7:38 —— 旷野会中的那位（教会在旷野已然存在）。诗篇 80:1 —— 领约瑟如领羊群之以色列的牧者啊。约翰福音 10:16 —— 合成一群。以弗所书 4:4-5 —— 身体只有一个。",
+          "bsb": "Ephesians 4:4-5",
+          "grammar": [
+            {"note": "Ecclesia：ek（出）+ kaleo（呼召）→ 被召出来的会众——英文 ecclesiastical（教会的）由此而来。"}
+          ]
+        },
+        {
+          "en": "Called: Church of God—Acts 20:28. 1 Cor. 1:2. Church of Christ—Rom. 16:16. Matt. 16:18. My church. The Body, of which Christ is Head—Eph. 1:23. Col. 1:18, 24. The Flock, of which Christ is Shepherd—Isa. 40:11. John 10:11, 14, 16. The Flock of God—1 Pet. 5:2, 3. The Bride, the Lamb's wife—Rev. 21:9. Eph. 5:25, 29. Christ loved the church, and gave Himself for it; nourisheth and cherisheth it. Heb. 12:23. The church of the first-born who are enrolled in heaven. In O. T. prophecy, under the figure of \"Zion\" and \"Jerusalem\": Ps. 2:6; 87:2, 5; 147:12. Isa. 40:9; 62:1-7.",
+          "zh": "教会的称呼：神的教会（使徒行传 20:28；哥林多前书 1:2）；基督的教会（罗马书 16:16 —— 基督的众教会；马太福音 16:18 —— 我的教会）；身体——基督是头（以弗所书 1:23 —— 教会是他的身体；歌罗西书 1:18, 24）；羊群——基督是牧人（以赛亚书 40:11；约翰福音 10:11, 14, 16）；神的群羊（彼得前书 5:2-3）；新妇——羔羊的妻（启示录 21:9；以弗所书 5:25, 29 —— 基督爱教会，为教会舍己……保养顾惜）；希伯来书 12:23 —— 有名录在天上诸长子之会所共聚的总会。在旧约预言中以『锡安』『耶路撒冷』为表记：诗篇 2:6；87:2, 5；147:12；以赛亚书 40:9；62:1-7。",
+          "bsb": "Ephesians 5:25",
+          "grammar": [
+            {"id": "prep-relative", "note": "The Body, of which Christ is Head / The Flock, of which Christ is Shepherd：介词 of 前置的关系从句对仗。"}
+          ]
+        },
+        {
+          "en": "Stability and Security: Matt. 16:18. The gates of hell shall not prevail against it. Luke 12:32. Fear not, little flock. Not all the good in, nor all the bad out of it: Matt. 13:26, 30 (the tares); vs. 47-49 (the net, good and bad). [\"The most that Satan wants of a church-member is the least he will do for his church. The least that God wants is the most he can do.\"] Church Officers: Acts 15:4, 22. Eph. 4:11, 12. Acts 14:23; 20:27, 28. 1 Pet. 5:2. Titus 1:5-7. See Elder; Bishop; Deacon.",
+          "zh": "稳固与保障：马太福音 16:18 —— 阴间的权柄不能胜过他（原文作阴间的门）。路加福音 12:32 —— 你们这小群，不要惧怕。义人未必尽在其内，恶人未必尽在其外：马太福音 13:26, 30（稗子的比喻——容这两样一齐长）；47-49 节（撒网的比喻，好坏并存）。【原书按语：撒但对一个教会成员最高的指望，是他为教会做得最少；神最低的指望，是他能做的最多。】教会职分：使徒行传 15:4, 22；以弗所书 4:11-12（他所赐的有使徒、先知、传福音的、牧师和教师，为要成全圣徒）；使徒行传 14:23；20:27-28；彼得前书 5:2；提多书 1:5-7。另参主题词条：长老（Elder）；监督（Bishop）；执事（Deacon）。",
+          "bsb": "Matthew 16:18",
+          "grammar": [
+            {"note": "按语中的 most/least 交叉对仗（chiasmus）：撒但要的『最多』是人做的『最少』，神要的『最少』是人能做的『最多』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、地方教会 / Churches, Local",
+      "blocks": [
+        {
+          "en": "CHURCHES, Local. Acts 2:47. The Lord added to the church daily. Acts 9:31. The church … had peace, being edified. Rev. chaps. 2 and 3. The seven churches. Unity, sympathy and helpfulness among the members: John 17:11. That they may be one. 1 Cor. 12:26, 27. Whether one member suffereth, all the members suffer with it. Eph. 4:1-16. Col. 3:12-14. Illus. Acts 2:44, 45; 4:32. Who are excluded: 1 Cor. 5:11.",
+          "zh": "地方教会。使徒行传 2:47 —— 主将得救的人天天加给他们。9:31 —— 教会……都得平安，被建立。启示录 2–3 章 —— 七教会书信。肢体间的合一、同情与互助：约翰福音 17:11 —— 叫他们合而为一，像我们一样。哥林多前书 12:26-27 —— 若一个肢体受苦，所有的肢体就一同受苦。以弗所书 4:1-16；歌罗西书 3:12-14。例证：使徒行传 2:44-45；4:32（凡物公用）。何等人当被隔离在外：哥林多前书 5:11。",
+          "bsb": "1 Corinthians 12:26",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "suffereth = suffers：受苦。"}
+          ]
+        },
+        {
+          "en": "Duty, Privilege and Advantage of Church-fellowship: Heb. 10:25. Not forsaking the assembling of ourselves together. Acts 2:42, 46, 47. Matt. 18:19, 20. Where two or three are gathered together in My name, there am I in the midst of them. Ultimate Fruits of a Perfected Christian Society: Zech. 8:4, 5. Zech. 14:20, 21.",
+          "zh": "教会团契的本分、特权与益处：希伯来书 10:25 —— 你们不可停止聚会，好像那些停止惯了的人。使徒行传 2:42, 46-47（都恒心遵守使徒的教训，彼此交接、擘饼、祈祷）。马太福音 18:19-20 —— 因为无论在哪里，有两三个人奉我的名聚会，那里就有我在他们中间。得以完全的基督徒社会最终的果实：撒迦利亚书 8:4-5（街上满有男孩女孩玩耍）；14:20-21（马的铃铛上必有『归耶和华为圣』）。",
+          "bsb": "Matthew 18:20",
+          "grammar": [
+            {"id": "inversion", "note": "there am I in the midst of them：状语前置引起倒装（那里就有我在他们中间）。"}
+          ]
+        },
+        {
+          "en": "The Church organization may be regarded: 1. As a School, for education in the knowledge of God, duty, and service; for building up strong and symmetrical Christian character. 2. As a Home, for helpful fellowship and varied mutual ministries. 3. As a Rest Cure, for spiritual healing and restoration. 4. As an Agency for Christian Work, in its manifold departments. 5. As an Army, arrayed with the weapons of spiritual warfare—the Word and Prayer—vitally enforced by the might of the Holy Spirit; or, in simpler words, as a Divinely appointed and Divinely assured Missionary Enterprise, organized under the Master's Great Commission, for the extension of His Kingdom of grace and holiness through all the earth. — B.",
+          "zh": "教会组织可以从五个方面来看：一、是一所学校——教授认识神、明本分、会服事的教育，建造刚强而匀称的基督徒品格；二、是一个家——供有益的团契与彼此多样的服事；三、是一处疗养之所——供属灵的医治与复原；四、是基督徒工作的机构——分设诸般部门；五、是一支军队——装备着属灵争战的兵器（圣道与祷告），由圣灵的大能赋予活力；或用更简单的话说：是一项神所设立、神所担保的宣教事业，奉夫子的大使命组织起来，为把他恩典与圣洁的国度扩展到普天之下。——巴特勒（B.）",
+          "bsb": false,
+          "grammar": [
+            {"note": "As a School … As a Home … As a Rest Cure … As an Agency … As an Army：五重 As 排比——教会论的五个面向；symmetrical：匀称的（品格的均衡发展）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "ecclesia": {"ipa": "/ɪˈkliːziə/", "def": "n. 教会（希腊文：被召出的会众；ecclesiastical 教会的）"},
+    "nourisheth": {"ipa": "/ˈnʌrɪʃəθ/", "def": "= nourishes（-eth 古词尾）：保养"},
+    "cherisheth": {"ipa": "/ˈtʃerɪʃəθ/", "def": "= cherishes（-eth 古词尾）：顾惜"},
+    "first-born": {"ipa": "/ˈfɜːstbɔːn/", "def": "n./adj. 长子（们）（church of the first-born：诸长子之会）"},
+    "enrolled": {"ipa": "/ɪnˈrəʊld/", "def": "v. 名录在册（enroll）【四级】"},
+    "stability": {"ipa": "/stəˈbɪləti/", "def": "n. 稳固【四级】"},
+    "tares": {"ipa": "/teəz/", "def": "n. 稗子（麦田里的毒麦，太 13 章比喻）"},
+    "deacon": {"ipa": "/ˈdiːkən/", "def": "n. 执事"},
+    "edified": {"ipa": "/ˈedɪfaɪd/", "def": "v. 被建立，被造就（edify：造就，GRE 词）"},
+    "assembling": {"ipa": "/əˈsemblɪŋ/", "def": "n. 聚会（assemble：聚集）【四级】"},
+    "symmetrical": {"ipa": "/sɪˈmetrɪkl/", "def": "adj. 匀称的，对称的【六级】"},
+    "arrayed": {"ipa": "/əˈreɪd/", "def": "v. 列阵装备（array）【六级】"},
+    "enterprise": {"ipa": "/ˈentəpraɪz/", "def": "n. 事业（Missionary Enterprise：宣教事业）【四级】"},
+    "extension": {"ipa": "/ɪkˈstenʃn/", "def": "n. 扩展【四级】"}
+  },
+  "vocab_table": [
+    {"word": "ecclesia", "ipa": "/ɪˈkliːziə/", "def": "n. 教会（希腊文：被召出的会众）"},
+    {"word": "edify", "ipa": "/ˈedɪfaɪ/", "def": "v. 造就，建立"},
+    {"word": "tare", "ipa": "/teə/", "def": "n. 稗子"},
+    {"word": "symmetrical", "ipa": "/sɪˈmetrɪkl/", "def": "adj. 匀称的，对称的"},
+    {"word": "deacon", "ipa": "/ˈdiːkən/", "def": "n. 执事"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "num": "039",
+  "title_en": "CITY, FIRST",
+  "title_zh": "最早的城",
+  "html_name": "039-City-First-最早的城.html",
+  "pages": "原书 p. 90",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CITY, FIRST. Gen. 4:17, 20. Cities and Houses preceded Camps and Tents.",
+          "zh": "最早的城。创世记 4:17 —— 该隐……建造了一座城，就按着他儿子的名，将那城叫做以诺。4:20 ——（雅八）是住帐棚牧养牲畜之人的祖师。城市与房屋先于营地与帐棚。（原书以此说明：定居文明在圣经记载中早于游牧，与『人类由游牧渐进为定居』的进化论式推想相反。）",
+          "bsb": "Genesis 4:17",
+          "grammar": [
+            {"note": "preceded：先于（precede；注意与 proceed『前行』的区别）——一句话词条，论点全在这个动词上。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "preceded": {"ipa": "/prɪˈsiːdɪd/", "def": "v. 先于（precede；对比 proceed 前行）【四级】"},
+    "tents": {"ipa": "/tents/", "def": "n. 帐棚（tent）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "precede", "ipa": "/prɪˈsiːd/", "def": "v. 先于，居先"}
+  ]
+}

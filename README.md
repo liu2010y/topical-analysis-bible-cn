@@ -90,6 +90,13 @@
 | 034 | Christian Life（基督徒生活，七部连环词条） | p. 69–85 | ✅（全书最大词条，七部分全部完成） |
 | 035 | Christianity（基督教） | p. 86–88 | ✅（六段论述摘录） |
 | 036 | Chronology（圣经年代学） | p. 88 | ✅（短词条） |
-| 037– | Church（教会）起 | p. 89– | ⏳ |
+| 037 | Church; Churches（教会） | p. 89–90 | ✅ |
+| 038 | Circumcision（割礼） | p. 90 | ✅（短词条） |
+| 039 | City, First（最早的城） | p. 90 | ✅（短词条） |
+| 040 | Cities of Refuge（逃城） | p. 91 | ✅（短词条） |
+| 041 | Civil Government（世上的政权） | p. 91 | ✅（短词条） |
+| 042 | Comfort（安慰） | p. 91 | ✅ |
+| 043 | Commandments, The Ten（十诫） | p. 92–93 | ✅（含三段摘录） |
+| 044– | Condemnation（定罪）起 | p. 93– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

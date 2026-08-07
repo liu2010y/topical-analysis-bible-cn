@@ -1,0 +1,45 @@
+{
+  "num": "038",
+  "title_en": "CIRCUMCISION",
+  "title_zh": "割礼",
+  "html_name": "038-Circumcision-割礼.html",
+  "pages": "原书 p. 90",
+  "ocr_note": "本词条为原书的索引式短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CIRCUMCISION. Abraham's—a Token of Covenant, and Sign of Faith in the promise. Rom. 4:11, 12. (He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision.)",
+          "zh": "割礼。亚伯拉罕所受的——立约的记号、对应许之信心的印证。罗马书 4:11-12 —— 并且他受了割礼的记号，作他未受割礼的时候因信称义的印证。",
+          "bsb": "Romans 4:11",
+          "grammar": [
+            {"id": "prep-relative", "note": "the faith which he had while he was in uncircumcision：他『未受割礼时』就已有的信——保罗论证因信称义先于礼仪的关键句。"}
+          ]
+        },
+        {
+          "en": "Moral significance: Deut. 10:16. Circumcise the foreskin of your heart. Deut. 30:6. The Lord thy God will circumcise thine heart … to love the Lord thy God with all thine heart. Jer. 4:4. Rom. 2:28, 29. Circumcision is that of the heart, in the spirit, not in the letter. 1 Cor. 7:19. Circumcision is nothing … but the keeping of the commandments of God. Gal. 5:6. In Christ Jesus neither circumcision availeth anything, nor uncircumcision; but faith working through love. Col. 3:11.",
+          "zh": "道德含义：申命记 10:16 —— 所以你们要将心里的污秽除掉（原文作要给你们的心行割礼）。30:6 —— 耶和华你神必将你心里……的污秽除掉，好叫你尽心尽性爱耶和华你的神。耶利米书 4:4；罗马书 2:28-29 —— 真割礼也是心里的，在乎灵，不在乎仪文。哥林多前书 7:19 —— 受割礼算不得什么……只要守神的诫命就是了。加拉太书 5:6 —— 原来在基督耶稣里，受割礼不受割礼全无功效，惟独使人生发仁爱的信心才有功效。歌罗西书 3:11。",
+          "bsb": "Romans 2:29",
+          "grammar": [
+            {"note": "neither circumcision availeth anything, nor uncircumcision：neither…nor… 双否定＋availeth（-eth 古词尾：有功效）；in the spirit, not in the letter：『灵』与『仪文』（letter 此处指字面条文）的经典对举。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "circumcision": {"ipa": "/ˌsɜːkəmˈsɪʒn/", "def": "n. 割礼（circum- 环绕 + cis 切）"},
+    "token": {"ipa": "/ˈtəʊkən/", "def": "n. 记号，凭证【四级】"},
+    "seal": {"ipa": "/siːl/", "def": "n. 印证，印记【四级】"},
+    "uncircumcision": {"ipa": "/ˌʌnsɜːkəmˈsɪʒn/", "def": "n. 未受割礼（的状态）"},
+    "foreskin": {"ipa": "/ˈfɔːskɪn/", "def": "n. 包皮（circumcise the foreskin of your heart：给心行割礼，喻除掉污秽）"},
+    "availeth": {"ipa": "/əˈveɪləθ/", "def": "= avails（-eth 古词尾）：有功效（avail：有益，GRE 词）"},
+    "letter": {"ipa": "/ˈletə/", "def": "n.【此处义】仪文，字面条文（in the letter：在乎仪文）；常见义：字母，信【四级】"}
+  },
+  "vocab_table": [
+    {"word": "circumcision", "ipa": "/ˌsɜːkəmˈsɪʒn/", "def": "n. 割礼"},
+    {"word": "token", "ipa": "/ˈtəʊkən/", "def": "n. 记号，凭证"},
+    {"word": "avail", "ipa": "/əˈveɪl/", "def": "v. 有功效，有益"}
+  ]
+}

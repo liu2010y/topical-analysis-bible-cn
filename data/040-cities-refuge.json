@@ -1,0 +1,36 @@
+{
+  "num": "040",
+  "title_en": "CITIES OF REFUGE",
+  "title_zh": "逃城",
+  "html_name": "040-Cities-Refuge-逃城.html",
+  "pages": "原书 p. 91",
+  "ocr_note": "本词条为原书的索引式短词条（详解见《圣经工作》III. 136-138），并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CITIES OF REFUGE, for Undesigned Manslaying. Their Suggestions. III. 136-138. (Num. 35:9-34. Josh. 20. Six cities appointed, that the manslayer that killeth any person unwittingly may flee thither.)",
+          "zh": "逃城——为误杀人者所设。其属灵的启迪详见《圣经工作》III. 136-138。（民数记 35:9-34；约书亚记 20 章 —— 设立六座逃城，使误杀人的可以逃到那里：城门口的长老要接他入城；他要住在城中，直等到大祭司死了。传统上以逃城预表罪人在基督里的避难所——参希伯来书 6:18『逃往避难所、持定摆在我们前头指望的人』。）",
+          "bsb": "Numbers 35:11",
+          "grammar": [
+            {"note": "Undesigned Manslaying：undesigned『非蓄意的』＋ manslay『杀人』的动名词——法律术语式的复合表达（对应现代 manslaughter 误杀，与 murder 谋杀相区别）；unwittingly：不知不觉地，无心地。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "refuge": {"ipa": "/ˈrefjuːdʒ/", "def": "n. 避难（所）（cities of refuge：逃城）【六级】"},
+    "undesigned": {"ipa": "/ˌʌndɪˈzaɪnd/", "def": "adj. 非蓄意的，无心的"},
+    "manslaying": {"ipa": "/ˈmænsleɪɪŋ/", "def": "n. 杀人（undesigned manslaying：误杀；对应现代法律词 manslaughter）"},
+    "manslayer": {"ipa": "/ˈmænsleɪə/", "def": "n. 杀人者（误杀者）"},
+    "unwittingly": {"ipa": "/ʌnˈwɪtɪŋli/", "def": "adv. 无心地，不知不觉地（wit 古义『知道』）【GRE】"},
+    "thither": {"ipa": "/ˈðɪðə/", "def": "adv.【古】往那里（= to there；与 hither『往这里』相对）"}
+  },
+  "vocab_table": [
+    {"word": "refuge", "ipa": "/ˈrefjuːdʒ/", "def": "n. 避难（所）"},
+    {"word": "unwittingly", "ipa": "/ʌnˈwɪtɪŋli/", "def": "adv. 无心地，不知不觉地"},
+    {"word": "thither", "ipa": "/ˈðɪðə/", "def": "adv.【古】往那里"}
+  ]
+}

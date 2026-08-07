@@ -1,0 +1,72 @@
+{
+  "num": "042",
+  "title_en": "COMFORT; CONSOLATION",
+  "title_zh": "安慰",
+  "html_name": "042-Comfort-安慰.html",
+  "pages": "原书 p. 91",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "COMFORT; CONSOLATION. From God. From His Word. From Godly Men.",
+          "zh": "安慰；慰藉。出于神；出于圣道；出于敬虔的人——三个源头。",
+          "grammar": [
+            {"id": "headline-style", "note": "标题＋三个 From 短语的纲目（安慰的三重来源）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、出于神 / From God",
+      "blocks": [
+        {
+          "en": "Isa. 40:1. Comfort ye, comfort ye My people, saith your God. Isa. 51:12. I, even I, am He that comforteth you. Isa. 61:2. To comfort all that mourn. Isa. 66:13. As one whom his mother comforteth, so will I comfort you. John 14:18. I will not leave you comfortless. Acts 9:31. Rom. 15:5. The God of patience and of comfort. 2 Cor. 1:5, 7. Our comfort aboundeth through Christ. 2 Thes. 2:16, 17. Our Lord Jesus Christ Himself, and God our Father … comfort your hearts.",
+          "zh": "以赛亚书 40:1 —— 你们的神说：你们要安慰，安慰我的百姓。51:12 —— 惟有我，是安慰你们的。61:2 —— 安慰一切悲哀的人。66:13 —— 母亲怎样安慰儿子，我就照样安慰你们。约翰福音 14:18 —— 我不撇下你们为孤儿（英译：不撇下你们无人安慰）。使徒行传 9:31；罗马书 15:5 —— 但愿赐忍耐安慰的神……。哥林多后书 1:5, 7 —— 我们既多受基督的苦楚，就靠基督多得安慰。帖撒罗尼迦后书 2:16-17 —— 但愿我们主耶稣基督和那爱我们……的父神，安慰你们的心。【OCR 注：原书 \"Acts 0:31\" 依文义推定为 9:31。】",
+          "bsb": "Isaiah 66:13",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As one whom his mother comforteth, so will I comfort you：as…so… 关联＋so 后倒装（母亲怎样安慰，我也照样安慰）。"},
+            {"id": "kjv-pronouns", "note": "Comfort ye, comfort ye My people：祈使句带 ye 且叠用（你们要安慰，安慰）——以赛亚书下半卷的开卷名句。"},
+            {"id": "optative-subjunctive", "note": "God our Father … comfort your hearts：comfort 用原形，祈愿语气（愿神安慰你们的心）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、出于圣道 / From His Word",
+      "blocks": [
+        {
+          "en": "Ps. 119:50. This is my comfort in my affliction; for Thy word hath quickened me. Rom. 15:4. That we through patience and comfort of the Scriptures might have hope. 1 Thes. 4:18. Comfort one another with these words.",
+          "zh": "诗篇 119:50 —— 这话将我救活了，我在患难中，因此得安慰。罗马书 15:4 —— 叫我们因圣经所生的忍耐和安慰，可以得着盼望。帖撒罗尼迦前书 4:18 —— 所以，你们当用这些话彼此劝慰。",
+          "bsb": "Psalm 119:50"
+        }
+      ]
+    },
+    {
+      "heading": "三、出于敬虔的人 / From Godly Men",
+      "blocks": [
+        {
+          "en": "2 Cor. 1:3, 4. The God of all comfort, Who comforteth us in all our affliction, that we may be able to comfort them that are in any affliction, through the comfort wherewith we ourselves are comforted of God. 2 Cor. 7:6, 7, 13. God, that comforteth the lowly, comforted us by the coming of Titus. Eph. 6:22. Col. 4:11. 1 Thes. 3:2. See Affliction.",
+          "zh": "哥林多后书 1:3-4 —— 赐各样安慰的神。我们在一切患难中，他就安慰我们，叫我们能用神所赐的安慰去安慰那遭各样患难的人。7:6-7, 13 —— 但那安慰丧气之人的神，藉着提多来安慰了我们。以弗所书 6:22；歌罗西书 4:11（他们也成了我的安慰）；帖撒罗尼迦前书 3:2。另参主题词条：苦难（Affliction，003）。",
+          "bsb": "2 Corinthians 1:3-4",
+          "grammar": [
+            {"id": "compound-relatives", "note": "the comfort wherewith we ourselves are comforted of God：wherewith = with which（我们自己所受的那安慰）；comforted of God 中 of 引施动者。"},
+            {"id": "the-adjective", "note": "God, that comforteth the lowly：the lowly——卑微丧气的人。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "consolation": {"ipa": "/ˌkɒnsəˈleɪʃn/", "def": "n. 慰藉，安慰【六级/GRE】"},
+    "comfortless": {"ipa": "/ˈkʌmfətləs/", "def": "adj. 无安慰的，孤苦的（leave you comfortless：撇下你们为孤儿）"},
+    "quickened": {"ipa": "/ˈkwɪkənd/", "def": "v.【古义】救活（Thy word hath quickened me：这话将我救活了）"},
+    "lowly": {"ipa": "/ˈləʊli/", "def": "adj. 卑微的，丧气的（the lowly：卑微的人）【六级】"},
+    "mourn": {"ipa": "/mɔːn/", "def": "v. 悲哀（all that mourn：一切悲哀的人）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "consolation", "ipa": "/ˌkɒnsəˈleɪʃn/", "def": "n. 慰藉，安慰"},
+    {"word": "lowly", "ipa": "/ˈləʊli/", "def": "adj. 卑微的，丧气的"},
+    {"word": "mourn", "ipa": "/mɔːn/", "def": "v. 悲哀，哀恸"}
+  ]
+}

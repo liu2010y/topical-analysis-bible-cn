@@ -1,0 +1,148 @@
+{
+  "num": "043",
+  "title_en": "COMMANDMENTS, THE TEN",
+  "title_zh": "十诫",
+  "html_name": "043-Commandments-十诫.html",
+  "pages": "原书 p. 92–93",
+  "ocr_note": "各诫的详解在《圣经工作》第二卷（卷页号保留）；含 W. R. Taylor（论亵渎言语）、Gregory（论公共安息日）、W. S. Lilly（论公义与社会）三段摘录。",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "COMMANDMENTS: The Ten Commandments (the Decalogue), lit. \"Words.\" Ex. 20:2-17. Deut. 5:6-21. See Law of Sinai (Moral Law).",
+          "zh": "十诫（Decalogue）——希伯来原文直译为『十句话』（Words）。出埃及记 20:2-17；申命记 5:6-21。另参主题词条：西奈律法（道德律）。",
+          "grammar": [
+            {"note": "lit. = literally（照字面直译）：希伯来文称十诫为 aseret ha-devarim『十句话』，故英文旧称 Decalogue（deca 十 + logos 话）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "第一至第四诫（人对神） / Commandments I–IV",
+      "blocks": [
+        {
+          "en": "First Commandment (Thou shalt have no other gods before Me). Hosea 13:4. Thou shalt know no God but Me. Ps. 16:4. Second Commandment (no graven image). 1 Cor. 10:14. Flee from idolatry. 1 John 5:21. My little children, guard yourselves from idols.",
+          "zh": "第一诫（除了我以外，你不可有别的神）。何西阿书 13:4 —— 自从你出埃及地以来，我就是耶和华你的神。在我以外，你不可认识别神。诗篇 16:4（以别神代替耶和华的，他们的愁苦必加增）。第二诫（不可为自己雕刻偶像）。哥林多前书 10:14 —— 我所亲爱的弟兄啊，你们要逃避拜偶像的事。约翰一书 5:21 —— 小子们哪，你们要自守，远避偶像。",
+          "bsb": "1 John 5:21",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Thou shalt have no other gods / Thou shalt know no God but Me：十诫的 thou shalt 句式——第二人称单数的立约命令（神对每一个人说话）。"}
+          ]
+        },
+        {
+          "en": "Third Commandment (Thou shalt not take the name of the Lord thy God in vain). Lev. 22:32. [Profanity corrupts and depraves the heart. It casts God and everything that is sacred out of the life. It weakens the obligations of truth, so that the swearer is almost invariably a liar—by the moral law that vices act and react on each other, just as, on the other side, virtues act and react on each other. There is a tremendous reversionary power over character in the language which we habitually use: frivolous language will by and by make a frivolous nature; the language of purity and nobleness will go far toward making one pure and noble. Profanity not only injures those who indulge in it; it injures also those who hear it. It spreads the vice, with all its depraving power, to the young and innocent; it shocks and wounds the feelings of those who love the God and the Saviour whom others blaspheme. And not the least element of its wickedness is that there is so little temptation to it: theft and falsehood have strong temptations of personal advantage; intemperance and licentiousness have the excuse of pleasure, or of a well-nigh resistless appetite; but profanity pleases no sense, gratifies no passion, brings no profit. — W. R. Taylor.]",
+          "zh": "第三诫（不可妄称耶和华你神的名）。利未记 22:32（不可亵渎我的圣名）。【摘录】亵渎的言语败坏并堕落人心。它把神和一切神圣之物逐出生活之外。它削弱对诚实的责任感，以致惯于赌咒的人几乎无一例外也是说谎的人——因为按着道德的定律，恶习彼此激发、互相助长，正如另一面德行也彼此激发、互相助长。我们惯用的语言对品格有一种巨大的反塑力量：轻浮的言语久而久之造出轻浮的天性；纯洁高尚的言语大大有助于使人纯洁高尚。亵渎不仅伤害沉溺其中的人，也伤害听见的人：它把这恶习连同其全部败坏之力传给年幼无邪的人；它刺伤那些敬爱神、敬爱被人亵渎之救主的人的心。而它的恶里面还有不可小看的一条：人犯这罪几乎没有什么试探可言——偷窃与撒谎有切身利益的强烈引诱，纵酒与放荡在初期有享乐作借口、在后期有几乎无法抗拒的肉体嗜欲作借口；惟独亵渎，不取悦任何感官，不满足任何情欲，不带来任何利益。——W. R. 泰勒（Taylor）",
+          "bsb": false,
+          "grammar": [
+            {"note": "not the least element of its wickedness is that…：not the least『绝非最小的』（即『很不小的』——反语式强调）；pleases no sense, gratifies no passion, brings no profit：三重否定排比收束。"}
+          ]
+        },
+        {
+          "en": "Fourth Commandment (Remember the Sabbath day, to keep it holy). Rev. 1:10. [National Responsibility to God binds to Sabbath Observance. If the nation is under the Moral Governor and responsible to Him, then, if He requires the Sabbath to be set apart for His worship, the Civil Government—while it has no right to require of men adherence to any religious doctrine or attendance upon any religious services—is yet bound to enjoin upon them that they abstain from all unnecessary worldly occupations, so as not to interfere with those who do desire to worship. This Civil Sabbath the State owes to God. — Gregory.]",
+          "zh": "第四诫（当记念安息日，守为圣日）。启示录 1:10（当主日，我被圣灵感动）。【摘录】国家对神的责任要求守安息日。国家若在道德主宰的治下、须向他负责，那么，他既要求把安息日分别出来归他敬拜，公民政府——虽然无权要求人认信任何宗教教义或出席任何宗教礼仪——却仍有责任命令人停止一切不必要的属世营生，以免妨碍那些确实愿意敬拜的人。这个『公民安息日』，是国家欠神的。——格雷戈里（Gregory）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "This Civil Sabbath the State owes to God：宾语前置（这个公民安息日是国家欠神的）。"},
+            {"note": "enjoin upon them that they abstain：enjoin（责令）+ that 从句用原形 abstain（虚拟语气）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "第五至第十诫（人对人） / Commandments V–X",
+      "blocks": [
+        {
+          "en": "Fifth Commandment (Honor thy father and thy mother). Lev. 19:3. Prov. 1:8; 6:20; 17:6; 30:17. Matt. 15:4. Sixth Commandment (Thou shalt not kill). Gen. 9:6. Whoso sheddeth man's blood, by man shall his blood be shed. Gen. 4:10. The voice of thy brother's blood crieth unto Me from the ground. 1 John 3:15. Whosoever hateth his brother is a murderer. Matt. 15:19. Out of the heart proceed … murders. [The moral character of an act is determined by the spirit and motive that actuate the doer.]",
+          "zh": "第五诫（当孝敬父母）。利未记 19:3（你们各人都当孝敬父母）；箴言 1:8；6:20；17:6（子孙为老人的冠冕）；30:17（戏笑父亲……的，他的眼睛必为谷中的乌鸦啄出来）；马太福音 15:4。第六诫（不可杀人）。创世记 9:6 —— 凡流人血的，他的血也必被人所流。4:10 —— 你兄弟的血有声音从地里向我哀告。约翰一书 3:15 —— 凡恨他弟兄的，就是杀人的。马太福音 15:19 —— 因为从心里发出来的，有恶念、凶杀……【原书按语：一个行为的道德性质，由驱动行为者的心灵与动机决定。】【OCR 注：原书 \"Gen. 4:6\" 依引文推定为 4:10。】",
+          "bsb": "1 John 3:15",
+          "grammar": [
+            {"id": "inversion", "note": "Whoso sheddeth man's blood, by man shall his blood be shed：whoso（= whoever 古体）从句＋主句状语前置倒装——创世记 9:6 的著名对偶（希伯来原文为回文结构）。"}
+          ]
+        },
+        {
+          "en": "Seventh Commandment (Thou shalt not commit adultery). Prov. 6:25, 32. Job 31:1. I made a covenant with mine eyes. Matt. 5:28. Heb. 13:4. Warnings: Prov. 2:16-19; 5:3-23; 7:5-27; 23:27, 28. See Divorce; Family. Eighth Commandment (Thou shalt not steal). Deut. 25:13. Thou shalt not have in thy bag divers weights, a great and a small. Prov. 11:1. A false balance is an abomination to the Lord. Prov. 20:10, 23. Amos 8:4-6. Micah 6:10, 11. Eph. 4:28. Let him that stole steal no more; but rather let him labor. 1 Cor. 6:10. Nor thieves … shall inherit the kingdom of God.",
+          "zh": "第七诫（不可奸淫）。箴言 6:25, 32；约伯记 31:1 —— 我与眼睛立约，怎能恋恋瞻望处女呢？马太福音 5:28（凡看见妇女就动淫念的，这人心里已经与她犯奸淫了）；希伯来书 13:4。警戒：箴言 2:16-19；5:3-23；7:5-27；23:27-28。另参主题词条：休妻（Divorce）；家庭（Family）。第八诫（不可偷盗）。申命记 25:13 —— 你囊中不可有一大一小两样的法码。箴言 11:1 —— 诡诈的天平为耶和华所憎恶。20:10, 23；阿摩司书 8:4-6（卖出用小升斗，收银用大戥子）；弥迦书 6:10-11；以弗所书 4:28 —— 从前偷窃的，不要再偷，总要劳力。哥林多前书 6:10 —— 偷窃的……都不能承受神的国。",
+          "bsb": "Proverbs 11:1",
+          "grammar": [
+            {"id": "let-imperative", "note": "Let him that stole steal no more; but rather let him labor：Let + 第三人称祈使连用（从前偷窃的不要再偷，总要劳力）。"},
+            {"note": "divers weights：divers =【古】diverse（不同样的法码——一大一小两样戥子）；abomination：可憎之物。"}
+          ]
+        },
+        {
+          "en": "[The law of the world—whether stated in theological phraseology or not—is justice: yes, retributive justice. It rules absolutely throughout the universe, in every sphere of action of all intelligent being. Fraud upon workers, fraud upon buyers, must, by the very nature of things, entail the destruction of any society which tolerates it—nay, which blesses and approves it with the names of competition, supply and demand, the course of trade. Socialism, Communism, Nihilism are different expressions of one and the same movement; they mean 'red ruin and the breaking up of laws' for a society which has enthroned Mammon as the supreme object of human affection and worship, which sets up as the all-sufficient rule of life the principle of self-interest, which accounts man a mere wealth-producing animal. They mean the negation of country, of history, of liberty, of property—the destruction of all that constitutes civilization in the highest sense. — W. S. Lilly.]",
+          "zh": "【摘录】世界的法则——无论用不用神学的措辞来陈述——是公义：是的，报应性的公义。它绝对地统辖全宇宙，统辖一切有理性者行动的每一领域。欺压工人的欺诈、蒙骗买主的欺诈，按事物的本性，必给容忍它的社会招来毁灭——何况那用『竞争』『供求』『商业惯例』之名为它祝福背书的社会呢。社会主义、共产主义、虚无主义是同一场运动的不同表达；对于一个把玛门捧上宝座、奉为人类爱慕崇拜的至高对象的社会，对于一个把自利原则立为全备生活准则、把人只当作产财动物的社会，它们意味着『赤色的毁灭与法度的崩解』。它们意味着对国家、对历史、对自由、对财产的否定——意味着摧毁最高意义上构成文明的一切。——W. S. 利利（Lilly）",
+          "bsb": false,
+          "grammar": [
+            {"note": "nay：递进副词（岂止如此，何况）；which has enthroned … which sets up … which accounts …：三个 which 从句排比控诉；accounts man a mere wealth-producing animal：account + 宾语 + 补语（把人只当作……）。"}
+          ]
+        },
+        {
+          "en": "Ninth Commandment (Thou shalt not bear false witness). Prov. 6:19. A false witness that speaketh lies. Prov. 19:5. A false witness shall not be unpunished. Prov. 21:28; 25:18. See Speech. Tenth Commandment (Thou shalt not covet). Hab. 2:9. Luke 12:15. Take heed, and keep yourselves from all covetousness: for a man's life consisteth not in the abundance of the things which he possesseth. Eph. 5:3, 5. Covetousness … is idolatry. Col. 3:5. 1 Cor. 6:10. Nor covetous … shall inherit the kingdom of God. 1 Tim. 6:9, 10. The love of money is a root of all kinds of evil. — Thus far the Specific Precepts of the Moral Law. For its nature, essential principles, and manifold relations, see Law of God.",
+          "zh": "第九诫（不可作假见证）。箴言 6:19 —— 吐谎言的假见证（是耶和华所恨恶的）。19:5 —— 作假见证的，必不免受罚。21:28；25:18（作假见证陷害邻舍的，就是大槌，是利刀，是快箭）。另参主题词条：言语（Speech）。第十诫（不可贪恋）。哈巴谷书 2:9（为本家积蓄不义之财……的有祸了）；路加福音 12:15 —— 你们要谨慎自守，免去一切的贪心，因为人的生命不在乎家道丰富。以弗所书 5:3, 5 —— 有贪心的，就与拜偶像的一样。歌罗西书 3:5；哥林多前书 6:10 —— 贪婪的……都不能承受神的国。提摩太前书 6:9-10 —— 贪财是万恶之根。——道德律的具体诫条至此为止；论其性质、根本原理与诸般关联，参主题词条：神的律法（Law of God）。",
+          "bsb": "Luke 12:15",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "consisteth not / possesseth：人的生命『不在乎』家道丰富——古体否定＋-eth 词尾。"},
+            {"note": "shall not be unpunished：双重否定（必不免受罚）——litotes（曲言法）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "decalogue": {"ipa": "/ˈdekəlɒɡ/", "def": "n. 十诫（deca 十 + logue 话）"},
+    "graven": {"ipa": "/ˈɡreɪvn/", "def": "adj.【古】雕刻的（graven image：雕刻的偶像；grave 古义『雕刻』）"},
+    "idolatry": {"ipa": "/aɪˈdɒlətri/", "def": "n. 拜偶像（idol + -latry 崇拜）【GRE】"},
+    "profanity": {"ipa": "/prəˈfænəti/", "def": "n. 亵渎的言语，秽语【GRE】"},
+    "depraves": {"ipa": "/dɪˈpreɪvz/", "def": "v. 使堕落（deprave，GRE 词）"},
+    "depraving": {"ipa": "/dɪˈpreɪvɪŋ/", "def": "adj. 使人堕落的"},
+    "swearer": {"ipa": "/ˈsweərə/", "def": "n. 赌咒说粗话的人（swear：起誓；咒骂）"},
+    "invariably": {"ipa": "/ɪnˈveəriəbli/", "def": "adv. 无一例外地【六级】"},
+    "reversionary": {"ipa": "/rɪˈvɜːʃənri/", "def": "adj. 回流反塑的（reversion：回归——语言反过来塑造品性）"},
+    "frivolous": {"ipa": "/ˈfrɪvələs/", "def": "adj. 轻浮的【GRE】"},
+    "nobleness": {"ipa": "/ˈnəʊblnəs/", "def": "n. 高尚"},
+    "licentiousness": {"ipa": "/laɪˈsenʃəsnəs/", "def": "n. 放荡（licentious：放纵的，GRE 词）"},
+    "well-nigh": {"ipa": "/ˌwel ˈnaɪ/", "def": "adv.【古/书面】几乎（= almost；nigh 近）"},
+    "resistless": {"ipa": "/rɪˈzɪstləs/", "def": "adj. 无法抗拒的（= irresistible 的旧式）"},
+    "appetite": {"ipa": "/ˈæpɪtaɪt/", "def": "n. 嗜欲，食欲【四级】"},
+    "observance": {"ipa": "/əbˈzɜːvəns/", "def": "n. 遵守（Sabbath Observance：守安息日）【六级】"},
+    "adherence": {"ipa": "/ədˈhɪərəns/", "def": "n. 认信，坚持（adherence to：对……的持守）【六级】"},
+    "enjoin": {"ipa": "/ɪnˈdʒɔɪn/", "def": "v. 责令，嘱咐【GRE】"},
+    "abstain": {"ipa": "/əbˈsteɪn/", "def": "v. 禁绝，戒除（abstain from）【六级/GRE】"},
+    "whoso": {"ipa": "/ˈhuːsəʊ/", "def": "pron.【古】凡……的人（= whoever）"},
+    "sheddeth": {"ipa": "/ˈʃedəθ/", "def": "= sheds（-eth 古词尾）：流（血）"},
+    "crieth": {"ipa": "/ˈkraɪəθ/", "def": "= cries（-eth 古词尾）：哀告"},
+    "adultery": {"ipa": "/əˈdʌltəri/", "def": "n. 奸淫【六级】"},
+    "divers": {"ipa": "/ˈdaɪvəz/", "def": "adj.【古】不同样的（= diverse；divers weights：两样的法码）"},
+    "abomination": {"ipa": "/əˌbɒmɪˈneɪʃn/", "def": "n. 可憎之物（abominate：憎恶，GRE 词）"},
+    "phraseology": {"ipa": "/ˌfreɪziˈɒlədʒi/", "def": "n. 措辞，用语【GRE】"},
+    "retributive": {"ipa": "/rɪˈtrɪbjətɪv/", "def": "adj. 报应性的（retribution：报应，GRE 词）"},
+    "entail": {"ipa": "/ɪnˈteɪl/", "def": "v. 必然招致【六级/GRE】"},
+    "nay": {"ipa": "/neɪ/", "def": "adv.【古】不仅如此，何况（递进）；不"},
+    "nihilism": {"ipa": "/ˈnaɪɪlɪzəm/", "def": "n. 虚无主义（nihil 拉丁文『无』）【GRE】"},
+    "enthroned": {"ipa": "/ɪnˈθrəʊnd/", "def": "v. 捧上宝座（enthrone）"},
+    "negation": {"ipa": "/nɪˈɡeɪʃn/", "def": "n. 否定【六级】"},
+    "covet": {"ipa": "/ˈkʌvət/", "def": "v. 贪恋【GRE】"},
+    "covetousness": {"ipa": "/ˈkʌvətəsnəs/", "def": "n. 贪心，贪婪"},
+    "covetous": {"ipa": "/ˈkʌvətəs/", "def": "adj. 贪婪的（the covetous：贪婪的人）"},
+    "consisteth": {"ipa": "/kənˈsɪstəθ/", "def": "= consists（-eth 古词尾）：在乎（consist in）"},
+    "possesseth": {"ipa": "/pəˈzesəθ/", "def": "= possesses（-eth 古词尾）：拥有"},
+    "unpunished": {"ipa": "/ʌnˈpʌnɪʃt/", "def": "adj. 免受惩罚的（shall not be unpunished：必不免受罚）"},
+    "precepts": {"ipa": "/ˈpriːsepts/", "def": "n. 诫条，训条（precept）【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "decalogue", "ipa": "/ˈdekəlɒɡ/", "def": "n. 十诫"},
+    {"word": "idolatry", "ipa": "/aɪˈdɒlətri/", "def": "n. 拜偶像"},
+    {"word": "profanity", "ipa": "/prəˈfænəti/", "def": "n. 亵渎的言语，秽语"},
+    {"word": "deprave", "ipa": "/dɪˈpreɪv/", "def": "v. 使堕落"},
+    {"word": "frivolous", "ipa": "/ˈfrɪvələs/", "def": "adj. 轻浮的"},
+    {"word": "licentious", "ipa": "/laɪˈsenʃəs/", "def": "adj. 放荡的"},
+    {"word": "enjoin", "ipa": "/ɪnˈdʒɔɪn/", "def": "v. 责令，嘱咐"},
+    {"word": "abstain", "ipa": "/əbˈsteɪn/", "def": "v. 禁绝，戒除"},
+    {"word": "adultery", "ipa": "/əˈdʌltəri/", "def": "n. 奸淫"},
+    {"word": "abomination", "ipa": "/əˌbɒmɪˈneɪʃn/", "def": "n. 可憎之物"},
+    {"word": "retributive", "ipa": "/rɪˈtrɪbjətɪv/", "def": "adj. 报应性的"},
+    {"word": "entail", "ipa": "/ɪnˈteɪl/", "def": "v. 必然招致"},
+    {"word": "covet", "ipa": "/ˈkʌvət/", "def": "v. 贪恋"},
+    {"word": "precept", "ipa": "/ˈpriːsept/", "def": "n. 诫条，训条"}
+  ]
+}

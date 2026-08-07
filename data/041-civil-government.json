@@ -1,0 +1,39 @@
+{
+  "num": "041",
+  "title_en": "CIVIL GOVERNMENT",
+  "title_zh": "世上的政权（公民政府）",
+  "html_name": "041-Civil-Government-政权.html",
+  "pages": "原书 p. 91",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CIVIL GOVERNMENT. Rom. 13:1-6. The powers that be are ordained of God. … He beareth not the sword in vain: for he is a minister of God, an avenger for wrath to him that doeth evil. 1 Pet. 2:13, 17. Be subject to every ordinance of man for the Lord's sake. … Honor all men. Love the brotherhood. Fear God. Honor the king. Titus 3:1. Christ's teaching: X. 425 (Render unto Caesar the things that are Caesar's; and unto God the things that are God's). Prayer for all in authority: 1 Tim. 2:1, 2. For kings and all that are in high place; that we may lead a tranquil and quiet life in all godliness. See Law of Sinai (Civil Law).",
+          "zh": "世上的政权。罗马书 13:1-6 —— 在上有权柄的，人人当顺服他，因为没有权柄不是出于神的，凡掌权的都是神所命的。……他不是空空地佩剑，他是神的用人，是伸冤的，刑罚那作恶的。彼得前书 2:13, 17 —— 你们为主的缘故，要顺服人的一切制度。……务要尊敬众人，亲爱教中的弟兄，敬畏神，尊敬君王。提多书 3:1（提醒众人叫他们顺服作官的、掌权的）。基督的教导：凯撒的物当归给凯撒，神的物当归给神（太 22:21）。为一切在位的祷告：提摩太前书 2:1-2 —— 为君王和一切在位的，也该如此，使我们可以敬虔端正、平安无事地度日。另参主题词条：西奈律法（民事律）。",
+          "bsb": "Romans 13:1",
+          "grammar": [
+            {"note": "The powers that be：习语化的古体（现存的当权者）——that be 为古虚拟形式，此短语沿用至今；beareth not the sword in vain：古体否定（不是空空地佩剑）。"},
+            {"id": "him-that-relative", "note": "an avenger … to him that doeth evil：那作恶的人（that 指人）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "ordained": {"ipa": "/ɔːˈdeɪnd/", "def": "v. 所命定的（ordain：命定；按立）【GRE】"},
+    "avenger": {"ipa": "/əˈvendʒə/", "def": "n. 伸冤者，报应者"},
+    "ordinance": {"ipa": "/ˈɔːdɪnəns/", "def": "n. 制度，法令【GRE】"},
+    "brotherhood": {"ipa": "/ˈbrʌðəhʊd/", "def": "n. 教中的弟兄（总称）；手足之情【六级】"},
+    "render": {"ipa": "/ˈrendə/", "def": "v. 归给（Render unto Caesar：凯撒的物当归给凯撒）【四级】"},
+    "tranquil": {"ipa": "/ˈtræŋkwɪl/", "def": "adj. 平安的，安宁的【六级/GRE】"},
+    "vain": {"ipa": "/veɪn/", "def": "adj. 空的（in vain：空空地，徒然）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "ordain", "ipa": "/ɔːˈdeɪn/", "def": "v. 命定；按立"},
+    {"word": "ordinance", "ipa": "/ˈɔːdɪnəns/", "def": "n. 制度，法令"},
+    {"word": "tranquil", "ipa": "/ˈtræŋkwɪl/", "def": "adj. 平安的，安宁的"},
+    {"word": "avenger", "ipa": "/əˈvendʒə/", "def": "n. 伸冤者，报应者"}
+  ]
+}

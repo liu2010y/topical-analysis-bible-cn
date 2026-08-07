@@ -1,0 +1,204 @@
+{
+  "num": "052",
+  "title_en": "CRITICISM",
+  "title_zh": "圣经批评学",
+  "html_name": "052-Criticism-批评学.html",
+  "pages": "原书 p. 103–109",
+  "ocr_note": "跨 6 页余的论辩型大词条：综述目录＋八家摘录（Fraser、Redford、Schodde、Haldane、Alford、Zenos、McCaul、Wilson、Behrends）。多处引用编号讹误已按经文体系修复。",
+  "sections": [
+    {
+      "heading": "综述目录与问题清单 / References; the Main Questions",
+      "blocks": [
+        {
+          "en": "CRITICISM. References and Discussions (in The Bible Work): Critical Views and Methods. Rationalistic Criticism. The Limits of Legitimate Criticism. Codes and Critics. The Law and the Historical Books. The Witness of the Monuments. The Finding of the Law in Josiah's Time. Deuteronomy and the Levitical Code as related to the Post-Exilic Period. The Law in the Times of Ezra and Nehemiah. — The main questions raised by the so-called Higher Criticism in England and America: the authorship of the Pentateuch; of Isaiah, chs. 40-66; of Daniel; of Zechariah, chs. 9-14. See Old Testament; Pentateuch; also the APPENDIX.",
+          "zh": "圣经批评学。综述目录（见《圣经工作》各卷）：批评学的观点与方法；唯理主义批评；正当批评的界限；法典与批评家；律法与历史书；碑铭古迹的见证；约西亚年间律法书的发现；申命记与利未法典同被掳后时期的关系；以斯拉、尼希米时代的律法。——英美所谓『高等批评』提出的主要问题：五经的著作权；以赛亚书 40–66 章的著作权；但以理书的著作权；撒迦利亚书 9–14 章的著作权。另参主题词条：旧约；摩西五经；及本书附录。",
+          "bsb": false,
+          "grammar": [
+            {"id": "headline-style", "note": "纲要式目录＋四大『著作权问题』清单——19 世纪末高等批评论战的战场地图。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、摘录：圣经的整体性 / Extracts: The Unity of Scripture",
+      "blocks": [
+        {
+          "en": "[God has tempered all together, so that if one member of the body suffers, all suffer with it. It may be persecuted, neglected, maligned or controverted, but the Scripture may not be broken. Destructive criticism may go to work with its penknife, as did the infatuated King of Judah on the roll of Jeremiah's prophecies; but when the penknife and the fire have done their worst, the writing is calmly restored, as it was before. Our Bible cannot be taken to pieces, or dissolved into its elements. Here are many Books, and yet the Book is one—\"With the eternal heraldry / And signature of God Almighty stamped, / From first to last.\" — Donald Fraser.]",
+          "zh": "【摘录】神把这一切调和为一体，以致一个肢体受苦，众肢体就一同受苦。圣经可以被逼迫、被冷落、被毁谤、被驳难，却不能被废去。破坏性的批评尽可以拿起它的文士小刀动工——像那昏聩的犹大王对耶利米预言书卷所做的那样；但当小刀与火尽了最大的恶，那书卷又安然复原，与先前一样。我们的圣经拆不散，也化不开。这里有许多卷书，然而书只有一本——『从头至尾，盖着永恒的纹章，盖着全能神的签名。』——唐纳德·弗雷泽（Donald Fraser）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "as did the infatuated King of Judah：as 后倒装（正如犹大王约雅敬所做的——耶利米书 36 章用文士的刀割破书卷扔进火盆的典故）。"},
+            {"note": "Here are many Books, and yet the Book is one：Books 与 the Book 的单复数对举——『圣经』（Bible 源自希腊文 biblia『众书卷』的复数）本身就藏着这个悖论。"}
+          ]
+        },
+        {
+          "en": "[Criticism has its function, but it must be a subordinate one. True science, whether of human things or of Divine, must look upward and not downward—toward the highest end of knowledge, not toward the intermediate point of speculation or theory. — Redford.] [For the Church of Christ, the literary study of the Old Testament can never be the highest aim; it can be merely a means to an end. With Christ and the apostles, the Church has always seen in the writings of Moses, of the psalmists, and of the prophets, not a random collection of literary remains, useful only to determine the state of civilization and religion in Israel, but the records of the kingdom of God on earth as it was developed historically—until, in the fullness of time, the preparatory gave way to the real, the old covenant to the new. It is in the idea of the kingdom of God that Christian theology has always seen the sum and substance of both Testaments, and the connecting link between them. — Schodde.]",
+          "zh": "【摘录】批评学有它的职分，但必须是从属的职分。真正的学问——无论关乎人的事还是神的事——必须向上看而不是向下看：朝着知识的至高目的，而不是朝着思辨或学说这类中途站。——雷德福（Redford）。【摘录】对基督的教会而言，旧约的文学研究永远不能是最高目标，只能是达成目的的手段。教会与基督和众使徒一样，向来在摩西、诗人、先知的著作中看到的，不是一堆只配用来考订以色列文明宗教状况的文学遗存的杂凑，而是神的国在地上按历史进程开展的记录——直到时候满足，预备性的让位于真实的，旧约让位于新约。基督教神学向来正是在『神的国』这一观念里，看见两约的总纲与实质，以及两约之间的联结。——绍德（Schodde）",
+          "bsb": false,
+          "grammar": [
+            {"note": "not a random collection …, but the records …：not…but… 的长程对比；the preparatory gave way to the real, the old covenant to the new：对仗省略（后半省略 gave way）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、摘录：基督的印证与唯理主义之路 / Christ's Attestation; the Course of Rationalism",
+      "blocks": [
+        {
+          "en": "[Among all the evils with which He charged the Jews, Christ never once intimated that they had in any degree corrupted the canon, either by addition, or diminution, or alteration. Since with so much zeal He purged the temple, and so often and sharply reprehended the Jews for perverting the true sense of the Scriptures, much more, we may be assured, would He have condemned them if they had tampered with or vitiated these sacred writings; but of this He never accused them. By often referring to the \"Scriptures,\" which He declared \"cannot be broken,\" the Lord Jesus Christ has given His full attestation to the whole of them as the unadulterated Word of God. — R. Haldane.]",
+          "zh": "【摘录】基督指控犹太人的诸般罪状之中，从未有一次暗示他们对正典有过丝毫的败坏——无论增添、删减还是窜改。他既以那样的热心洁净圣殿，又屡次严厉责备犹太人曲解圣经的真义，那么我们尽可确信：他们若真篡改或败坏了这些神圣的著作，他必更要定他们的罪；但他从未如此指控他们。主耶稣基督屡屡援引『圣经』，并宣告经上的话『不能废去』——他已为这全部圣经作了充分的印证：这是未经掺杂的神的道。——R. 霍尔丹（Haldane）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "much more … would He have condemned them：much more 引导的省略比较＋倒装＋虚拟完成式（他必更要定他们的罪——却从未如此，可见正典未被篡改）——a fortiori（举轻明重）论证的句法。"}
+          ]
+        },
+        {
+          "en": "[It is always in contempt and setting aside of the Old Testament that rationalism has begun. First its historical truth, then its theocratical dispensation, and the types and prophecies connected with it, are swept away—so that Christ came to fulfil nothing, and becomes only a teacher or a martyr. Thus the way is paved for a similar rejection of the New Testament: beginning with the narratives of the birth and infancy as theocratic myths, advancing to the denial of His miracles, then attacking the truthfulness of His own sayings, which are grounded on the Old Testament as a revelation from God—and so finally leaving us nothing in the Scriptures but, as a German writer of this school has expressed it, \"a mythology not so attractive as that of Greece.\" That this is the course which unbelief has run in Germany should be a pregnant warning to the decriers of the Old Testament among ourselves. It should be a maxim for every expositor and every student, that Scripture is a whole, and stands or falls together. — Dean Alford, on Matt. 5:18.]",
+          "zh": "【摘录】唯理主义的起点，从来都是对旧约的轻蔑与弃置。先是它的历史真实性，继而是它的神权体制、连同与之相系的预表和预言，一一被扫除——于是基督来了却无可应验，只剩下一位教师或一位殉道者。这样，弃绝新约的路也就铺平了：先把降生与童年的叙事说成神权神话，进而否认他的神迹，再攻击他亲口话语的真实性（那些话正以旧约为神的启示为根基）——最终留给我们的圣经，用这一派一位德国作家的话说，不过是『一部不如希腊神话动人的神话学』。不信在德国走过的正是这条路——这对我们中间那些贬抑旧约的人，当是一记意味深长的警告。每一个解经者、每一个学经者都当奉此为格言：圣经是一个整体，存亡与共。——奥尔福德院长（Dean Alford），马太福音 5:18 注",
+          "bsb": "Matthew 5:18",
+          "grammar": [
+            {"note": "It is always in contempt … that rationalism has begun：强调句；First …, then …, advancing to …, then attacking …, and so finally …：一条不信的下坡路的时间副词链——本段的修辞骨架；stands or falls together：习语（存亡与共）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、摘录：高等批评的立场问题 / The Bearings of the Higher Criticism",
+      "blocks": [
+        {
+          "en": "[The Bible has been used for millenniums; on the ground of its authoritativeness as a source, there has been elaborated a system of belief, received as the truth because of its beneficent results, its adaptation to human needs, and its appeal to the human heart. Now comes the Higher Criticism with a demand for a hearing on the validity and value of the sources of this faith; and when its message is heard, it is found to consist in assertions inconsistent with the authoritativeness of the sources. If the religious faith of men is built upon the content of given documents, and the content of those documents be proved either partly or wholly worthless, it must needs follow that the faith be reconstructed. The extent of the reconstruction may be a slight revision or a complete revolution; it may be nothing but the elimination of unreal features from Christianity, or it may be the surrender of its distinctive features, reducing it to a mere natural religion. The religious bearings of the Higher Criticism, therefore, cannot be a matter of indifference. The evangelical critic does not consider a conclusion reached by purely critical methods, and having less than demonstrative force, completely established, until its consistency with the evangelical faith has been made clear. He has already adopted his faith as a matter of vital moment; it has an irrefragable force in his estimation; he must therefore take the attitude of one who has the means of testing, modifying, correcting, and even rejecting merely conjectural results. — A. C. Zenos.] [Pure conjecture has no place in scientific criticism. Results based on conjecture are distrusted universally, as admitting too much play to the subjective element in the critic, and thus vitiated by personal preferences based on his education, temperament, or previous beliefs. — Zenos.]",
+          "zh": "【摘录】圣经已被使用数千年；基于它作为源头的权威性，一套信仰体系被建立起来——因其造福的果效、切合人的需要、打动人的心灵而被接受为真理。如今高等批评来了，要求就这信仰之源头的效力与价值举行听证；而它的信息一经听取，便发现尽是与源头权威性不相容的断言。人的宗教信仰若建立在特定文献的内容之上，而那些文献的内容又被证明部分或全部无价值，那么信仰势必要重构。重构的幅度，可能是轻微的修订，也可能是彻底的革命；可能只是从基督教剔除若干不实的成分，也可能是交出其全部特质、把它降为一种纯自然宗教。所以，高等批评在宗教上的影响，绝不能是无关痛痒之事。福音派的批评家对一个单凭批评方法得出、且不具证明性力量的结论，在其与福音信仰的一致性得到澄清之前，不视为定论。他早已把自己的信仰采纳为性命攸关之事，这信仰在他的估量里具有不可撼动的力量；因此他必须站在这样的立场上：他有权检验、修正、更正、甚至弃绝那些仅属臆测的结果。——A. C. 齐诺斯（Zenos）。【摘录】纯粹的臆测在科学的批评中没有位置。基于臆测的结果举世不信，因为它给批评家的主观因素留了太大的活动余地，从而被他出于教育、性情或既有信念的个人偏好所败坏。——齐诺斯",
+          "bsb": false,
+          "grammar": [
+            {"id": "subjunctive-though", "note": "and the content … be proved / that the faith be reconstructed：两处虚拟原形（if 从句与 follow that 从句）——正式论辩文体。"},
+            {"id": "inversion", "note": "Now comes the Higher Criticism：状语前置引起倒装（如今高等批评登场了）。"}
+          ]
+        },
+        {
+          "en": "[It is a singular coincidence that those portions of the Old Testament which are most essential to New Testament theology—the Pentateuch, the book of Daniel, and the latter part of Isaiah—are just those parts which Rationalist criticism has selected as the favorite fields on which to display its skill. Those Messianic predictions which it can explain with plausibility as expressing Jewish hopes of earthly grandeur, it pronounces to be genuine; but the prophecies which represent the Son of Man as a heavenly judge coming in the clouds of heaven (Dan. 7); the Messiah as cut off (Dan. 9); Zion's King as meek and lowly, riding upon an ass (Zech. 9); the Good Shepherd sold for thirty pieces of silver (Zech. 11:12, 13); the One despised and rejected of men, cut off out of the land of the living, on whom the Lord hath laid the iniquity of us all (Isa. 53)—these are just the predictions which it endeavors to prove ungenuine. — A. McCaul.]",
+          "zh": "【摘录】说来是个奇特的巧合：旧约中对新约神学最要紧的那些部分——五经、但以理书、以赛亚书后半——恰恰是唯理主义批评选来大显身手的心头好场地。凡能被它似是而非地解释为犹太人尘世荣华之盼望的弥赛亚预言，它都宣布为真；而那些预言——人子驾着天云而来作天上的审判者（但 7 章）、受膏者被剪除（但 9 章）、锡安的王温柔谦卑骑驴而来（亚 9 章）、好牧人被卖三十块钱（亚 11:12-13）、那被藐视被人厌弃、从活人之地被剪除、耶和华使我们众人的罪孽都归在他身上的那一位（赛 53 章）——恰恰是它极力要证伪的。——A. 麦考尔（McCaul）【OCR 注：原书 \"Dan. 1\"、\"Zech. 12:10, 13\" 依预言内容推定为 Dan. 7 与 Zech. 11:12-13。】",
+          "bsb": "Zechariah 9:9",
+          "grammar": [
+            {"note": "Those … which it can explain …, it pronounces to be genuine; but the prophecies which …—these are just …：两组前置宾语＋复指代词（it / these）的对仗控诉——『合意的判真，指向基督的判伪』。"}
+          ]
+        },
+        {
+          "en": "[According to the \"modern critics,\" the evangelists may make mistakes in dates; the Gospels may be composed of successive layers of unauthenticated oral tradition; Genesis may be full of myths; Deuteronomy may be a postdated concoction got up for a purpose; Abraham, Isaac, and Jacob may be no longer historical persons but \"eponymous heroes\"; the Prophets may be emptied of all predictive element, and the Messianic Psalms emptied of Christ—and yet, we are told, the real Word of God remains unaffected by all such results, and its certainty quite unimpaired. But the skeptic comes along, and he says: \"What mockery! Your Book is wrong in its chronology, wrong in its history, wrong in its sequence, wrong in its earlier moralities—and it cannot be right in its religion. It is not a reliable guide in facts; neither can it be a trustworthy guide in doctrines. In all points where we can definitely test it, it breaks down; why should we depend on it when it treats of matters beyond the reach of mortal ken? It tells us of earthly things, and it tells us wrong: how shall we believe it when it speaks of heavenly things?\" If this is the best case we can put before the great jury of humanity, the average man of the world, naturally an unbelieving animal, will, we fear, side with the skeptic; and I for one cannot blame him if he does. — Wilson.]",
+          "zh": "【摘录】按『现代批评家』的说法：福音书作者可以记错年代；福音书可以是层层未经证实的口传堆叠而成；创世记可以满纸神话；申命记可以是为某种目的炮制的伪托后作；亚伯拉罕、以撒、雅各可以不再是历史人物，而是『族名英雄』；先知书可以被抽空一切预言成分，弥赛亚诗篇可以被抽空基督——然而（他们告诉我们）真正的神的道丝毫不受这些结果影响，其确定性完好无损。可是怀疑派走过来说：『何等的嘲弄！你们这书年代错了，历史错了，次序错了，早期的道德观也错了——它的宗教还能对吗？它在事实上不是可靠的向导，在教义上也就不可能是可信的向导。凡我们能切实检验之处，它一概站不住；那么在凡人认知力所不及的事上，我们凭什么倚赖它？它讲地上的事，讲错了；它讲天上的事，我们怎能信呢？』倘若这就是我们能呈给人类大陪审团的最佳案卷，那么世上的常人——天生就是不信的动物——恐怕要站到怀疑派一边去；若他真这样，我这个人可不能怪他。——威尔逊（Wilson）",
+          "bsb": false,
+          "grammar": [
+            {"note": "may … may … may …：六连 may 的让步排比（批评家的『可以清单』）；wrong in its chronology, wrong in …, wrong in …：四连 wrong 的控诉排比；I for one：『就我个人而论』。"},
+            {"note": "It tells us of earthly things, and it tells us wrong: how shall we believe it when it speaks of heavenly things?：化用约翰福音 3:12 的句式反戈一击。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、Behrends 长文：破坏性批评的前提与『文学不道德』指控 / Behrends: The Assumptions of Destructive Criticism",
+      "blocks": [
+        {
+          "en": "[Historical criticism of the Old Testament, so far as its results are revolutionary and destructive, proceeds upon utterly unwarrantable assumptions. It denies the reality of supernatural revelation and guidance; it sneers at miracles, and discredits any history which contains them; it resolves predictions into happy guesses, or regards them as uttered post eventum; it claims that where a law is generally disregarded and violated, the statute could not have existed; it insists that a steady upward evolution is the universal law of history, and that Israel therefore could not have fallen from monotheism into idolatry, but must have risen from fetichism into monotheism. But every one of these assumptions is unscientific, and is discredited by history. Revelation is a permanent feature of life, as our ethical intuitions and religious aspirations prove. Conscience is the mightiest of forces, and conscience and moral law bring all life into living contact with the supernatural. God is immanent in the life of the world: theism granted, and miracles are possible, while the resurrection of Jesus Christ blocks the path of every man who ventures upon their universal rejection. All history is luminous with ethical ideals which have been widely disregarded—the golden rule is not even now obeyed: did not Christ then utter the words? And is an unbroken line of upward development the story which history tells? Its pages are full of political and religious apostasies. The early days of Greece were the best; the first centuries of Rome were the brightest; primitive Christianity was better than its medieval type. Destructive criticism discredits its own results by its unhistorical and unscientific assumptions; and as the foundations are laid in the quicksand, the elaborate superstructure is doomed to collapse without the cost and fatigue of bombardment. When historical criticism ceases to make its conclusions the premises of its argument, it will be time enough to take it seriously.",
+          "zh": "【摘录】旧约的历史批评，就其结果具有颠覆性与破坏性而言，是建立在全然无凭的预设之上的。它否认超自然启示与引导的实在；它讥笑神迹，并把凡载有神迹的历史一概打入不可信；它把预言化解为侥幸的猜中，或视为事后所作（post eventum）；它主张凡一条律法普遍被漠视被违犯之处，那律例便不可能存在过；它坚称稳步向上的进化是历史的普遍规律，因此以色列不可能从一神信仰堕入拜偶像，而只能是从物神崇拜升入一神信仰。然而这些预设无一不是不科学的，且被历史本身所否定。启示是生命恒常的特征——我们的道德直觉与宗教渴慕便是明证。良心是最强大的力量；良心与道德律使全部生命与超自然界保持活的接触。神内在于世界的生命之中：有神论一经承认，神迹便属可能；而耶稣基督的复活，更拦在每一个胆敢全盘否定神迹之人的路上。整部历史都被那些广遭漠视的道德理想照得通明——金规到今天也没有被遵行：难道基督就没有说过那话吗？再者，历史讲述的当真是一条不曾中断的上行线吗？它的册页上写满了政治与宗教的背道。希腊最好的日子在早期；罗马最明亮的世纪在开头；原始基督教胜过它中世纪的形态。破坏性批评以其非历史、不科学的预设，自己败坏了自己的结果；根基既然打在流沙里，那精心营造的上层建筑不必劳师费弹去轰击，自会坍塌。等到历史批评不再拿自己的结论充当论证的前提，那时再认真对待它也不迟。",
+          "bsb": false,
+          "grammar": [
+            {"note": "It denies … it sneers … it resolves … it claims … it insists：五连 it + 动词的罪状排比；theism granted, and miracles are possible：独立主格（有神论一经承认……）；did not Christ then utter the words?：否定反问。"},
+            {"note": "post eventum：拉丁语『事后』（把预言说成事后追记）；make its conclusions the premises of its argument：拿结论当前提——循环论证（begging the question）的定义式表述。"}
+          ]
+        },
+        {
+          "en": "If the philosophical postulates of destructive criticism are unscientific, the conscious and wholesale literary immorality which it charges upon the biblical writers provokes the resentment of every fair-minded student. The literature is branded as counterfeit—as deliberately reversing the order of facts, as transferring to ancient times what was a late priestly invention. Deuteronomy is declared not to have been found in Josiah's reign by Hilkiah, but to have been written by him, and palmed off upon the king and the nation as a credible record of what Moses said in the plains of Moab. We are told this pious act must not be condemned as forgery, because literary methods were not then strict, and the emergency confronting Josiah required extraordinary measures. But we look in vain, through the ethics of the prophetical literature confessedly in existence at that time, for any intimation that the end justifies the means: every prophet would have denounced the maxim. The audacity of the priest amazes one, and the stupidity of the people passes comprehension. Was there no way of determining whether Hilkiah's roll was an old or a new one? It was read not only to Shaphan the scribe, but to the king, who was not in the secret, and then to large public assemblies; friends and foes of the reform were present, and not a voice was lifted against the solemn covenant publicly entered into over this roll—and yet it was all an invention! Seriously, what shall be said of such historical criticism?",
+          "zh": "破坏性批评的哲学预设既不科学，它加在圣经作者头上的那种蓄意而全盘的『文学不道德』指控，更叫每一个公道的学者义愤。这文献被打上伪造的烙印——说它蓄意颠倒事实的次序，把晚出的祭司发明搬到上古。申命记被宣布不是希勒家在约西亚年间发现的，而是他写的，然后冒充摩西在摩押平原所说之言的可信记录，蒙混给国王与全国。我们被告知：这一『敬虔之举』不可定为伪造，因为当时文学规范不严，且约西亚面临的危局需要非常手段。然而，遍查当时公认已然存在的先知文献的伦理，我们找不到一丝『目的可使手段成圣』的暗示：每一位先知都会痛斥这条格言。祭司的大胆令人惊愕，民众的愚蠢超乎理解。难道就没有办法判断希勒家的书卷是旧卷还是新卷吗？它不仅读给文士沙番听，也读给并不知情的国王听，随后又读给国王召集的公众大会听；改革的友与敌都在场，看了，听了，而对着这卷书公开所立的庄严之约，竟无一人出声反对——然而这一切竟是杜撰！平心而论，对这样的历史批评还能说什么呢？",
+          "bsb": false,
+          "grammar": [
+            {"note": "palmed off upon the king：palm off『以假充真地蒙混』（palm：手掌——藏在掌中递出）；the end justifies the means：『目的使手段成为正当』——伦理学的著名格言，此处被逐一否证；passes comprehension：超乎理解。"},
+            {"id": "inversion", "note": "not a voice was lifted：否定主语前置的强调（竟无一人出声）。"}
+          ]
+        },
+        {
+          "en": "In much the same way, the middle books of the Pentateuch are declared a post-exilian product, the work of an ambitious priesthood, who dressed up their ordinances in the literary garments of the wilderness life, and then invented the whole series of patriarchal stories as a fitting imaginary introduction. The Psalter is brought down bodily to the period of the second temple, and David vanishes from its pages. Chronicles is a priestly fabrication throughout, and wholly unworthy of credence. Such critical judgments would be strange enough if the books in question were only private pamphlets; but the hypothesis is monstrous when applied to documents which constituted a popular literature, which passed into many hands and were freely circulated, and which were divided into pericopes and regularly read in a thousand synagogues. As well suppose that Robinson Crusoe and the Arabian Nights will ever be read in our churches with the Gospels and the Epistles. The theory brings the indictment of forgery against the entire nation—a supposition so violent that it needs only to be plainly stated to be instantly and indignantly rejected. The nation's imprimatur will count for something with every reader who has no particular theory to defend: he may find difficulties and discrepancies, as in any similar historical record, but he cannot regard the entire literature a lie. — And of the mediating critics who allow an ancient Mosaic kernel with a later \"parenetic setting\" associated with Hilkiah's discovery: coin is none the less counterfeit because it contains a little genuine metal—and we may \"suppose\" a great many things, without a scintilla of evidence, and squarely in the face of the record; to regard the setting as a later artifice is substantially a surrender to Wellhausen. It is not so intended; but plain men will not be able to make anything else out of it. The critics mean well, but they show a strange ethical twist when they deceive themselves by phrases and conjectures whose emptiness appears as soon as they are stripped of their rhetoric. — A. J. F. Behrends, \"Old Testament under Fire.\"]",
+          "zh": "五经中段诸卷也以大同小异的方式被宣布为被掳后的产物——一个野心祭司集团的手笔：他们给自己的条例披上旷野生活的文学外衣，再发明出整套族长故事充当合式的虚构引言。诗篇被整体下移到第二圣殿时期，大卫从其册页上消失。历代志通篇是祭司的编造，全然不值采信。这类批评论断，若所涉各卷不过是流传有限的私家小册，已属怪异；而它们所针对的，是构成大众文学、辗转众手、自由流通、且被分成经课在上千会堂里定期宣读的文献——这假说便荒谬绝伦了。这无异于设想《鲁滨逊漂流记》和《天方夜谭》有朝一日会与福音书、使徒书信一同在我们的教堂里宣读。这套理论等于对整个民族提起伪造的公诉——这一设想暴烈到只需平实地陈述出来，就立刻遭到义愤的弃绝。对每一个没有特定理论要辩护的读者来说，整个民族的钤印（imprimatur）自有其分量：他尽可以像读任何同类史料一样发现疑难与出入，却断不能把这整部文献看作一个谎言。——至于那些折中派批评家——他们承认一个古老的摩西内核，却把与希勒家的发现相联的『劝勉性外框』归为后人所加——：钱币不因掺了一点真金属就不再是伪币——而『设想』尽可以再设想许多，只是没有一星半点的证据，且正与记载迎面相撞；把外框视为后世的技巧性添加，实质上就是向威尔豪森（Wellhausen）投降。他们本意并非如此；但平实的人从中读不出别的意思。批评家们用心不坏，却显出一种奇怪的伦理拧巴：他们用一些一经剥去修辞外衣便见空洞的措辞与臆测，欺哄了自己。——A. J. F. 贝伦兹（Behrends），《炮火下的旧约》",
+          "bsb": false,
+          "grammar": [
+            {"note": "As well suppose that …：省略主语的比况句（这无异于设想……）；none the less counterfeit because …：none the less『并不因此就不……』（钱币不因掺真金就不是伪币）——本词条最有名的比喻。"},
+            {"note": "so violent that it needs only to be plainly stated to be instantly … rejected：so…that + 双重不定式（暴烈到一说出来就被弃绝）；imprimatur：拉丁语『准予印行』——此处喻全民族的背书。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "rationalistic": {"ipa": "/ˌræʃnəˈlɪstɪk/", "def": "adj. 唯理主义的（rationalism：唯理主义）"},
+    "legitimate": {"ipa": "/lɪˈdʒɪtɪmət/", "def": "adj. 正当的，合法的【四级】"},
+    "maligned": {"ipa": "/məˈlaɪnd/", "def": "v. 被毁谤（malign，GRE 词）"},
+    "controverted": {"ipa": "/ˈkɒntrəvɜːtɪd/", "def": "v. 被驳难（controvert：辩驳）"},
+    "penknife": {"ipa": "/ˈpennaɪf/", "def": "n. 文士小刀（削笔刀——耶利米书 36 章约雅敬割书卷的刀）"},
+    "infatuated": {"ipa": "/ɪnˈfætʃueɪtɪd/", "def": "adj. 昏聩的，迷了心窍的【GRE】"},
+    "heraldry": {"ipa": "/ˈherəldri/", "def": "n. 纹章（贵族徽记之学）"},
+    "subordinate": {"ipa": "/səˈbɔːdɪnət/", "def": "adj. 从属的【四级】"},
+    "reprehended": {"ipa": "/ˌreprɪˈhendɪd/", "def": "v. 被责备（reprehend，GRE 词）"},
+    "vitiated": {"ipa": "/ˈvɪʃieɪtɪd/", "def": "v. 被败坏（vitiate，GRE 词）"},
+    "attestation": {"ipa": "/ˌæteˈsteɪʃn/", "def": "n. 印证，见证"},
+    "unadulterated": {"ipa": "/ˌʌnəˈdʌltəreɪtɪd/", "def": "adj. 未经掺杂的（adulterate：掺假，GRE 词）"},
+    "theocratical": {"ipa": "/ˌθiːəˈkrætɪkl/", "def": "adj. 神权体制的"},
+    "decriers": {"ipa": "/dɪˈkraɪəz/", "def": "n. 贬抑者（decry：贬低，GRE 词）"},
+    "expositor": {"ipa": "/ɪkˈspɒzɪtə/", "def": "n. 解经者（exposition：阐述）"},
+    "authoritativeness": {"ipa": "/ɔːˈθɒrɪtətɪvnəs/", "def": "n. 权威性"},
+    "irrefragable": {"ipa": "/ɪˈrefrəɡəbl/", "def": "adj. 不可撼动的，无可辩驳的【GRE】"},
+    "conjectural": {"ipa": "/kənˈdʒektʃərəl/", "def": "adj. 臆测性的"},
+    "eponymous": {"ipa": "/ɪˈpɒnɪməs/", "def": "adj. 族名的（eponymous heroes：以其名命名部族的传说英雄）【GRE】"},
+    "concoction": {"ipa": "/kənˈkɒkʃn/", "def": "n. 炮制之物（concoct：编造，GRE 词）"},
+    "postdated": {"ipa": "/ˌpəʊstˈdeɪtɪd/", "def": "adj. 伪托后作的（把晚出之作标为早期）"},
+    "unauthenticated": {"ipa": "/ˌʌnɔːˈθentɪkeɪtɪd/", "def": "adj. 未经证实的（authenticate：鉴定为真）"},
+    "unimpaired": {"ipa": "/ˌʌnɪmˈpeəd/", "def": "adj. 未受损的（impair：损害）"},
+    "mockery": {"ipa": "/ˈmɒkəri/", "def": "n. 嘲弄【六级】"},
+    "ken": {"ipa": "/ken/", "def": "n.【书面】认知范围（beyond mortal ken：凡人认知力所不及）"},
+    "fetichism": {"ipa": "/ˈfetɪʃɪzəm/", "def": "n. 物神崇拜（今拼 fetishism）"},
+    "monotheism": {"ipa": "/ˈmɒnəʊθiɪzəm/", "def": "n. 一神信仰（mono- 单一 + theism）"},
+    "immanent": {"ipa": "/ˈɪmənənt/", "def": "adj. 内在的（God immanent：神内在于世界——与 transcendent 超越相对；勿混 imminent 迫近的）【GRE】"},
+    "apostasies": {"ipa": "/əˈpɒstəsiz/", "def": "n. 背道（apostasy，GRE 词）"},
+    "quicksand": {"ipa": "/ˈkwɪksænd/", "def": "n. 流沙"},
+    "superstructure": {"ipa": "/ˈsuːpəstrʌktʃə/", "def": "n. 上层建筑"},
+    "bombardment": {"ipa": "/bɒmˈbɑːdmənt/", "def": "n. 轰击，炮轰【六级】"},
+    "premises": {"ipa": "/ˈpremɪsɪz/", "def": "n. 前提（premise；拿结论当前提＝循环论证）【六级】"},
+    "postulates": {"ipa": "/ˈpɒstjələts/", "def": "n. 预设，公设（postulate）【GRE】"},
+    "counterfeit": {"ipa": "/ˈkaʊntəfɪt/", "def": "adj./n. 伪造的；伪币【六级/GRE】"},
+    "palmed": {"ipa": "/pɑːmd/", "def": "v. 蒙混（palm off upon：以假充真塞给）"},
+    "forgery": {"ipa": "/ˈfɔːdʒəri/", "def": "n. 伪造【六级】"},
+    "audacity": {"ipa": "/ɔːˈdæsəti/", "def": "n. 大胆，放肆【GRE】"},
+    "scribe": {"ipa": "/skraɪb/", "def": "n. 文士，书记【六级】"},
+    "post-exilian": {"ipa": "/ˌpəʊst eɡˈzɪliən/", "def": "adj. 被掳后的（exile：被掳）"},
+    "fabrication": {"ipa": "/ˌfæbrɪˈkeɪʃn/", "def": "n. 编造【六级】"},
+    "credence": {"ipa": "/ˈkriːdns/", "def": "n. 信任，可信性【GRE】"},
+    "pericopes": {"ipa": "/pəˈrɪkəpiz/", "def": "n. 经课，选读段（pericope：会堂定期宣读的经文分段）"},
+    "synagogues": {"ipa": "/ˈsɪnəɡɒɡz/", "def": "n. 会堂（synagogue）【六级】"},
+    "indictment": {"ipa": "/ɪnˈdaɪtmənt/", "def": "n. 公诉，控告（c 不发音）【GRE】"},
+    "imprimatur": {"ipa": "/ˌɪmprɪˈmɑːtə/", "def": "n. 钤印背书（拉丁语『准予印行』）【GRE】"},
+    "discrepancies": {"ipa": "/dɪsˈkrepənsiz/", "def": "n. 出入，不一致（discrepancy）【六级】"},
+    "mediating": {"ipa": "/ˈmiːdieɪtɪŋ/", "def": "adj. 折中的，调停的（mediate）【六级】"},
+    "parenetic": {"ipa": "/ˌpærəˈnetɪk/", "def": "adj. 劝勉性的（希腊 parainesis 劝勉——批评学术语）"},
+    "artifice": {"ipa": "/ˈɑːtɪfɪs/", "def": "n. 技巧性设计，巧计【GRE】"},
+    "rhetoric": {"ipa": "/ˈretərɪk/", "def": "n. 修辞【六级/GRE】"},
+    "grandeur": {"ipa": "/ˈɡrændʒə/", "def": "n. 荣华，宏伟【GRE】"},
+    "plausibility": {"ipa": "/ˌplɔːzəˈbɪləti/", "def": "n. 似是而非的可信度（plausible）【六级】"},
+    "ungenuine": {"ipa": "/ʌnˈdʒenjuɪn/", "def": "adj. 非真的，伪的"},
+    "scintilla": {"ipa": "/sɪnˈtɪlə/", "def": "n. 一星半点（without a scintilla of evidence：没有一星半点证据）【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "irrefragable", "ipa": "/ɪˈrefrəɡəbl/", "def": "adj. 不可撼动的，无可辩驳的"},
+    {"word": "vitiate", "ipa": "/ˈvɪʃieɪt/", "def": "v. 败坏，使无效"},
+    {"word": "unadulterated", "ipa": "/ˌʌnəˈdʌltəreɪtɪd/", "def": "adj. 未经掺杂的"},
+    {"word": "eponymous", "ipa": "/ɪˈpɒnɪməs/", "def": "adj. 族名的，同名的"},
+    {"word": "concoction", "ipa": "/kənˈkɒkʃn/", "def": "n. 炮制之物"},
+    {"word": "immanent", "ipa": "/ˈɪmənənt/", "def": "adj. 内在的（勿混 imminent 迫近的）"},
+    {"word": "apostasy", "ipa": "/əˈpɒstəsi/", "def": "n. 背道"},
+    {"word": "postulate", "ipa": "/ˈpɒstjələt/", "def": "n. 预设，公设"},
+    {"word": "counterfeit", "ipa": "/ˈkaʊntəfɪt/", "def": "adj./n. 伪造的；伪币"},
+    {"word": "audacity", "ipa": "/ɔːˈdæsəti/", "def": "n. 大胆，放肆"},
+    {"word": "credence", "ipa": "/ˈkriːdns/", "def": "n. 信任，可信性"},
+    {"word": "indictment", "ipa": "/ɪnˈdaɪtmənt/", "def": "n. 公诉，控告"},
+    {"word": "imprimatur", "ipa": "/ˌɪmprɪˈmɑːtə/", "def": "n. 钤印背书（拉丁：准予印行）"},
+    {"word": "artifice", "ipa": "/ˈɑːtɪfɪs/", "def": "n. 技巧性设计，巧计"},
+    {"word": "scintilla", "ipa": "/sɪnˈtɪlə/", "def": "n. 一星半点"},
+    {"word": "ken", "ipa": "/ken/", "def": "n.【书面】认知范围"}
+  ]
+}

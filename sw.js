@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-1197777204';
+const CACHE = 'topical-cn-25dc1eb11c';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -86,6 +86,7 @@ const ASSETS = [
   "./049-Covenants-%E8%AF%B8%E7%BA%A6.html",
   "./050-Covetousness-%E8%B4%AA%E5%A9%AA.html",
   "./051-Creed-%E4%BF%A1%E7%BB%8F.html",
+  "./052-Criticism-%E6%89%B9%E8%AF%84%E5%AD%A6.html",
   "./053-Day-of-Lord-%E4%B8%BB%E7%9A%84%E6%97%A5%E5%AD%90.html",
   "./054-Deacon-%E6%89%A7%E4%BA%8B.html"
 ];

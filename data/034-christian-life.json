@@ -3,8 +3,8 @@
   "title_en": "CHRISTIAN LIFE",
   "title_zh": "基督徒生活",
   "html_name": "034-Christian-Life-基督徒生活.html",
-  "pages": "原书 p. 69–96（七部连环词条）",
-  "ocr_note": "本词条为全书篇幅最大的七部连环词条（作者在导言中特别说明的『基督徒生活』系列）。本页现已完成第一至六部分，第七部分（劝勉与应许的口号）随翻译进度补入。原书 p. 73–74 之间一栏内容（第二部分『见证人』末段与第三部分的标题及开头）在扫描中丢失，已标注。",
+  "pages": "原书 p. 69–85（七部连环词条）",
+  "ocr_note": "本词条为全书篇幅最大的七部连环词条（作者在导言中特别说明的『基督徒生活』系列），七部分已全部译毕。原书 p. 73–74 之间一栏内容（第二部分『见证人』末段与第三部分的标题及开头）在扫描中丢失，已标注。",
   "sections": [
     {
       "heading": "总纲 / General Outline",
@@ -358,6 +358,82 @@
             {"id": "inversion", "note": "the same shall he receive again from the Lord：the same 复指前置宾语＋倒装（所行的善事必从主得回）。"},
             {"id": "kjv-pronouns", "note": "Be ye doers of the word：祈使句带 ye（你们要行道）。"}
           ]
+        },
+        {
+          "en": "Intimations respecting work: Eccles. 9:10. Whatsoever thy hand findeth to do, do it with thy might. John 11:9. Are there not twelve hours in the day? Hag. 2:4. Be strong … and work: for I am with you, saith the Lord of hosts. Neh. 3:10, 23, 28. Every one repaired over against his own house. Neh. 6:3. I am doing a great work. Work assigned, and the workman qualified: Ex. 31:1-6 (Bezaleel, filled with the Spirit of God, in wisdom, and in all manner of workmanship). The consequence of refusal: Judges 5:23 (Curse ye Meroz … because they came not to the help of the Lord). Gal. 6:9. Let us not be weary in well-doing. — How to treat Opportunity: Use vigilance in watching opportunity; tact and daring in seizing upon it; force and persistence in crowding your opportunity to the utmost of possible achievement. — A. Phelps.",
+          "zh": "关于工作的提点：传道书 9:10 —— 凡你手所当做的事，要尽力去做。约翰福音 11:9 —— 白日不是有十二小时吗？哈该书 2:4 —— 你当刚强……你们都当刚强做工，因为我与你们同在。这是万军之耶和华说的。尼希米记 3 章 —— 各人对着自己的房屋修造。6:3 —— 我现在办理大工，不能下去。工作既有指派，工人也蒙装备：出埃及记 31:1-6（比撒列——我也以我的灵充满了他，使他有智慧……能做各样的工）。推辞的后果：士师记 5:23（应当咒诅米罗斯……因为他们不来帮助耶和华）。加拉太书 6:9 —— 我们行善，不可丧志。——如何对待机会：以警醒守望机会；以机敏和果敢抓住机会；以力量和恒劲把机会催逼到可能成就的极致。——A. 菲尔普斯（Austin Phelps）",
+          "bsb": "Ecclesiastes 9:10",
+          "grammar": [
+            {"note": "Whatsoever thy hand findeth to do：whatsoever 前置宾语（凡你手所当做的）；Curse ye Meroz：祈使句带 ye；crowding your opportunity：crowd 此处特殊义『催逼，挤压到极限』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "七、劝勉与应许的口号（日用助言） / VII. Watchwords of Counsel and Promise",
+      "blocks": [
+        {
+          "en": "For daily help in Christian living. Fellowship with God: 1 John 1:3. Our fellowship is with the Father, and with His Son Jesus Christ. 1 Chron. 28:9. Know thou the God of thy father, and serve Him with a willing mind. Ps. 105:4. Seek the Lord … seek His face evermore. Ps. 16:8. I have set the Lord always before me. John 15:4. Abide in Me. Heb. 12:2. Looking unto Jesus. 2 Tim. 1:14. Guard that good thing committed unto thee, through the Holy Ghost which dwelleth in us. Eph. 4:30. Grieve not the Holy Spirit of God. 1 Thes. 5:19. Quench not the Spirit. Phil. 2:5. Have this mind in you, which was also in Christ Jesus. 2 Cor. 10:5. Bringing every thought into captivity to the obedience of Christ. Ps. 19:14. Let the meditation of my heart be acceptable in Thy sight. Ps. 27:14. Wait on the Lord. Ps. 62:8. Trust in Him at all times; pour out your heart before Him.",
+          "zh": "为着基督徒生活的日用帮助。与神相交：约翰一书 1:3 —— 我们乃是与父并他儿子耶稣基督相交的。历代志上 28:9 —— 你当认识耶和华你父的神，诚心乐意地事奉他。诗篇 105:4 —— 要寻求耶和华与他的能力，时常寻求他的面。16:8 —— 我将耶和华常摆在我面前。约翰福音 15:4 —— 你们要常在我里面。希伯来书 12:2 —— 仰望为我们信心创始成终的耶稣。提摩太后书 1:14 —— 从前所交托你的善道，你要靠着那住在我们里面的圣灵牢牢地守着。以弗所书 4:30 —— 不要叫神的圣灵担忧。帖撒罗尼迦前书 5:19 —— 不要消灭圣灵的感动。腓立比书 2:5 —— 你们当以基督耶稣的心为心。哥林多后书 10:5 —— 将人所有的心意夺回，使他都顺服基督。诗篇 19:14 —— 耶和华……愿我……心里的意念在你面前蒙悦纳。27:14 —— 要等候耶和华。62:8 —— 你们众民当时时倚靠他，在他面前倾心吐意。",
+          "bsb": "Psalm 16:8",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Grieve not the Holy Spirit / Quench not the Spirit：古体否定祈使的名句对（不要叫圣灵担忧／不要消灭圣灵的感动）。"}
+          ]
+        },
+        {
+          "en": "Follow right and truth: Isa. 56:1, 2. Keep ye judgment, and do righteousness. 2 Tim. 2:22. Follow after righteousness, faith, love, peace. Zech. 8:19. Love the truth and peace. 1 Thes. 5:15. Ever follow after that which is good. Phil. 3:13, 14. Press on toward the goal, unto the prize. Be strong: 1 Cor. 16:13. Eph. 6:10. 2 Tim. 2:1. Be strong in the grace that is in Christ Jesus. Josh. 1:6, 9. Isa. 40:29. He giveth power to the faint; He increaseth strength. Phil. 4:13. 2 Tim. 1:7. God gave us not a spirit of fearfulness, but of power and love and discipline. Ps. 31:24. Be strong, and let your heart take courage, all ye that hope in the Lord.",
+          "zh": "跟随公义与真理：以赛亚书 56:1-2 —— 你们当守公平，行公义。提摩太后书 2:22 —— 追求公义、信德、仁爱、和平。撒迦利亚书 8:19 —— 你们要喜爱诚实与和平。帖撒罗尼迦前书 5:15 —— 或是彼此相待，或是待众人，常要追求良善。腓立比书 3:13-14 —— 向着标竿直跑，要得……的奖赏。要刚强：哥林多前书 16:13；以弗所书 6:10；提摩太后书 2:1 —— 你要在基督耶稣的恩典上刚强起来。约书亚记 1:6, 9；以赛亚书 40:29 —— 疲乏的，他赐能力；软弱的，他加力量。腓立比书 4:13；提摩太后书 1:7 —— 因为神赐给我们，不是胆怯的心，乃是刚强、仁爱、谨守的心。诗篇 31:24 —— 凡仰望耶和华的人，你们都要壮胆，坚固你们的心。",
+          "bsb": "2 Timothy 1:7",
+          "grammar": [
+            {"id": "the-adjective", "note": "He giveth power to the faint：疲乏的人（the + 形容词）。"},
+            {"id": "no-do-negation", "note": "God gave us not a spirit of fearfulness：古体否定语序（神赐给我们的不是胆怯的心）。"}
+          ]
+        },
+        {
+          "en": "Keep thyself: Deut. 4:9. Take heed to thyself, and keep thy soul diligently. Prov. 4:23. Keep thy heart with all diligence; for out of it are the issues of life. Acts 16:28. Do thyself no harm. 1 Cor. 10:12. Let him that thinketh he standeth take heed lest he fall. Matt. 26:41. Watch and pray, that ye enter not into temptation. 1 Tim. 4:16. Take heed to thyself, and to thy teaching. Ps. 34:13. Keep thy tongue from evil, and thy lips from speaking guile. Avoid bad company and ways: Prov. 1:10. My son, if sinners entice thee, consent thou not. Prov. 4:14, 15. Enter not into the path of the wicked. Prov. 13:20. He that walketh with wise men shall be wise: but the companion of fools shall smart for it.",
+          "zh": "保守自己：申命记 4:9 —— 你只要谨慎，殷勤保守你的心灵。箴言 4:23 —— 你要保守你心，胜过保守一切（或作你要切切保守你心），因为一生的果效是由心发出。使徒行传 16:28 —— 不要伤害自己！哥林多前书 10:12 —— 所以，自己以为站得稳的，须要谨慎，免得跌倒。马太福音 26:41 —— 总要警醒祷告，免得入了迷惑。提摩太前书 4:16 —— 你要谨慎自己和自己的教训。诗篇 34:13 —— 就要禁止舌头不出恶言，嘴唇不说诡诈的话。远避恶伴恶道：箴言 1:10 —— 我儿，恶人若引诱你，你不可随从。4:14-15 —— 不可行恶人的路，不要走坏人的道。13:20 —— 与智慧人同行的，必得智慧；和愚昧人作伴的，必受亏损。",
+          "bsb": "Proverbs 4:23",
+          "grammar": [
+            {"id": "him-that-relative", "note": "Let him that thinketh he standeth take heed：Let + him that 从句 + 原形（自以为站得稳的，须要谨慎）——多层古体句法的浓缩例句。"},
+            {"id": "kjv-pronouns", "note": "if sinners entice thee, consent thou not：否定祈使带主语 thou（你不可随从）。"},
+            {"note": "shall smart for it：smart 作动词古义『吃苦头，受痛』（必受亏损）。"}
+          ]
+        },
+        {
+          "en": "Look for guidance: Prov. 3:5, 6. Lean not upon thine own understanding. In all thy ways acknowledge Him, and He shall direct thy paths. Prov. 16:3. Commit thy works unto the Lord. Jer. 6:16. Ask for the old paths. James 1:5, 6. Ask of God, who giveth to all liberally … but let him ask in faith. Job 23:10. He knoweth the way that I take. Rom. 8:28. All things work together for good to them that love God. \"Teach Thou me\": Ps. 25:4, 5. Ps. 27:11. Teach me Thy way, O Lord. Ps. 143:10. Teach me to do Thy will. Seek—Seek not: Amos 5:14. Matt. 6:33. Col. 3:1, 2. Seek the things that are above … set your mind on things above. Matt. 6:19, 20. Lay not up for yourselves treasures upon the earth … but lay up treasures in heaven. John 6:27. Labor not for the meat which perisheth, but for the meat which abideth unto eternal life. Jer. 45:5. Seekest thou great things for thyself? seek them not. Heb. 13:5. Be content with such things as ye have: for He hath said, I will in no wise fail thee. Phil. 4:19. My God shall supply every need of yours.",
+          "zh": "仰望引导：箴言 3:5-6 —— 不可倚靠自己的聪明。在你一切所行的事上都要认定他，他必指引你的路。16:3 —— 你所做的，要交托耶和华。耶利米书 6:16 —— 访问古道。雅各书 1:5-6 —— 就当求那厚赐与众人、也不斥责人的神……只要凭着信心求。约伯记 23:10 —— 然而他知道我所行的路。罗马书 8:28 —— 万事都互相效力，叫爱神的人得益处。『求你指教我』：诗篇 25:4-5（求你将你的道指示我，将你的路教训我）；27:11 —— 耶和华啊，求你将你的道指教我。143:10 —— 求你指教我遵行你的旨意。当求与勿求：阿摩司书 5:14；马太福音 6:33；歌罗西书 3:1-2 —— 当求在上面的事……要思念上面的事。马太福音 6:19-20 —— 不要为自己积攒财宝在地上……只要积攒财宝在天上。约翰福音 6:27 —— 不要为那必坏的食物劳力，要为那存到永生的食物劳力。耶利米书 45:5 —— 你为自己图谋大事吗？不要图谋！希伯来书 13:5 —— 要以自己所有的为足，因为主曾说：我总不撇下你，也不丢弃你。腓立比书 4:19 —— 我的神必照他荣耀的丰富，在基督耶稣里使你们一切所需用的都充足。【OCR 注：原书『Teach Thou me』首条引用 \"Ps. 24:4, 5\" 依引文推定为 25:4-5。】",
+          "bsb": "Proverbs 3:5-6",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Lean not / Lay not up / Labor not / seek them not：否定祈使群——本节口号的标志句式。"},
+            {"id": "kjv-pronouns", "note": "Seekest thou great things for thyself?：古体疑问（-est 动词直接提前）＋反身；Teach Thou me：祈使句带 Thou（求你亲自指教我）。"}
+          ]
+        },
+        {
+          "en": "Walk worthily: Eph. 4:1, 2, 32. Phil. 1:27. Rom. 12:1-3. Present your bodies a living sacrifice … be not conformed to this world … think soberly, according as God hath dealt to each man a measure of faith. Prov. 3:9. Honor the Lord with thy substance, and with the first-fruits of all thine increase. Matt. 5:16. Even so let your light shine before men. Dealing with others: Matt. 7:12. All things whatsoever ye would that men should do unto you, even so do ye also unto them. Eccles. 11:1, 6. Cast thy bread upon the waters … in the morning sow thy seed, and in the evening withhold not thine hand. Hosea 10:12. Sow to yourselves in righteousness, reap according to mercy. Matt. 7:1, 2. Judge not (needless, unjust, or uncharitable judgments). Zech. 7:9, 10. Show mercy and compassion every man to his brother; and let none of you imagine evil against his brother in your heart. Eph. 4:32. Be ye kind one to another, tender-hearted, forgiving each other, even as God also in Christ forgave you. Phil. 2:2-4. Doing nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself; not looking each of you to his own things, but each of you also to the things of others. Phil. 2:14. Do all things without murmurings and disputings. Rom. 14:13. That no man put a stumbling-block in his brother's way. Rom. 12:21. Be not overcome of evil, but overcome evil with good. Scripture study: John 5:39. Search the Scriptures. 1 Tim. 4:13, 15. Give heed to reading. Ps. 119.",
+          "zh": "行事相称：以弗所书 4:1-2, 32；腓立比书 1:27；罗马书 12:1-3 —— 将身体献上，当作活祭……不要效法这个世界……要照着神所分给各人信心的大小，看得合乎中道。箴言 3:9 —— 你要以财物和一切初熟的土产尊荣耶和华。马太福音 5:16 —— 你们的光也当这样照在人前。待人之道：马太福音 7:12 —— 所以，无论何事，你们愿意人怎样待你们，你们也要怎样待人（金规）。传道书 11:1, 6 —— 当将你的粮食撒在水面……早晨要撒你的种，晚上也不要歇你的手。何西阿书 10:12 —— 你们要为自己栽种公义，就能收割慈爱。马太福音 7:1-2 —— 你们不要论断人（指无谓、不义或刻薄的论断）。撒迦利亚书 7:9-10 —— 各人要以慈爱怜悯弟兄……谁都不可心里谋害弟兄。以弗所书 4:32 —— 并要以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里饶恕了你们一样。腓立比书 2:2-4 —— 凡事不可结党，不可贪图虚浮的荣耀，只要存心谦卑，各人看别人比自己强。各人不要单顾自己的事，也要顾别人的事。2:14 —— 凡所行的，都不要发怨言、起争论。罗马书 14:13 —— 定意谁也不给弟兄放下绊脚跌人之物。12:21 —— 你不可为恶所胜，反要以善胜恶。查考圣经：约翰福音 5:39 —— 你们应当查考圣经。提摩太前书 4:13, 15 —— 要以宣读、劝勉、教导为念。诗篇 119 篇通篇。",
+          "bsb": "Matthew 7:12",
+          "grammar": [
+            {"note": "All things whatsoever ye would that men should do unto you, even so do ye also unto them：金规的完整古体句法——whatsoever 前置宾语群＋would that（愿意）＋even so 复指＋祈使带 ye。"},
+            {"id": "no-do-negation", "note": "Judge not / withhold not thine hand / Be not overcome of evil：否定祈使群；overcome of evil 中 of 引施动者（为恶所胜）。"},
+            {"note": "faction：结党（此处非『派系』的中性义）；vainglory：虚浮的荣耀（vain 虚空 + glory）。"}
+          ]
+        },
+        {
+          "en": "Ever bear in mind the supreme Motive Power of the Christian Life: 2 Cor. 5:14, 15. The love of Christ constraineth us … He died for all, that they which live should no longer live unto themselves, but unto Him who for their sakes died and rose again.",
+          "zh": "要时时铭记基督徒生活至高的动力：哥林多后书 5:14-15 —— 原来基督的爱激励我们……并且他替众人死，是叫那些活着的人不再为自己活，乃为替他们死而复活的主活。",
+          "bsb": "2 Corinthians 5:14-15",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "constraineth = constrains：激励，催逼——本词条的收束动词。"}
+          ]
+        },
+        {
+          "en": "Natural Fruits of a Divinely inwrought Christian Life, expressed in the form of direct practical counsels: 1. Set the Lord Christ always before you, and keep continual thought-communion with Him. 2. Never intermit reverent, studious, and prayerful thought upon some truth of the Word of Christ. 3. Keep your soul attent to hear the indwelling Holy Spirit, and ask and look for His constant inworking. 4. Forget all gain or advance already made, and ever press forward toward the goal, unto the prize. 5. Take no account of frames or feelings; but ever exercise and magnify faith, by fulfilling its appropriate works, and holding fast the conviction that God will meet your every need, and recompense your toil for Him. 6. Watch, pray, and struggle against Temptation and the Tempter; and believe that God can, and—if rightly sought and leaned upon—will, deliver from known sin and infirmity, however long and strong the hold it has gotten through weak or willful indulgence.",
+          "zh": "神所内造之基督徒生命的自然果实——以直接实践劝言的形式表述：一、将主基督常摆在你面前，与他保持不断的心思相通。二、对基督之道中的某一真理作敬虔、勤勉、带祷告的思想，永不间断。三、保持灵里侧耳，谛听内住的圣灵，并祈求、仰望他不停的内里运行。四、忘记已经得着的一切长进，永远向着标竿、向着奖赏努力面前。五、不要理会一时的心境或感觉；只管借着成全信心相应的行为来操练并高举信心，紧握这确信：神必供应你的每一样需要，必报偿你为他受的劳苦。六、警醒、祷告、与试探和那试探者争战；并相信神能够——若正确地寻求他、倚靠他，也必定——救你脱离已知的罪与软弱，无论它借着软弱或任性的放纵已经辖制你多久、多深。",
+          "bsb": false,
+          "grammar": [
+            {"note": "attent：古形容词『侧耳倾听的』（= attentive）；frames：古义『心境，情绪状态』（frames or feelings：一时的心境或感觉）；however long and strong the hold (may be)：however 让步省略。"},
+            {"note": "God can, and—if rightly sought and leaned upon—will, deliver：情态动词 can/will 分置、共享动词 deliver 的插入结构（神能够、也必定拯救）。"}
+          ]
         }
       ]
     }
@@ -482,7 +558,38 @@
     "continuance": {"ipa": "/kənˈtɪnjuəns/", "def": "n. 恒心持续（patient continuance in well-doing：恒心行善）"},
     "exhaustless": {"ipa": "/ɪɡˈzɔːstləs/", "def": "adj. 取之不尽的（exhaust + -less）"},
     "sufficiency": {"ipa": "/səˈfɪʃnsi/", "def": "n. 充足（all sufficiency：凡事充足）"},
-    "despised": {"ipa": "/dɪˈspaɪzd/", "def": "v. 藐视（despise）【四级】"}
+    "despised": {"ipa": "/dɪˈspaɪzd/", "def": "v. 藐视（despise）【四级】"},
+    "intimations": {"ipa": "/ˌɪntɪˈmeɪʃnz/", "def": "n. 提点，暗示（intimation）"},
+    "workmanship": {"ipa": "/ˈwɜːkmənʃɪp/", "def": "n. 工艺，手艺【六级】"},
+    "tact": {"ipa": "/tækt/", "def": "n. 机敏，分寸感【六级/GRE】"},
+    "daring": {"ipa": "/ˈdeərɪŋ/", "def": "n./adj. 果敢，大胆【四级】"},
+    "persistence": {"ipa": "/pəˈsɪstəns/", "def": "n. 恒劲，坚持【四级】"},
+    "crowding": {"ipa": "/ˈkraʊdɪŋ/", "def": "v.【此处特殊义】催逼到极限（crowd）；常见义：拥挤"},
+    "evermore": {"ipa": "/ˌevəˈmɔː/", "def": "adv.【书面】永远，时常（seek His face evermore：时常寻求他的面）"},
+    "captivity": {"ipa": "/kæpˈtɪvəti/", "def": "n. 掳掠（bring into captivity：夺回，使就范）【六级】"},
+    "meditation": {"ipa": "/ˌmedɪˈteɪʃn/", "def": "n. 默想，意念【六级】"},
+    "fearfulness": {"ipa": "/ˈfɪəflnəs/", "def": "n. 胆怯（a spirit of fearfulness：胆怯的心）"},
+    "guile": {"ipa": "/ɡaɪl/", "def": "n. 诡诈（speaking guile：说诡诈的话）【GRE】"},
+    "entice": {"ipa": "/ɪnˈtaɪs/", "def": "v. 引诱【六级/GRE】"},
+    "smart": {"ipa": "/smɑːt/", "def": "v.【古义】吃苦头，作痛（shall smart for it：必受亏损）；常见义：聪明的"},
+    "acknowledge": {"ipa": "/əkˈnɒlɪdʒ/", "def": "v. 认定，承认（In all thy ways acknowledge Him）【四级】"},
+    "perisheth": {"ipa": "/ˈperɪʃəθ/", "def": "= perishes（-eth 古词尾）：必坏，朽坏"},
+    "seekest": {"ipa": "/ˈsiːkɪst/", "def": "= seek（与 thou 搭配的 -est 词尾）：（你）图谋"},
+    "vainglory": {"ipa": "/ˌveɪnˈɡlɔːri/", "def": "n. 虚浮的荣耀（vain 虚空 + glory）【GRE】"},
+    "faction": {"ipa": "/ˈfækʃn/", "def": "n. 结党；派系【六级/GRE】"},
+    "murmurings": {"ipa": "/ˈmɜːmərɪŋz/", "def": "n. 怨言（murmur：低语，发怨言）"},
+    "disputings": {"ipa": "/dɪˈspjuːtɪŋz/", "def": "n. 争论（dispute）"},
+    "stumbling-block": {"ipa": "/ˈstʌmblɪŋ blɒk/", "def": "n. 绊脚石（stumble：绊跌）"},
+    "tender-hearted": {"ipa": "/ˌtendə ˈhɑːtɪd/", "def": "adj. 存怜悯之心的，心肠柔软的"},
+    "constraineth": {"ipa": "/kənˈstreɪnəθ/", "def": "= constrains（-eth 古词尾）：激励，催逼"},
+    "inwrought": {"ipa": "/ˌɪnˈrɔːt/", "def": "adj. 内里造成的（in + wrought：织入的，内造的）"},
+    "counsels": {"ipa": "/ˈkaʊnslz/", "def": "n. 劝言（counsel）【六级】"},
+    "intermit": {"ipa": "/ˌɪntəˈmɪt/", "def": "v. 间断，中辍【GRE】"},
+    "attent": {"ipa": "/əˈtent/", "def": "adj.【古】侧耳倾听的（= attentive）"},
+    "frames": {"ipa": "/freɪmz/", "def": "n.【古义】心境，情绪状态（frames or feelings）；常见义：框架"},
+    "recompense": {"ipa": "/ˈrekəmpens/", "def": "v./n. 报偿【GRE】"},
+    "willful": {"ipa": "/ˈwɪlfl/", "def": "adj. 任性的，故意的【GRE】"},
+    "indulgence": {"ipa": "/ɪnˈdʌldʒəns/", "def": "n. 放纵【六级】"}
   },
   "vocab_table": [
     {"word": "warfare", "ipa": "/ˈwɔːfeə/", "def": "n. 争战"},
@@ -517,6 +624,15 @@
     {"word": "withhold", "ipa": "/wɪðˈhəʊld/", "def": "v. 留住不给，推辞"},
     {"word": "subsist", "ipa": "/səbˈsɪst/", "def": "v. 存活，存在"},
     {"word": "petition", "ipa": "/pəˈtɪʃn/", "def": "n. 祈求，祷文"},
-    {"word": "forbear", "ipa": "/fɔːˈbeə/", "def": "v. 容忍，宽容"}
+    {"word": "forbear", "ipa": "/fɔːˈbeə/", "def": "v. 容忍，宽容"},
+    {"word": "tact", "ipa": "/tækt/", "def": "n. 机敏，分寸感"},
+    {"word": "guile", "ipa": "/ɡaɪl/", "def": "n. 诡诈"},
+    {"word": "entice", "ipa": "/ɪnˈtaɪs/", "def": "v. 引诱"},
+    {"word": "vainglory", "ipa": "/ˌveɪnˈɡlɔːri/", "def": "n. 虚浮的荣耀"},
+    {"word": "faction", "ipa": "/ˈfækʃn/", "def": "n. 结党；派系"},
+    {"word": "intermit", "ipa": "/ˌɪntəˈmɪt/", "def": "v. 间断，中辍"},
+    {"word": "recompense", "ipa": "/ˈrekəmpens/", "def": "v./n. 报偿"},
+    {"word": "willful", "ipa": "/ˈwɪlfl/", "def": "adj. 任性的，故意的"},
+    {"word": "indulgence", "ipa": "/ɪnˈdʌldʒəns/", "def": "n. 放纵"}
   ]
 }

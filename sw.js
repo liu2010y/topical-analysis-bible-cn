@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-25dc1eb11c';
+const CACHE = 'topical-cn-09ef86d1c7';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -88,7 +88,17 @@ const ASSETS = [
   "./051-Creed-%E4%BF%A1%E7%BB%8F.html",
   "./052-Criticism-%E6%89%B9%E8%AF%84%E5%AD%A6.html",
   "./053-Day-of-Lord-%E4%B8%BB%E7%9A%84%E6%97%A5%E5%AD%90.html",
-  "./054-Deacon-%E6%89%A7%E4%BA%8B.html"
+  "./054-Deacon-%E6%89%A7%E4%BA%8B.html",
+  "./055-Death-%E6%AD%BB.html",
+  "./056-Demoniac-%E8%A2%AB%E9%AC%BC%E9%99%84%E8%80%85.html",
+  "./057-Despondency-%E7%81%B0%E5%BF%83%E4%B8%A7%E8%83%86.html",
+  "./058-Diligence-%E6%AE%B7%E5%8B%A4.html",
+  "./059-Divorce-%E7%A6%BB%E5%A9%9A.html",
+  "./060-Doubts-%E7%96%91%E6%83%91.html",
+  "./061-Drunkenness-%E9%86%89%E9%85%92.html",
+  "./062-Elder-%E9%95%BF%E8%80%81.html",
+  "./063-Eternity-%E6%B0%B8%E6%81%92.html",
+  "./064-Failures-of-Good-Men-%E4%B9%89%E4%BA%BA%E7%9A%84%E5%A4%B1%E8%B4%A5%E4%B8%8E%E6%95%99%E8%AE%AD.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

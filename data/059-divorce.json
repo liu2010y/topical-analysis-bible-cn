@@ -1,0 +1,40 @@
+{
+  "num": "059",
+  "title_en": "DIVORCE",
+  "title_zh": "离婚",
+  "html_name": "059-Divorce-离婚.html",
+  "pages": "原书 p. 114",
+  "ocr_note": "本词条为原书的索引式短词条；括号内经文引句为译者依所引章节补出，便于阅读。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "DIVORCE. Unlawful connections. Matt. 5:31, 32. (Whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery.) Matt. 19:3-9. (What therefore God hath joined together, let not man put asunder.) 1 Cor. 5:1-5. 1 Cor. 7:11, 13-15, 39. See Commandments, Seventh; Family; Marriage.",
+          "zh": "离婚。不合法的结合。马太福音 5:31-32 ——（只是我告诉你们，凡休妻的，若不是为淫乱的缘故，就是叫她作淫妇了。）19:3-9 ——（所以，神配合的，人不可分开。）哥林多前书 5:1-5。7:11, 13-15, 39。另参主题词条：十诫之第七诫（043）；家庭；婚姻。",
+          "bsb": "Matthew 19:6",
+          "grammar": [
+            {"id": "compound-relatives", "note": "Whosoever shall put away his wife：whosoever 复合关系代词（凡休妻的）；put away：古义『休弃』。"},
+            {"id": "let-imperative", "note": "let not man put asunder：let 祈使的否定式（人不可分开）；asunder：古副词『分开地』。"},
+            {"note": "saving for the cause of fornication：saving = except（古介词『除了』），与今分词 saving 无关。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "divorce": {"ipa": "/dɪˈvɔːs/", "def": "n./v. 离婚【四级】"},
+    "unlawful": {"ipa": "/ʌnˈlɔːfl/", "def": "adj. 不合法的【四级】"},
+    "whosoever": {"ipa": "/ˌhuːsəʊˈevə/", "def": "pron.【古】无论何人（= whoever）"},
+    "saving": {"ipa": "/ˈseɪvɪŋ/", "def": "prep.【古】除了（= except）【四级】"},
+    "fornication": {"ipa": "/ˌfɔːnɪˈkeɪʃn/", "def": "n. 淫乱，苟合【GRE】"},
+    "adultery": {"ipa": "/əˈdʌltəri/", "def": "n. 奸淫，通奸【六级】"},
+    "asunder": {"ipa": "/əˈsʌndə/", "def": "adv.【古】分开地（put asunder：拆散）【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "divorce", "ipa": "/dɪˈvɔːs/", "def": "n./v. 离婚"},
+    {"word": "fornication", "ipa": "/ˌfɔːnɪˈkeɪʃn/", "def": "n. 淫乱，苟合【GRE】"},
+    {"word": "adultery", "ipa": "/əˈdʌltəri/", "def": "n. 奸淫，通奸"},
+    {"word": "asunder", "ipa": "/əˈsʌndə/", "def": "adv.【古】分开地（put asunder：拆散）"}
+  ]
+}

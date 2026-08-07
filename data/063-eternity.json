@@ -1,0 +1,68 @@
+{
+  "num": "063",
+  "title_en": "ETERNITY",
+  "title_zh": "永恒",
+  "html_name": "063-Eternity-永恒.html",
+  "pages": "原书 p. 116–117",
+  "sections": [
+    {
+      "heading": "定义与核心经文 / Meaning and Chief Texts",
+      "blocks": [
+        {
+          "en": "ETERNITY. Heb. olam; Gr. aion. Everlasting; eternal. Eccles. 3:11. He hath set eternity in their heart. Isa. 57:15. The high and lofty One that inhabiteth eternity. 2 Cor. 4:18. The things which are not seen are eternal. 2 Cor. 5:1. A house not made with hands, eternal in the heavens. Heb. 7:16. The power of an endless life. 2 Cor. 4:17. An eternal weight of glory.",
+          "zh": "永恒。希伯来文 olam；希腊文 aion——『永远的，永恒的』。传道书 3:11 —— 又将永生（英译：永恒）安置在世人心里。以赛亚书 57:15 —— 那至高至上、永远长存（英译：住在永恒中）的。哥林多后书 4:18 —— 所不见的是永远的。5:1 —— 我们……必得神所造，不是人手所造，在天上永存的房屋。希伯来书 7:16 —— 无穷（原文作不能毁坏）之生命的大能。哥林多后书 4:17 —— 极重无比、永远的荣耀。",
+          "bsb": "Ecclesiastes 3:11",
+          "grammar": [
+            {"id": "the-adjective", "note": "the high and lofty One：the＋形容词＋One（那至高至上者）。"},
+            {"id": "eth-est-endings", "note": "inhabiteth：住在（永恒之中）。"},
+            {"id": "postpositive-adjective", "note": "a house … eternal in the heavens：形容词短语后置（在天上永存的房屋）。"}
+          ]
+        },
+        {
+          "en": "Life everlasting, eternal: Matt. 25:46. Mark 10:30. John 3:15; 6:47, 54; 10:28. (I give unto them eternal life; and they shall never perish.) John 17:2, 3. (This is life eternal, that they should know Thee, the only true God, and Him whom Thou didst send, even Jesus Christ.) Rom. 2:7; 6:23. 1 Tim. 6:12. 1 John 2:25; 5:12, 13, 20. Jude 21.",
+          "zh": "永生（everlasting / eternal life）：马太福音 25:46。马可福音 10:30。约翰福音 3:15；6:47, 54；10:28 ——（我又赐给他们永生，他们永不灭亡。）17:2-3 ——（认识你独一的真神，并且认识你所差来的耶稣基督，这就是永生。）罗马书 2:7；6:23。提摩太前书 6:12。约翰一书 2:25；5:12, 13, 20。犹大书 21。",
+          "bsb": "John 10:28",
+          "grammar": [
+            {"id": "postpositive-adjective", "note": "life eternal / life everlasting：形容词后置（永生），庄重语体。"},
+            {"note": "This is life eternal, that they should know Thee：that 同位语从句说明 life eternal 的内容；even Jesus Christ：even 表同位强调（就是耶稣基督）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "『永远的』之诸般应用 / \"Everlasting\" and \"Eternal\" Further Applied",
+      "blocks": [
+        {
+          "en": "Everlasting and eternal further applied: Covenant, 2 Sam. 23:5; Heb. 13:20. Salvation, Isa. 45:17; Heb. 5:9; 2 Tim. 2:10; 1 Pet. 5:10. Redemption, Heb. 9:12. Inheritance, Heb. 9:15. Mercy, Ps. 100:5. Strength and Arms (of God), Isa. 26:4; Deut. 33:27. Righteousness, Ps. 119:142. Kingdom, Ps. 145:13. Gospel, Rev. 14:6. Consolation, 2 Thes. 2:16. Joy, Isa. 35:10. Light, Isa. 60:19. Love, Jer. 31:3. (I have loved thee with an everlasting love.) Punishment, Matt. 25:46. Destruction, 2 Thes. 1:9. Fire, Matt. 18:8; 25:41; Jude 7; Isa. 33:14. Also, Ps. 16:11. Pleasures for evermore. Ps. 133:3. Life for evermore. Luke 16:9. Everlasting habitations.",
+          "zh": "『永远的』一词的诸般应用：约——撒母耳记下 23:5；希伯来书 13:20。救恩——以赛亚书 45:17；希伯来书 5:9；提摩太后书 2:10；彼得前书 5:10。救赎——希伯来书 9:12。产业——9:15。慈爱——诗篇 100:5。能力与膀臂（神的）——以赛亚书 26:4；申命记 33:27（永生的神是你的居所，他永久的膀臂在你以下）。公义——诗篇 119:142。国度——145:13。福音——启示录 14:6。安慰——帖撒罗尼迦后书 2:16。喜乐——以赛亚书 35:10。光——60:19。爱——耶利米书 31:3 ——（我以永远的爱爱你。）刑罚——马太福音 25:46。沉沦——帖撒罗尼迦后书 1:9。火——马太福音 18:8；25:41；犹大书 7；以赛亚书 33:14。又：诗篇 16:11 —— 永远的福乐。133:3 —— 永远的生命。路加福音 16:9 —— 永存的帐幕。",
+          "bsb": "Jeremiah 31:3",
+          "grammar": [
+            {"id": "headline-style", "note": "Covenant, 2 Sam. 23:5; Salvation, …：词典式清单——名词＋出处并置，系动词全部省略；本块开列 everlasting / eternal 在圣经中修饰过的十七类事物。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "eternity": {"ipa": "/ɪˈtɜːnəti/", "def": "n. 永恒【六级】"},
+    "lofty": {"ipa": "/ˈlɒfti/", "def": "adj. 至高的，崇高的【六级】"},
+    "inhabiteth": {"ipa": "/ɪnˈhæbɪtəθ/", "def": "= inhabits（-eth 古词尾）：居住于"},
+    "endless": {"ipa": "/ˈendləs/", "def": "adj. 无穷的【四级】"},
+    "perish": {"ipa": "/ˈperɪʃ/", "def": "v. 灭亡【六级】"},
+    "consolation": {"ipa": "/ˌkɒnsəˈleɪʃn/", "def": "n. 安慰【六级】"},
+    "habitations": {"ipa": "/ˌhæbɪˈteɪʃnz/", "def": "n. 居所，帐幕（habitation）【GRE】"},
+    "evermore": {"ipa": "/ˌevəˈmɔː/", "def": "adv.【书面】永远（for evermore：直到永远）"},
+    "inheritance": {"ipa": "/ɪnˈherɪtəns/", "def": "n. 产业，基业【六级】"},
+    "punishment": {"ipa": "/ˈpʌnɪʃmənt/", "def": "n. 刑罚【四级】"},
+    "destruction": {"ipa": "/dɪˈstrʌkʃn/", "def": "n. 沉沦，毁灭【四级】"},
+    "pleasures": {"ipa": "/ˈpleʒəz/", "def": "n. 福乐（pleasure）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "eternity", "ipa": "/ɪˈtɜːnəti/", "def": "n. 永恒（希伯来文 olam，希腊文 aion）"},
+    {"word": "lofty", "ipa": "/ˈlɒfti/", "def": "adj. 至高的，崇高的"},
+    {"word": "consolation", "ipa": "/ˌkɒnsəˈleɪʃn/", "def": "n. 安慰"},
+    {"word": "evermore", "ipa": "/ˌevəˈmɔː/", "def": "adv.【书面】永远"},
+    {"word": "habitation", "ipa": "/ˌhæbɪˈteɪʃn/", "def": "n. 居所，帐幕【GRE】"},
+    {"word": "perish", "ipa": "/ˈperɪʃ/", "def": "v. 灭亡"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "num": "056",
+  "title_en": "DEMONIAC",
+  "title_zh": "被鬼附者",
+  "html_name": "056-Demoniac-被鬼附者.html",
+  "pages": "原书 p. 113",
+  "ocr_note": "本词条为原书的极短词条：仅一行，指向作者另一部注释书《The Bible Work》第十卷，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "DEMONIAC, \"Devil.\" See The Bible Work, Vol. X, on the Gospel narratives of the casting out of demons.",
+          "zh": "被鬼附者，『鬼魔』。参见作者注释书《The Bible Work》第十卷论福音书赶鬼记载的部分（原书注 X. 118, 219-221）。",
+          "bsb": false,
+          "grammar": [
+            {"note": "demoniac：名词『被鬼附的人』（demon＋-iac 后缀，构词同 maniac）；引号中的 \"Devil\" 指钦定本把希腊文 daimonion（鬼魔）也译作 devil 的用法——严格说 devil（魔鬼 diabolos）单数专指撒但。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "demoniac": {"ipa": "/dɪˈməʊniæk/", "def": "n. 被鬼附的人；adj. 被鬼附的【GRE】"},
+    "narratives": {"ipa": "/ˈnærətɪvz/", "def": "n. 记叙，叙事（narrative）【四级】"},
+    "casting": {"ipa": "/ˈkɑːstɪŋ/", "def": "v. 赶出，抛（cast out：赶出）【四级】"},
+    "demons": {"ipa": "/ˈdiːmənz/", "def": "n. 鬼魔（demon）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "demoniac", "ipa": "/dɪˈməʊniæk/", "def": "n. 被鬼附的人（demon＋-iac）【GRE】"},
+    {"word": "demon", "ipa": "/ˈdiːmən/", "def": "n. 鬼魔"}
+  ]
+}

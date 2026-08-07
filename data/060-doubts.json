@@ -1,0 +1,80 @@
+{
+  "num": "060",
+  "title_en": "DOUBTS, DOUBTING",
+  "title_zh": "疑惑",
+  "html_name": "060-Doubts-疑惑.html",
+  "pages": "原书 p. 114–115",
+  "sections": [
+    {
+      "heading": "疑惑及其解药 / Doubts and Their Antidotes",
+      "blocks": [
+        {
+          "en": "DOUBTS, Doubting. Ps. 73. Ps. 112. Dan. 5:16. (I have heard of thee, that thou canst . . . dissolve doubts.) 2 Cor. 7:5. Antidotes: Faith and Obedience. Matt. 14:30, 31. Wherefore didst thou doubt? Mark 11:23. If ye shall have faith, and doubt not. John 7:17. If any one wills to do the will of God, he shall know. Acts 10:20. Doubting nothing. Rom. 14:23. 1 Tim. 2:8. Pray, without wrath and doubting.",
+          "zh": "疑惑，疑心。诗篇 73 篇（亚萨几乎失脚，进了圣所才看明白）；112 篇。但以理书 5:16 ——（我听说你善于讲解，能解疑惑。）哥林多后书 7:5。解药：信心与顺服。马太福音 14:30-31 —— 为什么疑惑呢？马可福音 11:23 —— 你们若有信心，不疑惑。约翰福音 7:17 —— 人若立志遵着他的旨意行，就必晓得。使徒行传 10:20 —— 不要疑惑（英译：什么也不疑惑）。罗马书 14:23。提摩太前书 2:8 —— 无忿怒，无争论（英译：无疑惑），举起圣洁的手祷告。【OCR 注：原书 \"Mark 14:30, 31\" 依经文（『为什么疑惑呢』——彼得履海下沉）推定为马太福音 14:30-31。】",
+          "bsb": "Matthew 14:31",
+          "grammar": [
+            {"id": "archaic-aux", "note": "Wherefore didst thou doubt? / thou canst：didst、canst 为古体第二人称单数助动词。"},
+            {"note": "wherefore = why（古疑问副词『为何』）；If any one wills to do …：wills 作实义动词『立志，定意』，非助动词。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "邀请亲自考察验证（编者论述） / Personal Investigation Invited",
+      "blocks": [
+        {
+          "en": "Personal investigation and testing invited. Doubters are asked to examine the reasonableness of God's claim to obedience and trust, and to test by personal experience the validity and sufficiency of the covenant promises of God touching the Redemption accomplished by Christ Jesus, sealed and assured by the regenerating energy of the Holy Spirit. The reasonable and conclusive grounds of God's claims and appeals to man's belief and responsive action comprise the substance of the whole Bible. These are clearly and effectively stated by the Old Testament Psalmists and Prophets, and by the writers of the New Testament; and most fully and convincingly by Christ Himself, in every form of utterance and teaching. And they find exemplary illustration and impressive enforcement in manifold details of the history of individuals and nations in both Testaments.",
+          "zh": "邀请人亲自考察、亲自验证。疑惑者被邀请来省察：神要求人顺服信靠，这要求何等合理；又以切身经历检验神诸约应许的确实与充足——这些应许关乎基督耶稣所成就的救赎，并由圣灵重生的大能所印证、所担保。神向人的信心与回应发出要求和呼吁，其合理而确凿的根据构成了整本圣经的实质内容。旧约的诗人与先知、新约的众作者，都把这些根据陈明得清楚有力；基督自己更借着各样的讲论与教导，陈明得最完全、最令人信服。而在新旧两约里个人与列国历史的种种细节中，这些根据又得着典范式的例证与深刻的印证。",
+          "bsb": false,
+          "grammar": [
+            {"id": "ellipsis", "note": "Personal investigation and testing invited：标题式省略 are（邀请亲自考察验证）。"},
+            {"note": "touching the Redemption = concerning the Redemption（touching 作介词『关于』，古用法）；sealed and assured by …：过去分词短语后置修饰 promises；test by personal experience the validity …：状语插入、长宾语后置——维多利亚长句的典型语序。"}
+          ]
+        },
+        {
+          "en": "We cite a few simple but significant sentences: Isa. 1:18. Come now, and let us reason together, saith the Lord. Isa. 41:21. Bring forth your strong reasons. Acts 24:25. As he reasoned of righteousness and judgment to come. Rom. 12:1. Your reasonable service. Invitations to personal test: Ps. 34:8. O taste and see that the Lord is good. John 1:39. Come and see.",
+          "zh": "我们援引几句简明而意味深长的话：以赛亚书 1:18 —— 耶和华说：你们来，我们彼此辩论。41:21 —— 声明你们确实的理由（英译：拿出你们有力的论据来）。使徒行传 24:25 —— 保罗讲论公义……并将来的审判。罗马书 12:1 —— 你们如此事奉乃是理所当然的。请人亲自尝试的邀请：诗篇 34:8 —— 你们要尝尝主恩的滋味，便知道他是美善。约翰福音 1:39 —— 你们来看。",
+          "bsb": "Isaiah 1:18",
+          "grammar": [
+            {"id": "let-imperative", "note": "let us reason together：let 祈使（我们彼此辩论）。"},
+            {"id": "vocative-o", "note": "O taste and see：O＋祈使——邀请式感叹。"},
+            {"id": "inversion", "note": "saith the Lord：直接引语后的主谓倒装（耶和华说）。"},
+            {"note": "judgment to come：不定式后置作定语（将来的审判）；reasoned of righteousness：of =【古】about，讲论公义。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "doubting": {"ipa": "/ˈdaʊtɪŋ/", "def": "n./adj. 疑惑（doubt）【四级】"},
+    "dissolve": {"ipa": "/dɪˈzɒlv/", "def": "v.【此处义】解开（疑团）；【常义】溶解【四级】"},
+    "antidotes": {"ipa": "/ˈæntidəʊts/", "def": "n. 解药，解毒剂（antidote）【六级】"},
+    "wherefore": {"ipa": "/ˈweəfɔː/", "def": "adv.【古】为何（= why）；因此"},
+    "wrath": {"ipa": "/rɒθ/", "def": "n. 忿怒【GRE】"},
+    "validity": {"ipa": "/vəˈlɪdəti/", "def": "n. 确实性，有效性【六级】"},
+    "sufficiency": {"ipa": "/səˈfɪʃnsi/", "def": "n. 充足【六级】"},
+    "regenerating": {"ipa": "/rɪˈdʒenəreɪtɪŋ/", "def": "adj. 使重生的（regenerate：重生）【六级】"},
+    "conclusive": {"ipa": "/kənˈkluːsɪv/", "def": "adj. 确凿的，决定性的【六级】"},
+    "comprise": {"ipa": "/kəmˈpraɪz/", "def": "v. 构成，包含【六级】"},
+    "responsive": {"ipa": "/rɪˈspɒnsɪv/", "def": "adj. 回应的【六级】"},
+    "utterance": {"ipa": "/ˈʌtərəns/", "def": "n. 言语，讲论【六级】"},
+    "convincingly": {"ipa": "/kənˈvɪnsɪŋli/", "def": "adv. 令人信服地（convince）【四级】"},
+    "exemplary": {"ipa": "/ɪɡˈzempləri/", "def": "adj. 典范的，堪作榜样的【GRE】"},
+    "enforcement": {"ipa": "/ɪnˈfɔːsmənt/", "def": "n.【此处义】印证，强化；【常义】执行【六级】"},
+    "manifold": {"ipa": "/ˈmænɪfəʊld/", "def": "adj. 各种各样的，繁多的【GRE】"},
+    "cite": {"ipa": "/saɪt/", "def": "v. 援引，引用【六级】"},
+    "reasonableness": {"ipa": "/ˈriːznəblnəs/", "def": "n. 合理性（reasonable）【四级】"},
+    "investigation": {"ipa": "/ɪnˌvestɪˈɡeɪʃn/", "def": "n. 考察，调查【四级】"},
+    "doubters": {"ipa": "/ˈdaʊtəz/", "def": "n. 疑惑者（doubter）【四级】"},
+    "reasoned": {"ipa": "/ˈriːznd/", "def": "v. 讲论，论证（reason of =【古】讲论）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "antidote", "ipa": "/ˈæntidəʊt/", "def": "n. 解药（疑惑的解药：信心与顺服）"},
+    {"word": "validity", "ipa": "/vəˈlɪdəti/", "def": "n. 确实性，有效性"},
+    {"word": "manifold", "ipa": "/ˈmænɪfəʊld/", "def": "adj. 各种各样的，繁多的【GRE】"},
+    {"word": "exemplary", "ipa": "/ɪɡˈzempləri/", "def": "adj. 典范的【GRE】"},
+    {"word": "utterance", "ipa": "/ˈʌtərəns/", "def": "n. 言语，讲论"},
+    {"word": "wherefore", "ipa": "/ˈweəfɔː/", "def": "adv.【古】为何（= why）"},
+    {"word": "wrath", "ipa": "/rɒθ/", "def": "n. 忿怒【GRE】"}
+  ]
+}

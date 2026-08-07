@@ -1,0 +1,79 @@
+{
+  "num": "061",
+  "title_en": "DRUNKENNESS",
+  "title_zh": "醉酒",
+  "html_name": "061-Drunkenness-醉酒.html",
+  "pages": "原书 p. 115–116",
+  "sections": [
+    {
+      "heading": "浓酒 / Strong Drink",
+      "blocks": [
+        {
+          "en": "DRUNKENNESS, Strong Drink, Wine. Strong drink: \"What satiates or intoxicates.\" Young. Prov. 20:1. Strong drink is a brawler. Isa. 5:11-14, 22. Woe unto them that follow strong drink. Isa. 24:9. Strong drink shall be bitter to them that drink it. Isa. 28:7. Through strong drink they are gone astray. Hab. 2:15. Woe unto him that giveth his neighbor drink.",
+          "zh": "醉酒，浓酒，酒。浓酒：『凡使人餍足或使人醉的』——杨氏（Robert Young，《圣经分析经文汇编》编者）的界说。箴言 20:1 —— 浓酒发怒（英译：浓酒是好斗的）。以赛亚书 5:11-14, 22 —— 祸哉，那些……追求浓酒的人。24:9 —— 喝浓酒的必觉苦味。28:7 —— 因浓酒东倒西歪（英译：因浓酒走迷了路）。哈巴谷书 2:15 —— 给人酒喝……的有祸了。",
+          "bsb": "Proverbs 20:1",
+          "grammar": [
+            {"id": "him-that-relative", "note": "them that follow / him that giveth：那追求浓酒的／那给邻舍酒喝的。"},
+            {"note": "Woe unto …：圣经咒祸句式（……有祸了）——名词 woe＋介词短语，全句无动词。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "酒；例证 / Wine; Illustrations",
+      "blocks": [
+        {
+          "en": "Wine: For the meaning and discriminated use of the Hebrew and Greek words, see Ps. 104:15 with the comments. Prov. 20:1. Wine is a mocker. Prov. 23:20. Be not among winebibbers, among gluttonous eaters of flesh. Prov. 23:29-35. (Who hath woe? who hath sorrow? . . . They that tarry long at the wine. At the last it biteth like a serpent, and stingeth like an adder.) Eph. 5:18. Be not drunk with wine, wherein is excess. Rom. 13:13. Not in rioting and drunkenness. Gal. 5:21. Works of the flesh . . . drunkenness. 1 Cor. 6:10. Nor drunkards shall inherit the Kingdom of God.",
+          "zh": "酒：希伯来文与希腊文诸『酒』字的含义与分别用法，参诗篇 104:15 及其注解。箴言 20:1 —— 酒能使人亵慢。23:20 —— 好饮酒的，好吃肉的，不要与他们来往。23:29-35 ——（谁有祸患？谁有忧愁？……就是那流连饮酒的人。终久是咬你如蛇，刺你如毒蛇。）以弗所书 5:18 —— 不要醉酒，酒能使人放荡。罗马书 13:13 —— 不可荒宴醉酒。加拉太书 5:21 —— 情欲的事……醉酒。哥林多前书 6:10 —— 醉酒的……都不能承受神的国。",
+          "bsb": "Ephesians 5:18",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Be not among winebibbers / Be not drunk with wine：be 动词祈使否定，不用 do。"},
+            {"id": "prep-relative", "note": "wherein is excess：wherein = in which（其中有放荡）。"},
+            {"id": "eth-est-endings", "note": "biteth / stingeth / giveth：咬你如蛇，刺你如毒蛇。"}
+          ]
+        },
+        {
+          "en": "Illustrations: Noah, Gen. 9:21. Lot, Gen. 19:32. The Rechabites, who drank no wine, Jer. 35. Dan. 1:8. (Daniel purposed in his heart that he would not defile himself with the king's wine.)",
+          "zh": "例证：挪亚——创世记 9:21（醉酒赤身）。罗得——19:32（女儿以酒灌醉其父）。利甲族人——耶利米书 35 章（谨守祖训滴酒不入口，蒙神称许）。但以理书 1:8 ——（但以理却立志，不以王的酒玷污自己。）",
+          "bsb": "Daniel 1:8",
+          "grammar": [
+            {"note": "purposed in his heart that he would not …：purpose 作动词『立志』＋that 从句（立志不玷污自己）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "drunkenness": {"ipa": "/ˈdrʌŋkənnəs/", "def": "n. 醉酒（drunken：醉的）【四级】"},
+    "satiates": {"ipa": "/ˈseɪʃieɪts/", "def": "v. 使餍足，使饱足（satiate）【GRE】"},
+    "intoxicates": {"ipa": "/ɪnˈtɒksɪkeɪts/", "def": "v. 使醉（intoxicate）【六级】"},
+    "brawler": {"ipa": "/ˈbrɔːlə/", "def": "n. 好斗吵闹的人（brawl：斗殴）【GRE】"},
+    "woe": {"ipa": "/wəʊ/", "def": "n. 祸患（Woe unto …：……有祸了）【GRE】"},
+    "astray": {"ipa": "/əˈstreɪ/", "def": "adv. 迷路地（go astray：走迷）【六级】"},
+    "mocker": {"ipa": "/ˈmɒkə/", "def": "n. 亵慢者，好讥诮的（mock：讥诮）【六级】"},
+    "winebibbers": {"ipa": "/ˈwaɪnbɪbəz/", "def": "n.【古】好饮酒的人（bib：啜饮）"},
+    "gluttonous": {"ipa": "/ˈɡlʌtənəs/", "def": "adj. 贪食的（glutton：老饕）【GRE】"},
+    "tarry": {"ipa": "/ˈtæri/", "def": "v.【古】流连，耽延【GRE】"},
+    "serpent": {"ipa": "/ˈsɜːpənt/", "def": "n. 蛇（书面语）【六级】"},
+    "adder": {"ipa": "/ˈædə/", "def": "n. 毒蛇，蝰蛇"},
+    "biteth": {"ipa": "/ˈbaɪtəθ/", "def": "= bites（-eth 古词尾）：咬"},
+    "stingeth": {"ipa": "/ˈstɪŋəθ/", "def": "= stings（-eth 古词尾）：刺"},
+    "excess": {"ipa": "/ɪkˈses/", "def": "n. 放荡，无度【四级】"},
+    "rioting": {"ipa": "/ˈraɪətɪŋ/", "def": "n. 荒宴，放荡喧闹（riot）【六级】"},
+    "drunkards": {"ipa": "/ˈdrʌŋkədz/", "def": "n. 醉酒的人，酒徒（drunkard）【六级】"},
+    "defile": {"ipa": "/dɪˈfaɪl/", "def": "v. 玷污【GRE】"},
+    "purposed": {"ipa": "/ˈpɜːpəst/", "def": "v.【古】立志，定意（purpose 作动词）【四级】"},
+    "discriminated": {"ipa": "/dɪˈskrɪmɪneɪtɪd/", "def": "adj. 加以分别的（discriminate：辨别）【六级】"},
+    "illustrations": {"ipa": "/ˌɪləˈstreɪʃnz/", "def": "n. 例证（illustration）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "intoxicate", "ipa": "/ɪnˈtɒksɪkeɪt/", "def": "v. 使醉"},
+    {"word": "satiate", "ipa": "/ˈseɪʃieɪt/", "def": "v. 使餍足【GRE】"},
+    {"word": "brawler", "ipa": "/ˈbrɔːlə/", "def": "n. 好斗吵闹的人【GRE】"},
+    {"word": "winebibber", "ipa": "/ˈwaɪnbɪbə/", "def": "n.【古】好饮酒的人"},
+    {"word": "gluttonous", "ipa": "/ˈɡlʌtənəs/", "def": "adj. 贪食的【GRE】"},
+    {"word": "tarry", "ipa": "/ˈtæri/", "def": "v.【古】流连，耽延【GRE】"},
+    {"word": "adder", "ipa": "/ˈædə/", "def": "n. 毒蛇，蝰蛇"},
+    {"word": "defile", "ipa": "/dɪˈfaɪl/", "def": "v. 玷污【GRE】"}
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "num": "055",
+  "title_en": "DEATH",
+  "title_zh": "死",
+  "html_name": "055-Death-死.html",
+  "pages": "原书 p. 110–113",
+  "ocr_note": "本词条页眉与个别引用编号扫描有讹误（如小节标题 \"Wicked\" 误作 \"Mrieked\"），已依上下文与经文体系修正并在文中加【OCR 注】；内容完整。",
+  "sections": [
+    {
+      "heading": "死的宣告与普遍性 / First Announced; Appointed to All",
+      "blocks": [
+        {
+          "en": "DEATH. First announced: Gen. 3:19. Unto dust shalt thou return.",
+          "zh": "死。最初的宣告：创世记 3:19 —— 你本是尘土，仍要归于尘土。",
+          "bsb": "Genesis 3:19",
+          "grammar": [
+            {"id": "inversion", "note": "Unto dust shalt thou return：介词短语前置＋主谓倒装（仍要归于尘土）——伊甸园判语的庄严句式。"}
+          ]
+        },
+        {
+          "en": "Appointed to all: Heb. 9:27. It is appointed unto men once to die. Eccles. 3:2. A time to die. Eccles. 8:8. No man hath power to retain the spirit. Eccles. 9:5. The living know that they shall die. Eccles. 12:7. Dust to dust—the dust return to the earth as it was, and the spirit return unto God who gave it. Jer. 16:6. Both great and small shall die. 2 Sam. 14:14. We must needs die. Deut. 31:14, 16.",
+          "zh": "命定于众人：希伯来书 9:27 —— 按着定命，人人都有一死。传道书 3:2 —— 死有时。8:8 —— 无人有权力将生命留住（原文作留住灵）。9:5 —— 活着的人知道必死。12:7 —— 尘归尘——尘土仍归于地，灵仍归于赐灵的神。耶利米书 16:6 —— 连大带小……都必死。撒母耳记下 14:14 —— 我们都是必死的。申命记 31:14, 16。【OCR 注：原书 \"1 Sam. 14:14\" 依经文（\"我们都是必死的\"）推定为撒母耳记下 14:14。】",
+          "bsb": "Hebrews 9:27",
+          "grammar": [
+            {"note": "It is appointed unto men once to die：it 形式主语＋不定式真主语（按定命人人都有一死）；We must needs die：needs 为古副词『必然地』（= necessarily），与 must 连用加强必然性，与名词 needs 无关。"}
+          ]
+        },
+        {
+          "en": "The event determined by God: Job 30:23. Thou wilt bring me to death. Job 14:5. The number of his months is with Thee. Ps. 68:20. Unto Jehovah the Lord belong the issues from death. John 14:3.",
+          "zh": "死期由神定：约伯记 30:23 —— 我知道要使我临到死地。14:5 —— 他的月数在你那里。诗篇 68:20 —— 人能脱离死亡，是在乎主耶和华（直译：出离死亡的通路属乎主耶和华）。约翰福音 14:3。",
+          "bsb": "Job 14:5",
+          "grammar": [
+            {"id": "inversion", "note": "Unto Jehovah the Lord belong the issues from death：介词短语前置＋主谓倒装；issues 此处取古义『出口，出路』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "恶人之死；基督胜过死亡 / The Wicked; Christ Victor over Death",
+      "blocks": [
+        {
+          "en": "References to the wicked: 1 Cor. 15:56. The sting of death is sin. Eccles. 8:10. The wicked buried. Prov. 14:32. The wicked is thrust down in his evil-doing.",
+          "zh": "论恶人之死：哥林多前书 15:56 —— 死的毒钩就是罪。传道书 8:10 —— 恶人埋葬。箴言 14:32 —— 恶人在所行的恶上必被推倒。",
+          "bsb": "1 Corinthians 15:56",
+          "grammar": [
+            {"id": "the-adjective", "note": "the wicked / the living / the righteous：the＋形容词表一类人，本词条通篇反复出现。"}
+          ]
+        },
+        {
+          "en": "Christ, Victor over death: Heb. 2:14, 15. Through death He destroyed him that had the power of death. 1 Cor. 15:26. The last enemy that shall be destroyed is death. Isa. 25:8. He hath swallowed up death for ever. 2 Tim. 1:10. Christ Jesus, who abolished death. 1 Cor. 15:54-57. Death is swallowed up in victory. Hosea 13:14. O death, where are thy plagues? Rev. 21:4. There shall be no more death.",
+          "zh": "基督——死亡的得胜者：希伯来书 2:14-15 —— 借着死败坏那掌死权的。哥林多前书 15:26 —— 尽末了所毁灭的仇敌就是死。以赛亚书 25:8 —— 他已经吞灭死亡直到永远。提摩太后书 1:10 —— 基督耶稣……把死废去。哥林多前书 15:54-57 —— 死被得胜吞灭。何西阿书 13:14 —— 死啊，你的灾害在哪里呢？启示录 21:4 —— 不再有死亡。",
+          "bsb": "1 Corinthians 15:54-55",
+          "grammar": [
+            {"id": "him-that-relative", "note": "him that had the power of death：那掌死权的（指魔鬼）。"},
+            {"id": "vocative-o", "note": "O death, where are thy plagues?：呼格修辞——向被击败的『死亡』发出胜利的质问。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "义人之死——睡了且必醒 / Death of the Righteous: a Sleep with Blissful Awaking",
+      "blocks": [
+        {
+          "en": "Death of the righteous—of saints: \"Dead with Christ,\" Rom. 6:8; Col. 2:20. \"Dead in Christ,\" 1 Thes. 4:16. Prov. 14:32. The righteous hath hope in his death. Isa. 57:1, 2. The righteous is taken away from the evil to come; he entereth into peace. Ps. 37:37. The latter end of the upright man is peace. 1 Cor. 3:22. Death is yours. Rom. 8:38. Nor death can separate us from the love of God. Ps. 73:24-26. Afterward receive me to glory. Ps. 116:15. Precious in the sight of the Lord is the death of His saints. Rev. 14:13. Blessed are the dead who die in the Lord. John 11:25. Though he were dead, yet shall he live. John 14:3. I will receive you unto Myself.",
+          "zh": "义人——圣徒之死：『与基督同死』——罗马书 6:8；歌罗西书 2:20。『在基督里死了的人』——帖撒罗尼迦前书 4:16。箴言 14:32 —— 义人临死，有所投靠。以赛亚书 57:1-2 —— 义人被收去是免了将来的祸患；他们得享平安。诗篇 37:37 —— 完全人的结局是平安。哥林多前书 3:22 —— 死……都是你们的。罗马书 8:38 —— 死也不能叫我们与神的爱隔绝。诗篇 73:24-26 —— 以后必接我到荣耀里。116:15 —— 在耶和华眼中，看圣民之死极为宝贵。启示录 14:13 —— 在主里面而死的人有福了。约翰福音 11:25 —— 死了，也必复活（英译：虽然死了，仍必活着）。14:3 —— 接你们到我那里去。",
+          "bsb": "Psalm 116:15",
+          "grammar": [
+            {"id": "inversion", "note": "Precious in the sight of the Lord is the death of His saints：表语前置＋主谓倒装（在耶和华眼中圣民之死极为宝贵）。"},
+            {"id": "subjunctive-though", "note": "Though he were dead, yet shall he live：though＋虚拟式 were，主句 yet shall 再倒装。"}
+          ]
+        },
+        {
+          "en": "The saint's death a sleep, with blissful awaking: Ps. 13:3. The sleep of death. 1 Thes. 4:14, 17, 18. Them that are fallen asleep in Jesus will God bring with Him. So shall we ever be with the Lord. Acts 7:60. He fell asleep. Ps. 17:15. I shall be satisfied, when I awake, with Thy likeness.",
+          "zh": "圣徒之死是睡了，且有蒙福的苏醒：诗篇 13:3 —— 免得我沉睡至死。帖撒罗尼迦前书 4:14, 17-18 —— 那已经在耶稣里睡了的人，神也必将他们与耶稣一同带来。这样，我们就要和主永远同在。使徒行传 7:60 —— 他（司提反）就睡了。诗篇 17:15 —— 我醒了的时候，得见你的形象，就心满意足了。",
+          "bsb": "1 Thessalonians 4:14",
+          "grammar": [
+            {"id": "ellipsis", "note": "The saint's death a sleep：标题式省略系动词 is（圣徒之死乃是睡眠）。"},
+            {"id": "inversion", "note": "Them that are fallen asleep … will God bring with Him：宾语整体前置＋助动词倒装；So shall we ever be with the Lord：so 引出的倒装。"}
+          ]
+        },
+        {
+          "en": "State of the blessed dead, immediate and intermediate: Luke 23:43. To-day shalt thou be with Me in Paradise. Ps. 73:24. Thou shalt receive me to glory. Phil. 1:21, 23. To die is gain. To depart and be with Christ, which is very far better. [There is a recognizable \"intermediate state,\" a period and a condition between death and the resurrection, between the present of the dead and the general judgment, between the spiritual sowing and the harvest home. The Romanists entered this state and filled it with their purgatory—a purely fiduciary and financial institution. A school of Protestant dreamers filled it with a second probation. Out of these two a third scheme has been created—a high school or university for the race, where they shall make progress in sanctification. What living man knows anything about it? Not one. In Scripture there are the barest glimpses into that shadowy land. The Interior.]",
+          "zh": "蒙福死者的状态——即时的与居间的：路加福音 23:43 —— 今日你要同我在乐园里了。诗篇 73:24 —— 以后必接我到荣耀里。腓立比书 1:21, 23 —— 我死了就有益处。情愿离世与基督同在，因为这是好得无比的。〔死与复活之间、死者的现今与末日审判之间、属灵的撒种与收割归仓之间，确有一段可以辨认的『居间状态』。罗马教把这状态占了去，填进他们的炼狱——一个纯属受托理财性质的金融机构。一派更正教的空想家又往里面填进了『第二次试验期』。由这两样又造出第三种方案——为全人类设的高等学校或大学，人在其中当在成圣上不断长进。可是活着的人有谁对它知道些什么呢？一个也没有。圣经对那幽暗之地只给了几瞥最依稀的微光。《The Interior》（内地报）〕【OCR 注：署名扫描作 \"Inferior.\"，依上下文推定为芝加哥长老会周刊 The Interior。】",
+          "bsb": "Philippians 1:21",
+          "grammar": [
+            {"note": "a purely fiduciary and financial institution：讽刺性同位语——把炼狱讥为『受托理财的金融机构』（暗指赎罪券与弥撒献金）；What living man knows anything about it? Not one.：设问＋省略答句（有谁知道？一个也没有）。"},
+            {"id": "shall-archaic", "note": "where they shall make progress in sanctification：shall 表设想方案中的安排。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "补充参考与三家论死 / Helpful References; Augustine, the Editor, J. Orr",
+      "blocks": [
+        {
+          "en": "Helpful references and suggestive thought: Job 14:10, 14. Man dieth—and where is he? If a man die, shall he live again? Death to the aged: Job 5:26. As a shock of corn cometh in in its season. Of the strong: Jer. 48. The staff broken. The condition of the infant dead. Death by translation: Enoch and Elijah. The righteous dead still live in their influence: Ps. 112:6. The righteous shall be had in everlasting remembrance. Heb. 11:4. He being dead yet speaketh. God glorified in the manner of dying: John 21:19. By what death he should glorify God. See Resurrection; Immortality; Heaven.",
+          "zh": "补充参考与默想线索：约伯记 14:10, 14 —— 人死了——他在何处呢？人若死了，岂能再活呢？论老年人之死：约伯记 5:26 —— 如同禾捆到时收藏。论强者之死：耶利米书 48 章 —— 杖折断了。婴孩死后的景况。不见死而被接去（translation 古义『接升』）：以诺与以利亚。义人虽死，其影响长存：诗篇 112:6 —— 义人被记念，直到永远。希伯来书 11:4 —— 他虽然死了，却因这信仍旧说话。以死的样式荣耀神：约翰福音 21:19 —— 指着彼得要怎样死荣耀神。另参主题词条：复活；不朽；天堂。【OCR 注：原书 \"Job U:10,14\" 依经文推定为约伯记 14 章。】",
+          "bsb": "Job 14:14",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "dieth / speaketh：-eth 词尾。"},
+            {"note": "If a man die, shall he live again?：条件句用动词原形 die（古虚拟式，今作 dies）；He being dead yet speaketh：独立主格结构（他虽死）＋主句（仍说话）——钦定本名句。"}
+          ]
+        },
+        {
+          "en": "[The death of the body is the separation of the soul from the body; but the death of the soul is the separation of the soul from God. Augustine.]",
+          "zh": "〔身体的死，是灵魂与身体分离；灵魂的死，却是灵魂与神分离。奥古斯丁（Augustine）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "两个平行的 the death of … is the separation of … from … 句式只更换末端宾语，构成对偶警句——教父拉丁文风的英译遗存。"}
+          ]
+        },
+        {
+          "en": "[Death may be regarded as \"the last enemy,\" as it brings to a final and abiding issue the life-process of probationary training, and forever closes all opportunity of obtaining Divine forgiveness, acceptance, and restoration to childship. Hence its only \"sting\" is found in unforgiven and unremitted sin. But to the soul that trusts in Christ, death has no sting, for he himself has been destroyed by Christ. The word of the Master is both sustaining and sure, \"He that believeth in Me shall never die.\" B.]",
+          "zh": "〔死可以被视为『最后的仇敌』，因为它使这一生受试验、受操练的历程归于最终而恒久的定局，永远关闭了获得神的赦免、悦纳、恢复儿子名分的一切机会。因此死唯一的『毒钩』就在未蒙赦免、未得消除的罪上。但对信靠基督的灵魂，死并没有毒钩，因为死亡自己已经被基督毁灭了。主的话语既扶持人、又确实可靠：『信我的人必永远不死。』B.（编者巴特勒）〕",
+          "bsb": "John 11:26",
+          "grammar": [
+            {"note": "brings to a final and abiding issue the life-process …：介词短语提前、长宾语殿后（使一生的历程归于定局）；issue 此处古义『结局』；for he himself has been destroyed：death 拟人化，以 he 回指。"},
+            {"id": "him-that-relative", "note": "He that believeth in Me：信我的人。"}
+          ]
+        },
+        {
+          "en": "[The Pauline statement is, \"Through one man sin entered into the world, and death through sin; and so death passed unto all men, for that all have sinned.\" So far from regarding this relation of human death to sin as an excrescence of the Christian view, which may be dropped without detriment to its substance, I regard it as a truth most fundamental and vital—organically connected with the entire Christian system. Its importance comes out most clearly when we consider it in the light of the Christian doctrine of Redemption. The Bible knows nothing of an abstract immortality of the soul, as the schools speak of it; nor is its Redemption a Redemption of the soul only, but of the body as well. It is the Redemption of man in his whole complex personality—body and soul together. It was in the body that Christ rose from the dead, ascended to heaven, and lives and reigns there for evermore. It is His promise that, if He lives, we shall live also; and this promise includes a pledge of the resurrection of the body. The truth which underlies this is, that death for man is an effect of sin. It did not lie in the Creator's original design for man that he should die—that these two component parts of his nature, body and soul, should ever be violently disrupted and severed, as death now severs them. Death is an abnormal fact in the history of the race; and Redemption is, among other things, the undoing of this evil, and the restoration of man to his normal completeness as a personal being. J. Orr.]",
+          "zh": "〔保罗的表述是：『罪是从一人入了世界，死又是从罪来的；于是死就临到众人，因为众人都犯了罪。』人的死与罪的这层关系，绝非基督教观念上一块可有可无、去之无损于本体的赘疣——恰恰相反，我视之为一条最根本、最要紧的真理，与整个基督教体系有机相连。把它放在基督教救赎教义的光中来看，其重要性最为显明。圣经并不知道学院派所讲的那种抽象的灵魂不朽；其救赎也绝非只赎灵魂，乃是连身体也一并救赎——是对人整全复合位格的救赎，身体与灵魂一同在内。基督从死里复活、升入高天、在那里永远活着掌权，都是在身体之中。他的应许是：他活着，我们也要活着；这应许里就包含着身体复活的保证。这一切底下的真理乃是：对人而言，死是罪的果效。让人死去——让人性中身体与灵魂这两个组成部分像如今死亡所做的那样被暴力撕裂拆散——原不在造物主对人最初的设计之内。死在人类历史上是一件反常的事实；而救赎的内容之一，正是消除这一恶果，使人恢复其作为位格存有的正常完整。J. Orr（詹姆斯·奥尔）〕",
+          "bsb": "Romans 5:12",
+          "grammar": [
+            {"id": "postpositive-adjective", "note": "a truth most fundamental and vital：形容词组后置（一条最根本、最要紧的真理）。"},
+            {"id": "inversion", "note": "nor is its Redemption a Redemption of the soul only：nor 引导的否定倒装。"},
+            {"note": "So far from regarding … as …, I regard it as …：so far from＋动名词（非但不……反而……）；It did not lie in the Creator's design that he should die：it 形式主语＋that 从句，should 表设计中之当然；for that all have sinned：for that =【古】because。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "appointed": {"ipa": "/əˈpɔɪntɪd/", "def": "v. 命定，指定（appoint）【四级】"},
+    "retain": {"ipa": "/rɪˈteɪn/", "def": "v. 留住，保有【四级】"},
+    "issues": {"ipa": "/ˈɪʃuːz/", "def": "n.【古义】出口，出路（issues from death：出死的通路）【四级】"},
+    "issue": {"ipa": "/ˈɪʃuː/", "def": "n.【古义】结局，归宿【四级】"},
+    "sting": {"ipa": "/stɪŋ/", "def": "n. 毒钩，刺；v. 刺【六级】"},
+    "thrust": {"ipa": "/θrʌst/", "def": "v. 推，刺（thrust down：推倒）【六级】"},
+    "abolished": {"ipa": "/əˈbɒlɪʃt/", "def": "v. 废除，废去（abolish）【四级】"},
+    "swallowed": {"ipa": "/ˈswɒləʊd/", "def": "v. 吞灭，吞下（swallow）【四级】"},
+    "plagues": {"ipa": "/pleɪɡz/", "def": "n. 灾害，瘟疫（plague）【六级】"},
+    "upright": {"ipa": "/ˈʌpraɪt/", "def": "adj. 正直的，完全的【四级】"},
+    "likeness": {"ipa": "/ˈlaɪknəs/", "def": "n. 形象，样式【六级】"},
+    "blissful": {"ipa": "/ˈblɪsfl/", "def": "adj. 极乐的，蒙福的（bliss：福乐）【GRE】"},
+    "awaking": {"ipa": "/əˈweɪkɪŋ/", "def": "n. 苏醒，醒来（awake）【四级】"},
+    "paradise": {"ipa": "/ˈpærədaɪs/", "def": "n. 乐园【四级】"},
+    "intermediate": {"ipa": "/ˌɪntəˈmiːdiət/", "def": "adj. 居间的，中间的（intermediate state：居间状态）【四级】"},
+    "resurrection": {"ipa": "/ˌrezəˈrekʃn/", "def": "n. 复活【六级】"},
+    "sowing": {"ipa": "/ˈsəʊɪŋ/", "def": "n. 撒种（sow）【四级】"},
+    "purgatory": {"ipa": "/ˈpɜːɡətri/", "def": "n. 炼狱（罗马天主教教义）【GRE】"},
+    "fiduciary": {"ipa": "/fɪˈdjuːʃəri/", "def": "adj. 受托的，信托的（法律・金融用语）【GRE】"},
+    "probation": {"ipa": "/prəˈbeɪʃn/", "def": "n. 试验期，察验期【六级】"},
+    "probationary": {"ipa": "/prəˈbeɪʃənri/", "def": "adj. 试验期的，察验中的【六级】"},
+    "sanctification": {"ipa": "/ˌsæŋktɪfɪˈkeɪʃn/", "def": "n. 成圣（sanctify：使成圣）"},
+    "glimpses": {"ipa": "/ˈɡlɪmpsɪz/", "def": "n. 一瞥，微光（glimpse）【四级】"},
+    "shadowy": {"ipa": "/ˈʃædəʊi/", "def": "adj. 幽暗的，朦胧的（shadow）【四级】"},
+    "suggestive": {"ipa": "/səˈdʒestɪv/", "def": "adj. 引人深思的，富于启发的【六级】"},
+    "translation": {"ipa": "/trænzˈleɪʃn/", "def": "n.【神学古义】接升（不经死被接去，如以诺、以利亚）；【常义】翻译【四级】"},
+    "remembrance": {"ipa": "/rɪˈmembrəns/", "def": "n. 记念【六级】"},
+    "immortality": {"ipa": "/ˌɪmɔːˈtæləti/", "def": "n. 不朽，永生【六级】"},
+    "abiding": {"ipa": "/əˈbaɪdɪŋ/", "def": "adj. 持久的，恒久的（abide）【六级】"},
+    "unremitted": {"ipa": "/ˌʌnrɪˈmɪtɪd/", "def": "adj. 未得赦除的（remit：赦免，免除）"},
+    "sustaining": {"ipa": "/səˈsteɪnɪŋ/", "def": "adj. 扶持人的，支撑的（sustain）【四级】"},
+    "excrescence": {"ipa": "/ɪkˈskresns/", "def": "n. 赘疣，多余的附生物【GRE】"},
+    "detriment": {"ipa": "/ˈdetrɪmənt/", "def": "n. 损害（without detriment to：无损于）【六级】"},
+    "organically": {"ipa": "/ɔːˈɡænɪkli/", "def": "adv. 有机地【四级】"},
+    "ascended": {"ipa": "/əˈsendɪd/", "def": "v. 升上（ascend）【四级】"},
+    "pledge": {"ipa": "/pledʒ/", "def": "n. 保证，质押【六级】"},
+    "underlies": {"ipa": "/ˌʌndəˈlaɪz/", "def": "v. 位于……之下，构成……的基础（underlie）【六级】"},
+    "component": {"ipa": "/kəmˈpəʊnənt/", "def": "adj./n. 组成的（部分）【四级】"},
+    "disrupted": {"ipa": "/dɪsˈrʌptɪd/", "def": "v. 使断裂，撕裂（disrupt）【六级】"},
+    "severed": {"ipa": "/ˈsevəd/", "def": "v. 切断，拆散（sever）【六级】"},
+    "severs": {"ipa": "/ˈsevəz/", "def": "v. 切断，拆散（sever）【六级】"},
+    "abnormal": {"ipa": "/æbˈnɔːml/", "def": "adj. 反常的【四级】"},
+    "undoing": {"ipa": "/ʌnˈduːɪŋ/", "def": "n. 消除，撤销（undo）【六级】"},
+    "entereth": {"ipa": "/ˈentərəθ/", "def": "= enters（-eth 古词尾）：进入"},
+    "dieth": {"ipa": "/ˈdaɪəθ/", "def": "= dies（-eth 古词尾）：死"},
+    "speaketh": {"ipa": "/ˈspiːkəθ/", "def": "= speaks（-eth 古词尾）：说话"},
+    "victor": {"ipa": "/ˈvɪktə/", "def": "n. 得胜者【四级】"},
+    "romanists": {"ipa": "/ˈrəʊmənɪsts/", "def": "n. 罗马教徒（对罗马天主教徒的旧称，常含贬义）"},
+    "childship": {"ipa": "/ˈtʃaɪldʃɪp/", "def": "n. 儿子的名分（罕用词，= sonship）"}
+  },
+  "vocab_table": [
+    {"word": "sting", "ipa": "/stɪŋ/", "def": "n. 毒钩，刺（the sting of death：死的毒钩）"},
+    {"word": "abolish", "ipa": "/əˈbɒlɪʃ/", "def": "v. 废除，废去"},
+    {"word": "intermediate", "ipa": "/ˌɪntəˈmiːdiət/", "def": "adj. 居间的（intermediate state：居间状态）"},
+    {"word": "purgatory", "ipa": "/ˈpɜːɡətri/", "def": "n. 炼狱【GRE】"},
+    {"word": "fiduciary", "ipa": "/fɪˈdjuːʃəri/", "def": "adj. 受托的，信托的【GRE】"},
+    {"word": "probation", "ipa": "/prəˈbeɪʃn/", "def": "n. 试验期，察验期"},
+    {"word": "excrescence", "ipa": "/ɪkˈskresns/", "def": "n. 赘疣，多余的附生物【GRE】"},
+    {"word": "detriment", "ipa": "/ˈdetrɪmənt/", "def": "n. 损害（without detriment to：无损于）"},
+    {"word": "sever", "ipa": "/ˈsevə/", "def": "v. 切断，拆散"},
+    {"word": "pledge", "ipa": "/pledʒ/", "def": "n. 保证，质押"},
+    {"word": "immortality", "ipa": "/ˌɪmɔːˈtæləti/", "def": "n. 不朽，永生"},
+    {"word": "blissful", "ipa": "/ˈblɪsfl/", "def": "adj. 极乐的，蒙福的【GRE】"},
+    {"word": "translation", "ipa": "/trænzˈleɪʃn/", "def": "n.【神学古义】接升（以诺、以利亚不经死被接去）"},
+    {"word": "resurrection", "ipa": "/ˌrezəˈrekʃn/", "def": "n. 复活"}
+  ]
+}

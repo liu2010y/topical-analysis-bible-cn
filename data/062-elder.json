@@ -1,0 +1,62 @@
+{
+  "num": "062",
+  "title_en": "ELDER",
+  "title_zh": "长老",
+  "html_name": "062-Elder-长老.html",
+  "pages": "原书 p. 116",
+  "sections": [
+    {
+      "heading": "含义与用例 / Meaning and Use",
+      "blocks": [
+        {
+          "en": "ELDER. Heb. zaqen; Gr. presbuteros. An aged person. A rank or office found in many early nations, common to the Jewish and the Christian Church, and noted as a constituent element of the Heavenly Church. Gen. 50:7. Elders of the land of Egypt. Meaning and use: Ex. 4:29. Elders of Israel. Ex. 24:1, 9. Seventy elders. Rev. 4:4, 10. Four and twenty elders. Rev. 5:8-10. Rev. 11:16. Acts 14:23. Ordained elders in every church. Acts 20:17. Called the elders of the church (Ephesus). Acts 16:4. (Joined with apostles) The apostles and elders. Tit. 1:5. Appoint elders in every city.",
+          "zh": "长老。希伯来文 zaqen；希腊文 presbuteros——本义『年长的人』。这是早期许多民族共有的一种位分或职分，犹太教会与基督教会同有，且被记为天上教会的构成元素。创世记 50:7 —— 埃及地的长老。含义与用例：出埃及记 4:29 —— 以色列的长老。24:1, 9 —— 七十个长老。启示录 4:4, 10 —— 二十四位长老。5:8-10；11:16。使徒行传 14:23 —— 在各教会中选立了长老。20:17 —— 请以弗所教会的长老来。16:4 ——（与使徒并列）使徒和长老。提多书 1:5 —— 在各城设立长老。【OCR 注：原书 \"Rev. 4:4, 6\" 依经文（二十四位长老）推定为 4:4, 10。】",
+          "bsb": "Acts 14:23",
+          "grammar": [
+            {"id": "apposition", "note": "Heb. zaqen; Gr. presbuteros：原文词同位注释——presbuteros 即英文 presbyter（长老）、Presbyterian（长老会）的词源。"},
+            {"note": "Four and twenty elders：古式数词语序（= twenty-four），钦定本常见。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "劝勉、职责与类别 / Counsels, Duties, Two Classes",
+      "blocks": [
+        {
+          "en": "Counsels and duties: Acts 20:28-32. (Take heed unto yourselves, and to all the flock, in which the Holy Spirit hath made you bishops, to feed the church of God.) 1 Pet. 5:1-5. (Tend the flock of God which is among you . . . neither as lording it over the charge allotted to you, but making yourselves ensamples to the flock.) Two classes: 1 Tim. 5:17. (Let the elders that rule well be counted worthy of double honor, especially those who labor in the word and in teaching.) See 1 Tim. 3:1, 2. Tit. 1:7. See Bishop; Preacher.",
+          "zh": "劝勉与职责：使徒行传 20:28-32 ——（圣灵立你们作全群的监督，你们就当为自己谨慎，也为全群谨慎，牧养神的教会。）彼得前书 5:1-5 ——（务要牧养在你们中间神的群羊……也不是辖制所托付你们的，乃是作群羊的榜样。）两个类别：提摩太前书 5:17 ——（那善于管理教会的长老，当以为配受加倍的敬奉；那劳苦传道教导人的，更当如此。）另参提摩太前书 3:1-2；提多书 1:7。参主题词条：监督（020）；传道人。",
+          "bsb": "1 Peter 5:2",
+          "grammar": [
+            {"id": "let-imperative", "note": "Let the elders … be counted worthy：let 祈使的被动式（长老当被算为配得）。"},
+            {"note": "lording it over：lord 作动词＋虚指 it（辖制、作威作福）；ensamples = examples 的古拼（榜样）；Take heed unto：古短语『谨慎，留意』。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "elder": {"ipa": "/ˈeldə/", "def": "n. 长老；adj. 年长的【四级】"},
+    "rank": {"ipa": "/ræŋk/", "def": "n. 位分，等级【四级】"},
+    "constituent": {"ipa": "/kənˈstɪtjuənt/", "def": "adj. 构成的（constituent element：构成元素）【六级】"},
+    "ordained": {"ipa": "/ɔːˈdeɪnd/", "def": "v. 选立，按立（ordain）【GRE】"},
+    "appoint": {"ipa": "/əˈpɔɪnt/", "def": "v. 设立，指派【四级】"},
+    "counsels": {"ipa": "/ˈkaʊnslz/", "def": "n. 劝勉，忠告（counsel）【六级】"},
+    "flock": {"ipa": "/flɒk/", "def": "n. 羊群；（喻）会众【四级】"},
+    "heed": {"ipa": "/hiːd/", "def": "n./v. 留心，谨慎（take heed：谨慎）【GRE】"},
+    "bishops": {"ipa": "/ˈbɪʃəps/", "def": "n. 监督，主教（bishop，希腊文 episkopos）【六级】"},
+    "tend": {"ipa": "/tend/", "def": "v.【此处义】牧养，照料；【常义】倾向【四级】"},
+    "lording": {"ipa": "/ˈlɔːdɪŋ/", "def": "v. 辖制，作威作福（lord it over）"},
+    "allotted": {"ipa": "/əˈlɒtɪd/", "def": "v. 分配，托付（allot）【六级】"},
+    "ensamples": {"ipa": "/ɪnˈsɑːmplz/", "def": "n.【古拼】= examples：榜样"},
+    "presbuteros": {"ipa": "/presˈbuːterɒs/", "def": "希腊文：长老（presbyter、Presbyterian 的词源）"},
+    "zaqen": {"ipa": "/zɑːˈkeɪn/", "def": "希伯来文：长老，年长者"}
+  },
+  "vocab_table": [
+    {"word": "elder", "ipa": "/ˈeldə/", "def": "n. 长老（希腊文 presbuteros）"},
+    {"word": "constituent", "ipa": "/kənˈstɪtjuənt/", "def": "adj. 构成的"},
+    {"word": "ordain", "ipa": "/ɔːˈdeɪn/", "def": "v. 选立，按立【GRE】"},
+    {"word": "heed", "ipa": "/hiːd/", "def": "n./v. 留心（take heed：谨慎）【GRE】"},
+    {"word": "allot", "ipa": "/əˈlɒt/", "def": "v. 分配，托付"},
+    {"word": "ensample", "ipa": "/ɪnˈsɑːmpl/", "def": "n.【古拼】榜样（= example）"}
+  ]
+}

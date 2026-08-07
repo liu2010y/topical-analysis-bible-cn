@@ -1,0 +1,48 @@
+{
+  "num": "057",
+  "title_en": "DESPONDENCY",
+  "title_zh": "灰心丧胆",
+  "html_name": "057-Despondency-灰心丧胆.html",
+  "pages": "原书 p. 113",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "DESPONDENCY. \"Cast Down.\" \"Disquieted.\" Encouragement to be strong, of good courage, to trust, to hope in and wait on the Lord: Ps. 27:13, 14. Be strong, and let thine heart take courage; yea, wait thou on the Lord. Ps. 31:24. Deut. 31:6, 7. Josh. 1:6, 9, 18. 1 Kings 2:2. Ps. 119:25, 28.",
+          "zh": "灰心丧胆。『忧闷』『烦躁』。劝勉人刚强、壮胆、信靠、仰望并等候耶和华：诗篇 27:13-14 —— 要壮胆，坚固你的心（英译：要刚强，让你的心壮胆）；我再说，要等候耶和华。诗篇 31:24。申命记 31:6-7。约书亚记 1:6, 9, 18。列王纪上 2:2。诗篇 119:25, 28。",
+          "bsb": "Psalm 27:14",
+          "grammar": [
+            {"id": "headline-style", "note": "\"Cast Down.\" \"Disquieted.\"：并置引语式副题——摘取诗篇 42 篇的关键词作词条别名。"},
+            {"id": "let-imperative", "note": "let thine heart take courage：let 祈使（让你的心壮胆）。"},
+            {"note": "wait thou on the Lord：带明示主语 thou 的祈使句，古体强调（你当等候耶和华）；yea：古副词『是的，再者』。"}
+          ]
+        },
+        {
+          "en": "Ps. 42:5, 11. Why art thou cast down, O my soul? Hope thou in God, for I shall yet praise Him. 2 Cor. 4:9. Cast down, but not destroyed. 2 Cor. 7:6. God, that comforteth those that are cast down. Ps. 56:3. What time I am afraid, I will put my trust in Thee. The special treatment of Elijah in his despondency (1 Kings 19). See Affliction; Anxiety; Infirmity; Faith; Hope; Waiting on God.",
+          "zh": "诗篇 42:5, 11 —— 我的心哪，你为何忧闷？应当仰望神，因我还要称赞他。哥林多后书 4:9 —— 打倒了，却不至死亡（英译：被击倒，却不被毁灭）。7:6 —— 那安慰丧气之人的神。诗篇 56:3 —— 我惧怕的时候要倚靠你。神对以利亚灰心求死时的特别看顾（列王纪上 19 章：使者供食、微小的声音）。另参主题词条：苦难（003）；忧虑（009）；软弱；信心；盼望；等候神。",
+          "bsb": "Psalm 42:5",
+          "grammar": [
+            {"id": "vocative-o", "note": "Why art thou cast down, O my soul?：呼格——诗人向自己的灵魂发问。"},
+            {"note": "Hope thou in God：带主语 thou 的祈使句；What time I am afraid = whenever I am afraid（what time：古连词『每当』）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "despondency": {"ipa": "/dɪˈspɒndənsi/", "def": "n. 灰心，沮丧【GRE】"},
+    "disquieted": {"ipa": "/dɪsˈkwaɪətɪd/", "def": "adj. 烦躁不安的（disquiet：使不安）【GRE】"},
+    "cast": {"ipa": "/kɑːst/", "def": "v. 抛，掷（cast down：使忧闷；击倒）【四级】"},
+    "yea": {"ipa": "/jeɪ/", "def": "adv.【古】是的；再者，况且（= yes; moreover）"},
+    "comforteth": {"ipa": "/ˈkʌmfətəθ/", "def": "= comforts（-eth 古词尾）：安慰"},
+    "infirmity": {"ipa": "/ɪnˈfɜːməti/", "def": "n. 软弱，虚弱【GRE】"},
+    "encouragement": {"ipa": "/ɪnˈkʌrɪdʒmənt/", "def": "n. 鼓励，劝勉【四级】"}
+  },
+  "vocab_table": [
+    {"word": "despondency", "ipa": "/dɪˈspɒndənsi/", "def": "n. 灰心，沮丧【GRE】"},
+    {"word": "disquieted", "ipa": "/dɪsˈkwaɪətɪd/", "def": "adj. 烦躁不安的"},
+    {"word": "yea", "ipa": "/jeɪ/", "def": "adv.【古】是的；再者"},
+    {"word": "infirmity", "ipa": "/ɪnˈfɜːməti/", "def": "n. 软弱，虚弱"}
+  ]
+}

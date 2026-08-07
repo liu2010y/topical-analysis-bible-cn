@@ -1,0 +1,30 @@
+{
+  "num": "064",
+  "title_en": "FAILURES OF GOOD MEN, AND LESSONS",
+  "title_zh": "义人的失败与教训",
+  "html_name": "064-Failures-of-Good-Men-义人的失败与教训.html",
+  "pages": "原书 p. 117",
+  "ocr_note": "本词条为原书的索引式短词条：仅八个人名与《The Bible Work》卷页号，正文无经文；中文括注为译者依所引卷页补出的对应事迹，便于查经。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "FAILURES OF GOOD MEN, AND LESSONS. Noah. Abraham. Isaac. Jacob. Moses. David. Elijah. Hezekiah.",
+          "zh": "义人的失败，及其中的教训。挪亚（醉酒失态——创 9）。亚伯拉罕（两次谎称妻为妹——创 12、20）。以撒（重蹈同样的谎言——创 26）。雅各（设计骗取长子的祝福——创 27）。摩西（米利巴水前发怒击磐——民 20）。大卫（乌利亚之妻一案；数点百姓——撒下 11、24）。以利亚（罗腾树下灰心求死——王上 19）。希西家（向巴比伦使者夸示府库——王下 20）。",
+          "bsb": false,
+          "grammar": [
+            {"id": "headline-style", "note": "纯名录式词条——八个专名并置，无句法结构；lessons 提示阅读取向：圣经不为义人讳，失败的记载本身就是教训（各人所跌之处，中译括注补出）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "failures": {"ipa": "/ˈfeɪljəz/", "def": "n. 失败（failure）【四级】"},
+    "lessons": {"ipa": "/ˈlesnz/", "def": "n. 教训（lesson）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "failure", "ipa": "/ˈfeɪljə/", "def": "n. 失败（圣经不为义人讳：failures of good men）"}
+  ]
+}

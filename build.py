@@ -158,11 +158,16 @@ PAGE_TMPL = """<!DOCTYPE html>
 <body>
 <div class="toolbar">
   <a class="home-link" href="index.html">← 目录</a>
+  <button class="btn" id="btn-toc">☰ 本页</button>
   <span class="spacer"></span>
   <button class="btn" id="btn-en">隐藏全部英文</button>
   <button class="btn active" id="btn-bsb">现代英译：开</button>
   <button class="btn" id="btn-grammar">语法说明：关</button>
 </div>
+<nav id="side-toc" aria-label="本页目录">
+<div class="toc-title">{num} {title_zh}</div>
+{side_toc}
+</nav>
 <main>
 <h1>{title_en} ｜ {title_zh}</h1>
 <div class="source-note">
@@ -277,7 +282,8 @@ def render_entry(entry, points, bsb, common_vocab):
     vocab.update(entry.get("hover_vocab", {}))   # 词条自有释义优先
     full_rendered = set()
     sec_html = []
-    for sec in entry["sections"]:
+    toc_items = []
+    for sec_idx, sec in enumerate(entry["sections"], 1):
         blocks = []
         for b in sec["blocks"]:
             en = wrap_vocab(b["en"], vocab, used)
@@ -291,11 +297,13 @@ def render_entry(entry, points, bsb, common_vocab):
                 '</div>' % (en, bsb_html, grammar, escape(b["zh"]))
             )
         sec_html.append(
-            '<section class="section">'
+            '<section class="section" id="sec-%d">'
             '<div class="section-head"><h2>%s</h2>'
             '<button class="btn en-toggle">隐藏EN</button></div>'
-            '%s</section>' % (wrap_vocab(sec["heading"], vocab, used), "".join(blocks))
+            '%s</section>' % (sec_idx, wrap_vocab(sec["heading"], vocab, used), "".join(blocks))
         )
+        label = sec["heading"].split(" / ")[0].split("【")[0].strip()
+        toc_items.append('<a href="#sec-%d">%s</a>' % (sec_idx, escape(label)))
 
     rows = "".join(
         '<tr><td>%s<button class="speak" data-word="%s" title="朗读">🔊</button></td>'
@@ -304,11 +312,13 @@ def render_entry(entry, points, bsb, common_vocab):
         for w in entry.get("vocab_table", [])
     )
     vocab_table = (
-        '<section class="section"><div class="section-head">'
+        '<section class="section" id="sec-vocab"><div class="section-head">'
         '<h2>词汇表（CET-4 及以上）</h2></div>'
         '<table class="vocab"><tr><th>单词</th><th>音标</th><th>词性与释义</th></tr>'
         '%s</table></section>' % rows
     ) if rows else ""
+    if rows:
+        toc_items.append('<a href="#sec-vocab">词汇表</a>')
 
     unused = set(entry.get("hover_vocab", {})) - used   # 共享常用词典不参与未命中警告
     if unused:
@@ -324,6 +334,7 @@ def render_entry(entry, points, bsb, common_vocab):
         title_zh=escape(entry["title_zh"]),
         pages=escape(entry.get("pages", "")),
         ocr_note=escape(ocr_note),
+        side_toc="\n".join(toc_items),
         sections="".join(sec_html),
         vocab_table=vocab_table,
         vocab_json=json.dumps(hover, ensure_ascii=False),

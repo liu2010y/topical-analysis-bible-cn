@@ -331,6 +331,73 @@ ul.toc li a { color: #245633; text-decoration: none; font-size: 17px; }
 ul.toc li a:hover { text-decoration: underline; }
 ul.toc li .meta { font-size: 13px; color: #6b806f; margin-left: 8px; }
 
+/* ---------- 本页侧边导航 ---------- */
+html { scroll-behavior: smooth; }
+.section { scroll-margin-top: 66px; }
+
+#side-toc {
+  display: none;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 10px 6px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+#side-toc .toc-title {
+  font-weight: bold;
+  color: #245633;
+  padding: 4px 10px 8px;
+  border-bottom: 1px solid var(--card-border);
+  margin-bottom: 6px;
+}
+#side-toc a {
+  display: block;
+  color: #47604d;
+  text-decoration: none;
+  padding: 4px 10px;
+  border-radius: 8px;
+  border-left: 3px solid transparent;
+}
+#side-toc a:hover { background: var(--accent-soft); }
+#side-toc a.active {
+  background: var(--accent-soft);
+  border-left-color: var(--accent);
+  color: #1f4d2c;
+  font-weight: bold;
+}
+
+/* 宽屏：固定在左侧 */
+@media (min-width: 1150px) {
+  #side-toc {
+    display: block;
+    position: fixed;
+    left: 14px;
+    top: 64px;
+    width: 216px;
+    max-height: calc(100vh - 84px);
+    overflow-y: auto;
+    z-index: 40;
+  }
+  main { margin-left: 252px; }
+  #btn-toc { display: none; }
+}
+
+/* 窄屏：按钮唤出抽屉 */
+@media (max-width: 1149.9px) {
+  body.toc-open #side-toc {
+    display: block;
+    position: fixed;
+    left: 10px;
+    top: 58px;
+    width: min(78vw, 300px);
+    max-height: calc(100vh - 76px);
+    overflow-y: auto;
+    z-index: 95;
+    box-shadow: 0 8px 28px rgba(20, 40, 26, 0.25);
+  }
+}
+
 @media (max-width: 600px) {
   body { font-size: 16px; }
   main { padding: 16px 12px 60px; }

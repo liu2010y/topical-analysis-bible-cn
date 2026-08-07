@@ -272,6 +272,43 @@
 
   window.addEventListener('scroll', hideTip, { passive: true });
 
+  /* ---------- 3d. 本页侧边导航：抽屉开关 + 滚动高亮 ---------- */
+  var sideToc = document.getElementById('side-toc');
+  var btnToc = document.getElementById('btn-toc');
+  if (btnToc && sideToc) {
+    btnToc.addEventListener('click', function (ev) {
+      document.body.classList.toggle('toc-open');
+      ev.stopPropagation();
+    });
+    sideToc.addEventListener('click', function (ev) {
+      if (ev.target.closest('a')) document.body.classList.remove('toc-open');
+    });
+    document.addEventListener('click', function (ev) {
+      if (document.body.classList.contains('toc-open') &&
+          !ev.target.closest('#side-toc') && !ev.target.closest('#btn-toc')) {
+        document.body.classList.remove('toc-open');
+      }
+    });
+  }
+  if (sideToc && 'IntersectionObserver' in window) {
+    var tocLinks = {};
+    sideToc.querySelectorAll('a[href^="#"]').forEach(function (a) {
+      tocLinks[a.getAttribute('href').slice(1)] = a;
+    });
+    var spy = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        Object.keys(tocLinks).forEach(function (k) { tocLinks[k].classList.remove('active'); });
+        var link = tocLinks[en.target.id];
+        if (link) {
+          link.classList.add('active');
+          if (link.scrollIntoView) link.scrollIntoView({ block: 'nearest' });
+        }
+      });
+    }, { rootMargin: '-12% 0px -78% 0px' });
+    document.querySelectorAll('main .section[id]').forEach(function (s) { spy.observe(s); });
+  }
+
   /* ---------- 4. 语法引用 chip 展开 ---------- */
   var registry = (typeof window.GRAMMAR_REGISTRY === 'object' && window.GRAMMAR_REGISTRY) || {};
 

@@ -1,0 +1,159 @@
+{
+  "num": "035",
+  "title_en": "CHRISTIANITY",
+  "title_zh": "基督教",
+  "html_name": "035-Christianity-基督教.html",
+  "pages": "原书 p. 86–88",
+  "ocr_note": "论述型词条：综述目录＋六段摘录（Hopkins、McLane、Leathes、Westcott、《伦敦季刊》、Henry B. Smith）。引用者人名讹误已修复（McLanc→McLane 等）。",
+  "sections": [
+    {
+      "heading": "综述目录 / Summaries Referred To",
+      "blocks": [
+        {
+          "en": "CHRISTIANITY. As History, Truth, and Life. XI. 793-796. A Religion of Facts. XI. 800. Three Distinctive Features. XI. 796-800. Three Opponents of Primitive Christianity, and their Overthrow. XI. 801-807. Spread and Achievements of Christianity. XI. 807. Its Final Supremacy. XI. 809-812.",
+          "zh": "基督教。作为历史、真理与生命；一个以事实为本的宗教；三大鲜明特征；早期基督教的三大敌手及其倾覆；基督教的传播与成就；它最终的至高地位。（各条详论见《圣经工作》第十一卷。）",
+          "grammar": [
+            {"id": "headline-style", "note": "六个纲要式标题并列，构成本词条的综述目录。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "一、摘录：基督教是什么 / Extracts: What Christianity Is",
+      "blocks": [
+        {
+          "en": "[There is nothing on the face of the earth that can for a moment bear a comparison with Christianity as a religion for man. Upon this the hope of the race hangs. From the very first, it took its position, as the pillar of fire, to lead the race onward. The patriarchal, Jewish and Christian dispensations, all finding their identity in the true import of sacrifices and in the inculcation of righteousness, have been one religion. The intelligence and power of the race are with those who have embraced it. — Mark Hopkins.]",
+          "zh": "【摘录】地面之上，没有任何东西能有片刻资格与作为人类宗教的基督教相比。人类的盼望正悬系于此。从最初起，它就站定自己的位置，如同火柱，引领人类前行。族长时代、犹太时代与基督教时代三大经纶，在祭祀的真义与公义的教导中同归一体，素来就是同一个宗教。人类的智慧与力量，都在拥抱了它的人一边。——马克·霍普金斯（Mark Hopkins）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "Upon this the hope of the race hangs：状语前置（人类的盼望悬系于此）。"}
+          ]
+        },
+        {
+          "en": "[Christianity, considered as a system of religion, consists of three things—namely, the revelation of the character, the love and the will of God; the redemption of men from the penalty and the power of sin; and the regeneration of men, by which they are brought into vital correspondence with God and into the fulfilment of the conditions of eternal life. Revelation, Redemption and Regeneration are the essential elements of Christianity. All that is preparatory in the Old Testament and all that is promised in the New Testament fall under these heads. — W. W. McLane.]",
+          "zh": "【摘录】基督教作为一个宗教体系，包含三件事：神的性格、慈爱与旨意的启示；人从罪的刑罚与权势中得的救赎；以及人的重生——借此人被带入与神生命性的相通、进入永生诸条件的成全之中。启示（Revelation）、救赎（Redemption）、重生（Regeneration）是基督教的基本要素。旧约中一切预备性的、新约中一切应许性的，都归入这三个纲目之下。——W. W. 麦克莱恩（McLane）",
+          "bsb": false,
+          "grammar": [
+            {"note": "considered as a system of religion：过去分词短语作条件性状语（若把基督教视为一个宗教体系）；namely：即——引出三项并列的同位说明。三个 Re- 词头的排比（Revelation / Redemption / Regeneration）是本段的记忆钩。"}
+          ]
+        },
+        {
+          "en": "[Christianity alone can point to anything which can properly be called evidence. Whatever else it is, Christianity is an historic religion. From the first hour of its rise to the present time, its origin and progress have been registered in contemporaneous and independent records, which the world is willing to accept. Tacitus, Suetonius, and Pliny are witnesses that are not to be silenced; and in the next age, the Christian faith, according to the promise of its Founder, has become a great tree, shooting forth branches in which the birds of the air have taken refuge. And so rich is the abundance of material from which to judge of this faith, that we can be in no doubt as to its nature; but what is more, its own native documents, which on this matter must be regarded as the best testimony, are earlier and more definite than any others. — Stanley Leathes.]",
+          "zh": "【摘录】惟有基督教能拿出配称为『证据』的东西。无论它还是什么，基督教首先是一个历史性的宗教。从它兴起的第一个时辰直到如今，其起源与进程都登记在同时代、彼此独立、举世愿意采信的记录之中。塔西佗、苏维托尼乌斯、小普林尼是无法令其闭口的见证人；而到下一个世代，基督教信仰照其创立者的应许，已长成一棵大树，枝条伸展，天上的飞鸟在其中投宿。可据以评判这信仰的材料何等丰富——我们对其性质便不可能存疑；更进一层，它自己的原生文献（在这件事上必须视为最好的证词），比其他任何文献都更早、更确定。——斯坦利·利泽斯（Stanley Leathes）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "so rich is the abundance of material … that…：so + 形容词前置引起倒装＋that 结果从句（材料何等丰富，以致……）。"},
+            {"note": "Whatever else it is：让步（无论它还是什么）；witnesses that are not to be silenced：be + 不定式被动表『不可被……』。"}
+          ]
+        },
+        {
+          "en": "[Christianity is the fulfilment of Judaism, which was in its very idea definitely prospective, and only intelligible through the end to which it led. The call of Abraham was the beginning of the universal life of Faith. … Christianity is not a code of laws; it is not a structure of institutions; it is not a system of opinions. It is a life in fellowship with a living Lord. The Work and the Person of Christ—this is the Gospel, both as it was proclaimed by the Lord Himself, and by His Apostles. — Bp. Westcott.]",
+          "zh": "【摘录】基督教是犹太教的成全——犹太教就其本义而言是彻底指向前方的，惟有借着它所通向的终点才可理解。亚伯拉罕蒙召，是普世信心生活的开端。……基督教不是一部法典，不是一套制度架构，不是一个观点体系；它是与永活之主相交的生命。基督的工作与基督的位格——这就是福音：主自己所传的是它，他的使徒们所传的也是它。——韦斯科特主教（Bp. Westcott）",
+          "bsb": false,
+          "grammar": [
+            {"note": "it is not … it is not … it is not … It is …：三重否定排比后一锤定音的肯定——讲章式的界说笔法；prospective：指向将来的。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、摘录：基督教与它的对手 / Extracts: Christianity and Its Opponents",
+      "blocks": [
+        {
+          "en": "[Christianity dies when it ceases to be aggressive. The pressure of heresy or persecution, like the weight on the arch, only makes it stronger; the indifference and inactivity of its professors, like the influence of the weather on the arch, destroys its cohesion and insures its ruin. And therefore it is that, though more daring and resolute attacks were never made on Christianity than in our own day, they yet afford no ground for serious alarm—because the Christianity which is assailed was never so active as now. — London Quarterly.]",
+          "zh": "【摘录】基督教一旦停止进取，便是死亡。异端或逼迫的压力，好比压在拱券上的重量，只会使它更加坚固；而自称信奉者的冷漠与不作为，好比风雨对拱券的侵蚀，却会瓦解其胶结、注定其倾圮。所以，尽管对基督教的攻击从未有过比当今更大胆坚决的，却不足为深忧——因为这被攻击的基督教，也从未像现在这样活跃。——《伦敦季刊》（London Quarterly）",
+          "bsb": false,
+          "grammar": [
+            {"note": "professors 此处古义『自称信奉者』（profess 声称信仰 + -or），非『教授』；though more daring … attacks were never made … than in our own day：never … than 的比较否定（从未有过比当今更……的攻击）。"}
+          ]
+        },
+        {
+          "en": "[As against infidelity, the attitude of Christianity has been uniform, simple, and unchanging. It has always claimed to be a specific, divine revelation—supernatural in its origin, announced in prophecy, attested by miracles, recorded in inspired Scriptures, centering in the person and work of the God-man, and having for its object the redemption of the world from sin. It presupposes a personal God, and anticipates a future state of reward and punishment. On these positions it has always stood: here it has been exclusive—exclusive, just because it is a final and universal system. As soon as it abandons these cardinal positions, it abandons its claim to supremacy and ultimate authority, and is resolved into some more general movement, into some philosophic generalization. Its revelation is specific, and not to be resolved into general reason; its Book is inspired, and no other book is thus divinely inspired; its prophecies are out of the category of historic conjectures or morbid clairvoyance; its miracles are above and beyond the course of nature; its Redeemer has, as the God-man, a specific and unmatched dignity, and there is no other such union of divinity and humanity; and His is the only name given under heaven among men, whereby we must be saved. The Christian faith claims that there are limits here which cannot be passed, without passing outside of the sunlight into a penumbra or the shades; that the mere abstract and generalizing notions which philosophy would substitute for these realities are ghostly shapes, without essential vitality or reality. They lack the signature of life: there is no divine breath within them. They are the masquerades of imagination, and not the living forms of real truth.",
+          "zh": "【摘录】面对不信派，基督教的态度向来一贯、简明而不变。它始终宣认自己是一个特定的神圣启示——起源是超自然的，由预言宣告，由神迹印证，载于受默示的圣经，以神而人者的位格与工作为中心，以救赎世界脱离罪恶为目的。它预设一位有位格的神，预告一个将来赏罚的状态。它从来站立在这些立场上：在此它是排他的——排他，正因为它是一个最终的、普世的体系。它一旦放弃这些根本立场，便放弃了对至高与终极权威的宣认，被消解成某种更笼统的运动、某种哲学概括。它的启示是特定的，不容化约为一般理性；它的书是受默示的，别无他书如此蒙神默示；它的预言不在历史推测或病态通灵的范畴之内；它的神迹超乎自然进程之上；它的救赎主，作为神而人者，具有特定而无匹的尊贵，再没有别样的神人联合；『天下人间，没有赐下别的名，我们可以靠着得救』——惟独他的名。基督教信仰宣称：这里有不可逾越的界限，越过去，便是走出日光、走进半影与幽暗；哲学想用来顶替这些实在的那些抽象化、概括化的观念，不过是幽灵般的形影，没有本质的生命与实在。它们缺少生命的签名：里面没有神的气息。它们是想象的假面舞会，不是真理活生生的形体。",
+          "bsb": false,
+          "grammar": [
+            {"note": "His is the only name given under heaven：属格代词 His 独立作主语（惟独他的名是……）——罕见而有力的句首用法；supernatural in its origin, announced in prophecy, attested by…：六个后置修饰语的排比铺陈。"},
+            {"id": "compound-relatives", "note": "whereby we must be saved = by which…（我们必须靠着得救）。"}
+          ]
+        },
+        {
+          "en": "The constant aim of infidelity, on the other hand—its tenacious purpose in the midst of all the changes of philosophic systems and methods—has been, and must be, to bring down the Christian faith from this position of supremacy and universality; to show that on these points the Christian system has no specific and unrivaled eminence. We speak of infidelity here in its higher forms—of an infidelity which really grapples with the subject in its larger relations. The aim of such infidelity has ever been to resolve the facts of revelation, inspiration, prophecy, miracle, redemption, incarnation, and regeneration, into some more general and abstract notions. The philosophic unbeliever resolves revelation into intuition, miracles into the course of nature or myths, inspiration into genius, prophecy into sagacious historic conjectures, redemption into the victory of mind over matter, the incarnation into an ideal union of humanity with divinity realized in no one person, the Trinity into a world-process, and immortal life into the perpetuity of spirit bereft of personal subsistence. He takes the wondrous volume in which all these truths and facts are embodied and embalmed—and which on that very account is the unique wonder and very marvel of all literature—and demands that it shall be interpreted just like any other book: all in it that is supernatural, all that discriminates it as a specific revelation, is to be adjudicated by natural laws and reason. And he knows full well that, if this radical point is gained, he has gained his cause: he has resolved specific Christian truth into his own system, and Christianity has been sublimated in the process. For no one can resolve these specific truths of Christianity into mere general ideas without annulling their nature, and robbing them of their formative principle—just as a plant or animal loses its specific vital force when decomposed into its inorganic elements. The whole form and pressure of modern unbelief runs in this direction: it has come to its most distinct expression in the conflict between Christianity and Pantheism; for to absorb the concrete in the abstract, to deny real being to anything individual and personal, to resolve specific truth into spiritual ideas—this is the whole method and art of pantheism; and hence all this anti-Christian movement runs into it by a kind of logical necessity. — Henry B. Smith.]",
+          "zh": "另一方面，不信派恒久不变的目标——它在哲学体系与方法百般更迭之中始终执着不放的意图——从来是、也必然是：把基督信仰从这至高与普世的地位上拉下来，证明基督教体系在这些要点上并无特定而无可匹敌的卓越。我们这里说的是较高形态的不信派——那种真正在更大关联中与本题角力的不信派。这类不信派的目标从来是：把启示、默示、预言、神迹、救赎、道成肉身、重生这些事实，化约为更一般、更抽象的观念。哲学式的不信者把启示化约为直觉，把神迹化约为自然进程或神话，把默示化约为天才，把预言化约为精明的历史推测，把救赎化约为精神对物质的胜利，把道成肉身化约为一个未曾实现于任何一人的『人性与神性的理想联合』，把三位一体化约为世界进程，把永生化约为被剥夺了位格存续的精神绵延。他拿起那部包藏并珍藏这一切真理与事实的奇妙书卷——它正因此是一切文学中独一无二的奇观、十足的奇迹——却要求它像任何别的书一样被解释：凡其中超自然的、凡使它有别为特定启示的，都要交由自然法则与理性来裁决。他心里雪亮：只要攻下这个根本点，他就赢了官司——他已把特定的基督教真理消解为他自己的体系，而基督教已在这过程中被蒸发掉了。因为，谁也不能把基督教这些特定的真理化约为纯粹的一般观念，而不摧毁其本性、夺去其构成原则——正如动植物一旦被分解为无机元素，便失去其特有的生命力。现代不信的全部形态与压力尤其朝这个方向奔涌：它在基督教与泛神论的冲突中得到了最清晰的表达；因为把具体吸收进抽象、否认一切个体与位格之物的真实存在、把特定真理化约为『属灵观念』——这正是泛神论的全部方法与技艺；因此，这整场反基督教运动便以一种逻辑的必然性汇入泛神论。——亨利·B·史密斯（Henry B. Smith）",
+          "bsb": false,
+          "grammar": [
+            {"note": "resolves revelation into intuition, miracles into …, inspiration into …：resolve A into B 的八连排比——本段的骨架句式（把……化约为……）；bereft of personal subsistence：bereft（被剥夺）+ of。"},
+            {"note": "For no one can resolve … without annulling …：cannot … without … 双重否定（不可能……而不……）；to absorb …, to deny …, to resolve …—this is the whole method：三个不定式排比作主语＋this 复指。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "inculcation": {"ipa": "/ˌɪnkʌlˈkeɪʃn/", "def": "n. 谆谆教导，反复灌输（inculcate，GRE 词）"},
+    "embraced": {"ipa": "/ɪmˈbreɪst/", "def": "v. 拥抱，接受（embrace）【四级】"},
+    "prospective": {"ipa": "/prəˈspektɪv/", "def": "adj. 指向将来的，预期的【六级】"},
+    "intelligible": {"ipa": "/ɪnˈtelɪdʒəbl/", "def": "adj. 可理解的【六级/GRE】"},
+    "registered": {"ipa": "/ˈredʒɪstəd/", "def": "v. 被登记（register）【四级】"},
+    "founder": {"ipa": "/ˈfaʊndə/", "def": "n. 创立者【四级】"},
+    "aggressive": {"ipa": "/əˈɡresɪv/", "def": "adj.【此处义】进取的，主动出击的；常见义：侵略性的【四级】"},
+    "heresy": {"ipa": "/ˈherəsi/", "def": "n. 异端【GRE】"},
+    "persecution": {"ipa": "/ˌpɜːsɪˈkjuːʃn/", "def": "n. 逼迫【六级】"},
+    "arch": {"ipa": "/ɑːtʃ/", "def": "n. 拱券，拱门【四级】"},
+    "professors": {"ipa": "/prəˈfesəz/", "def": "n.【此处古义】自称信奉者（profess：宣称信仰）；常见义：教授【四级】"},
+    "cohesion": {"ipa": "/kəʊˈhiːʒn/", "def": "n. 胶结，凝聚力【六级/GRE】"},
+    "insures": {"ipa": "/ɪnˈʃʊəz/", "def": "v. 使注定，确保（insure = ensure 的旧式用法）【四级】"},
+    "resolute": {"ipa": "/ˈrezəluːt/", "def": "adj. 坚决的【六级/GRE】"},
+    "assailed": {"ipa": "/əˈseɪld/", "def": "v. 被攻击（assail，GRE 词）"},
+    "infidelity": {"ipa": "/ˌɪnfɪˈdeləti/", "def": "n.【此处义】不信（宗教上的怀疑主义）；常见义：不忠【GRE】"},
+    "attested": {"ipa": "/əˈtestɪd/", "def": "v. 被印证（attest）【GRE】"},
+    "presupposes": {"ipa": "/ˌpriːsəˈpəʊzɪz/", "def": "v. 预设（presuppose）【六级】"},
+    "anticipates": {"ipa": "/ænˈtɪsɪpeɪts/", "def": "v. 预告，预期（anticipate）【四级】"},
+    "exclusive": {"ipa": "/ɪkˈskluːsɪv/", "def": "adj. 排他的【四级】"},
+    "generalization": {"ipa": "/ˌdʒenrəlaɪˈzeɪʃn/", "def": "n. 概括，泛化【六级】"},
+    "conjectures": {"ipa": "/kənˈdʒektʃəz/", "def": "n. 推测（conjecture）【GRE】"},
+    "morbid": {"ipa": "/ˈmɔːbɪd/", "def": "adj. 病态的【GRE】"},
+    "clairvoyance": {"ipa": "/kleəˈvɔɪəns/", "def": "n. 通灵，超视觉（clair 清楚 + voyance 看见）"},
+    "unmatched": {"ipa": "/ˌʌnˈmætʃt/", "def": "adj. 无匹的"},
+    "divinity": {"ipa": "/dɪˈvɪnəti/", "def": "n. 神性【六级】"},
+    "penumbra": {"ipa": "/pəˈnʌmbrə/", "def": "n. 半影（本影外的过渡地带；喻模糊地带）【GRE】"},
+    "vitality": {"ipa": "/vaɪˈtæləti/", "def": "n. 生命力【六级】"},
+    "masquerades": {"ipa": "/ˌmæskəˈreɪdz/", "def": "n. 假面舞会；伪装（masquerade）【GRE】"},
+    "tenacious": {"ipa": "/təˈneɪʃəs/", "def": "adj. 顽强执着的【GRE】"},
+    "unrivaled": {"ipa": "/ʌnˈraɪvld/", "def": "adj. 无可匹敌的（rival：对手）"},
+    "eminence": {"ipa": "/ˈemɪnəns/", "def": "n. 卓越地位【GRE】"},
+    "incarnation": {"ipa": "/ˌɪnkɑːˈneɪʃn/", "def": "n. 道成肉身【GRE】"},
+    "intuition": {"ipa": "/ˌɪntjuˈɪʃn/", "def": "n. 直觉【六级】"},
+    "sagacious": {"ipa": "/səˈɡeɪʃəs/", "def": "adj. 精明睿智的【GRE】"},
+    "perpetuity": {"ipa": "/ˌpɜːpəˈtjuːəti/", "def": "n. 绵延，永续【GRE】"},
+    "bereft": {"ipa": "/bɪˈreft/", "def": "adj. 被剥夺的（bereft of：失去了……的）【GRE】"},
+    "subsistence": {"ipa": "/səbˈsɪstəns/", "def": "n. 存续，生存【GRE】"},
+    "embodied": {"ipa": "/ɪmˈbɒdid/", "def": "v. 被包藏，体现（embody）【六级】"},
+    "embalmed": {"ipa": "/ɪmˈbɑːmd/", "def": "v. 被珍藏（embalm 原义：以香料防腐）【GRE】"},
+    "adjudicated": {"ipa": "/əˈdʒuːdɪkeɪtɪd/", "def": "v. 被裁决（adjudicate）【GRE】"},
+    "sublimated": {"ipa": "/ˈsʌblɪmeɪtɪd/", "def": "v. 被升华掉，蒸发（sublimate：升华——此处喻『化为乌有』）【GRE】"},
+    "annulling": {"ipa": "/əˈnʌlɪŋ/", "def": "v. 废除，摧毁（annul）【GRE】"},
+    "formative": {"ipa": "/ˈfɔːmətɪv/", "def": "adj. 构成性的，塑造性的【六级】"},
+    "decomposed": {"ipa": "/ˌdiːkəmˈpəʊzd/", "def": "v. 被分解（decompose）【六级】"},
+    "inorganic": {"ipa": "/ˌɪnɔːˈɡænɪk/", "def": "adj. 无机的【六级】"},
+    "pantheism": {"ipa": "/ˈpænθiɪzəm/", "def": "n. 泛神论（pan- 万有 + theism 神论）"},
+    "wondrous": {"ipa": "/ˈwʌndrəs/", "def": "adj.【书面】奇妙的"}
+  },
+  "vocab_table": [
+    {"word": "inculcation", "ipa": "/ˌɪnkʌlˈkeɪʃn/", "def": "n. 谆谆教导，反复灌输"},
+    {"word": "heresy", "ipa": "/ˈherəsi/", "def": "n. 异端"},
+    {"word": "infidelity", "ipa": "/ˌɪnfɪˈdeləti/", "def": "n.【此处义】不信；常见义：不忠"},
+    {"word": "cohesion", "ipa": "/kəʊˈhiːʒn/", "def": "n. 胶结，凝聚力"},
+    {"word": "resolute", "ipa": "/ˈrezəluːt/", "def": "adj. 坚决的"},
+    {"word": "conjecture", "ipa": "/kənˈdʒektʃə/", "def": "n. 推测"},
+    {"word": "morbid", "ipa": "/ˈmɔːbɪd/", "def": "adj. 病态的"},
+    {"word": "penumbra", "ipa": "/pəˈnʌmbrə/", "def": "n. 半影；模糊地带"},
+    {"word": "tenacious", "ipa": "/təˈneɪʃəs/", "def": "adj. 顽强执着的"},
+    {"word": "sagacious", "ipa": "/səˈɡeɪʃəs/", "def": "adj. 精明睿智的"},
+    {"word": "perpetuity", "ipa": "/ˌpɜːpəˈtjuːəti/", "def": "n. 绵延，永续"},
+    {"word": "bereft", "ipa": "/bɪˈreft/", "def": "adj. 被剥夺的（bereft of）"},
+    {"word": "sublimate", "ipa": "/ˈsʌblɪmeɪt/", "def": "v. 升华；（喻）化为乌有"},
+    {"word": "annul", "ipa": "/əˈnʌl/", "def": "v. 废除，摧毁"},
+    {"word": "incarnation", "ipa": "/ˌɪnkɑːˈneɪʃn/", "def": "n. 道成肉身"},
+    {"word": "pantheism", "ipa": "/ˈpænθiɪzəm/", "def": "n. 泛神论"}
+  ]
+}

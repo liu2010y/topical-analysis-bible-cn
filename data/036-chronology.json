@@ -1,0 +1,34 @@
+{
+  "num": "036",
+  "title_en": "CHRONOLOGY",
+  "title_zh": "圣经年代学",
+  "html_name": "036-Chronology-年代学.html",
+  "pages": "原书 p. 88",
+  "ocr_note": "本词条为原书的索引式短词条（各年表详见《圣经工作》相应卷页），并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "CHRONOLOGY. Hebrew Chronology: its Points of Divergence. I. 63-66. Period of the Judges. III. 32, 160-162. Dated Events from Jeroboam to the Exile. VII. 41-55. Outline of the Persian Period. VII. 483. Chronological Outline, B.C. 4 to A.D. 30: Period of Christ's Life and Ministry. X. 30. Table of Paul's Christian and Missionary Life. XI. 193.",
+          "zh": "圣经年代学。希伯来年代学及其分歧点（马所拉本、七十士译本等纪年体系的出入）；士师时期的年代；从耶罗波安到被掳的纪年大事；波斯时期纲要；主前 4 年至主后 30 年的年表——基督生平与传道时期；保罗信主与宣教生涯年表。（各年表详见《圣经工作》相应卷页。）",
+          "bsb": false,
+          "grammar": [
+            {"note": "B.C. = Before Christ（主前），A.D. = Anno Domini（拉丁文『主的年份』，主后）——注意 A.D. 置于年份之前（A.D. 30），B.C. 置于年份之后（4 B.C.）为传统规范用法；divergence：分歧（各古本纪年数字的出入）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "chronology": {"ipa": "/krəˈnɒlədʒi/", "def": "n. 年代学，年表【六级/GRE】"},
+    "divergence": {"ipa": "/daɪˈvɜːdʒəns/", "def": "n. 分歧，歧异【六级/GRE】"},
+    "exile": {"ipa": "/ˈeksaɪl/", "def": "n. 被掳，流亡（the Exile：巴比伦之掳）【六级】"},
+    "missionary": {"ipa": "/ˈmɪʃənri/", "def": "adj./n. 宣教的；宣教士【六级】"}
+  },
+  "vocab_table": [
+    {"word": "chronology", "ipa": "/krəˈnɒlədʒi/", "def": "n. 年代学，年表"},
+    {"word": "divergence", "ipa": "/daɪˈvɜːdʒəns/", "def": "n. 分歧，歧异"},
+    {"word": "missionary", "ipa": "/ˈmɪʃənri/", "def": "adj./n. 宣教的；宣教士"}
+  ]
+}

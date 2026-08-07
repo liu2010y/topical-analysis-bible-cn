@@ -86,6 +86,7 @@
 | 030 | Childlikeness（赤子之心） | p. 50–51 | ✅ |
 | 031 | Choices Offered to Men（摆在人面前的抉择） | p. 51–52 | ✅ |
 | 032 | Christ on Earth（基督在世） | p. 53–62 | ✅（大词条：品格/比喻/讲论/神迹/大事年表/综述） |
-| 033– | Christ and the Believer（基督与信徒）起 | p. 62– | ⏳ |
+| 033 | Christ and the Believer（基督与信徒） | p. 62–69 | ✅（大词条：四比方/葡萄树/在基督里系列） |
+| 034– | Christian Life（基督徒生活，七部长词条）起 | p. 69– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

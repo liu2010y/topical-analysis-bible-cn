@@ -1,0 +1,378 @@
+{
+  "num": "065",
+  "title_en": "FAITH",
+  "title_zh": "信心",
+  "html_name": "065-Faith-信心.html",
+  "pages": "原书 p. 117–126",
+  "ocr_note": "本词条为全书核心大词条之一，近九页；个别引用编号扫描有讹误，已依经文体系修正并加【OCR 注】；内容完整。",
+  "sections": [
+    {
+      "heading": "信心的定义 / Meaning and Definition",
+      "blocks": [
+        {
+          "en": "FAITH; Belief, Believe (pistis, pisteuo). Meaning: Trust, Confidence in, Leaning on. Trust, the Old Testament word; Faith or Belief, the word of the New Testament. Comprehensively, including intellectual assent to revealed truths respecting God and Redemption; submission of the will, or self-commitment and consecration; and confidence of the heart (Rom. 10:10), or loving trust in and leaning upon God and His words of promise. Briefly, Trust in a Redeeming God, and assured confidence in His Work for and in us.",
+          "zh": "信心；信，相信（希腊文 pistis 名词、pisteuo 动词）。含义：信靠、依赖、倚偎。旧约的用词是『信靠』（Trust），新约的用词是『信』（Faith / Belief）。综合而言，信心包括：理智上认可神与救赎的启示真理；意志的降服，即自我交托与奉献；并心里的信赖（罗马书 10:10 —— 人心里相信，就可以称义），即爱慕地信靠、倚赖神和他应许的话。一言以蔽之：信靠那位施行救赎的神，并对他为我们、在我们里面所作之工笃信不疑。",
+          "bsb": "Romans 10:10",
+          "grammar": [
+            {"id": "apposition", "note": "(pistis, pisteuo)：希腊原文同位注释——名词 pistis（信）、动词 pisteuo（相信）。"},
+            {"id": "gerund-nominal", "note": "Trust, Confidence in, Leaning on：名词与动名词并列作定义式表语（信靠、依赖、倚偎）。"}
+          ]
+        },
+        {
+          "en": "[God asks you to believe in Him, a living Divine Saviour, and in the personal and historical facts of His mediation. Religion belongs in the heart-beat of a man's affections and in the breath of his daily desire. But when the heart has taken it in, it will not lock it there and make it a prisoner. It must go abroad for the blessing of man, and the praise of God. Bp. Huntington. — Faith is an acceptance, a renunciation of claim, a confession of unworthiness, an act of homage to God's grace. It is without merit, but not without excellence. It is the very opposite of a meritorious claim upon God's mercy; but there is an ethical excellence in the renunciation of such claim, because it is the essence of the obedient and teachable spirit. Stevens.]",
+          "zh": "〔神请你信的，是他自己——一位活着的神圣救主，以及他中保工作里那些个人性、历史性的事实。宗教安家于人情感的心跳里、日常愿望的呼吸里。但心一旦把它接了进来，就不会把它锁在里面当囚徒；它必要出门远行，为要造福于人、赞美于神。亨廷顿主教（Bp. Huntington）——信心是一种领受，是弃绝一切索求，是承认自己不配，是向神的恩典俯首致敬。它没有功德，却并非没有美德。它与向神的怜悯索功邀赏恰恰相反；然而在弃绝这种索求里自有一种伦理上的美——因为这正是顺服受教之心的本质。史蒂文斯（Stevens）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "an acceptance, a renunciation, a confession, an act of homage：四个名词短语排比下定义；It is without merit, but not without excellence：双重否定的对举警句（无功德，却非无美德）。"}
+          ]
+        },
+        {
+          "en": "The sole Biblical definition: Heb. 11:1. Now faith is the assurance of (the giving substance to) things hoped for, the proving (or test) of things not seen. For further description of trust or faith, see the Old Testament passages: Ps. 18:2; 22:8; 23; 25:2; 28:7; 31:19; 32:10; 34:8, 22; 37:3, 5; 40:4; 55:23; 56:3, 4; 62:8; 112:7. Job 13:15. (Though He slay me, yet will I trust in Him.) Prov. 3:5. (Trust in the Lord with all thine heart, and lean not unto thine own understanding.) Prov. 29:25. Isa. 12:2. Isa. 26:3, 4. Isa. 50:10. Isa. 57:13. Jer. 17:7, 8. Eph. 1:12.",
+          "zh": "圣经中唯一的定义：希伯来书 11:1 —— 信就是所望之事的实底（使所望之事有了实质），是未见之事的确据（或作检验）。信靠之义的进一步描写，参旧约诸段：诗篇 18:2；22:8；23 篇；25:2；28:7；31:19；32:10；34:8, 22；37:3, 5；40:4；55:23；56:3-4；62:8；112:7。约伯记 13:15 ——（他必杀我，我虽无指望，然而我在他面前还要辩明我所行的。钦定本英译：他虽杀我，我仍要信靠他。）箴言 3:5 ——（你要专心仰赖耶和华，不可倚靠自己的聪明。）29:25。以赛亚书 12:2；26:3-4；50:10；57:13。耶利米书 17:7-8。以弗所书 1:12。",
+          "bsb": "Hebrews 11:1",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "Though He slay me, yet will I trust in Him：though＋虚拟原形 slay，主句 yet will 倒装——约伯名句。"},
+            {"id": "no-do-negation", "note": "lean not unto thine own understanding：不用 do 的否定祈使。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "信心的对象；得救的条件 / Supreme Object; Essential Condition",
+      "blocks": [
+        {
+          "en": "The Supreme Object of Faith, Christ and Salvation by His Grace: Acts 16:31. Believe on the Lord Jesus Christ, and thou shalt be saved. Acts 15:11. We believe that through the grace of the Lord Jesus Christ we shall be saved. Rom. 10:4. Christ is the end of the law for righteousness to every one that believeth. 1 John 5:1. Whosoever believeth that Jesus is the Christ is begotten of God. 2 Tim. 1:12. I know Him whom I have believed, and am persuaded that He is able to guard that which I have committed unto Him. Gal. 2:20. I live by the faith of the Son of God, who loved me and gave Himself for me. John 1:7. Heb. 11:6. (Without faith it is impossible to be well-pleasing unto Him.) 1 John 4:16. Prov. 3:26.",
+          "zh": "信心至高的对象——基督并靠他恩典的救恩：使徒行传 16:31 —— 当信主耶稣，你必得救。15:11 —— 我们得救乃是因主耶稣的恩，和他们一样，这是我们所信的。罗马书 10:4 —— 律法的总结就是基督，使凡信他的都得着义。约翰一书 5:1 —— 凡信耶稣是基督的，都是从神而生。提摩太后书 1:12 —— 因为知道我所信的是谁，也深信他能保全我所交付他的。加拉太书 2:20 —— 我如今在肉身活着，是因信神的儿子而活，他是爱我，为我舍己。约翰福音 1:7。希伯来书 11:6 ——（人非有信，就不能得神的喜悦。）约翰一书 4:16。箴言 3:26。",
+          "bsb": "Acts 16:31",
+          "grammar": [
+            {"id": "compound-relatives", "note": "Whosoever believeth …：凡信的。"},
+            {"id": "him-that-relative", "note": "every one that believeth：凡信他的。"},
+            {"note": "I know Him whom I have believed：先行词 Him 与关系从句相接——『我知道我所信的是谁』；the faith of the Son of God = faith in the Son（of 表宾格关系，钦定本用法）。"}
+          ]
+        },
+        {
+          "en": "Personal faith or trust in the saving Christ, an essential condition of saving grace (man's part and act): Eph. 2:8. By grace are ye saved, through faith; and that (salvation) is the gift of God. 2 Thes. 2:13. Chosen to salvation through sanctification of the Spirit and belief of the truth. Passages showing the co-operation of God in help of man's own act of faith, as in every spiritual act (see Agency): Gal. 5:22. The fruit of the Spirit is . . . faith. Heb. 12:2. Christ the author and perfecter of faith. Phil. 1:29. To you it is given not only to believe, but also to suffer. Every influence and help God will impart to prompt and secure faith, except its direct creation in the soul; else man has no responsibility.",
+          "zh": "对救主基督个人的信靠，是蒙救恩的必要条件（这是人的本分与行动）：以弗所书 2:8 —— 你们得救是本乎恩，也因着信；这（救恩）并不是出于自己，乃是神所赐的。帖撒罗尼迦后书 2:13 —— 他从起初拣选了你们，叫你们因信真道，又被圣灵感动成为圣洁，能以得救。以下经文显明：人自己发出信心的行动，神必协同帮助——一切属灵行动皆然（参主题词条：神人协作 004）：加拉太书 5:22 —— 圣灵所结的果子就是……信实。希伯来书 12:2 —— 基督是我们信心创始成终者（英译：信心的创始者与成全者）。腓立比书 1:29 —— 你们蒙恩，不但得以信服基督，并要为他受苦。为激发、坚固信心，神愿意赐下各样的感动与帮助，唯独不代替人在灵魂里直接把信造出来；不然，人就没有责任可言了。【OCR 注：原书 \"Heb. 12:1\" 依经文（信心创始成终者）推定为 12:2。】",
+          "bsb": "Ephesians 2:8",
+          "grammar": [
+            {"id": "inversion", "note": "By grace are ye saved：介词短语前置＋倒装（本乎恩得救）。"},
+            {"note": "Every influence and help God will impart …：宾语前置（神愿赐下各样感动帮助）；else = otherwise（古用法：不然）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "活泼生长的信心 / A Living, Active, Growing Principle",
+      "blocks": [
+        {
+          "en": "Faith a living and active principle, productive and capable of increase and growth: 2 Cor. 4:13. We believe, and therefore speak. Gal. 5:6. Faith worketh through love. James 2:14-26. Faith without works is dead. Christ calls it the work that God demands of man: John 6:29. This is the work of God, that ye believe on Him whom He hath sent. Luke 17:5. Increase our faith. 2 Cor. 10:15. Your faith is increased. 2 Thes. 1:3. Your faith groweth exceedingly. 1 Thes. 3:10. Perfect that which is lacking in your faith. 2 Tim. 1:6.",
+          "zh": "信心是活泼有为的原则，能结果子，能增长：哥林多后书 4:13 —— 我们既然信，所以如此说话。加拉太书 5:6 —— 使人生发仁爱的信心（英译：信心借着爱运行）。雅各书 2:14-26 —— 信心没有行为是死的。基督称『信』为神向人索取的工：约翰福音 6:29 —— 信神所差来的，这就是作神的工。路加福音 17:5 —— 求主加增我们的信心。哥林多后书 10:15 —— 你们信心增长。帖撒罗尼迦后书 1:3 —— 你们的信心格外增长。帖撒罗尼迦前书 3:10 —— 补满你们信心的不足。提摩太后书 1:6。【OCR 注：原书 \"John 6:9\"、\"1 Thes. 1:10\" 依经文推定为约翰福音 6:29、帖撒罗尼迦前书 3:10。】",
+          "bsb": "John 6:29",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "worketh / groweth：信心运行／增长。"},
+            {"note": "This is the work of God, that ye believe …：that 同位语从句点明 the work 的内容（作神的工就是信）。"}
+          ]
+        },
+        {
+          "en": "Differing measures: Little faith, Matt. 6:30, etc. Great faith, Matt. 8:10. Full assurance of faith, Heb. 10:22. Strong in faith, Rom. 4:20. Mark 4:40. Luke 17:6. Faith must be unceasingly exercised: Heb. 3:14. Hold fast our confidence unto the end. Jude 20. Building up yourselves on your most holy faith. Col. 1:23. Continue in the faith. 1 Tim. 6:11. 2 Tim. 2:22. Follow after faith. Heb. 10:23. Hold fast the confession. 1 Cor. 16:13. Stand fast in the faith. 1 Pet. 5:9. Whom resist, steadfast in your faith. Col. 2:5. [In the Christian life there is great need of watchfulness and prayer, of self-denial and of striving, of obedience and diligence. But \"all things are possible to him that believeth.\" \"This is the victory that overcometh, even our faith.\" It is faith that continually closes its eyes to the weakness of the flesh, and finds its help and joy in the sufficiency of an Almighty Saviour, that makes the soul strong and glad. A. Murray.]",
+          "zh": "信心大小不等：小信——马太福音 6:30 等。大信——8:10（百夫长）。充足的信心——希伯来书 10:22。信心坚固——罗马书 4:20（亚伯拉罕）。马可福音 4:40。路加福音 17:6（芥菜种）。信心必须不住地操练：希伯来书 3:14 —— 将起初确实的信心坚持到底。犹大书 20 —— 在至圣的真道上造就自己。歌罗西书 1:23 —— 在所信的道上恒心。提摩太前书 6:11；提摩太后书 2:22 —— 追求信心（列于当追求的诸德之中）。希伯来书 10:23 —— 坚守我们所承认的指望。哥林多前书 16:13 —— 要在真道上站立得稳。彼得前书 5:9 —— 你们要用坚固的信心抵挡他。歌罗西书 2:5。〔基督徒生活中，儆醒祷告、克己竞逐、顺服殷勤，样样都大有必要。然而『在信的人，凡事都能』；『使我们胜了世界的，就是我们的信心』。正是信心，不住地向肉体的软弱闭上眼睛，单在全能救主的丰盛充足里寻得帮助和喜乐——是信心使灵魂刚强而喜乐。慕安德烈（A. Murray）〕",
+          "bsb": "Hebrews 10:22",
+          "grammar": [
+            {"id": "him-that-relative", "note": "to him that believeth：在信的人。"},
+            {"note": "It is faith that … that makes the soul strong：it is … that 强调结构（正是信心使灵魂刚强）；Whom resist, steadfast in your faith：关系代词提前的祈使（你们要抵挡他），古体。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "信心的果效、果子与赏赐 / Effects, Fruits, Final Reward",
+      "blocks": [
+        {
+          "en": "Effects: James 1:3. The proof of your faith worketh patience. Acts 15:9. Purifying their hearts by faith. 1 John 5:4, 5. This is the victory that hath overcome the world, even our faith. 1 Pet. 1:5. By the power of God are guarded through faith. The unseen controls our life: 2 Cor. 5:7. We walk by faith. Matt. 8:13. As thou hast believed, so be it done unto thee. Mark 9:23. All things are possible to him that believeth.",
+          "zh": "果效：雅各书 1:3 —— 你们的信心经过试验，就生忍耐。使徒行传 15:9 —— 借着信洁净了他们的心。约翰一书 5:4-5 —— 使我们胜了世界的，就是我们的信心。彼得前书 1:5 —— 你们这因信蒙神能力保守的人。那看不见的掌管我们的生活：哥林多后书 5:7 —— 我们行事为人是凭着信心。马太福音 8:13 —— 照你的信心，给你成全了。马可福音 9:23 —— 在信的人，凡事都能。",
+          "bsb": "1 John 5:4",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As thou hast believed, so be it done unto thee：as … so … 相关结构＋祈愿虚拟 be it done（照你所信的，给你成全）。"}
+          ]
+        },
+        {
+          "en": "Fruits: Remission of sins, Acts 10:43. Strength, Isa. 30:15. In confidence shall be your strength. Peace and joy, Rom. 5:1, 2; 15:13. 1 Pet. 1:8. Thankfulness, 1 Tim. 4:3. Readiness to testify, Ps. 116:10. 2 Cor. 4:13. We believe, and therefore speak. Godly edifying, or building up godly character, 1 Tim. 1:4. Jude 20. The Father's love, John 16:27. The Father loveth you, because ye have believed. Promise, reception, sealing of the Spirit, Gal. 3:14. John 7:39. Eph. 1:13. Children of God, John 1:12. Gal. 3:26. Ye are all sons of God, through faith. Indwelling of Christ, Eph. 3:17. Christ dwelling in your hearts through faith. Christ's present intercession, John 17:20. I pray for them also that shall believe. Present spiritual life, Gal. 2:20. I live by faith in the Son of God. John 7:38.",
+          "zh": "果子：罪得赦免——使徒行传 10:43。力量——以赛亚书 30:15：平静安稳（英译：倚靠）就是你们的力量。平安与喜乐——罗马书 5:1-2；15:13；彼得前书 1:8。感恩——提摩太前书 4:3。乐于见证——诗篇 116:10；哥林多后书 4:13：我们既然信，所以如此说话。敬虔的造就（建造敬虔的品格）——提摩太前书 1:4；犹大书 20。父的爱——约翰福音 16:27：父自己爱你们，因为你们已经……信我。圣灵的应许、领受与印记——加拉太书 3:14；约翰福音 7:39；以弗所书 1:13。作神的儿女——约翰福音 1:12；加拉太书 3:26：你们因信……都是神的儿子。基督的内住——以弗所书 3:17：基督因你们的信，住在你们心里。基督今日的代求——约翰福音 17:20：我也为那些信我的人祈求。今日属灵的生命——加拉太书 2:20：因信神的儿子而活。约翰福音 7:38。",
+          "bsb": "Ephesians 3:17",
+          "grammar": [
+            {"id": "headline-style", "note": "Remission of sins, … Strength, … Peace and joy, …：名词标题＋出处的清单式排布——信心十二样果子。"},
+            {"id": "inversion", "note": "In confidence shall be your strength：介词短语前置＋倒装（倚靠就是你们的力量）。"}
+          ]
+        },
+        {
+          "en": "Reward, or ultimate result: 1 Pet. 1:5, 9. Receiving the end of your faith, even the salvation of your souls. Heb. 10:39. Of them that believe to the saving of the soul. Heb. 6:12. Through faith inherit the promises. Heb. 4:3. We which have believed do enter into rest. John 11:26. Whosoever liveth and believeth shall never die. John 3:36. He that believeth on the Son hath everlasting life.",
+          "zh": "赏赐，即最终的结局：彼得前书 1:5, 9 —— 并且得着你们信心的果效，就是灵魂的救恩。希伯来书 10:39 —— 我们却是有信心以致灵魂得救的人。6:12 —— 凭信心和忍耐承受应许。4:3 —— 但我们已经相信的人得以进入那安息。约翰福音 11:26 —— 凡活着信我的人必永远不死。3:36 —— 信子的人有永生。",
+          "bsb": "1 Peter 1:8-9",
+          "grammar": [
+            {"note": "even the salvation of your souls：even 表同位强调（就是灵魂的救恩）；We which have believed：which 指人（= who），钦定本用法；do enter：do 表强调（得以进入）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "信心与义、与称义 / With Righteousness; With Justification",
+      "blocks": [
+        {
+          "en": "Relations and connections of faith. With Righteousness (Gr. being right): The condition of one who stands accepted by the perfect Law, and is therefore approved of God. This condition or standing is attained either by exactly meeting the Law's demands, or by the reckoning of such perfect obedience on account of the sacrificial self-offering of the Incarnate Son of God, accepted and trusted in by the penitent transgressor. Thus the whole Scripture discriminates between \"the righteousness which is of the Law\" and \"the righteousness which is of faith.\" Paul cites Moses as saying in reference to the former (Rom. 10:5), The man who doeth these things (who perfectly keeps God's commandments) shall live by them. So Christ, Matt. 19:17, If thou wilt enter into life, keep the commandments. But Paul quotes the assertion of many who wrote before him (Rom. 3:9-20), There is none righteous; all are gone out of the way. And he concludes (vs. 20), Therefore by the deeds of the law shall no flesh be justified in His sight. Hence the great and central theme of the Scripture is \"the righteousness which is of faith,\" and upon the pages of Old and New Testament, in manifold forms of announcement, appears the supreme and vital connection of Faith.",
+          "zh": "信心的诸般关系。与『义』的关系（希腊原文意为『正』）：义，是在完全的律法面前站立得住、因而蒙神悦纳之人的地位。要得这地位，或者丝毫不差地满足律法的要求，或者因道成肉身之神子献己为祭，悔改的罪人接受他、信靠他，那完全的顺服便归算到他账上。所以全部圣经分别出两种义：『出于律法的义』与『出于信心的义』。论前者，保罗引摩西的话（罗马书 10:5）：行这些事的（完全遵守神诫命的），就必因此活着。基督也如此说（马太福音 19:17）：你若要进入永生，就当遵守诫命。但保罗又引在他以前众作者的断言（罗马书 3:9-20）：没有义人，连一个也没有；都是偏离正路。于是他总结说（20 节）：所以凡有血气的，没有一个因行律法能在神面前称义。因此圣经伟大而中心的主题，正是『出于信心的义』；新旧两约的书页上，以各式各样的宣告，处处显出信心这至高而攸关生死的联结。【OCR 注：原书 \"Rom. 5:9-20\" 依经文（没有义人）推定为罗马书 3:9-20。】",
+          "bsb": "Romans 10:5",
+          "grammar": [
+            {"id": "shall-archaic", "note": "shall no flesh be justified：shall 表定论＋否定倒装（没有血气能称义）。"},
+            {"note": "either by exactly meeting …, or by the reckoning of …：either … or 对称的两个介词短语，概括『行为之义』与『归算之义』；accepted and trusted in by …：过去分词后置（被悔改的罪人所接受、所信靠）。"}
+          ]
+        },
+        {
+          "en": "[Faith, though founding no legal claim to Divine favor, is the soul's disposition of receptiveness and trust toward God—the right and required attitude of the mind and heart—and is therefore the morally necessary condition of a man's being what he ought to be. The judgment of Justification declares the believer righteous in a gracious manner, accepting by anticipation his faith for righteousness, because faith unites him to Christ, and this union is the guaranty of increasing and full final perfection of life. Faith, then, is not righteousness. It is humility, receptiveness, trust; righteousness is correspondence with a divinely given norm; but they are vitally related, because faith is the act by which the soul comes into living union with Christ, a union which assures increasing growth in Christlikeness. Stevens.]",
+          "zh": "〔信心虽然构不成向神索恩的法律依据，却是灵魂向神敞开领受、倾心信赖的姿态——是心思与心灵当有、也必须有的态度——因此是人成为其所当是的、道德上必需的条件。称义的判决以恩典的方式宣告信者为义，预先悦纳他的信、以之为义；因为信使他与基督联合，而这联合就是生命日增、终至完全的保证。可见信心本身并不是义。信心是谦卑、领受、信靠；义是与神所定准则相符。但二者性命攸关地相连，因为信正是灵魂借以与基督活泼联合的那个行动，这联合确保人在肖似基督上不断长进。史蒂文斯（Stevens）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "though founding no legal claim：though＋现在分词的让步（虽构不成法律依据）；accepting by anticipation his faith for righteousness：accept … for …（以……算为……）＋状语插入；a man's being what he ought to be：动名词复合结构（人成为其所当是）。"}
+          ]
+        },
+        {
+          "en": "With Justification. Specially should we note Paul's large treatment, with many Old Testament citations, of the Righteousness which is of Faith, and the Justification by God of the believer, to whom that righteousness is accounted. Rom. 8:33. It is God that justifieth. Titus 3:7. Justified by His grace. Comprehensive statement of the great and vital truth: Rom. 1:17 (Rev. Vers.). For therein (in the Gospel) is revealed a righteousness of God from faith unto faith; as it is written (Hab. 2:4), The righteous shall live by faith. Also cited Gal. 3:11. Heb. 10:38. Job 9:2; 25:4.",
+          "zh": "与称义的关系。尤当留意保罗对『出于信的义』以及『神称信者为义、把义归算给他』的宏大论述，其中征引旧约甚多。罗马书 8:33 —— 有神称他们为义了。提多书 3:7 —— 靠着他的恩典称义。这一伟大攸关真理的总纲：罗马书 1:17（修订译本）—— 因为神的义正在这福音上显明出来，本于信，以致于信；如经上所记（哈巴谷书 2:4）：义人必因信得生。加拉太书 3:11、希伯来书 10:38 再引此句。约伯记 9:2；25:4（人在神面前怎能成为义呢？）。",
+          "bsb": "Romans 1:17",
+          "grammar": [
+            {"id": "inversion", "note": "Specially should we note …：副词前置＋倒装（尤当留意）。"},
+            {"id": "prep-relative", "note": "therein is revealed a righteousness：therein = in it（在这福音上）＋被动倒装。"}
+          ]
+        },
+        {
+          "en": "Rom. 3:21-26. Vs. 22. The righteousness of God through faith in Jesus Christ unto all them that believe. Vs. 24-26. Being justified freely by His grace, through the redemption that is in Christ Jesus; whom God set forth to be a propitiation, through faith, by His blood, to shew His righteousness; . . . that He might Himself be just, and the Justifier of him that hath faith in Jesus. [Paraphrase: \"We are to be justified, regarded and treated as holy—provision is made for our deliverance from sin; we can be forgiven, renewed, and made perfect in holiness—freely, not as something to which we can lay claim by purely personal merit. We are utterly dependent upon grace, upon the voluntary, undeserved, self-moved compassion of God. That compassion has taken form in the redeeming act of Christ Jesus, which redeeming act consisted in our Lord's sacrifice of Himself unto death, the power of which we appropriate by simple faith; which redeeming act God had in mind, or purposed, from all eternity, as a means of giving force to His redeeming mercy (propitiation). That which has taken place in time was freely determined from everlasting. But God's eternal way of dealing with men and saving them from sin has now been shown in act; it has been clearly and unanswerably made manifest. In the light of that act, giving force to God's redeeming mercy, we can now understand the riddle of God's past treatment of a wicked world, when His forbearance had the appearance of indifference to the sins of men; and in the light of this act it is also clearly seen that in saving him who believes in Jesus, God is dealing righteously.\" A. J. F. Behrends.]",
+          "zh": "罗马书 3:21-26。22 节 —— 就是神的义，因信耶稣基督加给一切相信的人。24-26 节 —— 如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。神设立耶稣作挽回祭，是凭着耶稣的血，借着人的信，要显明神的义……使人知道他自己为义，也称信耶稣的人为义。〔释义：『我们得称为义、被看待为圣洁——为我们脱离罪已有预备；我们可以蒙赦免、被更新、在圣洁上得以完全——这一切都是白白的，绝非我们凭个人功德所能索取的。我们全然仰赖恩典，仰赖神那出于自愿、非人配得、自发自动的怜悯。这怜悯已在基督耶稣的救赎行动中成了形；这救赎行动就是我们的主舍己至死的牺牲，其功效我们凭单纯的信取用；这救赎行动是神从亘古就定意的，为要使他救赎的怜悯生发效力（此即挽回祭 propitiation 之义）。在时间里发生的，早在永恒里白白定妥。如今，神对付人、救人脱罪的永恒之道已经付诸行动显明出来，清清楚楚、无可置辩。在这行动的光中，我们才解得开一个谜——为何神从前宽容行恶的世界，宽容得仿佛对人的罪漠不关心；也是在这行动的光中，人清楚看见：神拯救信耶稣的人，正是秉公行义。』贝伦兹（A. J. F. Behrends）〕",
+          "bsb": "Romans 3:23-24",
+          "grammar": [
+            {"id": "him-that-relative", "note": "him that hath faith in Jesus / him who believes：信耶稣的人。"},
+            {"note": "whom God set forth to be a propitiation：关系代词 whom 承前指基督＋set forth『设立』；which redeeming act …, which redeeming act …：重复先行词的接续关系从句——十九世纪释经文体，层层推进；shew = show 的古拼。"}
+          ]
+        },
+        {
+          "en": "Rom. 4:3, 9, 13, 20-25. Vs. 3. Abraham believed God, and it was counted unto him for righteousness (Gen. 15:6). Vs. 23-25. Now it was not written for his sake alone, that it was reckoned unto him; but for our sake also, who believe on Him that raised Jesus our Lord from the dead, who was delivered up for our trespasses, and was raised for our justification. Gal. 3:6-12. Rom. 4:5-8. To him that worketh not, but believeth on Him that justifieth the ungodly, his faith is reckoned for righteousness. Even as David also pronounceth blessing upon the man unto whom God reckoneth righteousness apart from works: \"Blessed is the man to whom the Lord will not reckon sin.\" Rom. 5:1, 16-19. Rom. 8:33; 9:30; 10:4, 10. With the heart man believeth unto righteousness. Rom. 8:1. There is now no condemnation to them that are in Christ Jesus. Confirmatory statements: Isa. 45:24. In the Lord shall all be justified. Jer. 23:6. The Lord our Righteousness. Isa. 53:11. My righteous Servant shall justify many. Isa. 54:17. Their righteousness which is of Me. Micah 7:7-9. I shall behold His righteousness. Acts 13:39. By Him every one that believeth is justified from all things. 1 Cor. 1:30. Christ made unto us righteousness. 2 Cor. 5:21. Him who knew no sin He made to be sin on our behalf, that we might become the righteousness of God in Him. Gal. 3:11, 13. Christ redeemed us from the curse of the law, having become a curse for us. Gal. 2:16. Not justified by the works of the law, but only through faith in Jesus Christ. Phil. 3:9. That I may gain Christ, and be found in Him, not having a righteousness of mine own, but that which is through faith in Christ. 2 Pet. 1:1. Like precious faith with us in the righteousness of our God and Saviour Jesus Christ. Heb. 11:7. Noah, heir of the righteousness which is according to faith. Matt. 6:33. Seek ye first His kingdom and His righteousness.",
+          "zh": "罗马书 4:3, 9, 13, 20-25。3 节 —— 亚伯拉罕信神，这就算为他的义（创世记 15:6）。23-25 节 —— 『算为他义』的这句话，不是单为他写的，也是为我们将来得算为义之人写的，就是我们这信神使我们的主耶稣从死里复活的人。耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。加拉太书 3:6-12。罗马书 4:5-8 —— 惟有不做工的，只信称罪人为义的神，他的信就算为义。正如大卫称那在行为以外蒙神算为义的人是有福的：『主不算为有罪的，这人是有福的。』罗马书 5:1, 16-19；8:33；9:30；10:4, 10 —— 人心里相信，就可以称义。8:1 —— 如今，那些在基督耶稣里的就不定罪了。印证的经文：以赛亚书 45:24 —— 以色列的后裔都必因耶和华得称为义。耶利米书 23:6 —— 耶和华我们的义。以赛亚书 53:11 —— 我的义仆……使许多人得称为义（原文作称许多人为义）。54:17 —— 这义是从我而得的（英译：他们的义出于我）。弥迦书 7:7-9 —— 我必得见他的公义。使徒行传 13:39 —— 一切信靠他的，就都因他称义。哥林多前书 1:30 —— 基督成为我们的……公义。哥林多后书 5:21 —— 神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义。加拉太书 3:11, 13 —— 基督既为我们受了咒诅（原文作成了咒诅），就赎出我们脱离律法的咒诅。2:16 —— 人称义不是因行律法，乃是因信耶稣基督。腓立比书 3:9 —— 得以在他里面，不是有自己因律法而得的义，乃是有信基督的义。彼得后书 1:1 —— 因我们的神和救主耶稣基督之义，与我们同得一样宝贵信心的人。希伯来书 11:7 —— 挪亚……自己也承受了那从信而来的义。马太福音 6:33 —— 你们要先求他的国和他的义。",
+          "bsb": "2 Corinthians 5:21",
+          "grammar": [
+            {"id": "him-that-relative", "note": "To him that worketh not / every one that believeth：不做工只信的人／凡信的人。"},
+            {"id": "eth-est-endings", "note": "pronounceth / reckoneth / justifieth：『算为义』系列动词的 -eth 形。"},
+            {"note": "Him who knew no sin He made to be sin：宾语前置＋make＋宾补（使那无罪的成为罪）——本词条最凝练的神学句。"}
+          ]
+        },
+        {
+          "en": "Fruits of justification by faith: Rom. 5:1-11. Peace, access, hope, love of God in the heart, saved from wrath, joy in God. The abiding trinity of spiritual graces: 1 Cor. 13:13. Faith, hope, love. Glory: Rom. 8:30. Whom He justified, them He also glorified. Christian virtues to be associated with faith: 2 Pet. 1:5-7. Add to your faith virtue (energy), knowledge (practical wisdom), temperance (self-control), patience, godliness, brotherly kindness, love (universal charity). Here faith is the foundation and vital support, and these virtues the superstructure, of the Life-Building of Christian character.",
+          "zh": "因信称义的果子：罗马书 5:1-11 —— 与神相和、进入恩典、盼望、神的爱浇灌心里、免去忿怒、以神为乐。长存的三样属灵美德：哥林多前书 13:13 —— 信、望、爱。得荣耀：罗马书 8:30 —— 称为义的人，又叫他们得荣耀。当与信心联结的基督徒诸德：彼得后书 1:5-7 —— 有了信心，又要加上德行（刚健有为）、知识（实践的智慧）、节制（自制）、忍耐、虔敬、爱弟兄的心、爱众人的心（普世的仁爱）。在这里，信心是基督徒品格这座『生命之厦』的根基与命脉支柱，诸德是其上的建筑。",
+          "bsb": "Romans 5:1",
+          "grammar": [
+            {"note": "Whom He justified, them He also glorified：关系句前置＋指示代词复指（称义的，又叫他们得荣耀）——钦定本链式句；Add to your faith virtue …：add to A B 的双宾语序（在信上加德）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "信心与——（系列关系） / Faith and —",
+      "blocks": [
+        {
+          "en": "Faith and the Word: John 20:31. 1 John 5:13. These are written, that ye might believe. Rom. 1:16, 17. The gospel is the power of God unto salvation to every one that believeth. 2 Tim. 3:15. Able to make thee wise unto salvation, through faith. 1 Thes. 2:13. The word effectually worketh in you that believe. Rom. 10:17. Faith cometh of hearing, and hearing by the word of God. 2 Thes. 2:13. Heb. 4:2. The word did not profit, because it was not mixed with faith. 2 Thes. 2:12. Condemned who believed not the truth. Rom. 16:26. Made known unto all the nations unto obedience of faith. Faith and Prayer: Mark 11:24. Matt. 21:22. All things whatsoever ye shall ask in prayer, believing, ye shall receive. James 1:6. Let him ask in faith, nothing doubting. James 5:15. The prayer of faith shall save the sick. Eph. 3:12. Boldness and access with confidence, through faith in Him. Rom. 5:2. Mark 9:24. I believe; help Thou mine unbelief. 1 John 5:14. Heb. 10:22. Draw near in fullness of faith.",
+          "zh": "信心与圣道：约翰福音 20:31；约翰一书 5:13 —— 记这些事，要叫你们信。罗马书 1:16-17 —— 这福音本是神的大能，要救一切相信的。提摩太后书 3:15 —— 这圣经能使你因信……有得救的智慧。帖撒罗尼迦前书 2:13 —— 这道实在是神的，并且运行在你们信主的人心中。罗马书 10:17 —— 信道是从听道来的，听道是从基督的话来的。帖撒罗尼迦后书 2:13。希伯来书 4:2 —— 只是所听见的道与他们无益，因为……没有信心与所听见的道调和。帖撒罗尼迦后书 2:12 —— 不信真理的……被定罪。罗马书 16:26 —— 指示万国的民，使他们信服真道（原文作顺服于信）。信心与祷告：马可福音 11:24；马太福音 21:22 —— 你们祷告，无论求什么，只要信，就必得着。雅各书 1:6 —— 只要凭着信心求，一点不疑惑。5:15 —— 出于信心的祈祷要救那病人。以弗所书 3:12 —— 我们因信耶稣，就在他里面放胆无惧，笃信不疑地来到神面前。罗马书 5:2。马可福音 9:24 —— 我信！但我信不足，求主帮助。约翰一书 5:14。希伯来书 10:22 —— 存着充足的信心……来到神面前。",
+          "bsb": "Romans 10:17",
+          "grammar": [
+            {"id": "compound-relatives", "note": "All things whatsoever ye shall ask：whatsoever 复合关系词（无论求什么）。"},
+            {"id": "let-imperative", "note": "Let him ask in faith：let 祈使（只要凭信心求）。"},
+            {"id": "kjv-pronouns", "note": "help Thou mine unbelief：祈使句明示主语 Thou＋mine 用于元音前（= my）。"}
+          ]
+        },
+        {
+          "en": "Faith and Trial: James 1:3. The trial of your faith worketh patience. 1 Pet. 1:7. That the trial of your faith, though it is proved with fire, might be found unto praise and honor and glory. John 11:15; 13:19; 14:29; 19:35. These things came to pass, that ye may believe. Ps. 27:5. Job 13:15. Faith and Work, or Works: Ps. 37:3. James 2:14-26. Faith wrought with his works, and by works was faith made perfect. Faith without works is dead. So Paul counts only as saving the \"faith which worketh by love,\" Gal. 5:6. 1 Thes. 1:3. Your work of faith. 2 Thes. 1:11. Every work of faith, with power. 1 Tim. 6:11, 12. Follow after faith. Fight the good fight of the faith. Rom. 16:26. Unto the obedience of faith. Faith's place and office in the Christian's armor: Eph. 6:16. The shield of faith. 1 Thes. 5:8. The breastplate of faith and love. Note that faith has no relation to the works of the Law. It demands, and proves its own existence and vital power by bringing forth, its own appropriate works. Paul and James agree.",
+          "zh": "信心与试炼：雅各书 1:3 —— 你们的信心经过试验，就生忍耐。彼得前书 1:7 —— 叫你们的信心既被试验，就比那被火试验仍然能坏的金子更显宝贵，可以……得着称赞、荣耀、尊贵。约翰福音 11:15；13:19；14:29；19:35 —— 这些事成就，是要叫你们信。诗篇 27:5。约伯记 13:15。信心与行为：诗篇 37:3。雅各书 2:14-26 —— 信心是与他的行为并行，而且信心因着行为才得成全。信心没有行为是死的。所以保罗也只把『生发仁爱的信心』（加拉太书 5:6）算为使人得救的信心。帖撒罗尼迦前书 1:3 —— 你们因信心所做的工夫。帖撒罗尼迦后书 1:11 —— 用大能成就你们……一切因信心所做的工夫。提摩太前书 6:11-12 —— 追求……信心……为真道打那美好的仗。罗马书 16:26 —— 叫他们顺服于信。信心在基督徒军装中的位置与职任：以弗所书 6:16 —— 信德的藤牌。帖撒罗尼迦前书 5:8 —— 把信和爱当作护心镜遮胸。注意：信心与『律法的行为』毫无干系；信心索取的、并借以证明自己存在与活力的，是它自己相称的行为。保罗与雅各原是一致。",
+          "bsb": "James 2:17",
+          "grammar": [
+            {"id": "inversion", "note": "by works was faith made perfect：介词短语前置＋被动倒装（信心因行为得成全）。"},
+            {"note": "It demands, and proves … by bringing forth, its own appropriate works：双动词共享宾语——demands 与 proves 共用 its own appropriate works，十九世纪紧缩句法。"}
+          ]
+        },
+        {
+          "en": "Faith and Repentance (see Repentance). The two topics of New Testament preaching, vital conditions, on man's part, of salvation: Acts 20:21. Testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus Christ. Mark 1:14, 15. Jesus came into Galilee, preaching the gospel, and saying, Repent ye, and believe the gospel. Faith and Obedience: Obedience is an essential element in the exercise and manifestation of faith or trust. Paul speaks (Rom. 16:26) of \"the obedience of faith.\" Matt. 7:21. Not every one that saith unto Me, Lord, Lord, shall enter into the kingdom of heaven, but he that doeth the will of My Father. Vs. 24, 25. James 2:26. Faith apart from works is dead. Faith begets love; love begets obedience; obedience begets Christ-likeness. [Faith is the condition of the development of Christian character, because it involves obedience to Christ and fellowship of spirit with Him. In the very nature of faith is involved that personal fellowship in which alone the impartation of spiritual life from God can take place. The power and religious value of faith, therefore, are not in the faith itself, as an act, but in the relation of abiding fellowship and life-union which faith constitutes. G. B. Stevens.]",
+          "zh": "信心与悔改（另参主题词条：悔改）。二者是新约传道的两大题目，是人这一方面得救的攸关条件：使徒行传 20:21 —— 又对犹太人和希腊人证明当向神悔改，信靠我主耶稣基督。马可福音 1:14-15 —— 耶稣来到加利利，宣传神的福音，说：……你们当悔改，信福音。信心与顺服：顺服是信心运用与显明中必不可少的元素。保罗说过『顺服于信』（罗马书 16:26 原文）。马太福音 7:21 —— 凡称呼我主啊主啊的人，不能都进天国；惟独遵行我天父旨意的人，才能进去。24-25 节。雅各书 2:26 —— 信心没有行为（原文作离了行为）是死的。信生爱；爱生顺服；顺服生肖似基督的品格。〔信心之所以是基督徒品格得以发展的条件，因为信心本身就包含对基督的顺服和与他灵里的交契。信心的本质里就含着那种位格间的交契——唯有在这交契之中，神属灵生命的分赐才能发生。所以信心的能力与宗教价值，不在『信』这个行动本身，而在信心所缔结的那种恒久交契、生命联合的关系。史蒂文斯（G. B. Stevens）〕",
+          "bsb": "Acts 20:21",
+          "grammar": [
+            {"id": "him-that-relative", "note": "he that doeth the will of My Father：惟独遵行天父旨意的。"},
+            {"id": "inversion", "note": "In the very nature of faith is involved that personal fellowship：介词短语前置＋被动倒装。"},
+            {"note": "Faith begets love; love begets obedience; obedience begets …：顶真格（anadiplosis）——前句宾语作后句主语，环环相扣。"}
+          ]
+        },
+        {
+          "en": "Faith and Temptation: James 1:2, 3. Count it all joy when ye fall (not run or enter willfully) into manifold temptations, knowing that the proof of your faith worketh patience. 1 Pet. 1:6, 7. If need be, ye have been put to grief in manifold temptations, that the proof of your faith might be found unto praise. Luke 22:31, 32. Simon, Satan asked to have you, that he might sift you; but I made supplication for thee, that thy faith fail not. Faith and Grace, and Salvation: Eph. 2:8. By grace are ye saved, through faith. Heb. 10:39. Of them that believe to the saving of the soul. Gal. 3:14. Through Christ we receive the promise of the Spirit through faith. John 3:15, 36. [Faith, as the condition of justifying judgment, is, in general, trust in God's grace; in particular, personal trust in Christ, in whom that grace is chiefly revealed and assured to sinful man. Faith and Grace are thus correlative terms, and are the pivots of Paul's whole teaching. Grace is the principle in God which initiates and completes the work of salvation; and faith is the act in which man appropriates it. Stevens. — The life of grace is always and only a life of faith; and the one daily and unceasing duty of the disciple is to believe, because believing is the one channel through which Divine grace and strength flow into the heart of man. The old nature of the believer remains evil and productive of sin to the last. It is only as faith, the living, active principle of his new nature, constrains him to come all empty and helpless to receive the fullness and strength of His Saviour, that he can resist evil and bring forth the fruits of righteousness to the glory of God. A. Murray.]",
+          "zh": "信心与试探：雅各书 1:2-3 —— 我的弟兄们，你们落在（不是自己奔进、擅自闯进）百般试炼中，都要以为大喜乐，因为知道你们的信心经过试验，就生忍耐。彼得前书 1:6-7 —— 但如今在百般的试炼中暂时忧愁，叫你们的信心既被试验……可以得着称赞。路加福音 22:31-32 —— 西门，撒但想要得着你们，好筛你们像筛麦子一样。但我已经为你祈求，叫你不至于失了信心。信心与恩典、与救恩：以弗所书 2:8 —— 你们得救是本乎恩，也因着信。希伯来书 10:39 —— 我们却是有信心以致灵魂得救的人。加拉太书 3:14 —— 使我们因信得着所应许的圣灵。约翰福音 3:15, 36。〔信心作为称义判决的条件，广而言之是信赖神的恩典；具体而言是亲身信靠基督——恩典主要就是在基督里向罪人显明、向罪人担保的。所以信与恩是相关项，是保罗全部教训的两个枢轴：恩典是神里面发起并完成救恩之工的本原，信心是人取用这恩的行动。史蒂文斯（Stevens）——恩典的生活始终只能是信心的生活；门徒每日不歇的本分只有一件：信。因为『信』是神的恩典与能力流进人心的唯一渠道。信徒的旧性直到末了仍旧败坏、仍旧生罪；唯有当信心——他新生命里那活泼有为的本原——催逼他两手空空、无依无靠地来领受救主的丰盛与能力时，他才能抵挡罪恶，结出公义的果子，荣耀归神。慕安德烈（A. Murray）〕",
+          "bsb": "Luke 22:32",
+          "grammar": [
+            {"id": "object-complement", "note": "Count it all joy：count＋宾语＋补语（都要以为大喜乐）。"},
+            {"id": "optative-subjunctive", "note": "that thy faith fail not：目的从句虚拟原形 fail＋not 后置（叫你不至于失了信心）。"},
+            {"note": "If need be：古成语『若有必要』（be 为虚拟式）；It is only as faith … constrains him …, that he can …：it is … that 强调框架内嵌 as 从句——慕安德烈式长句。"}
+          ]
+        },
+        {
+          "en": "Faith and Adoption: Justification and Adoption are the two law-relations connected with our redemption. Our introduction into both is by faith, as an essential condition on our part. As our condemnation is removed (Rom. 8:1), so our rights and privileges of childship are restored, and by the same exercise of trust in Christ. John 1:12. As many as received Him, to them gave He the right to become children of God, even to them that believe on His name. Rom. 8:14-16. As many as are led by the Spirit of God, they are the sons of God. Faith and Sanctification: Acts 26:18. Them that are sanctified by faith in Me. Not only do Justification and Adoption demand faith in the Divine Justifier and Father, but all accompanying spiritual blessings are conditioned upon the exercise of faith—emphatically the renewing and refining work of the Holy Spirit, which we call Sanctification.",
+          "zh": "信心与得儿子的名分：称义与得名分，是与我们的救赎相连的两重法理关系；进入这两重关系，都以我们这方面的信为必要条件。我们的罪案怎样撤销（罗马书 8:1），儿子名分的权利与特权也照样恢复——凭的是同一个对基督的信靠。约翰福音 1:12 —— 凡接待他的，就是信他名的人，他就赐他们权柄，作神的儿女。罗马书 8:14-16 —— 凡被神的灵引导的，都是神的儿子。信心与成圣：使徒行传 26:18 —— 和一切因信我得以成圣的人同得基业。不但称义与得名分要求人信那称义的神、信那父，一切随之而来的属灵福分也都以信心的运用为条件——尤其是圣灵更新洗炼的工作，即我们所称的成圣。",
+          "bsb": "John 1:12",
+          "grammar": [
+            {"id": "as-many-as", "note": "As many as received Him / As many as are led：凡接待的／凡被引导的。"},
+            {"id": "inversion", "note": "to them gave He the right：间接宾语前置＋倒装（就赐他们权柄）；Not only do … demand：not only 句首引发倒装。"},
+            {"id": "as-so-correlative", "note": "As our condemnation is removed, so our rights … are restored：as … so … 平行（怎样……照样……）。"}
+          ]
+        },
+        {
+          "en": "Faith the ally of Hope and Love. The trinity of abiding graces: 1 Cor. 13:13. But now abideth faith, hope, love, these three; and the greatest of these is love. [\"Love is the sustaining and efficient power of faith, its basis and inspiration.\"] Gal. 5:6. Faith worketh through love. 1 Thes. 1:3. Remembering your work of faith, and labor of love, and patience of hope, in our Lord Jesus Christ. The alliance of hope, faith, love, and joy, and their issue in salvation: 1 Pet. 1:3-9. Faith and Reason: 1 Pet. 3:15. Be ready always to give answer to every man that asketh you a reason concerning the hope that is in you. 2 Tim. 1:13. Hold the pattern of sound words, in faith and love which is in Christ Jesus. Jude 3. Contend earnestly for the faith. The reasonableness of faith, and the reasons for its exercise, form the basis of every appeal for faith in the Old Testament and the New. Upon the sufficiency of these reasons rests the obligation of our faith, and the consequent responsibility for the neglect and failure to believe.",
+          "zh": "信心是盼望与爱的盟友。长存的三样美德：哥林多前书 13:13 —— 如今常存的有信、有望、有爱，这三样，其中最大的是爱。〔『爱是信心得以持续、得以奏效的力量，是信心的根基与灵感。』〕加拉太书 5:6 —— 信心借着爱运行。帖撒罗尼迦前书 1:3 —— 记念你们因信心所做的工夫，因爱心所受的劳苦，因盼望我们主耶稣基督所存的忍耐。望、信、爱、乐四者联盟，其归结是救恩：彼得前书 1:3-9。信心与理性：彼得前书 3:15 —— 有人问你们心中盼望的缘由，就要常作准备……回答各人。提摩太后书 1:13 —— 你从我听的那纯正话语的规模，要用在基督耶稣里的信心和爱心，常常守着。犹大书 3 —— 要为从前一次交付圣徒的真道竭力地争辩。信心的合理，与运用信心的理由，构成新旧两约中每一次信心呼召的根据。我们信的义务，正安放在这些理由的充足之上；忽略不信的责任，也随之而来。",
+          "bsb": "1 Corinthians 13:13",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "abideth / asketh：常存／询问。"},
+            {"id": "inversion", "note": "But now abideth faith, hope, love / Upon the sufficiency of these reasons rests the obligation：动词前置与介词短语前置的倒装两连。"}
+          ]
+        },
+        {
+          "en": "Faith and Sight. Faith in the unseen Christ: John 20:29. Blessed are they that have not seen, and yet have believed. [I am thankful that I live not in the days of miracles; I would not have been one of those Israelites that passed the Red Sea, nor one of Christ's patients on whom He wrought His wonders; then had my faith been thrust upon me; nor should I enjoy that greater blessing pronounced to all that believe and saw not. Sir Thomas Browne.] 1 Pet. 1:8. Whom having not seen ye love. 2 Cor. 5:7. For we walk by faith, not by sight. Faith and the Life in Christ: Gal. 2:19, 20. For I through the law died unto the law, that I might live unto God. I have been crucified with Christ; yet I live; and yet no longer I, but Christ liveth in me: and that life which I now live in the flesh I live in faith, the faith which is in the Son of God, who loved me, and gave Himself up for me. See Christ and the Believer.",
+          "zh": "信心与眼见。信那未曾眼见的基督：约翰福音 20:29 —— 那没有看见就信的有福了。〔我感恩自己不生在神迹的年代；我不愿作当年过红海的以色列人中的一个，也不愿作基督在其身上行奇事的病人中的一个——那样，我的信就是被硬塞给我的了；那宣告给一切未见而信之人的更大的福，我也无从享受了。托马斯·布朗爵士（Sir Thomas Browne，《医者的信仰》作者）〕彼得前书 1:8 —— 你们虽然没有见过他，却是爱他。哥林多后书 5:7 —— 因我们行事为人是凭着信心，不是凭着眼见。信心与在基督里的生命：加拉太书 2:19-20 —— 我因律法，就向律法死了，叫我可以向神活着。我已经与基督同钉十字架，现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信神的儿子而活，他是爱我，为我舍己。另参主题词条：基督与信徒（033）。",
+          "bsb": "John 20:29",
+          "grammar": [
+            {"id": "inversion", "note": "Blessed are they that … / then had my faith been thrust upon me：前者表语前置倒装；后者是省略 if 的虚拟倒装（= then my faith would have been …），十七世纪文风。"},
+            {"note": "Whom having not seen ye love：关系代词宾语前置＋分词插入（虽未见过他，却爱他）——彼得前书名句；I live not：不用 do 的否定。"}
+          ]
+        },
+        {
+          "en": "Faith and Dying: John 11:25, 26. He that believeth on Me, though he die, yet shall he live; and whosoever liveth and believeth on Me shall never die. Heb. 11:13, 16, 35, 39. These all died in faith. Others were beaten to death, not accepting their deliverance, that they might obtain a better resurrection. Of the believer it is said: Prov. 14:32. He hath hope in his death. 1 Cor. 3:22. Death is yours. See Death (of the Righteous). Faith and the Resurrection: John 6:40. Every one that believeth on the Son should have eternal life; and I will raise him up at the last day. John 14:19. Because I live, ye shall live also. 1 Thes. 4:14, 17. If we believe that Jesus died and rose again, even so them also that are fallen asleep in Jesus will God bring with Him. Phil. 3:21. Who shall fashion anew the body of our humiliation, that it may be conformed to the body of His glory. Rom. 8:23. The redemption of our body.",
+          "zh": "信心与临终：约翰福音 11:25-26 —— 信我的人，虽然死了，也必复活；凡活着信我的人必永远不死。希伯来书 11:13, 16, 35, 39 —— 这些人都是存着信心死的。又有人忍受严刑，不肯苟且得释放，为要得着更美的复活。论到信的人，经上说：箴言 14:32 —— 义人临死，有所投靠。哥林多前书 3:22 —— 死……都是你们的。另参主题词条：死（055，义人之死一节）。信心与复活：约翰福音 6:40 —— 叫一切见子而信的人得永生，并且在末日我要叫他复活。14:19 —— 因为我活着，你们也要活着。帖撒罗尼迦前书 4:14, 17 —— 我们若信耶稣死而复活了，那已经在耶稣里睡了的人，神也必将他们与耶稣一同带来。腓立比书 3:21 —— 他要……将我们这卑贱的身体改变形状，和他自己荣耀的身体相似。罗马书 8:23 —— 我们的身体得赎。",
+          "bsb": "John 6:40",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "though he die, yet shall he live：though＋虚拟原形 die＋yet shall 倒装。"},
+            {"id": "compound-relatives", "note": "whosoever liveth and believeth：凡活着信我的。"},
+            {"note": "fashion anew the body of our humiliation：fashion 作动词『塑造』＋anew（重新塑造我们卑贱的身体）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "医治的条件；命令与榜样；事实为根基 / Healing; Command; Examples; Facts",
+      "blocks": [
+        {
+          "en": "Faith the essential condition of Christ's works of healing and help: Luke 5:20. And seeing their faith. Mark 6:5. (He could there do no mighty work . . . because of their unbelief.) Matt. 15:28. O woman, great is thy faith: be it done unto thee even as thou wilt. Mark 9:23. Acts 3:6, 16. Christ's one command and pleading: John 14:1. Believe in God, believe also in Me. Mark 5:36. Fear not, only believe. John 20:27. Be not faithless, but believing. Luke 24:25. O slow of heart to believe. Everywhere He asks for loving heart-trust in Himself, not mere belief in any statement of doctrine concerning Him.",
+          "zh": "信心是基督施行医治与帮助的必要条件：路加福音 5:20 —— 耶稣见他们的信心。马可福音 6:5 ——（耶稣在那里不得行什么异能……因为他们不信。）马太福音 15:28 —— 妇人，你的信心是大的！照你所要的，给你成全了吧。马可福音 9:23。使徒行传 3:6, 16。基督唯一的命令与恳求：约翰福音 14:1 —— 你们信神，也当信我。马可福音 5:36 —— 不要怕，只要信。约翰福音 20:27 —— 不要疑惑，总要信（直译：不要作无信的人，要作有信的人）。路加福音 24:25 —— 无知的人哪，先知所说的一切话，你们的心信得太迟钝了。他处处所求的，是人对他本身爱慕的心之信靠，不是对某条关乎他的教义条文的空头认信。",
+          "bsb": "Mark 5:36",
+          "grammar": [
+            {"id": "vocative-o", "note": "O woman, great is thy faith / O slow of heart：呼格＋表语前置倒装。"},
+            {"id": "optative-subjunctive", "note": "be it done unto thee even as thou wilt：祈愿虚拟（照你所要的给你成全）；wilt 此处是实义动词 will『愿意』的第二人称古形。"},
+            {"id": "no-do-negation", "note": "Fear not / Be not faithless：不用 do 的否定祈使。"}
+          ]
+        },
+        {
+          "en": "Examples of faith: Heb. 11:4-11, 17-31. Abel, Enoch, Noah, Abraham, Moses, Rahab. David. Elijah and the widow. Dan. 3:17, 18. (Our God whom we serve is able to deliver us; but if not, we will not serve thy gods.) Dan. 6:23. (No manner of hurt was found upon him, because he had trusted in his God.) Stephen, Acts 6:5; and many more. 2 Cor. 5:6, 7. 2 Tim. 1:12. Facts the foundation of faith, and the ground of God's appeal to men. The Psalmists said, \"Come and hear what God hath done,\" \"Taste and see that the Lord is gracious.\" Christ said to the first inquirers, \"Come and see.\" He answered John's inquiry by pointing to His works; and His last plea with the disciples was, Believe Me for the very works' sake. \"Things hoped for, things not seen\"—the basis of the definition of faith, Heb. 11:1. See Unbelief.",
+          "zh": "信心的榜样：希伯来书 11:4-11, 17-31 —— 亚伯、以诺、挪亚、亚伯拉罕、摩西、喇合。大卫。以利亚与（撒勒法的）寡妇。但以理书 3:17-18 ——（我们所事奉的神能将我们从烈火的窑中救出来……即或不然，王啊，你当知道我们决不事奉你的神。）6:23 ——（身上毫无伤损，因为信靠他的神。）司提反——使徒行传 6:5；此外尚多。哥林多后书 5:6-7。提摩太后书 1:12。事实是信心的根基，是神向人呼吁的凭据。诗人说：『你们来听，我要述说神为我所行的事』『你们要尝尝主恩的滋味，便知道他是美善』。基督对最初的求问者说：『你们来看。』他答复（狱中）施洗约翰的询问，是指着自己所行的事；他对门徒最后的恳求是：『即或不信我，也当因我所做的事信我。』『所望之事、未见之事』——这正是信心定义（希伯来书 11:1）的立足点。另参主题词条：不信。【OCR 注：原书 \"1 Cor. 5:6\" 依上下文（凭信心行事）推定为哥林多后书 5:6-7。】",
+          "bsb": "Daniel 3:17-18",
+          "grammar": [
+            {"note": "but if not：省略条件句（即或不然）——但以理三友名句，仅三词扛起整个让步转折；Believe Me for the very works' sake：for … sake 目的短语（因我所做的事信我）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "assent": {"ipa": "/əˈsent/", "def": "n. 认可，赞同（intellectual assent：理智上的认可）【GRE】"},
+    "consecration": {"ipa": "/ˌkɒnsɪˈkreɪʃn/", "def": "n. 奉献，分别为圣（consecrate）【GRE】"},
+    "mediation": {"ipa": "/ˌmiːdiˈeɪʃn/", "def": "n. 中保工作，居间调停（mediator：中保）【六级】"},
+    "renunciation": {"ipa": "/rɪˌnʌnsiˈeɪʃn/", "def": "n. 弃绝，放弃（renounce）【GRE】"},
+    "unworthiness": {"ipa": "/ʌnˈwɜːðinəs/", "def": "n. 不配（worthy：配得的）【六级】"},
+    "homage": {"ipa": "/ˈhɒmɪdʒ/", "def": "n. 致敬，臣服礼【GRE】"},
+    "meritorious": {"ipa": "/ˌmerɪˈtɔːriəs/", "def": "adj. 可邀功的，有功德的（merit：功德）【GRE】"},
+    "teachable": {"ipa": "/ˈtiːtʃəbl/", "def": "adj. 受教的，可教的【四级】"},
+    "assurance": {"ipa": "/əˈʃʊərəns/", "def": "n. 实底，确据，笃信【四级】"},
+    "slay": {"ipa": "/sleɪ/", "def": "v. 杀（though He slay me：他虽杀我）【六级】"},
+    "begotten": {"ipa": "/bɪˈɡɒtn/", "def": "v. beget（生）的过去分词：从神而生"},
+    "begets": {"ipa": "/bɪˈɡets/", "def": "v. 生出，产生（beget）【GRE】"},
+    "persuaded": {"ipa": "/pəˈsweɪdɪd/", "def": "v. 深信（persuade：说服）【四级】"},
+    "perfecter": {"ipa": "/ˈpɜːfɪktə/", "def": "n. 成全者（perfect 作动词＋-er：使完全者）"},
+    "propitiation": {"ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭；平息（神怒）的祭【GRE】"},
+    "reckoned": {"ipa": "/ˈrekənd/", "def": "v. 算为，归算（reckon）【六级】"},
+    "trespasses": {"ipa": "/ˈtrespəsɪz/", "def": "n. 过犯（trespass）【六级】"},
+    "ungodly": {"ipa": "/ʌnˈɡɒdli/", "def": "adj. 不虔的（the ungodly：罪人，不敬虔的人）"},
+    "justifier": {"ipa": "/ˈdʒʌstɪfaɪə/", "def": "n. 称义者（justify＋-er：称人为义的那位）"},
+    "forbearance": {"ipa": "/fɔːˈbeərəns/", "def": "n. 宽容，忍耐【GRE】"},
+    "unanswerably": {"ipa": "/ʌnˈɑːnsərəbli/", "def": "adv. 无可置辩地（answer＋-able）"},
+    "riddle": {"ipa": "/ˈrɪdl/", "def": "n. 谜【四级】"},
+    "pivots": {"ipa": "/ˈpɪvəts/", "def": "n. 枢轴，关键（pivot）【六级】"},
+    "correlative": {"ipa": "/kəˈrelətɪv/", "def": "adj. 相关的，对应的（correlative terms：相关项）【GRE】"},
+    "initiates": {"ipa": "/ɪˈnɪʃieɪts/", "def": "v. 发起，开创（initiate）【六级】"},
+    "appropriates": {"ipa": "/əˈprəʊprieɪts/", "def": "v. 取用，据为己有（appropriate 作动词）【六级】"},
+    "appropriate": {"ipa": "/əˈprəʊpriət/", "def": "adj. 相称的，合宜的【四级】"},
+    "constrains": {"ipa": "/kənˈstreɪnz/", "def": "v. 催逼，激励（constrain）【六级】"},
+    "sift": {"ipa": "/sɪft/", "def": "v. 筛（好筛你们像筛麦子）【六级】"},
+    "supplication": {"ipa": "/ˌsʌplɪˈkeɪʃn/", "def": "n. 恳求，祈求【GRE】"},
+    "impartation": {"ipa": "/ˌɪmpɑːˈteɪʃn/", "def": "n. 分赐，传递（impart：赐予）"},
+    "sanctified": {"ipa": "/ˈsæŋktɪfaɪd/", "def": "v. 成圣（sanctify）【GRE】"},
+    "emphatically": {"ipa": "/ɪmˈfætɪkli/", "def": "adv. 尤其，着重地【六级】"},
+    "refining": {"ipa": "/rɪˈfaɪnɪŋ/", "def": "adj. 洗炼的，精炼的（refine）【四级】"},
+    "childship": {"ipa": "/ˈtʃaɪldʃɪp/", "def": "n. 儿子的名分（罕用词，= sonship）"},
+    "alliance": {"ipa": "/əˈlaɪəns/", "def": "n. 联盟【四级】"},
+    "contend": {"ipa": "/kənˈtend/", "def": "v. 竭力争辩，争战【六级】"},
+    "earnestly": {"ipa": "/ˈɜːnɪstli/", "def": "adv. 竭力地，恳切地（earnest）【四级】"},
+    "obligation": {"ipa": "/ˌɒblɪˈɡeɪʃn/", "def": "n. 义务【四级】"},
+    "wrought": {"ipa": "/rɔːt/", "def": "v.【古】work 的过去式/过去分词：行出，作成"},
+    "crucified": {"ipa": "/ˈkruːsɪfaɪd/", "def": "v. 钉十字架（crucify）【GRE】"},
+    "humiliation": {"ipa": "/hjuːˌmɪliˈeɪʃn/", "def": "n. 卑贱，屈辱（body of our humiliation：卑贱的身体）【六级】"},
+    "conformed": {"ipa": "/kənˈfɔːmd/", "def": "v. 使相似，使符合（conform to）【六级】"},
+    "anew": {"ipa": "/əˈnjuː/", "def": "adv.【书面】重新【六级】"},
+    "faithless": {"ipa": "/ˈfeɪθləs/", "def": "adj. 无信的，不信的"},
+    "inquirers": {"ipa": "/ɪnˈkwaɪərəz/", "def": "n. 求问者（inquire：询问）【四级】"},
+    "deliverance": {"ipa": "/dɪˈlɪvərəns/", "def": "n. 拯救，释放【GRE】"},
+    "breastplate": {"ipa": "/ˈbrestpleɪt/", "def": "n. 护心镜，胸甲"},
+    "shield": {"ipa": "/ʃiːld/", "def": "n. 藤牌，盾牌【四级】"},
+    "armor": {"ipa": "/ˈɑːmə/", "def": "n. 军装，盔甲【六级】"},
+    "penitent": {"ipa": "/ˈpenɪtənt/", "def": "adj. 悔改的，痛悔的【GRE】"},
+    "transgressor": {"ipa": "/trænzˈɡresə/", "def": "n. 罪人，犯法者（transgress：越轨犯罪）【GRE】"},
+    "incarnate": {"ipa": "/ɪnˈkɑːnət/", "def": "adj. 道成肉身的（the Incarnate Son：成了肉身的子）【GRE】"},
+    "sacrificial": {"ipa": "/ˌsækrɪˈfɪʃl/", "def": "adj. 献祭的，牺牲的（sacrifice）【六级】"},
+    "discriminates": {"ipa": "/dɪˈskrɪmɪneɪts/", "def": "v. 分别，辨别（discriminate between）【六级】"},
+    "citations": {"ipa": "/saɪˈteɪʃnz/", "def": "n. 征引（citation）【六级】"},
+    "accounted": {"ipa": "/əˈkaʊntɪd/", "def": "v. 归算（account to：算给）【四级】"},
+    "receptiveness": {"ipa": "/rɪˈseptɪvnəs/", "def": "n. 领受性，敞开接纳（receptive）【六级】"},
+    "disposition": {"ipa": "/ˌdɪspəˈzɪʃn/", "def": "n. 姿态，性情【六级】"},
+    "guaranty": {"ipa": "/ˈɡærənti/", "def": "n. 保证（= guarantee 的法律拼法）【四级】"},
+    "norm": {"ipa": "/nɔːm/", "def": "n. 准则，规范【四级】"},
+    "superstructure": {"ipa": "/ˈsuːpəstrʌktʃə/", "def": "n. 上层建筑（根基之上的建筑）【六级】"},
+    "temperance": {"ipa": "/ˈtempərəns/", "def": "n. 节制，自制【GRE】"},
+    "godliness": {"ipa": "/ˈɡɒdlinəs/", "def": "n. 虔敬（godly：敬虔的）"},
+    "remission": {"ipa": "/rɪˈmɪʃn/", "def": "n. 赦免（remission of sins：罪得赦免）【GRE】"},
+    "intercession": {"ipa": "/ˌɪntəˈseʃn/", "def": "n. 代求，代祷（intercede）【GRE】"},
+    "indwelling": {"ipa": "/ˌɪnˈdwelɪŋ/", "def": "n./adj. 内住（dwell：居住）"},
+    "edifying": {"ipa": "/ˈedɪfaɪɪŋ/", "def": "n./adj. 造就（edify：造就，建造品格）【GRE】"},
+    "steadfast": {"ipa": "/ˈstedfɑːst/", "def": "adj. 坚固的，坚定不移的【GRE】"},
+    "watchfulness": {"ipa": "/ˈwɒtʃflnəs/", "def": "n. 儆醒（watchful）【四级】"},
+    "unceasingly": {"ipa": "/ʌnˈsiːsɪŋli/", "def": "adv. 不住地（cease：停止）【六级】"},
+    "unceasing": {"ipa": "/ʌnˈsiːsɪŋ/", "def": "adj. 不歇的，不断的【六级】"},
+    "productive": {"ipa": "/prəˈdʌktɪv/", "def": "adj. 能结果子的，多产的【四级】"},
+    "unbelief": {"ipa": "/ˌʌnbɪˈliːf/", "def": "n. 不信【六级】"},
+    "gracious": {"ipa": "/ˈɡreɪʃəs/", "def": "adj. 恩慈的，美善的【六级】"}
+  },
+  "vocab_table": [
+    {"word": "propitiation", "ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭（罗 3:25 核心神学词）【GRE】"},
+    {"word": "assent", "ipa": "/əˈsent/", "def": "n. 认可，赞同【GRE】"},
+    {"word": "consecration", "ipa": "/ˌkɒnsɪˈkreɪʃn/", "def": "n. 奉献，分别为圣【GRE】"},
+    {"word": "renunciation", "ipa": "/rɪˌnʌnsiˈeɪʃn/", "def": "n. 弃绝，放弃【GRE】"},
+    {"word": "homage", "ipa": "/ˈhɒmɪdʒ/", "def": "n. 致敬，臣服礼【GRE】"},
+    {"word": "meritorious", "ipa": "/ˌmerɪˈtɔːriəs/", "def": "adj. 可邀功的，有功德的【GRE】"},
+    {"word": "correlative", "ipa": "/kəˈrelətɪv/", "def": "adj. 相关的（信与恩是相关项）【GRE】"},
+    {"word": "supplication", "ipa": "/ˌsʌplɪˈkeɪʃn/", "def": "n. 恳求，祈求【GRE】"},
+    {"word": "penitent", "ipa": "/ˈpenɪtənt/", "def": "adj. 悔改的，痛悔的【GRE】"},
+    {"word": "transgressor", "ipa": "/trænzˈɡresə/", "def": "n. 罪人，犯法者【GRE】"},
+    {"word": "incarnate", "ipa": "/ɪnˈkɑːnət/", "def": "adj. 道成肉身的【GRE】"},
+    {"word": "temperance", "ipa": "/ˈtempərəns/", "def": "n. 节制，自制【GRE】"},
+    {"word": "remission", "ipa": "/rɪˈmɪʃn/", "def": "n. 赦免（罪得赦免）【GRE】"},
+    {"word": "intercession", "ipa": "/ˌɪntəˈseʃn/", "def": "n. 代求，代祷【GRE】"},
+    {"word": "steadfast", "ipa": "/ˈstedfɑːst/", "def": "adj. 坚固的，坚定不移的【GRE】"},
+    {"word": "superstructure", "ipa": "/ˈsuːpəstrʌktʃə/", "def": "n. 上层建筑（信心为根基，诸德为其上建筑）"},
+    {"word": "guaranty", "ipa": "/ˈɡærənti/", "def": "n. 保证（法律拼法）"},
+    {"word": "wrought", "ipa": "/rɔːt/", "def": "v.【古】work 的过去式：行出，作成"}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "num": "051",
+  "title_en": "CREED, Doctrine",
+  "title_zh": "信经与教义",
+  "html_name": "051-Creed-信经.html",
+  "pages": "原书 p. 100–103",
+  "ocr_note": "原书 p. 101 一整页在扫描中大面积丢失（仅存两行），该页应含本词条的主论述及首段摘录的开头；现存内容为经文引用与 p. 102–103 的四段摘录。",
+  "sections": [
+    {
+      "heading": "经文 / Scripture",
+      "blocks": [
+        {
+          "en": "CREED, Doctrine. James 1:23-25. Eph. 4:21. As the truth is in Jesus. 1 Tim. 4:6, 16. Take heed to thyself, and to thy doctrine. 1 Tim. 6:3. The sound words, even the words of our Lord Jesus Christ, and the doctrine which is according to godliness. 2 Tim. 1:13. Hold the form (pattern) of sound words.",
+          "zh": "信经；教义。雅各书 1:23-25；以弗所书 4:21 —— 正如真理在耶稣里。提摩太前书 4:6, 16 —— 你要谨慎自己和自己的教训（教义）。6:3 —— 我们主耶稣基督纯正的话与那合乎敬虔的道理。提摩太后书 1:13 —— 你从我听的那纯正话语的规模，要……常常守着。【OCR 注：本词条主论述所在的 p. 101 几乎整页在扫描中丢失。】",
+          "bsb": "2 Timothy 1:13"
+        }
+      ]
+    },
+    {
+      "heading": "摘录四则 / Extracts",
+      "blocks": [
+        {
+          "en": "[…(The great doctrines of the Christian faith) have given to them its refinement and cohesion, philanthropy its impulse, the course of civilization its progress and guidance. They have molded the life and shaped the conduct of the best of men for more than a thousand years. Heroism has been kindled by their light, culture perfected by their discipline, character transfigured in their radiance. Poetry, music, painting, architecture have sought their inspiration, and the great imperishable creations of genius show their affinity with the finest sensibilities of our nature. It is of the highest themes and the most inspiring hopes that Christian theology speaks: of the love of the heavenly Father toward the sinful and suffering children of men; giving us at length, in Him who is \"the brightness of the Father's glory and the express image of His person,\" a fuller revelation of Himself; and giving us also in His death redemption from sin, in His life the type of perfect humanity, in His resurrection the assurance and pledge of eternal blessedness. — British Quarterly.]",
+          "zh": "【摘录（前文在扫描中缺失）】……（基督教信仰的大教义）赋予（社会）以文雅与凝聚，赋予博爱以动力，赋予文明进程以前进与引导。一千多年来，它们模塑了最优秀之人的生命、规范了他们的行为。英雄气概因其光而点燃，文化因其操练而完善，品格在其光辉中变化形像。诗歌、音乐、绘画、建筑向它们寻求灵感，天才那些不朽的创作显出与我们天性中最精微感受力的亲缘。基督教神学所讲论的，是至高的主题与最激励人的盼望：天父对罪苦交加之世人的爱；最终在那位『神荣耀所发的光辉、神本体的真像』里，赐给我们对神自己更完满的启示；又在他的死里赐我们脱罪的救赎，在他的生里赐下完美人性的范型，在他的复活里赐下永福的确据与凭质。——《英国季刊》（British Quarterly）",
+          "bsb": false,
+          "grammar": [
+            {"id": "inversion", "note": "It is of the highest themes … that Christian theology speaks：强调句（分裂句）强调介词短语（神学所讲论的正是至高的主题）。"},
+            {"note": "Heroism has been kindled …, culture perfected …, character transfigured …：三联排比，后两句省略 has been。"}
+          ]
+        },
+        {
+          "en": "[The victories of Christianity, wherever they have been won, have been won by distinct doctrinal theology: by telling men of Christ's vicarious death and sacrifice; by showing them Christ's substitution on the cross, and His precious blood; by teaching them justification by faith, and bidding them believe on a crucified Saviour; by preaching ruin by sin, redemption by Christ, regeneration by the Spirit. — Bp. Ryle.]",
+          "zh": "【摘录】基督教的胜利，无论在何处赢得，都是靠清晰的教义神学赢得的：靠向人讲明基督的代死与献祭；靠向人指明基督在十字架上的替代和他的宝血；靠教导人因信称义、吩咐人信靠一位被钉的救主；靠传讲『因罪败亡、靠基督救赎、由圣灵重生』。——莱尔主教（Bp. Ryle）",
+          "bsb": false,
+          "grammar": [
+            {"note": "by telling … by showing … by teaching … by preaching：四个 by + 动名词的排比（『靠……』的层层递进）；ruin by sin, redemption by Christ, regeneration by the Spirit：三组名词＋by 短语的对仗纲领。"}
+          ]
+        },
+        {
+          "en": "[There is a clear development of doctrine in the Scriptures, this development reaching its climax and its profoundest doctrinal depths in the writings of Paul. \"Back to Christ\" is the phrase now used by those who would cast aside the doctrinal statements formulated by the Church in all her history, and take the words only of the Christ. The word \"Credo\" will never become obsolete while a Christian believer remains in the church militant. Creeds may have occupied too large a place; but the cry \"No creed, but back to Christ\" will never obtain. In order to get back to Christ, and to know Him when back to Him, requires the whole Bible, Old Testament and New; and many of the great historic creeds will be found of great service in the work. — Interior.]",
+          "zh": "【摘录】圣经里有一条清晰的教义发展线索，这发展在保罗的著作中达到顶点、达到最深的教义深度。『回到基督』是如今某些人的口号——他们想把教会全部历史中订立的教义陈述抛在一边，单取基督的话。然而只要还有一个基督徒留在争战中的教会里，Credo（『我信』）一词就永不过时。信经或许一度占的位置过大；但『不要信经，只回到基督』的呼喊永远不能成立。要回到基督那里去，并且回去之后认识他，需要整本圣经——旧约与新约；而许多伟大的历史性信经，将被证明在这件工作上大有用处。——《Interior》杂志",
+          "bsb": false,
+          "grammar": [
+            {"note": "this development reaching its climax…：独立主格结构（这发展在保罗书信中达到顶点）；the church militant：形容词后置的固定术语『争战中的教会』（与 the church triumphant 得胜的教会相对）；Credo：拉丁文『我信』——信经（creed）一词的来源。"}
+          ]
+        },
+        {
+          "en": "[Christianity, it is sometimes said, is a life, not a creed; it is a spiritual system, and has nothing to do with dogmatic affirmations. But this is to confuse two things essentially different—Christianity as an inward principle of conduct, a subjective religious experience, on the one hand; and Christianity as an objective fact, an historic magnitude, on the other. And can even the life be produced, or sustained and nourished, without knowledge? It is a strange idea of many who urge this objection, in the interests of what they conceive to be a more spiritual form of Christianity, that \"spirituality\" in a religion is somehow synonymous with vagueness and indefiniteness. This was not Paul's idea of spirituality—he by whom the distinction of \"letter\" and \"spirit\" was most strongly emphasized. The region of the spiritual was rather with him, as it is throughout Scripture, the region of clearest insight and most accurate perception—of full and perfect knowledge (epignosis). His unceasing prayer for his converts was, not that their minds might remain in a state of hazy indistinctness, but that God would give them \"a spirit of wisdom and revelation in the knowledge of Him.\"]",
+          "zh": "【摘录】常有人说：基督教是一种生命，不是一套信经；是属灵的体系，与教义式的断言无关。但这是把本质不同的两件事混为一谈——一面是作为内在行为原则、主观宗教经验的基督教；另一面是作为客观事实、历史实体的基督教。何况，若没有知识，连那『生命』能否产生、能否得存养，都是问题。持这异议的许多人——为着他们心目中『更属灵』的基督教——有一个奇怪的观念：仿佛宗教里的『属灵』就等于含糊与不确定。这绝不是保罗对属灵的理解——『仪文』与『精意』之别正是他强调得最有力的。在他那里（正如在全部圣经里），属灵之境恰恰是洞见最清晰、认知最准确之境——是完全而全备之知识（epignosis）之境。他为信徒不住的祷告，不是求他们的心思停留在朦胧不明的状态，而是求神赐给他们『智慧和启示的灵，使你们真知道他』。【OCR 注：本段跨 p. 102–103，其间文句经重组衔接。】",
+          "bsb": false,
+          "grammar": [
+            {"note": "Christianity, it is sometimes said, is a life, not a creed：插入语 it is sometimes said；he by whom the distinction … was most strongly emphasized：介词前置的关系从句作同位语（正是他最强调仪文与精意之别）；not that … but that …：否定与肯定的对仗祈求。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "creed": {"ipa": "/kriːd/", "def": "n. 信经，信条（拉丁 Credo 我信）【六级】"},
+    "refinement": {"ipa": "/rɪˈfaɪnmənt/", "def": "n. 文雅，精致【六级】"},
+    "philanthropy": {"ipa": "/fɪˈlænθrəpi/", "def": "n. 博爱，慈善（phil 爱 + anthrop 人）【GRE】"},
+    "kindled": {"ipa": "/ˈkɪndld/", "def": "v. 被点燃（kindle）【GRE】"},
+    "radiance": {"ipa": "/ˈreɪdiəns/", "def": "n. 光辉【六级】"},
+    "imperishable": {"ipa": "/ɪmˈperɪʃəbl/", "def": "adj. 不朽的（perish：朽坏）"},
+    "affinity": {"ipa": "/əˈfɪnəti/", "def": "n. 亲缘，契合【GRE】"},
+    "sensibilities": {"ipa": "/ˌsensəˈbɪlətiz/", "def": "n. 感受力（sensibility）【六级】"},
+    "pledge": {"ipa": "/pledʒ/", "def": "n. 凭质，保证【六级】"},
+    "doctrinal": {"ipa": "/dɒkˈtraɪnl/", "def": "adj. 教义的（doctrine 的形容词）"},
+    "bidding": {"ipa": "/ˈbɪdɪŋ/", "def": "v. 吩咐（bid sb do：命人做）【四级】"},
+    "climax": {"ipa": "/ˈklaɪmæks/", "def": "n. 顶点【四级】"},
+    "obsolete": {"ipa": "/ˈɒbsəliːt/", "def": "adj. 过时的【六级/GRE】"},
+    "militant": {"ipa": "/ˈmɪlɪtənt/", "def": "adj. 争战中的（the church militant：争战中的教会）【GRE】"},
+    "obtain": {"ipa": "/əbˈteɪn/", "def": "v.【此处义】成立，通行（the cry will never obtain）；常见义：获得【四级】"},
+    "dogmatic": {"ipa": "/dɒɡˈmætɪk/", "def": "adj. 教义式的；武断的【GRE】"},
+    "affirmations": {"ipa": "/ˌæfəˈmeɪʃnz/", "def": "n. 断言（affirmation）【六级】"},
+    "magnitude": {"ipa": "/ˈmæɡnɪtjuːd/", "def": "n. 实体，体量（historic magnitude：历史实体）【六级】"},
+    "synonymous": {"ipa": "/sɪˈnɒnɪməs/", "def": "adj. 同义的【六级】"},
+    "vagueness": {"ipa": "/ˈveɪɡnəs/", "def": "n. 含糊（vague：模糊的）【四级】"},
+    "indefiniteness": {"ipa": "/ɪnˈdefɪnətnəs/", "def": "n. 不确定"},
+    "epignosis": {"ipa": "/ˌepɪɡˈnəʊsɪs/", "def": "n. 完全的知识（希腊文 ἐπίγνωσις：epi 加强 + gnosis 知识——保罗书信关键词）"},
+    "hazy": {"ipa": "/ˈheɪzi/", "def": "adj. 朦胧的【六级】"},
+    "indistinctness": {"ipa": "/ˌɪndɪˈstɪŋktnəs/", "def": "n. 不分明"},
+    "converts": {"ipa": "/ˈkɒnvɜːts/", "def": "n. 归信者（convert 作名词，重音在前）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "creed", "ipa": "/kriːd/", "def": "n. 信经，信条"},
+    {"word": "philanthropy", "ipa": "/fɪˈlænθrəpi/", "def": "n. 博爱，慈善"},
+    {"word": "affinity", "ipa": "/əˈfɪnəti/", "def": "n. 亲缘，契合"},
+    {"word": "obsolete", "ipa": "/ˈɒbsəliːt/", "def": "adj. 过时的"},
+    {"word": "militant", "ipa": "/ˈmɪlɪtənt/", "def": "adj. 争战中的；好斗的"},
+    {"word": "dogmatic", "ipa": "/dɒɡˈmætɪk/", "def": "adj. 教义式的；武断的"},
+    {"word": "magnitude", "ipa": "/ˈmæɡnɪtjuːd/", "def": "n. 实体，体量"},
+    {"word": "kindle", "ipa": "/ˈkɪndl/", "def": "v. 点燃"}
+  ]
+}

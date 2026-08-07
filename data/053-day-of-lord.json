@@ -1,0 +1,59 @@
+{
+  "num": "053",
+  "title_en": "DAY OF THE LORD",
+  "title_zh": "主的日子",
+  "html_name": "053-Day-of-Lord-主的日子.html",
+  "pages": "原书 p. 109–110",
+  "sections": [
+    {
+      "heading": "标题 / Title",
+      "blocks": [
+        {
+          "en": "DAY OF THE LORD; the Great Day; The Day; That Day; the Day of Christ; the Day of Judgment.",
+          "zh": "主的日子（耶和华的日子）；大日；那日子；当那日；基督的日子；审判的日子——六种称呼。",
+          "grammar": [
+            {"id": "headline-style", "note": "主题词＋五个同指异称——本词条按六种圣经称呼分组罗列经文。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "六种称呼分组 / Under Six Heads",
+      "blocks": [
+        {
+          "en": "Day of the Lord: Joel 1:15. Alas for the day! for the day of the Lord is at hand. Zeph. 1:14. The great day of the Lord is near, it is near, and hasteth greatly. Isa. 13:9. Zech. 14:1. Mal. 4:5. 1 Cor. 5:5. 2 Cor. 1:14. 1 Thes. 5:2. The day of the Lord so cometh as a thief in the night. Great Day: Rev. 6:17. The great day of His wrath is come. Jude 6. The judgment of the great day. The Day: Mal. 4:1. The day cometh, that shall burn as a furnace. Heb. 10:25. As ye see the day approaching. 2 Pet. 3:10. 1 Cor. 3:13. The day shall declare it.",
+          "zh": "耶和华的日子：约珥书 1:15 —— 哀哉，耶和华的日子临近了！西番雅书 1:14 —— 耶和华的大日临近，临近而且甚快。以赛亚书 13:9；撒迦利亚书 14:1；玛拉基书 4:5；哥林多前书 5:5；哥林多后书 1:14；帖撒罗尼迦前书 5:2 —— 主的日子来到，好像夜间的贼一样。大日：启示录 6:17 —— 因为他们忿怒的大日到了。犹大书 6 —— 大日的审判。那日子：玛拉基书 4:1 —— 那日临近，势如烧着的火炉。希伯来书 10:25 —— 既知道（原文作看见）那日子临近，就更当如此。彼得后书 3:10；哥林多前书 3:13 —— 因为那日子要将它表明出来。",
+          "bsb": "1 Thessalonians 5:2",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "hasteth / cometh：临近而且甚快／那日来到（-eth 词尾）。"},
+            {"note": "so cometh as a thief in the night：so … as … 的方式比况（来到如同夜贼）；Alas for the day!：哀叹感叹词 alas（哀哉）。"}
+          ]
+        },
+        {
+          "en": "That Day: Mal. 3:17. In that day when I make up My jewels. Matt. 7:22. Many will say to Me in that day, Lord, Lord. Matt. 24:36. Of that day and hour knoweth no man. 2 Tim. 1:12. Able to guard that which I have committed unto Him against that day. 2 Tim. 1:18. That he may find mercy of the Lord in that day. 2 Tim. 4:8. The crown of righteousness, which the Lord … shall give me at that day. Day of Christ: Phil. 2:16. That I may have whereof to glory in the day of Christ. Day of Judgment: Eccles. 12:14. Matt. 10:15; 12:36. Acts 17:31. He hath appointed a day, in the which He will judge the world in righteousness. 2 Pet. 2:9. 1 John 4:17. Boldness in the day of judgment. Jude 6. Described: Matt. 25:31-46. Rom. 2:5, 6, 16. 2 Cor. 5:10. Rev. 20:11-15. See Condemnation.",
+          "zh": "当那日：玛拉基书 3:17 —— 万军之耶和华说：在我所定的日子，他们必属我，特特归我（英译：在那日我收聚我的珍宝）。马太福音 7:22 —— 当那日，必有许多人对我说：主啊，主啊。24:36 —— 那日子、那时辰，没有人知道。提摩太后书 1:12 —— 他能保全我所交付他的（或作他所交托我的），直到那日。1:18 —— 愿主使他在那日得主的怜悯。4:8 —— 有公义的冠冕为我存留，就是按着公义审判的主到了那日要赐给我的。基督的日子：腓立比书 2:16 —— 叫我在基督的日子好夸我没有空跑，也没有徒劳。审判的日子：传道书 12:14；马太福音 10:15；12:36；使徒行传 17:31 —— 因为他已经定了日子，要藉着他所设立的人按公义审判天下。彼得后书 2:9；约翰一书 4:17 —— 我们……就可以在审判的日子坦然无惧。犹大书 6。详述：马太福音 25:31-46（绵羊与山羊）；罗马书 2:5-6, 16；哥林多后书 5:10；启示录 20:11-15（白色大宝座）。另参主题词条：定罪（044）。【OCR 注：原书 \"Matt. 1:22\"、\"1 John 4:7\"、\"Rev. 20:11-18\" 依引文推定为 7:22、4:17、20:11-15。】",
+          "bsb": "Acts 17:31",
+          "grammar": [
+            {"id": "inversion", "note": "Of that day and hour knoweth no man：介词短语前置＋主谓倒装（那日子那时辰没有人知道）。"},
+            {"note": "make up My jewels：钦定本名句（收聚我的珍宝——和合本作『特特归我』）；whereof to glory：whereof =【古】of which（可夸之事）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "alas": {"ipa": "/əˈlæs/", "def": "int.【书面】哀哉，唉【六级】"},
+    "hasteth": {"ipa": "/ˈheɪstəθ/", "def": "= hastes（-eth 古词尾）：疾速临近（haste 作动词）"},
+    "furnace": {"ipa": "/ˈfɜːnɪs/", "def": "n. 火炉【六级】"},
+    "jewels": {"ipa": "/ˈdʒuːəlz/", "def": "n. 珍宝（make up My jewels：收聚我的珍宝）【四级】"},
+    "committed": {"ipa": "/kəˈmɪtɪd/", "def": "v. 交付，交托（commit unto）【四级】"},
+    "whereof": {"ipa": "/weərˈɒv/", "def": "adv.【古】关于它（= of which）"},
+    "boldness": {"ipa": "/ˈbəʊldnəs/", "def": "n. 坦然无惧（bold：胆壮的）【四级】"},
+    "appointed": {"ipa": "/əˈpɔɪntɪd/", "def": "v. 定了，设立（appoint）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "alas", "ipa": "/əˈlæs/", "def": "int.【书面】哀哉"},
+    {"word": "whereof", "ipa": "/weərˈɒv/", "def": "adv.【古】关于它（= of which）"},
+    {"word": "boldness", "ipa": "/ˈbəʊldnəs/", "def": "n. 坦然无惧"}
+  ]
+}

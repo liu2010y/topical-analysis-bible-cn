@@ -1,0 +1,49 @@
+{
+  "num": "050",
+  "title_en": "COVETOUSNESS",
+  "title_zh": "贪婪",
+  "html_name": "050-Covetousness-贪婪.html",
+  "pages": "原书 p. 100",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "COVETOUSNESS. Prov. 21:26. He coveteth greedily all the day long. Jer. 6:13. Every one is given to covetousness. Jer. 17:11. Ps. 119:36. (Incline my heart unto Thy testimonies, and not to covetousness.) Ezek. 33:31. Their heart goeth after their covetousness. Mark 7:22. Out of the heart proceedeth … covetousness. Luke 12:15. Beware of covetousness. Col. 3:5. Mortify … covetousness, which is idolatry. Eph. 5:3, 5. Let it not once be named among you. 1 Tim. 6:9, 10. 1 Cor. 6:10. Nor covetous shall inherit the kingdom of God. See Commandments (Tenth).",
+          "zh": "贪婪。箴言 21:26 —— 有终日贪得无厌的。耶利米书 6:13 —— 就是从最小的到至大的都一味地贪婪。17:11（那不按正道得财的，好像鹧鸪抱不是自己下的蛋）。诗篇 119:36 —— 求你使我的心趋向你的法度，不趋向非义之财。以西结书 33:31 —— 他们的心却追随财利。马可福音 7:22 —— 从（人心）里面出来的，有……贪婪。路加福音 12:15 —— 你们要谨慎自守，免去一切的贪心。歌罗西书 3:5 —— 所以要治死你们在地上的肢体，就如……贪婪，贪婪就与拜偶像一样。以弗所书 5:3, 5 —— 连提都不可。提摩太前书 6:9-10；哥林多前书 6:10 —— 贪婪的……都不能承受神的国。另参主题词条：十诫（第十诫，043）。",
+          "bsb": "Colossians 3:5",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Let it not once be named among you：Let 式否定祈使（在你们中间连提都不可）——once 加强（一次也不可）。"}
+          ]
+        },
+        {
+          "en": "[Covetousness, being a vice which has its seat in the affections, and which can work out its schemes through conventional forms, may very largely conceal its hideousness from public observation. But God, to whom the inner thought of a man is as visible as his outer act, regards it simply as a mode of that selfism which is the filthy fount of every human sin. Its offensiveness is less offensive to the public eye, but it has the same root as the worst crimes which men can commit. In its influence over one's spiritual interests it is perhaps more deadly than the lusts of the flesh, for these cannot wholly silence the voice of conscience; but conscience, with every other gift of noble origin, lies blasted in the soul which sells itself to Mammon. The covetous man's worship of gold makes him an \"idolater.\" His trust in riches holds him back from that self-surrender to God which is the condition of admission into the kingdom of God. It requires almost a miracle of grace to dispose the covetous man to exchange his love of gold for the love of Christ.]",
+          "zh": "【摘录】贪婪这一恶习，因其盘踞于情感之中，又能借体面的常规形式实现其图谋，故大体上能把它的丑陋遮掩于公众视线之外。但在神眼中——人的内心意念在他面前如同外在行为一样一览无余——它不过是那『自我主义』的一种样式，而自我主义正是人类一切罪恶的污秽之源。它的可憎在公众眼里不那么扎眼，但它与人所能犯的最恶罪行同出一根。就其对人属灵益处的影响而言，它也许比肉体的情欲更为致命——因为情欲尚不能完全压住良心的声音；而在把自己卖给玛门的灵魂里，良心连同一切出身高贵的禀赋，都已枯萎凋残。贪婪之人对金子的崇拜，使他成了『拜偶像的』。他对钱财的倚仗，拦阻他向神作那全然的降服——而这降服正是进入神国的条件。要使贪婪的人肯拿他对金子的爱换取对基督的爱，几乎需要一个恩典的神迹。",
+          "bsb": false,
+          "grammar": [
+            {"id": "prep-relative", "note": "God, to whom the inner thought of a man is as visible as his outer act：介词 to 前置的关系从句（在神眼中内念如外行一样可见）。"},
+            {"note": "lies blasted：lie + 过去分词作表语（枯萎凋残地躺着）；dispose sb to do：使人倾向于（使贪婪的人肯……）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "coveteth": {"ipa": "/ˈkʌvətəθ/", "def": "= covets（-eth 古词尾）：贪恋"},
+    "greedily": {"ipa": "/ˈɡriːdɪli/", "def": "adv. 贪得无厌地【四级】"},
+    "hideousness": {"ipa": "/ˈhɪdiəsnəs/", "def": "n. 丑陋可憎（hideous：丑恶的）【六级】"},
+    "selfism": {"ipa": "/ˈselfɪzəm/", "def": "n. 自我主义（self + -ism，19 世纪用语）"},
+    "fount": {"ipa": "/faʊnt/", "def": "n.【书面】源泉（= fountain）"},
+    "offensiveness": {"ipa": "/əˈfensɪvnəs/", "def": "n. 可憎，冒犯性"},
+    "blasted": {"ipa": "/ˈblɑːstɪd/", "def": "adj. 枯萎凋残的（blast：使枯萎——lies blasted：已然凋残）【六级】"},
+    "idolater": {"ipa": "/aɪˈdɒlətə/", "def": "n. 拜偶像的人"},
+    "dispose": {"ipa": "/dɪˈspəʊz/", "def": "v. 使倾向于（dispose sb to do）【六级】"}
+  },
+  "vocab_table": [
+    {"word": "covetousness", "ipa": "/ˈkʌvətəsnəs/", "def": "n. 贪婪"},
+    {"word": "hideous", "ipa": "/ˈhɪdiəs/", "def": "adj. 丑恶的"},
+    {"word": "idolater", "ipa": "/aɪˈdɒlətə/", "def": "n. 拜偶像的人"},
+    {"word": "fount", "ipa": "/faʊnt/", "def": "n.【书面】源泉"},
+    {"word": "dispose", "ipa": "/dɪˈspəʊz/", "def": "v. 使倾向于"}
+  ]
+}

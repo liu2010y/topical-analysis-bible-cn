@@ -1,0 +1,34 @@
+{
+  "num": "054",
+  "title_en": "DEACON",
+  "title_zh": "执事",
+  "html_name": "054-Deacon-执事.html",
+  "pages": "原书 p. 110",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "DEACON. Acts 6:1-6. Seven deacons, set apart by prayer and the laying on of hands; some of their duties. 1 Tim. 3:8-13. Their character and qualifications. (Deacons in like manner must be grave, not double-tongued, not given to much wine, not greedy of filthy lucre; holding the mystery of the faith in a pure conscience. … For they that have served well as deacons gain to themselves a good standing, and great boldness in the faith which is in Christ Jesus.)",
+          "zh": "执事。使徒行传 6:1-6 —— 七位执事，借祷告与按手分别出来（管理饭食供给，使使徒专心以祈祷传道为事）。提摩太前书 3:8-13 —— 执事的品格与资格：作执事的也是如此，必须端庄，不一口两舌，不好喝酒，不贪不义之财，要存清洁的良心，固守真道的奥秘。……因为善作执事的，自己就得到美好的地步，并且在基督耶稣里的真道上大有胆量。",
+          "bsb": "1 Timothy 3:8-9",
+          "grammar": [
+            {"note": "deacon 源自希腊文 diakonos『仆役，服事者』；not double-tongued / not greedy of filthy lucre：否定形容词排比——double-tongued『一口两舌』、filthy lucre『不义之财』（lucre：钱财，贬义，GRE 词）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "grave": {"ipa": "/ɡreɪv/", "def": "adj.【此处义】端庄的，庄重的；n. 坟墓【四级】"},
+    "double-tongued": {"ipa": "/ˌdʌbl ˈtʌŋd/", "def": "adj. 一口两舌的（对不同人说不同话）"},
+    "lucre": {"ipa": "/ˈluːkə/", "def": "n. 钱财（贬义；filthy lucre：不义之财）【GRE】"},
+    "qualifications": {"ipa": "/ˌkwɒlɪfɪˈkeɪʃnz/", "def": "n. 资格（qualification）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "deacon", "ipa": "/ˈdiːkən/", "def": "n. 执事（希腊文 diakonos 仆役）"},
+    {"word": "grave", "ipa": "/ɡreɪv/", "def": "adj.【此处义】端庄的；n. 坟墓"},
+    {"word": "lucre", "ipa": "/ˈluːkə/", "def": "n. 钱财（贬义，filthy lucre 不义之财）"}
+  ]
+}

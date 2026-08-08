@@ -1,0 +1,33 @@
+{
+  "num": "070",
+  "title_en": "FLOOD",
+  "title_zh": "洪水",
+  "html_name": "070-Flood-洪水.html",
+  "pages": "原书 p. 134",
+  "ocr_note": "本词条为原书的极短词条：仅两行，指向作者另一部注释书《The Bible Work》第一卷（创世记部分），并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "FLOOD. The Story and its Lessons (Gen. 6-9): see The Bible Work, Vol. I. The Extent of the Deluge: ibid.",
+          "zh": "洪水。洪水的记事及其教训（创世记 6-9 章）：参作者注释书《The Bible Work》第一卷（原书注 I. 226-243）。洪水泛滥的范围问题：同上（I. 244-245，十九世纪注释家争论洪水是普世性的还是地域性的）。",
+          "bsb": "Genesis 7:17",
+          "grammar": [
+            {"note": "The Story and its Lessons / Extent of the Deluge：名词标题式条目；deluge：大洪水的专称（the Deluge 特指挪亚洪水），比 flood 更书面。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "flood": {"ipa": "/flʌd/", "def": "n. 洪水（the Flood 特指挪亚洪水）【四级】"},
+    "deluge": {"ipa": "/ˈdeljuːdʒ/", "def": "n. 大洪水（the Deluge：挪亚洪水的专称）【GRE】"},
+    "extent": {"ipa": "/ɪkˈstent/", "def": "n. 范围，程度【四级】"},
+    "ibid": {"ipa": "/ˈɪbɪd/", "def": "adv.【拉丁】出处同上（= ibidem）"}
+  },
+  "vocab_table": [
+    {"word": "deluge", "ipa": "/ˈdeljuːdʒ/", "def": "n. 大洪水（挪亚洪水的专称）【GRE】"},
+    {"word": "ibid", "ipa": "/ˈɪbɪd/", "def": "adv.【拉丁】出处同上"}
+  ]
+}

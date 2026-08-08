@@ -1,0 +1,146 @@
+{
+  "num": "066",
+  "title_en": "FAMILY; MARRIAGE; HOME",
+  "title_zh": "家庭",
+  "html_name": "066-Family-家庭.html",
+  "pages": "原书 p. 126–129",
+  "sections": [
+    {
+      "heading": "婚姻为神所设立 / Marriage Instituted by God",
+      "blocks": [
+        {
+          "en": "FAMILY; Marriage; Home: Husband and Wife; Parental Duties; Children's Duties. Marriage instituted by God: Gen. 2:18, 22. He brought her unto the man. Matt. 19:4-6. Heb. 13:4. Marriage is honorable in all. Mal. 2:13-15. 1 Cor. 7:2, 39. 2 Cor. 6:14. Be not unequally yoked. See Divorce; Commandments, Seventh.",
+          "zh": "家庭；婚姻；家：夫与妻；父母的本分；儿女的本分。婚姻为神所设立：创世记 2:18, 22 —— 领她到那人跟前。马太福音 19:4-6。希伯来书 13:4 —— 婚姻，人人都当尊重。玛拉基书 2:13-15。哥林多前书 7:2, 39。哥林多后书 6:14 —— 你们和不信的原不相配，不要同负一轭。另参主题词条：离婚（059）；十诫之第七诫（043）。",
+          "bsb": "Genesis 2:18",
+          "grammar": [
+            {"id": "headline-style", "note": "Family; Marriage; Home: …：主词条＋六个分目的词典式标题。"},
+            {"id": "no-do-negation", "note": "Be not unequally yoked：be 动词祈使否定（不要同负一轭）。"}
+          ]
+        },
+        {
+          "en": "[Marriage is in its origin a Divine institution. It has, however, a natural basis in the social affections and desires of man; and becomes, in a sense, a civil institution from its practical connection with civil society. D. S. Gregory.]",
+          "zh": "〔婚姻就其起源说是神圣的设立。然而它在人的社会情感与愿望中自有其天然根基；又因与公民社会的实际关联，在一定意义上成为一种民事制度。格雷戈里（D. S. Gregory）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "in its origin / in a sense：介词短语作观点限定语——先立神圣起源，再让步补出自然与民事两个层面，三分法定义句。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "家庭的应许；家 / The Family; Divine Promises; Home",
+      "blocks": [
+        {
+          "en": "Family: Gen. 1:28. God said, Be fruitful, and replenish the earth. Divine promises: Gen. 12:3; 28:14. In thee shall all the families of the earth be blessed. Isa. 44:3. My blessing upon thine offspring. Isa. 59:21. My Spirit and My words shall not depart out of the mouth of thy seed, nor of thy seed's seed. Isa. 65:23. The seed of the blessed of the Lord, and their offspring with them. Jer. 31:1. The God of all the families of Israel. Jer. 10:25. Families that call not on Thy name.",
+          "zh": "家庭：创世记 1:28 —— 神说：要生养众多，遍满地面。神的应许：创世记 12:3；28:14 —— 地上的万族都要因你得福。以赛亚书 44:3 —— 我要将我的福降与你的子孙（英译：降与你的后裔）。59:21 —— 我加给你的灵、传给你的话，必不离你的口，也不离你后裔与你后裔之后裔的口。65:23 —— 都是蒙耶和华赐福的后裔，他们的子孙也是如此。耶利米书 31:1 —— 我必作以色列各家的神。10:25 —— 求你将忿怒倾在……不求告你名的各族（英译：各家）。",
+          "bsb": "Isaiah 44:3",
+          "grammar": [
+            {"id": "shall-archaic", "note": "In thee shall all the families … be blessed：shall 表神圣应许＋介词短语前置倒装。"},
+            {"id": "no-do-negation", "note": "families that call not on Thy name：不用 do 的否定（不求告你名的各家）。"}
+          ]
+        },
+        {
+          "en": "Home: Ps. 68:6. God setteth the solitary in families. Ps. 101. \"The Householder's Psalm.\" Ps. 127 and 128. Home Psalms. Ps. 144:12. Our sons as plants grown up in their youth; our daughters as corner-stones. Job 29:5. When my children were about me. Prov. 3:33. The curse of the Lord is in the house of the wicked; but He blesseth the habitation of the just.",
+          "zh": "家：诗篇 68:6 —— 神叫孤独的有家（原文作神使孤独的住在家中）。101 篇 ——『治家者之诗』。127、128 两篇 —— 家庭诗篇（儿女是耶和华所赐的产业；吃劳碌得来的必享福）。144:12 —— 我们的儿子从幼年好像树栽子长大，我们的女儿如同殿角石。约伯记 29:5 —— 我的儿女都环绕我。箴言 3:33 —— 耶和华咒诅恶人的家庭，赐福与义人的居所。",
+          "bsb": "Psalm 68:6",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "setteth / blesseth：使……有家／赐福。"},
+            {"id": "ellipsis", "note": "Our sons as plants … our daughters as corner-stones：比况排比，系动词省略（儿如树栽，女如殿角石）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "夫妻；父母的本分 / Husband and Wife; Parental Duties",
+      "blocks": [
+        {
+          "en": "Husband and Wife: 1 Cor. 7:3-16. 1 Cor. 11:3-15. Eph. 5:22, 23. Rom. 7:2, 3. The exemplary wife and mother: Prov. 31:10-31. Prov. 12:4. A worthy woman is a crown to her husband. Prov. 5:18. Rejoice in the wife of thy youth. Eccles. 9:9. Live joyfully with the wife whom thou lovest. Husband and Father: 1 Tim. 5:8. Provide for his own household. Eph. 6:4. Provoke not your children to wrath.",
+          "zh": "夫与妻：哥林多前书 7:3-16；11:3-15。以弗所书 5:22-23。罗马书 7:2-3。贤妻良母的典范：箴言 31:10-31（才德的妇人谁能得着呢）。12:4 —— 才德的妇人是丈夫的冠冕。5:18 —— 要喜悦你幼年所娶的妻。传道书 9:9 —— 当同你所爱的妻快活度日。丈夫与父亲：提摩太前书 5:8 —— 看顾亲属（英译：供养自己的家人）。以弗所书 6:4 —— 不要惹儿女的气。【OCR 注：原书 \"1 Cor. 1:3-16\" 依上下文（夫妻之道）推定为哥林多前书 7:3-16。】",
+          "bsb": "Proverbs 12:4",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Provoke not your children：不用 do 的否定祈使（不要惹儿女的气）。"},
+            {"id": "kjv-pronouns", "note": "the wife of thy youth / whom thou lovest：thy、thou 第二人称古形。"}
+          ]
+        },
+        {
+          "en": "Parental Duties: Prov. 22:6. Train up a child in the way he should go. Prov. 23:13. Withhold not correction from the child. 1 Tim. 3:4. Having his children in subjection. Illus. Gen. 18:19. He will command his children and his household after him. Teach God's truth: Deut. 4:9; 6:7; 11:19. Ps. 78:4, 6. Illus. 2 Chron. 22:3, 4. His mother was his counselor to do wickedly, to his destruction. 1 Sam. 2:22-25; 3:12-14. Eli. Mal. 4:6. (Many examples, in Old and New Testaments, of good and wise mothers.)",
+          "zh": "父母的本分：箴言 22:6 —— 教养孩童，使他走当行的道。23:13 —— 不可不管教孩童。提摩太前书 3:4 —— 使儿女凡事端庄顺服。例证：创世记 18:19 —— 他必吩咐他的众子和他的眷属遵守我的道。当教导神的真理：申命记 4:9；6:7；11:19（殷勤教训你的儿女）。诗篇 78:4, 6。反面例证：历代志下 22:3-4 —— 他的母亲给他主谋，使他行恶，以致败亡。撒母耳记上 2:22-25；3:12-14 —— 以利（纵子不禁）。玛拉基书 4:6。（新旧两约中贤德智慧之母的例证甚多。）",
+          "bsb": "Proverbs 22:6",
+          "grammar": [
+            {"id": "no-do-negation", "note": "Withhold not correction：不用 do 的否定祈使（不可不管教）。"},
+            {"note": "in the way he should go：关系副词省略（当行的道）；to his destruction：结果状语（以致败亡）。"}
+          ]
+        },
+        {
+          "en": "[The child's place in the family is one of dignity. Children are to be respected, regarded and treated as souls in trust for God, to whom account will be given. They are to be guided with patient and persistent endeavor in the knowledge of God and duty, as they are able to apprehend and to respond. They are to be governed with reason and love, and with thoughtful consideration of their natural infirmities, and ever under the sense of responsibility to God. They are to be guarded with watchful tenderness from all harmful influence to mind and heart and conscience. Their daily living and developing character should be the parents' daily study, in order to the most effective training for the best results—preeminently, to make them self-respecting, self-governing, God-fearing, and Christ-trusting. B.]",
+          "zh": "〔孩子在家庭中的位置是有尊严的位置。当尊重儿女，把他们看作、待作神所托付的灵魂——将来是要向神交账的。当以忍耐恒切的功夫，按他们所能领会、所能回应的程度，引导他们认识神、认识本分。当以理与爱来管教他们，体谅其天然的软弱，并时刻自觉对神负责。当以儆醒的温柔看护他们，远避一切伤害心思、心灵与良心的影响。儿女每天的生活与成长中的品格，应当是父母每天的功课，为要施以最有效的训练、结出最好的果子——首要的，是使他们自尊、自治、敬畏神、信靠基督。B.（编者巴特勒）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "They are to be guided … governed … guarded：are to be＋过去分词的排比（当受引导／管教／看护），g- 头韵；in order to the most effective training：in order to＋名词（古用法，今多接不定式）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "儿女；基督与孩童 / Children; Christ and Children",
+      "blocks": [
+        {
+          "en": "Children: Ps. 127:3. An heritage of the Lord. Ps. 128:3. Like olive plants round about thy table. Prov. 17:6. Children's children are the crown of old men; and the glory of children are their fathers. Acts 2:39. The promise is unto you, and to your children. 2 John 4. Obligations: Ex. 20:12. Honor thy father and thy mother. Mark 7:10. Eph. 6:2. 1 Tim. 5:4. Prov. 1:8. Hear the instruction of thy father, and forsake not the teaching of thy mother. Prov. 6:20. Keep the commandment of thy father, and the law of thy mother. Illus. 1 Sam. 2:11. Jer. 35:6-10. Fearful words against filial disobedience: Prov. 30:17. The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out.",
+          "zh": "儿女：诗篇 127:3 —— 儿女是耶和华所赐的产业。128:3 —— 你的儿女围绕你的桌子，好像橄榄栽子。箴言 17:6 —— 子孙为老人的冠冕；父亲是儿女的荣耀。使徒行传 2:39 —— 这应许是给你们和你们的儿女的。约翰二书 4。儿女的义务：出埃及记 20:12 —— 当孝敬父母。马可福音 7:10。以弗所书 6:2。提摩太前书 5:4。箴言 1:8 —— 要听你父亲的训诲，不可离弃你母亲的法则。6:20 —— 要谨守你父亲的诫命，不可离弃你母亲的法则。例证：撒母耳记上 2:11（撒母耳）；耶利米书 35:6-10（利甲族）。忤逆不孝的可畏警语：箴言 30:17 —— 戏笑父亲、藐视而不听从母亲的，他的眼睛必为谷中的乌鸦啄出来。",
+          "bsb": "Psalm 127:3",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "mocketh / despiseth：戏笑／藐视。"},
+            {"note": "The eye that mocketh …, the ravens … shall pick it out：主语整体前置＋代词 it 复指（那眼睛……乌鸦必啄出来）——希伯来句法的英译遗存。"}
+          ]
+        },
+        {
+          "en": "Christ and Children: Mark 10:14. Suffer the little children to come unto Me; forbid them not: for of such is the kingdom of God. And He took them in His arms, and blessed them, laying His hands upon them. [Heredity, environment, education, purpose, will—which are only measurably under the parent's control—are working out the character of him whom we call our child. He is ours when we live in such relations to him that we represent the invisible God: just, true, loving, understanding, sympathetic, patient, forgiving; never making the mistake of holding back the lesson of life, that every wrong act brings its own punishment. Not mere obedience to the parent represents the true relation of parent and child, but obedience of both to God. Liberty, governed by an intelligent, spiritual conception of the right of choice, is the secret of high spiritual development, without which there can be no stability in relation between man and man, or man and God. The home should be heaven made visible. Outlook.]",
+          "zh": "基督与孩童：马可福音 10:14 —— 让小孩子到我这里来，不要禁止他们，因为在神国的正是这样的人。于是抱着小孩子，给他们按手，为他们祝福。〔遗传、环境、教育、志向、意志——这些只在有限程度上受父母掌控的力量——正在塑造着我们称为『我们的孩子』的那个人的品格。唯当我们与孩子的相处足以向他映现那位看不见的神——公义、真实、慈爱、体察、同情、忍耐、饶恕——他才真是『我们的』；也决不可犯这样的错：把人生的功课瞒下不教，即每一件错事自带它的惩罚。父母与儿女的真关系，不在儿女单单顺服父母，而在父母儿女一同顺服神。以明达属灵的『选择权』观念来节制的自由，是灵性高度成长的秘诀；没有它，人与人、人与神之间的关系便无从稳固。家，应当是天堂的可见化身。《展望》周刊（Outlook）〕",
+          "bsb": "Mark 10:14",
+          "grammar": [
+            {"note": "Suffer the little children to come：suffer 古义『容让』（= allow）；of such is the kingdom of God：介词短语前置倒装（在神国的正是这样的人）。"},
+            {"id": "inversion", "note": "Not mere obedience … represents …, but obedience of both to God：not … but … 对举，主语否定前置。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "instituted": {"ipa": "/ˈɪnstɪtjuːtɪd/", "def": "v. 设立（institute）【四级】"},
+    "yoked": {"ipa": "/jəʊkt/", "def": "v. 同负一轭（yoke：轭）【六级】"},
+    "replenish": {"ipa": "/rɪˈplenɪʃ/", "def": "v. 遍满，充满（钦定本用法）；补充【GRE】"},
+    "offspring": {"ipa": "/ˈɒfsprɪŋ/", "def": "n. 后裔，子孙【六级】"},
+    "solitary": {"ipa": "/ˈsɒlətri/", "def": "adj./n. 孤独的（人）【六级】"},
+    "householder's": {"ipa": "/ˈhaʊshəʊldəz/", "def": "n. 治家者的，家主的（householder）"},
+    "habitation": {"ipa": "/ˌhæbɪˈteɪʃn/", "def": "n. 居所【GRE】"},
+    "exemplary": {"ipa": "/ɪɡˈzempləri/", "def": "adj. 堪作典范的【GRE】"},
+    "provoke": {"ipa": "/prəˈvəʊk/", "def": "v. 惹动，激怒【六级】"},
+    "withhold": {"ipa": "/wɪðˈhəʊld/", "def": "v. 留下不给（withhold not correction：不可不管教）【六级】"},
+    "subjection": {"ipa": "/səbˈdʒekʃn/", "def": "n. 顺服，服从（subject）【六级】"},
+    "counselor": {"ipa": "/ˈkaʊnsələ/", "def": "n. 谋士，主谋【四级】"},
+    "endeavor": {"ipa": "/ɪnˈdevə/", "def": "n. 功夫，努力【四级】"},
+    "apprehend": {"ipa": "/ˌæprɪˈhend/", "def": "v. 领会，理解【GRE】"},
+    "infirmities": {"ipa": "/ɪnˈfɜːmətiz/", "def": "n. 软弱（infirmity）【GRE】"},
+    "tenderness": {"ipa": "/ˈtendənəs/", "def": "n. 温柔【四级】"},
+    "preeminently": {"ipa": "/priˈemɪnəntli/", "def": "adv. 首要地，卓越地【GRE】"},
+    "heritage": {"ipa": "/ˈherɪtɪdʒ/", "def": "n. 产业，遗产【四级】"},
+    "forsake": {"ipa": "/fəˈseɪk/", "def": "v. 离弃【GRE】"},
+    "filial": {"ipa": "/ˈfɪliəl/", "def": "adj. 子女的（filial disobedience：忤逆不孝）【GRE】"},
+    "ravens": {"ipa": "/ˈreɪvnz/", "def": "n. 乌鸦（raven）【六级】"},
+    "suffer": {"ipa": "/ˈsʌfə/", "def": "v.【古义】容让，允许（= allow）；【常义】受苦【四级】"},
+    "forbid": {"ipa": "/fəˈbɪd/", "def": "v. 禁止【四级】"},
+    "heredity": {"ipa": "/həˈredəti/", "def": "n. 遗传【六级】"},
+    "measurably": {"ipa": "/ˈmeʒərəbli/", "def": "adv. 在可量的（有限）程度上【四级】"},
+    "sympathetic": {"ipa": "/ˌsɪmpəˈθetɪk/", "def": "adj. 有同情心的【四级】"},
+    "stability": {"ipa": "/stəˈbɪləti/", "def": "n. 稳固【四级】"}
+  },
+  "vocab_table": [
+    {"word": "replenish", "ipa": "/rɪˈplenɪʃ/", "def": "v. 遍满；补充【GRE】"},
+    {"word": "offspring", "ipa": "/ˈɒfsprɪŋ/", "def": "n. 后裔，子孙"},
+    {"word": "filial", "ipa": "/ˈfɪliəl/", "def": "adj. 子女的（filial disobedience：忤逆）【GRE】"},
+    {"word": "forsake", "ipa": "/fəˈseɪk/", "def": "v. 离弃【GRE】"},
+    {"word": "apprehend", "ipa": "/ˌæprɪˈhend/", "def": "v. 领会，理解【GRE】"},
+    {"word": "heredity", "ipa": "/həˈredəti/", "def": "n. 遗传"},
+    {"word": "suffer", "ipa": "/ˈsʌfə/", "def": "v.【古义】容让（Suffer the little children：让小孩子来）"}
+  ]
+}

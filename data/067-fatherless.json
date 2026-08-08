@@ -1,0 +1,40 @@
+{
+  "num": "067",
+  "title_en": "FATHERLESS",
+  "title_zh": "孤儿",
+  "html_name": "067-Fatherless-孤儿.html",
+  "pages": "原书 p. 129",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "FATHERLESS. The Law respecting the fatherless and the widow (Ex. 22:22-24; Deut. 24:17-21). Ps. 10:14. Thou art the helper of the fatherless. Ps. 68:5. A Father of the fatherless, and a Judge of the widows, is God in His holy habitation. Ps. 146:9. He upholdeth the fatherless and widow. Hosea 14:3. In Thee the fatherless findeth mercy. James 1:27. (Pure religion and undefiled . . . is this, To visit the fatherless and widows in their affliction.)",
+          "zh": "孤儿（无父的）。律法为孤儿寡妇所设的保障（出埃及记 22:22-24；申命记 24:17-21 —— 不可苦待寡妇和孤儿）。诗篇 10:14 —— 你向来是帮助孤儿的。68:5 —— 神在他的圣所作孤儿的父，作寡妇的伸冤者。146:9 —— 他扶持孤儿和寡妇。何西阿书 14:3 —— 因为孤儿在你耶和华那里得蒙怜悯。雅各书 1:27 ——（在神我们的父面前，那清洁没有玷污的虔诚，就是看顾在患难中的孤儿寡妇。）",
+          "bsb": "Psalm 68:5",
+          "grammar": [
+            {"id": "inversion", "note": "A Father of the fatherless … is God in His holy habitation：表语前置＋主谓倒装（神在圣所作孤儿的父）。"},
+            {"id": "eth-est-endings", "note": "upholdeth / findeth：扶持／得蒙。"},
+            {"id": "the-adjective", "note": "the fatherless：the＋形容词表一类人（无父的人＝孤儿）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "fatherless": {"ipa": "/ˈfɑːðələs/", "def": "adj./n. 无父的（人），孤儿"},
+    "widow": {"ipa": "/ˈwɪdəʊ/", "def": "n. 寡妇【四级】"},
+    "widows": {"ipa": "/ˈwɪdəʊz/", "def": "n. 寡妇（widow）【四级】"},
+    "upholdeth": {"ipa": "/ʌpˈhəʊldəθ/", "def": "= upholds（-eth 古词尾）：扶持"},
+    "findeth": {"ipa": "/ˈfaɪndəθ/", "def": "= finds（-eth 古词尾）：得着"},
+    "undefiled": {"ipa": "/ˌʌndɪˈfaɪld/", "def": "adj. 没有玷污的（defile：玷污）"},
+    "respecting": {"ipa": "/rɪˈspektɪŋ/", "def": "prep. 关于（= concerning）【四级】"},
+    "habitation": {"ipa": "/ˌhæbɪˈteɪʃn/", "def": "n. 居所，圣所【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "fatherless", "ipa": "/ˈfɑːðələs/", "def": "n. 孤儿（-less 后缀：无……的）"},
+    {"word": "undefiled", "ipa": "/ˌʌndɪˈfaɪld/", "def": "adj. 没有玷污的"},
+    {"word": "uphold", "ipa": "/ʌpˈhəʊld/", "def": "v. 扶持"}
+  ]
+}

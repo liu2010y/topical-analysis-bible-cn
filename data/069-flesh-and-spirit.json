@@ -1,0 +1,181 @@
+{
+  "num": "069",
+  "title_en": "FLESH AND SPIRIT",
+  "title_zh": "肉体与灵",
+  "html_name": "069-Flesh-and-Spirit-肉体与灵.html",
+  "pages": "原书 p. 130–134",
+  "sections": [
+    {
+      "heading": "一、肉体 / I. Flesh",
+      "blocks": [
+        {
+          "en": "FLESH AND SPIRIT. I. Flesh: The entire unrenewed man, including mind, heart, will and body. Equivalent terms: Natural (animal, sensuous) man; Old man (in contrast with New or renewed man); Carnal mind, or mind of the flesh. Comprehensively, the man in whom the intellectual aims and pursuits, the emotional and passionate nature, the motives and choices of the will, and the bodily appetites, are all supremely directed and exercised in the exclusive interest and gratification of self, in utter disregard of God, and in disobedience of His Law of righteousness and love.",
+          "zh": "肉体与灵。一、肉体：指整个未经更新的人——包括心思、心灵、意志与身体。同义的称呼：属血气的（属动物性的、属感官的）人；旧人（与新人、更新之人相对）；属肉体的心，即体贴肉体的心思。综合而言：这样的人，其理智的目标与追求、情感与血气的天性、意志的动机与抉择、身体的欲望，统统只为自我的利益与满足而运转——全然不顾神，悖逆他公义与慈爱的律法。",
+          "bsb": false,
+          "grammar": [
+            {"id": "apposition", "note": "Natural man / Old man / Carnal mind：三个同义术语的同位罗列——保罗神学的『肉体』词群。"},
+            {"note": "the man in whom … are all supremely directed …：in whom 引导的长定语从句，四个并列主语（理智／情感／意志／欲望）共享一个被动谓语——定义式长句。"}
+          ]
+        },
+        {
+          "en": "John 3:6. That which is born of the flesh is flesh. Rom. 8:5. They that are after the flesh do mind the things of the flesh. Rom. 7:18. In my flesh dwelleth no good thing. 1 Cor. 2:14. The natural man receiveth not the things of the Spirit of God. Jude 19. Sensual, having not the Spirit. Eph. 2:3. Doing the desires of the flesh and of the mind. 1 John 2:16. The lust of the flesh. 2 Cor. 7:1. Filthiness of the flesh. Rom. 3:20. No flesh shall be justified. Gal. 2:16. Rom. 8:6, 8, 13. To be carnally minded is death. If ye live after the flesh, ye shall die. Rom. 7:5. In the flesh, the motions of sin did work fruit unto death. Gal. 6:8. He that soweth to his flesh shall of the flesh reap corruption.",
+          "zh": "约翰福音 3:6 —— 从肉身生的就是肉身。罗马书 8:5 —— 随从肉体的人体贴肉体的事。7:18 —— 在我肉体之中，没有良善（英译：没有良善住在我的肉体里）。哥林多前书 2:14 —— 属血气的人不领会神圣灵的事。犹大书 19 —— 属乎血气、没有圣灵的人。以弗所书 2:3 —— 随着肉体和心中所喜好的去行。约翰一书 2:16 —— 肉体的情欲。哥林多后书 7:1 —— 肉体……的污秽。罗马书 3:20 —— 凡有血气的……没有一个……称义。加拉太书 2:16。罗马书 8:6, 8, 13 —— 体贴肉体的就是死。你们若顺从肉体活着，必要死。7:5 —— 恶欲在我们肢体中发动，以致结成死亡的果子。加拉太书 6:8 —— 顺着情欲撒种的，必从情欲收败坏。",
+          "bsb": "Galatians 6:8",
+          "grammar": [
+            {"id": "inversion", "note": "In my flesh dwelleth no good thing：介词短语前置＋主谓倒装（我肉体中没有良善居住）。"},
+            {"id": "him-that-relative", "note": "He that soweth to his flesh：顺着情欲撒种的。"},
+            {"id": "eth-est-endings", "note": "dwelleth / receiveth / soweth：-eth 词尾。"}
+          ]
+        },
+        {
+          "en": "Works of the Flesh: Mark 7:21, 22. Evil thoughts, fornications, thefts, murders, adulteries, covetings, wickednesses, deceit, lasciviousness, an evil eye, railing, pride, foolishness—all these evil things proceed from within. Gal. 5:19-21. The works of the flesh are these: adultery, fornication, uncleanness, lasciviousness, idolatry, hatred, variance, wrath, strife, heresies, envyings, murders, drunkenness, revelings, and such like. Col. 3:5-7. Titus 3:3. See Wicked.",
+          "zh": "肉体的行为：马可福音 7:21-22 —— 恶念、苟合、偷盗、凶杀、奸淫、贪婪、邪恶、诡诈、淫荡、嫉妒（原文作恶眼）、谤讟、骄傲、狂妄——这一切的恶都是从里面出来的。加拉太书 5:19-21 —— 情欲的事都是显而易见的，就如奸淫、污秽、邪荡、拜偶像、仇恨、争竞、恼怒、结党、异端、嫉妒、凶杀、醉酒、荒宴等类。歌罗西书 3:5-7。提多书 3:3。另参主题词条：恶人。",
+          "bsb": "Galatians 5:19",
+          "grammar": [
+            {"id": "headline-style", "note": "两份罪目清单的纯名词并列——马可十三项由内而发，加拉太十五项『等类』收尾（and such like）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "二、灵 / II. Spirit",
+      "blocks": [
+        {
+          "en": "II. Spirit: As used in antithesis with flesh, refers to the man renewed by the Holy Spirit, and includes the entire intellectual, emotional, and moral nature. Hence the equivalent terms: New man, New creature or creation, Spiritual, and Spiritually minded, or having the mind of the Holy Spirit. John 3:6. That which is born of the Spirit is spirit. Rom. 8:1-5. Walk after the Spirit; mind the things of the Spirit. Eph. 2:10. Created in Christ Jesus. Eph. 4:24. The new man, created in righteousness and holiness of truth. 2 Cor. 5:17. If any man is in Christ, he is a new creature (creation). Gal. 6:15. Gal. 5:24. They that are Christ's have crucified the flesh. Rom. 6:6. Our old man is crucified with Him. Col. 3:9, 10. Have put off the old man, and have put on the new man. Heb. 6:4. Made partakers of the Holy Ghost. 2 Pet. 1:4. Partakers of the Divine nature. Rom. 8:6. To be spiritually minded (to have the mind of the Spirit) is life and peace. Rom. 8:13. If by the Spirit ye mortify the deeds of the body, ye shall live.",
+          "zh": "二、灵：与『肉体』对举时，指被圣灵更新了的人，包括其理智、情感、道德的全部本性。故其同义称呼为：新人；新造的人（新创造）；属灵的人；属灵的心，即有圣灵的心思。约翰福音 3:6 —— 从灵生的就是灵。罗马书 8:1-5 —— 随从圣灵；体贴圣灵的事。以弗所书 2:10 —— 在基督耶稣里造成的。4:24 —— 穿上新人，这新人是照着神的形象造的，有真理的仁义和圣洁。哥林多后书 5:17 —— 若有人在基督里，他就是新造的人。加拉太书 6:15。5:24 —— 凡属基督耶稣的人，是已经把肉体……同钉在十字架上了。罗马书 6:6 —— 我们的旧人和他同钉十字架。歌罗西书 3:9-10 —— 已经脱去旧人……穿上了新人。希伯来书 6:4 —— 于圣灵有分。彼得后书 1:4 —— 与神的性情有分。罗马书 8:6 —— 体贴圣灵的乃是生命平安。8:13 —— 若靠着圣灵治死身体的恶行，必要活着。【OCR 注：原书 \"Rom. 8:7\" 依经文（体贴圣灵的乃是生命平安）推定为 8:6。】",
+          "bsb": "2 Corinthians 5:17",
+          "grammar": [
+            {"id": "as-many-as", "note": "They that are Christ's：凡属基督的（that 关系式的类指）。"},
+            {"note": "put off the old man / put on the new man：脱下／穿上的衣饰隐喻动词对；mortify = make dead（治死），本词条的钥字。"}
+          ]
+        },
+        {
+          "en": "[Definitions of spirituality, or spiritual-mindedness: Spirituality is the aspiration and tendency of the life toward the divine in thought and action, as animated and controlled by the Holy Spirit. W. F. McCauley. — Spirituality is a fixed mental and moral habit, to be distinguished from ecstasy or from emotional excitement, having its rational grounds in the clear discernment of what God and man are in their essential natures and in their mutual relations, and having its ethical quality in the voluntary and habitual subjection of the conscious active life to the judgment which such discernment forms. A. J. F. Behrends.] Fruit of the Spirit: Gal. 5:22, 23. Love, joy, peace, long-suffering, kindness, goodness, faithfulness, meekness, self-control. Under form of command: Col. 3:12-15. A heart of compassion, kindness, humility, meekness, long-suffering, forbearing and forgiving, love and peace. 1 Pet. 1:3-9.",
+          "zh": "〔属灵（属灵的心）的定义：属灵，是生命在思想与行动上向着神圣者的仰望与趋向，由圣灵所激发、所掌管。麦考利（W. F. McCauley）——属灵是一种定型的心智与道德习惯，须与狂喜或情绪亢奋分别开来：它的理性根据，在于清楚辨明神与人各自的本性及其相互关系；它的伦理品质，在于把自觉的活跃生命，甘愿地、习惯地降服于这种辨明所形成的判断之下。贝伦兹（A. J. F. Behrends）〕圣灵的果子：加拉太书 5:22-23 —— 仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。以命令形式出现：歌罗西书 3:12-15 —— 存怜悯、恩慈、谦虚、温柔、忍耐的心，彼此包容，彼此饶恕，存着爱心与平安。彼得前书 1:3-9。",
+          "bsb": "Galatians 5:22-23",
+          "grammar": [
+            {"note": "having its rational grounds in …, and having its ethical quality in …：两个平行的 having 分词短语撑起 Behrends 的双支点定义（理性根据／伦理品质）；to be distinguished from：不定式被动作后置定语（须与……分别）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "三、肉体与灵的争战 / III. The Life-long Conflict",
+      "blocks": [
+        {
+          "en": "III. Flesh and Spirit: The old (human) nature and the new (Divinely inwrought) nature in life-long conflict. Gal. 5:17. The flesh lusteth against the Spirit, and the Spirit against the flesh. 1 Pet. 2:11. Fleshly lusts, which war against the soul. Rom. 7:15-25. What I would, that do I not; but what I hate, that I do. Matt. 26:41. The spirit indeed is willing, but the flesh is weak. 2 Cor. 7:5. Without were fightings, within were fears. 1 Cor. 9:27. I keep under my body, and bring it into subjection. Gal. 6:14. Through the cross the world hath been crucified unto me, and I unto the world.",
+          "zh": "三、肉体与灵：旧的（属人的）本性与新的（神所种入的）本性终生争战。加拉太书 5:17 —— 情欲和圣灵相争，圣灵和情欲相争。彼得前书 2:11 —— 肉体的私欲……与灵魂争战。罗马书 7:15-25 —— 我所愿意的，我并不做；我所恨恶的，我倒去做。马太福音 26:41 —— 你们心灵固然愿意，肉体却软弱了。哥林多后书 7:5 —— 外有争战，内有惧怕。哥林多前书 9:27 —— 我是攻克己身，叫身服我。加拉太书 6:14 —— 因这十字架，就我而论，世界已经钉在十字架上；就世界而论，我已经钉在十字架上。",
+          "bsb": "Galatians 5:17",
+          "grammar": [
+            {"id": "inversion", "note": "Without were fightings, within were fears：方位副词前置＋倒装对句（外有争战，内有惧怕）；without =【古】在外面。"},
+            {"note": "What I would, that do I not：would 作实义动词『愿意』＋指示代词 that 复指＋否定倒装——罗马书七章挣扎的名句；and I unto the world：承前省略谓语（我也向世界钉了十字架）。"}
+          ]
+        },
+        {
+          "en": "[When a tree is grafted, we have not only the roots of the old stock under ground, but a part of the trunk above ground. In this trunk there are dormant buds. The sap reaches them first, and they develop into what we call \"suckers.\" These suckers the orchardist has to watch for and cut off. And such suckers are ever springing up in the hearts of those who are converted in the maturity of manhood or womanhood. The devil finds a dormant bud of carnality, and he stimulates it until the tempted believer cries, with the great apostle, \"Oh, wretched man that I am! who shall deliver me from this body of death!\"—this trunk of the old nature, full of unholy habits and imaginations! C. E. Babb.]",
+          "zh": "〔树木嫁接之后，留在地里的不只有老砧木的根，地面上还留着一段老树干。这段树干上有休眠的芽眼。树液最先到达它们，它们便发育成所谓的『萌蘖』（吸芽）。果园工人必须时时提防这些萌蘖，随见随剪。在成年之后才归主之人的心里，这样的萌蘖也总在不断窜出来。魔鬼找到一枚属肉体的休眠芽，不住地刺激它，直到受试探的信徒同那大使徒一齐喊出：『我真是苦啊！谁能救我脱离这取死的身体！』——脱离这满是不洁习惯与想象的老树干！巴布（C. E. Babb）〕",
+          "bsb": "Romans 7:24",
+          "grammar": [
+            {"id": "inversion", "note": "These suckers the orchardist has to watch for：宾语前置（这些萌蘖，果园工人必须提防）。"},
+            {"id": "vocative-o", "note": "Oh, wretched man that I am!：感叹呼格＋that I am 强调同位（我真是苦啊）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "四、劝勉与命令 / IV. Counsels and Commands",
+      "blocks": [
+        {
+          "en": "IV. Counsels and Commands: 1 Cor. 6:15, 20. Glorify God in your body. Rom. 13:14. Make no provision for the flesh. Col. 3:5. Mortify (make dead) your members which are upon the earth. Gal. 5:16. Walk by the Spirit, and ye shall not fulfill the lust of the flesh. Eph. 5:18. Be filled with the Spirit. Titus 2:12. Denying worldly lusts, live soberly. 1 Pet. 1:14. Not fashioning yourselves according to your former lusts. 1 Pet. 4:2. No longer live in the flesh to the lusts of men. Eph. 4:22, 23. Put away the old man; be renewed in the spirit of your mind. Mark 2:21. Rom. 8:13. If ye live after the flesh, ye must die; but if by the Spirit ye mortify (make to die) the doings of the body, ye shall live.",
+          "zh": "四、劝勉与命令：哥林多前书 6:15, 20 —— 在你们的身子上荣耀神。罗马书 13:14 —— 不要为肉体安排，去放纵私欲。歌罗西书 3:5 —— 要治死（使之死去）你们在地上的肢体。加拉太书 5:16 —— 你们当顺着圣灵而行，就不放纵肉体的情欲了。以弗所书 5:18 —— 乃要被圣灵充满。提多书 2:12 —— 除去……世俗的情欲，自守……度日。彼得前书 1:14 —— 不要效法从前……那放纵私欲的样子。4:2 —— 不从人的情欲，只从神的旨意在世度余下的光阴。以弗所书 4:22-23 —— 脱去……旧人，将你们的心志改换一新。马可福音 2:21（新布补旧衣）。罗马书 8:13 —— 你们若顺从肉体活着，必要死；若靠着圣灵治死身体的恶行，必要活着。",
+          "bsb": "Romans 8:13",
+          "grammar": [
+            {"id": "gerund-nominal", "note": "Denying worldly lusts / Not fashioning yourselves：分词短语作伴随状语的命令式表达。"},
+            {"note": "Make no provision for the flesh：make provision for『为……作安排』的否定（不给肉体留后路）；mortify（make dead）：本节的钥字，原义『使死』。"}
+          ]
+        },
+        {
+          "en": "[Mortifying, or making to die, the flesh: that is, determinedly setting all the energy of the soul into sharp and persistent resistance to the natural motions of self-will and selfish passion, excited and developed under the impulse of temptation; putting forth this determined resistance day by day, with the desire and purpose, in reliance upon the Spirit of God, of ultimately crushing the very life of the old self-will and the once dominant \"fleshly\" and worldly \"lusts\"—this, and nothing less than this, is our lifelong work and warfare; a toil and conflict lightened and sustained to the end by the assured inworking of God Himself, for present deliverance and ultimate victory. This is our \"crucifixion with Christ.\" Thus, through the accompanying Divine renewing energy, we become \"dead to sin\" and alive to Christ, so that we can say, \"I live, yet not I, but Christ liveth in me.\" In its full interpretation, \"crucifixion with Christ\" implies the adoption, in daily living, of the principles which governed His life of obedience, purity and beneficence. It means the entire surrender of self-will and self-guidance, the utter denial and subjugation of all self-aims and desires, of the mental passions and bodily appetites, involving a separation from the godless thoughts, ambitions, pleasures, and pursuits of the world, with the giving up of all self-interests which collide with the higher imperative interests of God's working for man. B.]",
+          "zh": "〔治死肉体（使之死去），就是：下定决心，把灵魂全部的力量投入一场尖锐而持久的抵抗，抵抗自我意志与自私情欲在试探催动下激发滋长的天然冲动；天天拿出这份决然的抵抗，靠着神的灵，怀着一个愿望与目标——终要把旧的自我意志、把一度作王的『肉体的』『属世的』私欲的命根彻底碾碎。这个，一丝一毫不能少于这个，就是我们毕生的工作与争战；而这场劳苦争战，自始至终因着神亲自在里面动工的确据而得着减轻与扶持，既有今日的拯救，也有最终的得胜。这就是我们的『与基督同钉十字架』。这样，借着随之而来的神圣更新大能，我们向罪算自己是死的、向基督却是活的，于是能说：『现在活着的不再是我，乃是基督在我里面活着。』究其全义，『与基督同钉十字架』意味着在日常生活中采纳那曾支配他顺服、纯洁、行善一生的诸原则；意味着自我意志与自我引领的全然交出，一切自我目标与欲望、心智的激情与身体的嗜欲的彻底否认与降服；也就包含与世上不敬虔的思想、野心、宴乐、追逐分道扬镳，放弃一切与神为人动工的更高、更紧要的利益相冲突的自我利益。B.（编者巴特勒）〕",
+          "bsb": "Galatians 2:20",
+          "grammar": [
+            {"note": "this, and nothing less than this, is …：同位强调（这个，一丝一毫不能少于这个）——长定义句压到一个指示代词上收束；setting … / putting forth …：动名词短语并列展开 mortifying 的内容。"},
+            {"id": "postpositive-adjective", "note": "a toil and conflict lightened and sustained …：过去分词组后置修饰（得着减轻与扶持的劳苦争战）。"}
+          ]
+        },
+        {
+          "en": "[The flesh may be present even in our efforts after sanctification. \"Are ye so foolish? having begun in the Spirit, are ye now perfected in the flesh?\" (Gal. 3:3)—it would appear that in Galatia there was a school of perfectionists, who were attempting to secure perfection in the energy of the self-life. True holiness, as true consecration, must be wholly of God, through Him, and to Him. \"Of God are ye in Christ Jesus, who is made unto us . . . sanctification.\" The flesh may also be energetic in Christian work. How much of our Christian work has been along this line—suggested by the flesh, wrought out by the flesh or self-energy, and tending to the glorification of ourselves! And therefore much of it is wood, hay, and stubble, to be burnt up. How memorable is that incident in Hudson Taylor's life, in which God said to him: \"I am going to evangelize inland China, and if you will walk with Me, I will do it through you!\" This is the way in which we think when we have learned to consign the self-life to the death. F. B. Meyer.]",
+          "zh": "〔连我们追求成圣的努力里，也可能掺着肉体。『你们既靠圣灵入门，如今还靠肉身成全吗？你们是这样的无知吗？』（加拉太书 3:3）——看来加拉太当年有一派完全主义者，想靠自我生命的力量去挣得完全。真圣洁如同真奉献，必须全然出于神、借着神、归于神：『你们得在基督耶稣里是本乎神，神又使他成为我们的……圣洁。』肉体在基督教事工里也可能干劲十足。我们有多少基督教工作正是走的这条路——由肉体起意，靠肉体（自我的力量）做成，归趋于荣耀我们自己！所以其中许多不过是草木禾秸，终必被烧掉。戴德生（Hudson Taylor）生平那件事何等令人难忘——神对他说：『我要亲自去传福音给中国内地；你若肯与我同行，我就借着你成就它！』当我们学会了把自我生命交付于死，我们的思路便是这样。迈尔（F. B. Meyer）〕",
+          "bsb": "Galatians 3:3",
+          "grammar": [
+            {"id": "inversion", "note": "How memorable is that incident …：how＋表语前置的感叹倒装（何等令人难忘）。"},
+            {"note": "Of God are ye in Christ Jesus：介词短语前置＋倒装（你们得在基督里本乎神）；consign the self-life to the death：consign to『交付于』——迈尔式的十架灵修语汇。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "unrenewed": {"ipa": "/ˌʌnrɪˈnjuːd/", "def": "adj. 未经更新的（renew：更新）"},
+    "sensuous": {"ipa": "/ˈsenʃuəs/", "def": "adj. 感官的【GRE】"},
+    "sensual": {"ipa": "/ˈsenʃuəl/", "def": "adj. 属血气的，肉欲的【GRE】"},
+    "carnal": {"ipa": "/ˈkɑːnl/", "def": "adj. 属肉体的，肉欲的【GRE】"},
+    "carnally": {"ipa": "/ˈkɑːnəli/", "def": "adv. 属肉体地（carnally minded：体贴肉体）"},
+    "carnality": {"ipa": "/kɑːˈnæləti/", "def": "n. 属肉体的性情"},
+    "appetites": {"ipa": "/ˈæpɪtaɪts/", "def": "n. 欲望，嗜欲（appetite）【四级】"},
+    "gratification": {"ipa": "/ˌɡrætɪfɪˈkeɪʃn/", "def": "n. 满足（gratify）【六级】"},
+    "filthiness": {"ipa": "/ˈfɪlθinəs/", "def": "n. 污秽（filthy）【六级】"},
+    "lasciviousness": {"ipa": "/ləˈsɪviəsnəs/", "def": "n. 淫荡，邪荡【GRE】"},
+    "covetings": {"ipa": "/ˈkʌvɪtɪŋz/", "def": "n. 贪婪（covet：贪恋）"},
+    "railing": {"ipa": "/ˈreɪlɪŋ/", "def": "n.【此处义】谤讟，辱骂（rail：谩骂）"},
+    "variance": {"ipa": "/ˈveəriəns/", "def": "n. 争竞，不和【六级】"},
+    "strife": {"ipa": "/straɪf/", "def": "n. 纷争【六级】"},
+    "heresies": {"ipa": "/ˈherəsiz/", "def": "n. 异端（heresy）【GRE】"},
+    "envyings": {"ipa": "/ˈenviɪŋz/", "def": "n. 嫉妒（envy）"},
+    "revelings": {"ipa": "/ˈrevlɪŋz/", "def": "n. 荒宴（revel：狂欢）"},
+    "antithesis": {"ipa": "/ænˈtɪθəsɪs/", "def": "n. 对举，对立面【GRE】"},
+    "partakers": {"ipa": "/pɑːˈteɪkəz/", "def": "n. 有分的人（partake of：分享）"},
+    "mortify": {"ipa": "/ˈmɔːtɪfaɪ/", "def": "v. 治死（本义 make dead）；【今义】使羞愧【GRE】"},
+    "aspiration": {"ipa": "/ˌæspəˈreɪʃn/", "def": "n. 仰望，志向【六级】"},
+    "animated": {"ipa": "/ˈænɪmeɪtɪd/", "def": "v. 激发，赋予生气（animate）【六级】"},
+    "ecstasy": {"ipa": "/ˈekstəsi/", "def": "n. 狂喜【GRE】"},
+    "discernment": {"ipa": "/dɪˈsɜːnmənt/", "def": "n. 辨明，洞察力（discern）【GRE】"},
+    "meekness": {"ipa": "/ˈmiːknəs/", "def": "n. 温柔（meek）【GRE】"},
+    "forbearing": {"ipa": "/fɔːˈbeərɪŋ/", "def": "v. 包容（forbear）【GRE】"},
+    "inwrought": {"ipa": "/ˌɪnˈrɔːt/", "def": "adj. 种入的，织入的（in＋wrought）"},
+    "lusteth": {"ipa": "/ˈlʌstəθ/", "def": "= lusts（-eth 古词尾）：情欲相争"},
+    "grafted": {"ipa": "/ˈɡrɑːftɪd/", "def": "v. 嫁接（graft）【六级】"},
+    "dormant": {"ipa": "/ˈdɔːmənt/", "def": "adj. 休眠的【GRE】"},
+    "sap": {"ipa": "/sæp/", "def": "n. 树液【六级】"},
+    "suckers": {"ipa": "/ˈsʌkəz/", "def": "n. 萌蘖，吸芽（果树砧木上窜出的徒长枝）"},
+    "orchardist": {"ipa": "/ˈɔːtʃədɪst/", "def": "n. 果园工人（orchard：果园）"},
+    "wretched": {"ipa": "/ˈretʃɪd/", "def": "adj. 苦的，悲惨的【六级】"},
+    "soberly": {"ipa": "/ˈsəʊbəli/", "def": "adv. 自守地，清醒地（sober）【六级】"},
+    "fashioning": {"ipa": "/ˈfæʃnɪŋ/", "def": "v. 效法，塑造（fashion 作动词）【四级】"},
+    "subjugation": {"ipa": "/ˌsʌbdʒuˈɡeɪʃn/", "def": "n. 降服，制伏（subjugate）【GRE】"},
+    "beneficence": {"ipa": "/bɪˈnefɪsns/", "def": "n. 行善，仁惠【GRE】"},
+    "imperative": {"ipa": "/ɪmˈperətɪv/", "def": "adj. 紧要的，必须的【六级】"},
+    "collide": {"ipa": "/kəˈlaɪd/", "def": "v. 冲突，相撞【六级】"},
+    "inworking": {"ipa": "/ˈɪnwɜːkɪŋ/", "def": "n. 在里面的动工（in＋working）"},
+    "perfectionists": {"ipa": "/pəˈfekʃənɪsts/", "def": "n. 完全主义者（perfectionist）【六级】"},
+    "stubble": {"ipa": "/ˈstʌbl/", "def": "n. 禾秸，麦茬（草木禾秸：林前 3:12）【GRE】"},
+    "evangelize": {"ipa": "/ɪˈvændʒəlaɪz/", "def": "v. 传福音（evangelist：传福音者）"},
+    "consign": {"ipa": "/kənˈsaɪn/", "def": "v. 交付（consign to death：交付于死）【六级】"},
+    "warfare": {"ipa": "/ˈwɔːfeə/", "def": "n. 争战【六级】"},
+    "toil": {"ipa": "/tɔɪl/", "def": "n. 劳苦【六级】"}
+  },
+  "vocab_table": [
+    {"word": "carnal", "ipa": "/ˈkɑːnl/", "def": "adj. 属肉体的（carnal mind：属肉体的心）【GRE】"},
+    {"word": "mortify", "ipa": "/ˈmɔːtɪfaɪ/", "def": "v. 治死（罗 8:13 钥字，本义 make dead）【GRE】"},
+    {"word": "antithesis", "ipa": "/ænˈtɪθəsɪs/", "def": "n. 对举，对立面【GRE】"},
+    {"word": "lascivious", "ipa": "/ləˈsɪviəs/", "def": "adj. 淫荡的【GRE】"},
+    {"word": "heresy", "ipa": "/ˈherəsi/", "def": "n. 异端【GRE】"},
+    {"word": "dormant", "ipa": "/ˈdɔːmənt/", "def": "adj. 休眠的（dormant bud：休眠芽）【GRE】"},
+    {"word": "discernment", "ipa": "/dɪˈsɜːnmənt/", "def": "n. 辨明，洞察力【GRE】"},
+    {"word": "subjugation", "ipa": "/ˌsʌbdʒuˈɡeɪʃn/", "def": "n. 降服，制伏【GRE】"},
+    {"word": "beneficence", "ipa": "/bɪˈnefɪsns/", "def": "n. 行善，仁惠【GRE】"},
+    {"word": "ecstasy", "ipa": "/ˈekstəsi/", "def": "n. 狂喜【GRE】"},
+    {"word": "stubble", "ipa": "/ˈstʌbl/", "def": "n. 禾秸（草木禾秸终必被烧）【GRE】"},
+    {"word": "consign", "ipa": "/kənˈsaɪn/", "def": "v. 交付（把自我生命交付于死）"}
+  ]
+}

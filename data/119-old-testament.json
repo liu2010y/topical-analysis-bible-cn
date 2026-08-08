@@ -1,0 +1,162 @@
+{
+  "num": "119",
+  "title_en": "OLD TESTAMENT",
+  "title_zh": "旧约",
+  "html_name": "119-Old-Testament-旧约.html",
+  "pages": "原书 p. 350–362",
+  "ocr_note": "本词条含格雷戈里为旧约所作的完整结构纲要（『三阶段—三层面』体系），以及爱德生、普赖斯、贝伦兹三家论旧约批评的长文。",
+  "sections": [
+    {
+      "heading": "旧约总纲：第一阶段（五经）/ First Stage: The Pentateuch",
+      "blocks": [
+        {
+          "en": "OLD TESTAMENT; Hebrew Scriptures. I. Descriptive and explanatory: the classification of the books; language and text; the grounds of belief in the Old Testament canon; the unity of the Old Testament; critical views and methods; chronology; Assyrian discovery; Old Testament history and its uses; the three characteristics of the Hebrew Scriptures; the credibility of the history as recorded; the miracles of the Old Testament; the witness of ancient monuments to Old Testament history (the Moabite Stone); confirmatory testimony of geography, discovery and customs. II. Introductions to the books: the Pentateuch, 5 books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy); Historical, 12 books (Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles, Ezra, Nehemiah, Esther); Poetical, 5 books (Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon); Prophetical, 17 books.",
+          "zh": "旧约；希伯来圣经。一、说明与解释：诸卷的分类；语言与经文；相信旧约正典的根据；旧约的整体性；批评学的观点与方法；年代学；亚述的发现；旧约历史及其用途；希伯来圣经的三大特征；所记历史的可信性；旧约的神迹；古代碑碣对旧约历史的见证（摩押石碑）；地理、考古发现与风俗的印证性佐证。二、各卷导论：五经，5 卷（创世记、出埃及记、利未记、民数记、申命记）；历史书，12 卷（约书亚记、士师记、路得记、撒母耳记上下、列王纪上下、历代志上下、以斯拉记、尼希米记、以斯帖记）；诗歌书，5 卷（约伯记、诗篇、箴言、传道书、雅歌）；先知书，17 卷。",
+          "bsb": "Luke 24:44",
+          "grammar": [
+            {"id": "headline-style", "note": "四大类＋卷数的清单式排布——希伯来圣经的传统分类（律法、先知、圣卷）在此按英文圣经次序重排为四类。"},
+            {"note": "the Moabite Stone：摩押石碑（1868 年出土，米沙王铭文，印证王下 3 章）——十九世纪『碑碣护教学』的招牌证据。"}
+          ]
+        },
+        {
+          "en": "III. Outline view of the Old Testament (by D. S. Gregory, D.D.): THE DIVINE RELIGION OF SALVATION IN OLD AND TYPICAL FORM. [Aim—to deliver fallen man from sin and Satan, and to restore him to obedience to God: the Kingdom of God.] FIRST STAGE: the historical introduction of the Divine religion into the world by Moses—the Five Books of Moses, in five phases. A. Genesis—first phase: the origin of the religion, and of the people chosen to be its depositary and guardians. B. Exodus—second phase: the establishment of the Theocracy, or Jehovah putting the religion into the depositary: (1) revealing His nature in the deliverance from Egypt; (2) giving the Law and Covenant at Sinai; (3) setting up His throne in the Tabernacle. C. Leviticus—third phase: the way to worship and secure salvation from Jehovah on His throne in the Tabernacle: (1) the law of sacrifice, or the way of salvation typified; (2) the law of the priesthood, or of the agents in salvation; (3) the law of purification, or the conditions of salvation; (4) the law of sacred festivals, or the special seasons of grace. D. Numbers—fourth phase: the organization of the chosen people—tribal, religious, and military—about the Tabernacle, to keep and guard the Divine religion and plant it in Canaan (repeated after an interval of thirty-eight years, with a new generation). E. Deuteronomy—fifth phase: the second giving of the Law, or the moral and spiritual preparation of the new generation for planting the religion in Canaan.",
+          "zh": "三、旧约总览纲要（格雷戈里博士 D. S. Gregory 撰）：旧形态与预表形态中的神圣救恩宗教。〔宗旨——把堕落的人从罪与撒但手中救出，使他复归于对神的顺服：即神的国。〕第一阶段：借摩西把神圣宗教在历史中引入世界——摩西五经，分五个层面。A. 创世记——第一层面：这宗教的起源，以及被拣选作其存放者与守护者之民族的起源。B. 出埃及记——第二层面：神权政体的建立，即耶和华把这宗教放进存放者手中：（1）在拯救以色列出埃及时启示他的本性；（2）在西奈颁下律法与约；（3）在会幕中设立他的宝座。C. 利未记——第三层面：如何敬拜、并从坐在会幕宝座上的耶和华那里获得救恩：（1）献祭之例，即以预表指明救恩之路；（2）祭司之例，即救恩中的执行者；（3）洁净之例，即救恩的条件；（4）圣节之例，即特别的施恩时期。D. 民数记——第四层面：把选民按支派、宗教与军事组织起来，环绕会幕安营，为要保守护卫这神圣宗教并把它栽植于迦南（三十八年之隔后，对新一代重演一次）。E. 申命记——第五层面：律法的第二次颁布，即为新一代作道德与属灵的预备，使他们把这宗教栽植于迦南。",
+          "bsb": "Deuteronomy 6:1",
+          "grammar": [
+            {"id": "headline-style", "note": "『五经＝五层面』的编号纲要——格雷戈里以『存放—建立—敬拜—组织—预备』串起五卷，是十九世纪圣经导论的典范写法。"},
+            {"note": "depositary：存放者，保管人（选民是这宗教的存放者）；typified：以预表指明（type：预表）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "第二阶段：历史、诗歌、预言三层面 / Second Stage: History, Poetry, Prophecy",
+      "blocks": [
+        {
+          "en": "SECOND STAGE: the development of the Divine religion in the world, in three phases—in the history, the poetry, and the prophecy. FIRST PHASE: three times three historical books, in three stages of national life. A. First group—three historical books: the strict Theocracy, its trial and failure (Jehovah ruling with tribal rulers, priests, and \"judges\"): 1. Joshua—the establishment of the chosen people and the Divine religion in Canaan, with Jehovah's throne among them at Shiloh. 2. Judges—the trial and failure of the chosen people in their care of the Divine religion under the strict Theocracy, through their disobedience, with four series of chastisements and deliverances by the \"Angel of Jehovah\"; Jehovah's throne removed. 3. Ruth—the origin of the line of chosen kings, and preparation for the monarchy. B. Second group—three double historical books: the institution, trial and failure of the Theocratic Monarchy: 1. Samuel—the deliverance of the chosen people and religious reformation by Samuel; and, after the trial and failure of Saul (a king after the people's heart), the setting up of David (a king after God's heart), and Jehovah's everlasting covenant with him. 2. Kings—the civil history (mainly) of the reigns of David and Solomon and the successive kings of the two kingdoms, to the Captivity: the book of Jehovah's care over the kings, as promised to David. 3. Chronicles—the religious history of the chosen people (omitting the kings of Israel), to the decree of restoration by Cyrus: the book of Jehovah's covenant care over His people, as promised to Abraham. C. Third group—three historical books: the re-establishment in Canaan, now become the center of the world, under foreign rule, to await the Advent: 1. Ezra—the return of the remnant of Jews to Jerusalem by decree of Cyrus, and the rebuilding of the Temple. 2. Nehemiah—the rebuilding of the walls of Jerusalem and the restoration of the civil condition of the people. 3. Esther—the Jews of the Dispersion as the special objects of God's care, as exhibited in their deliverance in one of the greatest crises of Jewish history.",
+          "zh": "第二阶段：神圣宗教在世界中的展开，分三个层面——历史、诗歌、预言。第一层面：三组各三卷的历史书，对应国族生活的三个阶段。A. 第一组——三卷历史书：严格神权政体，其受试与失败（耶和华与支派首领、祭司、『士师』一同治理）：1. 约书亚记——选民与神圣宗教在迦南的立定，耶和华的宝座设在示罗他们中间。2. 士师记——选民在严格神权政体之下因悖逆而在护守神圣宗教上受试与失败，其间有四轮管教与借『耶和华的使者』施行的拯救；耶和华的宝座被挪去。3. 路得记——被拣选之王室世系的起源，为君主制作预备。B. 第二组——三部双卷历史书：神权君主制的设立、受试与失败：1. 撒母耳记——借撒母耳施行的拯救与宗教改革；扫罗（照百姓心意所立的王）受试而失败之后，立起大卫（合神心意的王），并耶和华与他所立的永约。2. 列王纪——（主要是）大卫、所罗门以及南北两国历代君王的政治史，直到被掳：这是耶和华照对大卫的应许看顾诸王之书。3. 历代志——选民的宗教史（略去北国以色列诸王），直到古列下诏复国：这是耶和华照对亚伯拉罕的应许、以立约之爱看顾他子民之书。C. 第三组——三卷历史书：在外邦统治之下重建于迦南——迦南此时已成为世界的中心——以等候基督降临：1. 以斯拉记——犹太余民照古列诏令归回耶路撒冷，重建圣殿。2. 尼希米记——重建耶路撒冷城墙，恢复百姓的民政秩序。3. 以斯帖记——分散各地的犹太人作为神特别看顾的对象，见于他们在犹太史上最大危机之一中得蒙拯救。",
+          "bsb": "Judges 21:25",
+          "grammar": [
+            {"id": "headline-style", "note": "『三组各三』的对称编排：士师时代—王国时代—归回时代，每组三卷，是本纲要最精巧的设计。"},
+            {"note": "a king after the people's heart / a king after God's heart：扫罗与大卫的对举（撒上 13:14 语汇）；Dispersion：散居（犹太人的离散，Diaspora 的英译）。"}
+          ]
+        },
+        {
+          "en": "SECOND PHASE: twice three poetical books, in two phases of the development of the practical religious life. A. First group—three didactic books: the true philosophy of the religious life, to produce rational conviction that piety, or obedience to God, brings blessedness and success: 1. Proverbs—positive teaching that piety is the way of true blessedness and success, impiety of wretchedness and failure. 2. Job—the first apparent exception (remarkable piety with great apparent misery and failure), shown to be only apparent, by Job, the best of men. 3. Ecclesiastes—the second apparent exception (great impiety with great apparent prosperity), shown to be only apparent, by Solomon, the wisest and worst of men, with the best of opportunities. B. Second group—three lyrical books, to awaken devotional feelings toward Jehovah, from the religious, domestic, and patriotic sides: 1. Psalms—the Divine training-book of the heart, presenting Jehovah in every aspect, but especially as the conquering Messiah and as the suffering Servant of God. 2. Song of Solomon—to awaken affection toward Jehovah, the Author of home and domestic affection, through the marriage love of Christ and His bride. 3. Lamentations—to stir love to Jehovah as the Author of national blessings, through the patriotic feelings. THIRD PHASE: sixteen prophetical books, in four groups, presenting successive stages in the spiritual development of the Divine religion in relation to the coming Messiah. A. First (double) group—seven prophets of the Assyrian period, seeking to save Israel and Judah from destruction by Assyria: four prophets for idolatrous Israel—Hosea, Amos, Jonah, Micah—who fail; four prophets for Judah—Joel, Isaiah, Obadiah, Micah—who succeed. B. Second group—four prophets of the Babylonian period, seeking to save Judah from destruction by Babylon, and failing: Nahum, Habakkuk, Zephaniah, Jeremiah. C. Third group—two prophets of the Exile, seeking to save a remnant and prepare them for restoring the Temple as a religious center for the world: Ezekiel, Daniel. D. Fourth group—three prophets of the Restoration, guiding in the return from exile, the rebuilding of the Temple, and the preparation for the future and the Messiah: Haggai, Zechariah, Malachi. D. S. Gregory.",
+          "zh": "第二层面：两组各三卷诗歌书，对应实践宗教生活展开的两个层面。A. 第一组——三卷训诲书：宗教生活的真哲学，为要在理性上使人确信：敬虔（即顺服神）带来福乐与顺遂。1. 箴言——正面教导：敬虔是真福乐与顺遂之路，不敬虔是困苦与失败之路。2. 约伯记——第一个表面上的例外（非凡的敬虔却伴以极大的表面苦难与失败），借约伯（人中最好的）显明那不过是表面现象。3. 传道书——第二个表面上的例外（极大的不敬虔却伴以极大的表面亨通），借所罗门（人中最智慧也最败坏、且享有最好条件的）显明那不过是表面现象。B. 第二组——三卷抒情书，从宗教、家庭、爱国三面唤起对耶和华的敬虔情感：1. 诗篇——心的神圣训练手册，从各个方面呈现耶和华，尤其呈现他为得胜的弥赛亚、为受苦的神仆。2. 雅歌——借基督与新妇的婚爱，唤起对耶和华（家庭与家室之爱的创立者）的爱慕。3. 耶利米哀歌——借爱国之情，激起对耶和华（国族福祉的赐予者）的爱。第三层面：十六卷先知书，分四组，呈现神圣宗教在与将来弥赛亚之关系上属灵展开的先后阶段。A. 第一（双）组——亚述时期的七位先知，力图救以色列与犹大脱离亚述的毁灭：为拜偶像之以色列而发的四位——何西阿、阿摩司、约拿、弥迦——失败了；为犹大而发的四位——约珥、以赛亚、俄巴底亚、弥迦——成功了。B. 第二组——巴比伦时期的四位先知，力图救犹大脱离巴比伦的毁灭，未能成功：那鸿、哈巴谷、西番雅、耶利米。C. 第三组——被掳时期的两位先知，力图存留余民并预备他们重建圣殿、使之成为世界的宗教中心：以西结、但以理。D. 第四组——归回时期的三位先知，引导归回、重建圣殿、并为将来与弥赛亚作预备：哈该、撒迦利亚、玛拉基。格雷戈里（D. S. Gregory）",
+          "bsb": "Job 42:5",
+          "grammar": [
+            {"note": "the first apparent exception / the second apparent exception：约伯记与传道书被读作对箴言『敬虔即蒙福』命题的两个反例，而三卷合成一个完整的论证——本纲要最有洞见的一笔；Solomon, the wisest and worst of men：最智慧也最败坏（对偶反差）。"},
+            {"id": "headline-style", "note": "先知书四组的历史分期（亚述—巴比伦—被掳—归回），并标注每组成败——把预言书放回历史处境的读法。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "两约关系；论旧约批评 / The Two Testaments; On Old Testament Criticism",
+      "blocks": [
+        {
+          "en": "IV. Old Testament and New; or, Judaism and Christianity. Christ and His Apostles clearly regarded the Old Testament history and teachings as the foundation upon which was to be built the Christianity of the New Testament. Hence we find Judaism, in its purity, underlying Christianity, furnishing its foundation facts and proofs. The Christian dispensation is indeed a vast expansion of the Jewish; but the principle of membership (faith) and the spirit of worship and service are alike in both: the difference is in the forms of obedience and devotion, and in the greater fullness of revelation, with wider reach of spiritual knowledge and experience. [The world-view involved in Christianity rests upon, and carries forward to its completion, the richly concrete view of the world found in the Old Testament. As Hermann Schultz has justly said: \"There is absolutely no New Testament view which does not approve itself as a sound and definitive formation from an Old Testament germ—no truly Old Testament view which did not inwardly press forward to its New Testament fulfillment.\" What are the main characteristics of this Old Testament conception? At its root is the idea of a holy, spiritual, self-revealing God, the free Creator of the world and its continual Preserver. Correlative to this is the idea of man as a being made in God's image, capable of moral relations and spiritual fellowship with his Maker, but who through sin has turned aside from the end of his creation, and stands in need of Redemption. In the heart of the history we have the idea of a Divine purpose working itself out through the calling of a special nation, for the ultimate benefit and blessing of mankind. In view of the sin that has overspread the world, His government is one of combined mercy and judgment; and His dealings with Israel in particular are preparative to the introduction of a better economy, in which the grace already partially exhibited will be fully revealed. The end is the establishment of a kingdom of God under the rule of the Messiah, in which all national limitations will be removed, the Spirit be poured forth, and Jehovah become the God of the whole earth. Prof. Orr.]",
+          "zh": "四、旧约与新约；亦即犹太教与基督教。基督与他的使徒们显然把旧约的历史与教训视为新约基督教赖以建立的根基。因此我们看到：纯正形态的犹太教垫在基督教之下，为它提供根基性的事实与凭据。基督教的时代确实是犹太教时代的一次巨大扩展；但入教的原则（信心）以及敬拜与事奉的精神，两者是一样的：差别在于顺服与虔敬的形式，在于启示更大的丰满，以及属灵知识与经历更广的幅员。〔基督教所含的世界观，是建立在旧约那丰富而具体的世界观之上，并把它推向完成。正如赫尔曼·舒尔茨（Hermann Schultz）所公允指出的：『绝没有哪一个新约的观点，不能证明自己是从某个旧约的胚芽中健全而确定地长成的——也绝没有哪一个真正旧约的观点，不曾从内里向着它新约的成全奋力推进。』这旧约观念的主要特征是什么？其根基是这样一个观念：一位圣洁、属灵、自我启示的神，是世界自由的创造者与持续的保守者。与之相关联的，是关于人的观念：人是照神形像所造的存有，能与造他者有道德关系与属灵相交，却因罪偏离了他受造的目的，因而需要救赎。在这段历史的中心，是这样一个观念：神的旨意借着拣选一个特定民族而逐步实现，最终是为全人类的益处与祝福。鉴于罪已遍布世界，他的治理是怜悯与审判并行的；而他对以色列的特别对待，是为引入一个更美的体制作预备——在那体制里，已经部分显明的恩典要完全显明出来。其终局是在弥赛亚治理之下建立神的国：在其中一切国族的界限都要除去，圣灵要被浇灌，耶和华要成为全地的神。奥尔教授〕",
+          "bsb": "Matthew 5:17",
+          "grammar": [
+            {"note": "There is absolutely no … which does not …—no … which did not …：双重否定的两连（绝无哪一个不……）——舒尔茨论两约有机连续性的名句；economy：神学义『体制，安排』（＝dispensation）。"},
+            {"id": "inversion", "note": "At its root is the idea of a holy … God：介词短语前置＋倒装。"}
+          ]
+        },
+        {
+          "en": "V. Effective points bearing upon Old Testament criticism. [The biographies of the Old Testament are not inventions, but the transcription of facts. There is about them a truth of detail, a vividness of touch, an orderly perspective, a dramatic reality, an exactness of geographical reference, a variety of incident, a grand and archaic simplicity of style, an undertone of devout sympathy, yet an honest quietness of description, a total absence of flattery or of rhetorical ornament—in a word, a combination of literary and spiritual qualities entirely beyond the reach of later fabulists, and which must have been derived from first-hand direct knowledge of facts, localities and persons. E. White.] [The antiquity of the art of writing. We are now certain that writing was not invented in the time of David and Solomon; that it had been in use thousands of years before Joshua inscribed the commandments upon the altar at Shechem; that Moses was reared in a literary court, surrounded by an educated priesthood who possessed remarkable literary products of an older time; that in the fifteenth and sixteenth centuries B.C. Asia and Africa carried on extensive literary correspondence by means of the cuneiform writing of Babylonia. We know also that Egypt has left us writings from the fourth dynasty. The \"illiterate\" argument has gone to pieces in the face of such facts. \"Israel not able to produce such literature as the Old Testament contains until very late in history\"! \"David wrote no psalms, because that age could not have produced such masterpieces as are attributed to him\"! Only a blindfolded critic could make such an assertion. The indications are that we must very soon reverse the scale, and see how far back we can locate the composition of the Old Testament books, rather than how far down in the Maccabean period. Prof. I. M. Price.]",
+          "zh": "五、关乎旧约批评的几个有力要点。〔旧约的传记不是虚构，而是事实的誊录。这些传记有细节上的真实、笔触的鲜活、层次有序的透视、戏剧性的实感、地理指称的精确、事件的多样、宏大而古朴的文体、虔敬同情的底色，同时又有描写上诚实的克制、全然没有谄媚或修辞的雕饰——一言以蔽之，那是文学品质与属灵品质的一种结合，为后世任何编造故事者所望尘莫及；它只能来自对事实、地点与人物第一手的直接知识。E. 怀特〕〔书写术的古老。我们如今确知：文字并非发明于大卫与所罗门的时代；早在约书亚把诫命刻在示剑的坛上之前数千年，文字就已在使用；摩西是在一个文风昌盛的宫廷中长大的，四围是受过教育的祭司阶层，他们拥有更古时代非凡的文献成果；公元前十五、十六世纪，亚洲与非洲之间已借巴比伦的楔形文字进行大量文书往来。我们也知道，埃及给我们留下了第四王朝的文献。面对这些事实，那种『当时人不识字』的论证已经土崩瓦解。『以色列直到很晚才有能力产出旧约那样的文学』！『大卫没有写过诗篇，因为那个时代产不出归在他名下的那些杰作』（切恩语）！只有蒙着眼的批评家才说得出这种断语。种种迹象表明：我们很快就必须把天平反过来——去看我们能把旧约诸卷的成书年代往上推到多早，而不是往下压到马加比时期多晚。普赖斯教授（I. M. Price）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "There is about them a truth of detail, a vividness of touch, … a total absence of flattery：there is 引出的九项名词并列——怀特以文体特征反推史实性的论证；fabulists：编造故事者；has gone to pieces：土崩瓦解。"},
+            {"id": "inversion", "note": "how far back we can locate … rather than how far down：反向对举（往上推 vs 往下压）——普赖斯的收束反转。"}
+          ]
+        },
+        {
+          "en": "[The substantial, practically absolute identity of the present Hebrew Old Testament with the Old Testament as Christ knew it, is one of the clearest outstanding facts in the critical controversy. It is clear that long before the birth of Christ the present books of the Old Testament were regarded as Scripture and inspired; were read regularly in the synagogues; were classified as \"Law, Prophets, and Psalms,\" bound up in rolls and jealously guarded, and were studied with a veneration bordering upon superstition. The evidence is ample, massive, and overwhelming. From the very first the Christian Church accepted in its entirety the Old Testament as it was read and honored in the synagogues. The public life of our Lord was one strenuous, unbroken conflict with the Scribes and Pharisees; but He accepted the same Scriptures with themselves as a revelation from God. Paul broke with the synagogue in its theology, but for the ancient oracles he retained his undiminished and unqualified reverence. No criticism can shake that outstanding fact. The temple fell; the holy city crumbled into dust; the priesthood came to an end; sacrifice ceased. One thing was neither burned nor buried: the Old Testament, as we have it, survived the shock of Roman arms, and, with Christ, maintained its imperial ascendancy. To these Old Testament Scriptures He appealed as the oracles of God, disclosing to men the way of salvation, and constituting an impressive prophecy of His advent and mission. He appealed to them for nothing else; but in that region He declared them to be authoritative—and among these writings were the five books of Moses, whatever their structure, and the puzzling book of Jonah, be it history or parable, to all of which He referred and from which He quoted. Christ must be torn out of the heart of the world before the Old Testament can be wrenched from its place. And how He would have us use them, He has Himself told us: \"Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of Me.\" These books, one and all, are only so many massive columns of granite and marble and onyx and gold and silver and burnished brass, forming a magnificent colonnade, converging upon the Throne, in form of a Cross, on which is seated the Incarnate Word of God, whose scepter of grace welcomes the penitent suppliant. Let us not linger in the porch. The Scriptures are the world's guide-book to Jesus Christ, and through Him to the forgiveness of sins, to the adoption of children, to sanctification, and to the inheritance of eternal glory. Behrends.] See Criticism.",
+          "zh": "〔今日的希伯来文旧约，与基督所知的那部旧约，在实质上（几乎在绝对意义上）是同一部——这是整场批评学争论中最清楚显著的事实之一。有一点是清楚的：早在基督降生之前很久，今日旧约的这些书卷就已被视为圣经、被视为受默示；在会堂中定期诵读；被分类为『律法、先知、诗篇』，卷成书卷、严加看守；被人以近乎迷信的敬重来研读。证据充分、厚重、压倒性。从最初起，基督教会就整体接纳了那部在会堂中被诵读、被尊崇的旧约。我们主公开的一生，是与文士和法利赛人一场紧张而不间断的冲突；但他与他们一样，接纳同一部圣经为出于神的启示。保罗在神学上与会堂决裂了，但对古时的圣言，他的敬重丝毫未减、毫无保留。任何批评都动摇不了这个显著的事实。圣殿倒塌了；圣城化为尘土；祭司制度终结了；献祭停止了。唯有一样东西既没有被烧毁，也没有被埋葬：我们今日所拥有的这部旧约，经受住了罗马兵锋的冲击，并与基督一同保持着它君临的至尊地位。基督诉诸这部旧约圣经，视之为神的圣言：它向人揭示救恩之路，又构成关于他降临与使命的一篇动人预言。他诉诸它们，别无他求；但在这一范围内，他宣告它们具有权威——而这些著作之中就包括摩西五经（无论其成书结构如何），以及那卷令人费解的约拿书（无论它是历史还是寓言）；这两者他都提到过，也都引用过。除非先把基督从世界的心脏里剜出去，否则旧约就无法从它的位置上被硬拽下来。至于他要我们如何使用这些书，他自己已经告诉了我们：『你们查考圣经，因你们以为内中有永生；给我作见证的就是这经。』这些书卷，无一例外，不过是一根根巨大的柱子——花岗岩的、大理石的、红玛瑙的、金的、银的、擦亮的铜的——共同构成一列壮丽的柱廊，朝着那宝座会聚而去；那宝座呈十字架的形状，其上坐着道成肉身的神之道，他恩典的权杖欢迎痛悔的求恩者。我们不要在门廊里逗留。圣经是世界通往耶稣基督的导游手册；并借着他，通往罪得赦免、得儿子的名分、成圣、以及承受永远的荣耀。贝伦兹（Behrends）〕参主题词条：圣经批评学（052）。",
+          "bsb": "John 5:39",
+          "grammar": [
+            {"note": "The temple fell; the holy city crumbled …; the priesthood came to an end; sacrifice ceased. One thing was neither burned nor buried：四个短句排比＋一句反转——贝伦兹最著名的收束节奏；be it history or parable：省略 whether 的让步虚拟（无论它是历史还是寓言）。"},
+            {"id": "inversion", "note": "Christ must be torn out … before the Old Testament can be wrenched：before 从句的因果倒置（除非先……否则……）；colonnade converging upon the Throne：柱廊朝宝座会聚的建筑意象。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "canon": {"ipa": "/ˈkænən/", "def": "n. 正典【GRE】"},
+    "chronology": {"ipa": "/krəˈnɒlədʒi/", "def": "n. 年代学【六级】"},
+    "credibility": {"ipa": "/ˌkredəˈbɪləti/", "def": "n. 可信性【六级】"},
+    "monuments": {"ipa": "/ˈmɒnjumənts/", "def": "n. 碑碣，遗迹（monument）【四级】"},
+    "moabite": {"ipa": "/ˈməʊəbaɪt/", "def": "adj. 摩押的（Moabite Stone：摩押石碑）"},
+    "confirmatory": {"ipa": "/kənˈfɜːmətri/", "def": "adj. 印证性的"},
+    "typical": {"ipa": "/ˈtɪpɪkl/", "def": "adj.【神学义】预表性的【四级】"},
+    "depositary": {"ipa": "/dɪˈpɒzɪtri/", "def": "n. 存放者，保管人【GRE】"},
+    "theocracy": {"ipa": "/θiˈɒkrəsi/", "def": "n. 神权政体【GRE】"},
+    "tabernacle": {"ipa": "/ˈtæbənækl/", "def": "n. 会幕【GRE】"},
+    "typified": {"ipa": "/ˈtɪpɪfaɪd/", "def": "v. 以预表指明（typify）【六级】"},
+    "purification": {"ipa": "/ˌpjʊərɪfɪˈkeɪʃn/", "def": "n. 洁净之礼【六级】"},
+    "tribal": {"ipa": "/ˈtraɪbl/", "def": "adj. 支派的，部族的【六级】"},
+    "chastisements": {"ipa": "/ˈtʃæstɪzmənts/", "def": "n. 管教（chastisement）【GRE】"},
+    "monarchy": {"ipa": "/ˈmɒnəki/", "def": "n. 君主制【六级】"},
+    "decree": {"ipa": "/dɪˈkriː/", "def": "n. 诏令，谕旨【六级】"},
+    "remnant": {"ipa": "/ˈremnənt/", "def": "n. 余民【GRE】"},
+    "dispersion": {"ipa": "/dɪˈspɜːʃn/", "def": "n. 散居，离散（the Dispersion：犹太人的离散）【六级】"},
+    "didactic": {"ipa": "/daɪˈdæktɪk/", "def": "adj. 训诲的【GRE】"},
+    "piety": {"ipa": "/ˈpaɪəti/", "def": "n. 敬虔【GRE】"},
+    "impiety": {"ipa": "/ɪmˈpaɪəti/", "def": "n. 不敬虔【GRE】"},
+    "wretchedness": {"ipa": "/ˈretʃɪdnəs/", "def": "n. 困苦【六级】"},
+    "lyrical": {"ipa": "/ˈlɪrɪkl/", "def": "adj. 抒情的【六级】"},
+    "devotional": {"ipa": "/dɪˈvəʊʃənl/", "def": "adj. 敬虔的，灵修的【六级】"},
+    "patriotic": {"ipa": "/ˌpætriˈɒtɪk/", "def": "adj. 爱国的【六级】"},
+    "idolatrous": {"ipa": "/aɪˈdɒlətrəs/", "def": "adj. 拜偶像的"},
+    "correlative": {"ipa": "/kəˈrelətɪv/", "def": "adj. 相关联的【GRE】"},
+    "preparative": {"ipa": "/prɪˈpærətɪv/", "def": "adj. 作预备的"},
+    "economy": {"ipa": "/ɪˈkɒnəmi/", "def": "n.【神学义】体制，安排（＝dispensation）【四级】"},
+    "germ": {"ipa": "/dʒɜːm/", "def": "n. 胚芽，萌芽【六级】"},
+    "definitive": {"ipa": "/dɪˈfɪnətɪv/", "def": "adj. 确定的，最终的【六级】"},
+    "transcription": {"ipa": "/trænˈskrɪpʃn/", "def": "n. 誊录【六级】"},
+    "archaic": {"ipa": "/ɑːˈkeɪɪk/", "def": "adj. 古朴的，古体的【GRE】"},
+    "undertone": {"ipa": "/ˈʌndətəʊn/", "def": "n. 底色，暗调【六级】"},
+    "flattery": {"ipa": "/ˈflætəri/", "def": "n. 谄媚【六级】"},
+    "ornament": {"ipa": "/ˈɔːnəmənt/", "def": "n. 雕饰【四级】"},
+    "fabulists": {"ipa": "/ˈfæbjəlɪsts/", "def": "n. 编造故事者，寓言作者（fabulist）【GRE】"},
+    "antiquity": {"ipa": "/ænˈtɪkwəti/", "def": "n. 古老，上古【GRE】"},
+    "inscribed": {"ipa": "/ɪnˈskraɪbd/", "def": "v. 刻写（inscribe）【六级】"},
+    "cuneiform": {"ipa": "/kjuːˈniːɪfɔːm/", "def": "n./adj. 楔形文字（的）【GRE】"},
+    "dynasty": {"ipa": "/ˈdɪnəsti/", "def": "n. 王朝【六级】"},
+    "illiterate": {"ipa": "/ɪˈlɪtərət/", "def": "adj. 不识字的【六级】"},
+    "blindfolded": {"ipa": "/ˈblaɪndfəʊldɪd/", "def": "adj. 蒙着眼的"},
+    "maccabean": {"ipa": "/ˌmækəˈbiːən/", "def": "adj. 马加比时期的（主前 2 世纪）"},
+    "synagogues": {"ipa": "/ˈsɪnəɡɒɡz/", "def": "n. 会堂（synagogue）【六级】"},
+    "veneration": {"ipa": "/ˌvenəˈreɪʃn/", "def": "n. 敬重【GRE】"},
+    "strenuous": {"ipa": "/ˈstrenjuəs/", "def": "adj. 紧张激烈的【GRE】"},
+    "oracles": {"ipa": "/ˈɒrəklz/", "def": "n. 圣言（oracle）【GRE】"},
+    "undiminished": {"ipa": "/ˌʌndɪˈmɪnɪʃt/", "def": "adj. 丝毫未减的"},
+    "crumbled": {"ipa": "/ˈkrʌmbld/", "def": "v. 化为齑粉（crumble）【六级】"},
+    "ascendancy": {"ipa": "/əˈsendənsi/", "def": "n. 至尊，优势【GRE】"},
+    "wrenched": {"ipa": "/rentʃt/", "def": "v. 硬拽（wrench）【六级】"},
+    "granite": {"ipa": "/ˈɡrænɪt/", "def": "n. 花岗岩【六级】"},
+    "onyx": {"ipa": "/ˈɒnɪks/", "def": "n. 红玛瑙，缟玛瑙"},
+    "burnished": {"ipa": "/ˈbɜːnɪʃt/", "def": "adj. 擦亮的（burnish）【GRE】"},
+    "colonnade": {"ipa": "/ˌkɒləˈneɪd/", "def": "n. 柱廊【GRE】"},
+    "converging": {"ipa": "/kənˈvɜːdʒɪŋ/", "def": "v. 会聚（converge）【六级】"},
+    "scepter": {"ipa": "/ˈseptə/", "def": "n. 权杖【GRE】"},
+    "suppliant": {"ipa": "/ˈsʌpliənt/", "def": "n. 求恩者，恳求者【GRE】"},
+    "porch": {"ipa": "/pɔːtʃ/", "def": "n. 门廊【四级】"}
+  },
+  "vocab_table": [
+    {"word": "depositary", "ipa": "/dɪˈpɒzɪtri/", "def": "n. 存放者（选民是神圣宗教的存放者）【GRE】"},
+    {"word": "didactic", "ipa": "/daɪˈdæktɪk/", "def": "adj. 训诲的（箴言、约伯记、传道书）【GRE】"},
+    {"word": "fabulist", "ipa": "/ˈfæbjəlɪst/", "def": "n. 编造故事者【GRE】"},
+    {"word": "veneration", "ipa": "/ˌvenəˈreɪʃn/", "def": "n. 敬重（近乎迷信的敬重）【GRE】"},
+    {"word": "ascendancy", "ipa": "/əˈsendənsi/", "def": "n. 至尊地位【GRE】"},
+    {"word": "colonnade", "ipa": "/ˌkɒləˈneɪd/", "def": "n. 柱廊（圣经诸卷如柱廊朝宝座会聚）【GRE】"},
+    {"word": "suppliant", "ipa": "/ˈsʌpliənt/", "def": "n. 求恩者【GRE】"},
+    {"word": "archaic", "ipa": "/ɑːˈkeɪɪk/", "def": "adj. 古朴的【GRE】"},
+    {"word": "cuneiform", "ipa": "/kjuːˈniːɪfɔːm/", "def": "n. 楔形文字【GRE】"},
+    {"word": "economy", "ipa": "/ɪˈkɒnəmi/", "def": "n.【神学义】体制，安排"}
+  ]
+}

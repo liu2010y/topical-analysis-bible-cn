@@ -169,6 +169,11 @@
 | 113 | Mystery（奥秘） | p. 328–329 | ✅（mysterion＝向入门者揭晓之事） |
 | 114 | Names of God（神的名） | p. 329–332 | ✅（Elohim/Jehovah 诸名＋Green 驳底本说） |
 | 115 | Nation（国家） | p. 332–334 | ✅（耶 18 章兴亡律＋列国互为鞭责） |
-| 116– | Nature（自然）起 | p. 335– | ⏳ |
+| 116 | Nature and Natural Phenomena（自然与自然现象） | p. 335–342 | ✅（含 Young 论星空、Behrends 论自然律、Strong 论基督与自然） |
+| 117 | New Testament（新约） | p. 343–347 | ✅（Gregory 论四福音成因、Storrs 论新约自证） |
+| 118 | Obedience（顺服） | p. 348–350 | ✅ |
+| 119 | Old Testament（旧约） | p. 350–362 | ✅（Gregory 旧约结构总纲＋三家论旧约批评） |
+| 120 | Paraclete（保惠师） | p. 363 | ✅（短词条：译名辨析） |
+| 121– | Patience（忍耐）起 | p. 363– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

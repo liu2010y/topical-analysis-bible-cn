@@ -1,0 +1,37 @@
+{
+  "num": "120",
+  "title_en": "PARACLETE",
+  "title_zh": "保惠师",
+  "html_name": "120-Paraclete-保惠师.html",
+  "pages": "原书 p. 363",
+  "ocr_note": "本词条为原书的短词条，并非扫描缺页。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "PARACLETE. An Anglicized Greek term, applied by Christ to the Holy Spirit, and by John to Christ. John 14:16, 17, 26. And I will pray the Father, and He shall give you another Comforter, that He may abide with you for ever; even the Spirit of truth. But the Comforter, which is the Holy Ghost, whom the Father will send in My name, He shall teach you all things. John 15:26. But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, . . . He shall testify of Me. John 16:7. If I go not away, the Comforter will not come unto you; but if I depart, I will send Him unto you. 1 John 2:1. If any man sin, we have an Advocate (Paraclete) with the Father, Jesus Christ the righteous. The significance of the term Paraclete is comprehensively expressed by the word Helper—one who stands for the help of another, in any and every relation and need.",
+          "zh": "保惠师（Paraclete）。这是一个英语化的希腊词；基督用它称呼圣灵，约翰用它称呼基督。约翰福音 14:16-17, 26 —— 我要求父，父就另外赐给你们一位保惠师，叫他永远与你们同在，就是真理的圣灵。但保惠师，就是父因我的名所要差来的圣灵，他要将一切的事指教你们。15:26 —— 但我要从父那里差保惠师来，就是从父出来真理的圣灵；他来了，就要为我作见证。16:7 —— 我若不去，保惠师就不到你们这里来；我若去，就差他来。约翰一书 2:1 —— 若有人犯罪，在父那里我们有一位中保（Paraclete），就是那义者耶稣基督。Paraclete 一词的含义，用『帮助者』（Helper）一词表达得最为周全——即在任何关系、任何需要中，挺身站到另一个人身旁施以援手的那一位。",
+          "bsb": "John 14:16-17",
+          "grammar": [
+            {"id": "apposition", "note": "Paraclete＝Comforter（保惠师）＝Advocate（中保）＝Helper（帮助者）：同一希腊词 parakletos（para 旁边＋kaleo 呼召，即『被召到身旁者』）在两处的两种英译——本词条即为化解这一译名分歧而设。"},
+            {"id": "no-do-negation", "note": "If I go not away：不用 do 的否定（我若不去）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "paraclete": {"ipa": "/ˈpærəkliːt/", "def": "n. 保惠师（希腊文 parakletos：被召到身旁帮助者）"},
+    "anglicized": {"ipa": "/ˈæŋɡlɪsaɪzd/", "def": "adj. 英语化的（Anglicize）"},
+    "comforter": {"ipa": "/ˈkʌmfətə/", "def": "n. 保惠师，训慰师（钦定本对 parakletos 的译名）"},
+    "advocate": {"ipa": "/ˈædvəkət/", "def": "n. 中保，辩护者【六级】"},
+    "testify": {"ipa": "/ˈtestɪfaɪ/", "def": "v. 作见证【六级】"},
+    "comprehensively": {"ipa": "/ˌkɒmprɪˈhensɪvli/", "def": "adv. 周全地【六级】"}
+  },
+  "vocab_table": [
+    {"word": "Paraclete", "ipa": "/ˈpærəkliːt/", "def": "n. 保惠师（para 旁边＋kaleo 呼召）"},
+    {"word": "advocate", "ipa": "/ˈædvəkət/", "def": "n. 中保，辩护者（约壹 2:1 用于基督）"},
+    {"word": "Anglicize", "ipa": "/ˈæŋɡlɪsaɪz/", "def": "v. 使英语化"}
+  ]
+}

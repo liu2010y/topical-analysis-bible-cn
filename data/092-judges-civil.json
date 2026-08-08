@@ -1,0 +1,39 @@
+{
+  "num": "092",
+  "title_en": "JUDGES, CIVIL",
+  "title_zh": "民事审判官",
+  "html_name": "092-Judges-Civil-民事审判官.html",
+  "pages": "原书 p. 247",
+  "ocr_note": "本词条为原书的短词条（仅数行），并非扫描缺页；括号内经文引句为译者依所引章节补出。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "JUDGES, CIVIL. Characterized and charged by Moses. Requisites of ability and character: Ex. 18:21, 22. Thou shalt provide out of all the people able men, such as fear God, men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens. Charged by Moses: Ex. 23:6-8. (Thou shalt not wrest the judgment of thy poor. . . . And thou shalt take no gift: for a gift blindeth them that have sight, and perverteth the words of the righteous.) Deut. 1:17. (Ye shall not respect persons in judgment; ye shall hear the small as well as the great; ye shall not be afraid of the face of man: for the judgment is God's.) Lev. 19:15. (Thou shalt do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty.) Deut. 16:18-20. (Justice, and only justice, shalt thou follow.) See Civil Government.",
+          "zh": "民事审判官。摩西为其立品、授命。才干与品格的必备条件：出埃及记 18:21-22 —— 你要从百姓中拣选有才能的人，就是敬畏神、诚实无妄、恨不义之财的人，派他们作千夫长、百夫长、五十夫长、十夫长，管理百姓。摩西的训令：出埃及记 23:6-8 ——（不可在穷人争讼的事上屈枉正直……不可受贿赂，因为贿赂能叫明眼人变瞎了，又能颠倒义人的话。）申命记 1:17 ——（审判的时候不可看人的外貌；听讼不可分贵贱，不可惧怕人，因为审判是属乎神的。）利未记 19:15 ——（你们施行审判，不可行不义；不可偏护穷人，也不可重看有势力的人。）申命记 16:18-20 ——（你要追求至公至义。）参主题词条：世上的政权（041）。",
+          "bsb": "Exodus 18:21",
+          "grammar": [
+            {"id": "no-do-negation", "note": "thou shalt take no gift / ye shall not respect persons：shalt/shall＋否定的律法体命令（不可受贿赂／不可看人外貌）。"},
+            {"id": "eth-est-endings", "note": "blindeth / perverteth：贿赂能叫明眼人变瞎、颠倒义人的话。"},
+            {"note": "able men, such as fear God, men of truth, hating unjust gain：同位语＋关系式＋分词的四重资格并列——士师制度的选人标准。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "civil": {"ipa": "/ˈsɪvl/", "def": "adj. 民事的，世俗的【四级】"},
+    "requisites": {"ipa": "/ˈrekwɪzɪts/", "def": "n. 必备条件（requisite）【GRE】"},
+    "wrest": {"ipa": "/rest/", "def": "v. 屈枉，强夺（wrest judgment：屈枉正直）【GRE】"},
+    "blindeth": {"ipa": "/ˈblaɪndəθ/", "def": "= blinds（-eth 古词尾）：使瞎眼"},
+    "perverteth": {"ipa": "/pəˈvɜːtəθ/", "def": "= perverts（-eth 古词尾）：颠倒，歪曲"},
+    "bribe": {"ipa": "/braɪb/", "def": "n. 贿赂【六级】"},
+    "charged": {"ipa": "/tʃɑːdʒd/", "def": "v. 训令，嘱咐（charge）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "requisite", "ipa": "/ˈrekwɪzɪt/", "def": "n. 必备条件【GRE】"},
+    {"word": "wrest", "ipa": "/rest/", "def": "v. 屈枉，强夺【GRE】"},
+    {"word": "pervert", "ipa": "/pəˈvɜːt/", "def": "v. 颠倒，歪曲"}
+  ]
+}

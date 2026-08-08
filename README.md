@@ -144,6 +144,11 @@
 | 088 | Infirmity（软弱） | p. 217–218 | ✅（短词条） |
 | 089 | Inspiration of the Scriptures（圣经的默示） | p. 218–224 | ✅（theopneustos 释义／性质／五重凭据） |
 | 090 | Israel（以色列） | p. 225–244 | ✅（20 页巨型词条：McCurdy 亚述学史纲四篇＋论犹太人前途） |
-| 091– | Joy（喜乐）起 | p. 245– | ⏳ |
+| 091 | Joy（喜乐） | p. 245–247 | ✅ |
+| 092 | Judges, Civil（民事审判官） | p. 247 | ✅（短词条） |
+| 093 | Judgment of God（神的审判） | p. 248–249 | ✅ |
+| 094 | Justification（称义） | p. 249–256 | ✅（法庭用语辨析／恩典根据／信心条件／行为凭据） |
+| 095 | Kingdom of God（神的国） | p. 256–263 | ✅（含 Orr、Van Dyke、Liddon 三家长论） |
+| 096– | Kingdoms of Israelitish History（以色列诸国）起 | p. 263– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

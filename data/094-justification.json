@@ -1,0 +1,148 @@
+{
+  "num": "094",
+  "title_en": "JUSTIFICATION",
+  "title_zh": "称义",
+  "html_name": "094-Justification-称义.html",
+  "pages": "原书 p. 249–256",
+  "ocr_note": "原书按语：本题在『信心』词条（065）中已多有论述，宜先细读该处。",
+  "sections": [
+    {
+      "heading": "词义：法庭用语 / Meaning of the Words: A Forensic Term",
+      "blocks": [
+        {
+          "en": "JUSTIFICATION. Meaning of the words \"justify,\" \"justification\" (Gr. dikaioo, dikaioma, dikaiosis). [In Paul's usage, the word \"justify\" denotes a forensic act—the making of a declaration, the pronouncing of a judgment—rather than a moral process of making just through an infusion of righteousness. Stevens, \"Pauline Theology.\" — The verb \"justify\" means properly to pronounce righteous. It has relation to a verdict pronounced by a judge. In so far as the person \"pronounced righteous\" is not really righteous, it has the sense of \"amnesty\" or \"forgiveness.\" But it cannot mean to make righteous. There may be other influences which go to make a person righteous; but they are not contained, or even hinted at, in the word \"justify.\" That word means \"to declare righteous,\" \"to treat as righteous\"; it may even mean \"to prove righteous\"; but whether the person so declared, treated as, or proved to be righteous is really so, the word itself neither affirms nor denies. The facts of language are inexorable: the words \"justify,\" \"to be justified,\" are rightly said to be forensic; they have reference to a judicial verdict, and to nothing beyond. William Sanday, \"Commentary on Romans.\"]",
+          "zh": "称义。『称义』（动词 justify、名词 justification；希腊文 dikaioo、dikaioma、dikaiosis）的词义。〔在保罗的用法里，『称义』一词指的是一个法庭行为——作出宣告、下达判决——而非借注入公义使人成为义的道德过程。史蒂文斯，《保罗神学》。——动词 justify 的本义是『宣告为义』。它关乎法官所作的裁决。就被『宣告为义』之人实际并不义而言，它带有『特赦』或『赦免』的意思。但它不能解作『使人成为义』。或许另有别的作用促成人成为义；但那些作用不包含在 justify 一词之内，甚至连暗示也没有。这个词的意思是『宣告为义』『以义相待』；它甚至可以指『证明为义』；至于被如此宣告、如此相待、或被证明为义的人是否真的为义，这个词本身既不肯定也不否定。语言的事实是不容通融的：justify、be justified 二语被称为法庭用语，是恰当的；它们指向一个司法裁决，此外别无所指。桑代（William Sanday），《罗马书注释》〕",
+          "bsb": "Romans 8:33",
+          "grammar": [
+            {"id": "apposition", "note": "dikaioo, dikaioma, dikaiosis：希腊词族的同位注释（动词／义行／称义之举）——与 dikaiosune（义）同根。"},
+            {"note": "whether the person … is really so, the word itself neither affirms nor denies：whether 从句前置＋neither … nor 收束——桑代对词义边界的精确划定。"}
+          ]
+        },
+        {
+          "en": "Justification and Law. As a forensic term, justification has direct relation to law, and implies that in some way satisfaction has been made to a broken and therefore condemning law. [In the doctrine of justification the gospel is most radically distinguished from a merely legal system, and from any moral system which rests on merely legal ideas. These make personal obedience, conformity to law, to be the only ground of acceptance. In justification, acceptance is on the ground of what Christ has done, of His merits—of what Another has done for us in our stead. The ends of the law are so far satisfied by what Christ has done, that the sinner can be pardoned. The law is not merely set aside, but its great ends are answered by what Christ has done in our behalf. An internal change is always a sine qua non of justification, but not its meritorious ground. Justification is a finished work; sanctification is a gradual work. In justification sins are pardoned; in sanctification they are subdued. Justification is from guilt; sanctification is from defilement. H. B. Smith.] No self-justification by the subjects of law, through deeds required by the law: Ps. 143:2. In Thy sight shall no man living be justified. Rom. 3:20, 23. By the works of the law shall no flesh be justified in His sight; for through the law cometh the knowledge of sin. For all have sinned, and fall short of the glory of God. Gal. 3:10-12. As many as are of the works of the law are under a curse: for it is written, Cursed is every one which continueth not in all things that are written in the book of the law, to do them.",
+          "zh": "称义与律法。作为法庭用语，称义与律法直接相关，并意味着：对那被干犯、因而定人罪的律法，已经以某种方式作出了补偿。〔正是在称义的教义上，福音与单纯的律法体系、与任何建基于纯粹律法观念之上的道德体系，划出了最根本的界线。后者以个人的顺服、与律法相符，为蒙悦纳的唯一根据。在称义里，蒙悦纳的根据却是基督所做成的、是他的功德——是另一位替我们做成的。基督所做成的既已满足律法的目的到这个地步，罪人便可以得赦。律法并不是被单纯撇在一边，乃是它伟大的目的因基督为我们所行的而得着了回应。内心的改变始终是称义的必要前提（sine qua non），却不是称义的功德根据。称义是已成之工，成圣是渐进之工。在称义里，罪得赦免；在成圣里，罪被制伏。称义是从罪咎里出来；成圣是从污秽里出来。H. B. 史密斯〕在律法之下的人，不能凭律法所要求的行为自我称义：诗篇 143:2 —— 因为在你面前，凡活着的人没有一个是义的。罗马书 3:20, 23 —— 凡有血气的，没有一个因行律法能在神面前称义，因为律法本是叫人知罪。世人都犯了罪，亏缺了神的荣耀。加拉太书 3:10-12 —— 凡以行律法为本的，都是被咒诅的，因为经上记着：凡不常照律法书上所记一切之事去行的，就被咒诅。",
+          "bsb": "Romans 3:20",
+          "grammar": [
+            {"id": "inversion", "note": "In Thy sight shall no man living be justified / By the works of the law shall no flesh be justified：否定状语前置的倒装两连——两约同一个『无人称义』。"},
+            {"note": "sine qua non：拉丁语『不可或缺之条件』（直译：无之则不然）；in our stead：代替我们。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "称义的根据：神的恩典与基督的救赎 / The Ground: Grace and Redemption",
+      "blocks": [
+        {
+          "en": "God the sole, adequate Justifier: Rom. 8:33, 34. It is God that justifieth; who is he that shall condemn? Rom. 3:26. That He might Himself be just, and the Justifier of him that hath faith in Jesus. Justification an act of grace: Rom. 3:24. Being justified freely by His grace through the redemption that is in Christ Jesus. Rom. 5:20, 21. The law came in beside, that the trespass might abound; but where sin abounded, grace did abound more exceedingly: that, as sin reigned in death, even so might grace reign through righteousness unto eternal life through Jesus Christ our Lord. [Justified through payment of the ransom-price (apolutrosis) by Christ. The work of Christ in delivering men from sin is here figuratively represented as the giving of a purchase-price for their release, as captives in war were often ransomed. Stevens.] Rom. 3:25. Whom God set forth to be a propitiation, through faith, by His blood, to show His righteousness, because of the passing over of the sins done aforetime. Rom. 5:9. Justified by His blood. Acts 13:39. By Him every one that believeth is justified from all things. 2 Cor. 5:21. Him who knew no sin He made to be sin on our behalf; that we might become the righteousness of God in Him. Gal. 3:13. Christ redeemed us from the curse of the law, having become a curse for us. 1 Cor. 6:11. Ye were justified in the name of the Lord Jesus Christ.",
+          "zh": "神是唯一而充分的称义者：罗马书 8:33-34 —— 有神称他们为义了，谁能定他们的罪呢？3:26 —— 使人知道他自己为义，也称信耶稣的人为义。称义是恩典的作为：罗马书 3:24 —— 如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。5:20-21 —— 律法本是外添的，叫过犯显多；只是罪在哪里显多，恩典就更显多了。就如罪作王叫人死，照样，恩典也借着义作王，叫人因我们的主耶稣基督得永生。〔称义是借基督付上赎价（apolutrosis）而成。基督救人脱罪之工，在此以形象化的方式表现为付出一笔赎买之价使人得释——正如战俘常被赎回一样。史蒂文斯〕罗马书 3:25 —— 神设立耶稣作挽回祭，是凭着耶稣的血，借着人的信，要显明神的义；因为他用忍耐的心宽容人先时所犯的罪。5:9 —— 靠着他的血称义。使徒行传 13:39 —— 你们靠……他称义。哥林多后书 5:21 —— 神使那无罪的替我们成为罪，好叫我们在他里面成为神的义。加拉太书 3:13 —— 基督既为我们受了咒诅，就赎出我们脱离律法的咒诅。哥林多前书 6:11 —— 但如今你们奉主耶稣基督的名……已经称义了。",
+          "bsb": "Romans 3:24-25",
+          "grammar": [
+            {"id": "inversion", "note": "even so might grace reign：even so＋倒装（恩典也照样作王）——罪与恩两个王权的对偶。"},
+            {"id": "him-that-relative", "note": "the Justifier of him that hath faith in Jesus：称信耶稣之人为义的那位。"},
+            {"note": "apolutrosis：希腊文『赎买释放』（apo 从＋lutron 赎价）——本节神学的关键隐喻。"}
+          ]
+        },
+        {
+          "en": "[Paul's thought of God's nature is that the love of God, in effecting man's salvation and in remitting punishment for sin, must affirm and maintain its inviolable holiness. This is done by affording, in the work of Christ, a substitute for punishment, which at the same time meets the ends of punishment. Thus the work of Divine love which God wrought in Christ meets at once the ends of the Divine mercy and of the Divine righteousness—not because Christ accomplishes a reconciliation of them, as if they had been until then in antagonism, but because, since they are in eternal harmony, the Divine love could choose and pursue a mode of salvation which should adequately reveal, vindicate, and satisfy both. God is both just and Justifier, with no suggestion of contradiction or inconsistency, because His eternally harmonious moral attributes are alike operative, and in their operation alike satisfied, in the saving work of Christ. Stevens.] Christ's resurrection also related to justification: Rom. 4:25. Who was delivered up for our trespasses, and was raised for our justification. Rom. 5:10, 11. If, while we were enemies, we were reconciled to God through the death of His Son; much more, being reconciled, shall we be saved by His life. Rom. 5:17. They that receive the abundance of grace and of the gift of righteousness shall reign in life through the one, even Jesus Christ. Titus 3:7. That, being justified by His grace, we might be made heirs according to the hope of eternal life.",
+          "zh": "〔保罗对神之本性的看法是：神的爱在成就人的救恩、免去罪的刑罚时，必须确认并维护自己不可侵犯的圣洁。这一点，是借着在基督的工作中提供一个刑罚的替代——而这替代同时满足了刑罚的目的——来达成的。于是，神在基督里所行的这项神圣之爱的工作，同时满足了神的怜悯与神的公义的目的：这并非因为基督在二者之间促成了和解，仿佛它们此前一直互相对立；而是因为——既然二者本在永恒的和谐之中——神的爱得以拣选并推行一种救恩的方式，足以充分地彰显、辩明并满足二者。神既是公义的，又是称人为义的，其间毫无矛盾或不一致的意味；因为他永恒和谐的诸道德属性，在基督的救赎之工中同样运作、又在其运作中同样得着满足。史蒂文斯〕基督的复活亦与称义相关：罗马书 4:25 —— 耶稣被交给人，是为我们的过犯；复活，是为叫我们称义。5:10-11 —— 因为我们作仇敌的时候，且借着神儿子的死得与神和好；既已和好，就更要因他的生得救了。5:17 —— 那些受洪恩又蒙所赐之义的，岂不更要因耶稣基督一人在生命中作王吗？提多书 3:7 —— 好叫我们因他的恩得称为义，可以凭着永生的盼望成为后嗣。",
+          "bsb": "Romans 4:25",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "as if they had been until then in antagonism：as if＋过去完成虚拟（仿佛此前一直对立）。"},
+            {"note": "at once the ends of … and of …：at once A and B（同时满足二者）；alike operative … alike satisfied：alike 副词的对称回环。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "人一方的条件：信心 / The Conditional Ground: Faith",
+      "blocks": [
+        {
+          "en": "2. The conditional ground of justification—its human side. This is faith in the Lord Jesus Christ: that is, personal trust in a personal God, in the God-Man as a Redeemer and Saviour, an eternal Deliverer from the consequences and from the power of sin; together with an assured conviction of the sufficiency of His self-sacrifice, and confident reliance upon His redeeming work for us and in us. This faith, as already stated, \"is an acceptance, a renunciation of claim, a confession of unworthiness, an act of homage to God's grace.\" In the Old Testament we find the statement, Ps. 143:2: In Thy sight shall no man living be justified. And in the Book of Job the question is twice asked—once by Job himself (9:2), and again by Bildad (25:4)—How can man be just with God? And in one of the later prophets we find the answer in indirect form: the trusting, spiritually-minded, far-seeing and exultant believer, Habakkuk, \"standing upon his watch, and setting him upon the tower,\" where God had set him, looking and listening for the vision and voice of Jehovah, is bidden to record the vision, \"that he may run that readeth it.\" And the central truth of his message, for that time and for the generations to come, is this: The just shall live by his faith. Twice does Paul cite and interpret these words of the prophet: Rom. 1:17. For therein is revealed a righteousness of God by faith unto faith: as it is written, The righteous shall live by faith. Gal. 3:11, 12. Now that no man is justified by the law in the sight of God, is evident: for, The righteous shall live by faith; and the law is not of faith. A third time the prophet is cited, by the writer to the Hebrews (10:37, 38): For yet a very little while, He that cometh shall come, and shall not tarry. But My righteous one shall live by faith.",
+          "zh": "2. 称义的条件性根据——人这一方。这条件就是对主耶稣基督的信：即以位格对位格地信靠位格的神、信靠那位神而人者作救赎主与救主、作永远的拯救者，救人脱离罪的后果与权势；连同对他舍己之充足的笃信，并对他为我们、在我们里面之救赎工作的坦然倚靠。这信心，如前所述，『是一种领受，是弃绝一切索求，是承认自己不配，是向神的恩典俯首致敬』。旧约里有这样一句：诗篇 143:2 —— 在你面前，凡活着的人没有一个是义的。约伯记中两次问到这个问题——一次出于约伯自己（9:2），一次出于比勒达（25:4）：人在神面前怎能成为义呢？而在一位较晚的先知那里，我们得着了间接形式的回答：那信靠、属灵、远见而欢跃的信徒哈巴谷，『站在守望所，立在望楼上』——那是神为他设立的位置——举目侧耳，等候耶和华的异象与声音；他奉命将默示写下，『使读的人容易读』。他的信息对当时、对后世世代的中心真理就是这一句：义人必因信得生。保罗两次征引并阐释先知这句话：罗马书 1:17 —— 因为神的义正在这福音上显明出来，这义是本于信，以致于信；如经上所记：义人必因信得生。加拉太书 3:11-12 —— 没有一个人靠着律法在神面前称义，这是明显的，因为经上说：义人必因信得生。律法原不本乎信。第三次征引这位先知，是希伯来书的作者（10:37-38）：因为还有一点点时候，那要来的就来，并不迟延。只是义人必因信得生。",
+          "bsb": "Habakkuk 2:4",
+          "grammar": [
+            {"id": "inversion", "note": "Twice does Paul cite and interpret：频度状语前置＋倒装（保罗两次征引）。"},
+            {"id": "him-that-relative", "note": "that he may run that readeth it / He that cometh shall come：读的人／那要来的（habakkuk 与来 10 章的接续）。"}
+          ]
+        },
+        {
+          "en": "The New Testament Epistles abound in texts affirming and implying the exercise of faith to be an essential condition of the Divine act of justification: Rom. 3:22. The righteousness of God through faith in Jesus Christ unto all them that believe. Rom. 4:3, 5. Abraham believed God, and it was reckoned unto him for righteousness. To him that worketh not, but believeth on Him that justifieth the ungodly, his faith is reckoned for righteousness. Rom. 10:4. Christ is the end of the law unto righteousness to every one that believeth. Gal. 2:16. We believed on Christ Jesus, that we might be justified by faith in Christ. Phil. 3:9. Not having a righteousness of mine own, even that which is of the law, but that which is through faith in Christ. 2 Pet. 1:1. Like precious faith with us in the righteousness of our God and Saviour Jesus Christ. Effects of justification by faith—a series of subliming, sustaining and satisfying spiritual experiences: Rom. 5:1-5, 9, 11. Being therefore justified by faith, we have peace with God through our Lord Jesus Christ; through whom also we have had our access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. And not only so, but we also rejoice in our tribulations: knowing that tribulation worketh patience; and patience, probation; and probation, hope; and hope putteth not to shame, because the love of God hath been shed abroad in our hearts through the Holy Ghost which was given unto us. Rom. 8:30, 33, 34, 38, 39. Whom He justified, them He also glorified. It is God that justifieth; who is he that shall condemn? It is Christ Jesus that died, yea rather, that was raised from the dead, who is at the right hand of God, who also maketh intercession for us. For I am persuaded that neither death, nor life . . . shall be able to separate us from the love of God, which is in Christ Jesus. 1 Pet. 1:7, 8. In whom, believing, ye rejoice greatly with joy unspeakable and full of glory; receiving the end of your faith, even the salvation of your souls.",
+          "zh": "新约诸书信中，明言或暗示『信心的运用是神称义之举的必要条件』的经文比比皆是：罗马书 3:22 —— 就是神的义，因信耶稣基督加给一切相信的人。4:3, 5 —— 亚伯拉罕信神，这就算为他的义。惟有不做工的，只信称罪人为义的神，他的信就算为义。10:4 —— 律法的总结就是基督，使凡信他的都得着义。加拉太书 2:16 —— 连我们也信了基督耶稣，使我们因信基督称义。腓立比书 3:9 —— 不是有自己因律法而得的义，乃是有信基督的义。彼得后书 1:1 —— 与我们同得一样宝贵信心的人。因信称义的果效——一连串使人升华、扶持、餍足的属灵经历：罗马书 5:1-5, 9, 11 —— 我们既因信称义，就借着我们的主耶稣基督得与神相和。我们又借着他，因信得进入现在所站的这恩典中，并且欢欢喜喜盼望神的荣耀。不但如此，就是在患难中也是欢欢喜喜的；因为知道患难生忍耐，忍耐生老练，老练生盼望；盼望不至于羞耻，因为所赐给我们的圣灵将神的爱浇灌在我们心里。8:30, 33-34, 38-39 —— 所称为义的人，又叫他们得荣耀。有神称他们为义了，谁能定他们的罪呢？有基督耶稣已经死了，而且从死里复活，现今在神的右边，也替我们祈求。因为我深信无论是死，是生……都不能叫我们与神的爱隔绝；这爱是在我们的主基督耶稣里的。彼得前书 1:7-8 —— 你们虽然没有见过他，却是爱他；如今虽不得看见，却因信他就有说不出来、满有荣光的大喜乐，并且得着你们信心的果效，就是灵魂的救恩。",
+          "bsb": "Romans 5:1-2",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "putteth / maketh：盼望不至于羞耻／替我们祈求。"},
+            {"note": "tribulation worketh patience; and patience, probation; and probation, hope：顶真格（anadiplosis）＋后半省略动词——罗五『恩典阶梯』。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "称义的凭据在于信心的生活与行为 / Evidence in the Life and Works of Faith",
+      "blocks": [
+        {
+          "en": "Evidence or proof of actual justification found in the life and works of faith. The Scriptural support of this truth is abundantly found in the Epistle to the Hebrews and in the Epistle of James, with many statements of Paul, Peter and John. The eleventh chapter of Hebrews records, in briefest form, the deeds of many signal exemplars of the fact, the force, and the marvelous effects of a justifying faith; and the record proves the faith by the deeds and the suffering endurances of the life. Abel \"offered a more excellent sacrifice\"; Enoch's life \"had been well-pleasing unto God,\" and his faith was rewarded with translation; Noah builded the ark, in believing obedience to the Divine command, and so \"became heir of the righteousness which is according to faith\"; Abraham, at the same command, \"went out, not knowing whither he went,\" \"became a sojourner in the land of promise, as in a land not his own; for he looked for the city which hath the foundations, whose builder and maker is God\"—and his faith was tried and proved when he \"offered up Isaac.\" And so we may follow on through the impressive record, including Isaac, Jacob, Joseph, Moses, Rahab, Gideon, Barak, \"David also and Samuel and the prophets: who through faith subdued kingdoms, wrought righteousness, obtained promises, . . . from weakness were made strong.\" \"And these all had witness borne to them through their faith\"—the witness of their sublime life-deeds and sufferings to the vital energy of their faith. James 2:17, 22, 23. Faith, if it have not works, is dead in itself. Faith wrought with his works, and by works was faith made perfect; and the Scripture was fulfilled which saith, Abraham believed God, and it was reckoned unto him for righteousness. [Note to the intelligent Bible-reader: Paul alone treats this theme radically and exhaustively—in Romans 3:20-31 and the entire fourth and fifth chapters. This theme mastered may well be followed by the sixth of Romans, of which the essential truth is sanctification; this again by the seventh chapter, whose practical teaching concerns the great soul-conflict carried on through the life in the flesh—a chapter replete with encouragement, because it discloses the fact of inward conflict, the impotence of our own unaided effort, and the assurance of abundantly promised Divine aid. This triumph comprises the core of the Apostle's exalted utterances in the eighth chapter, the closing verses of which should be memorized, pondered and fed upon by the heart of every Christ-trusting Christian.]",
+          "zh": "实际称义的凭据或证明，见于信心的生活与行为。这一真理在圣经中的支持，希伯来书与雅各书里比比皆是，保罗、彼得、约翰的许多陈述亦然。希伯来书第十一章以最简约的形式记下许多卓著典范的作为，见证使人称义之信心的事实、力量与奇妙果效；而这份记录，是以生平的作为与受苦的忍耐来证明其信心。亚伯『献上更美的祭』；以诺的一生『得了神喜悦他的明证』，其信心以被接升为赏赐；挪亚凭信心顺服神的吩咐造了方舟，因而『承受了那从信而来的义』；亚伯拉罕同样奉命『出去的时候，还不知往哪里去』，『在所应许之地作客，好像在异地居住帐棚』，『因为他等候那座有根基的城，就是神所经营所建造的』——他的信心在『把以撒献上』时受了试验、得了印证。此后我们还可循这份感人的记录读下去：以撒、雅各、约瑟、摩西、喇合、基甸、巴拉，『还有大卫、撒母耳和众先知的事，他们因着信……制伏了敌国，行了公义，得了应许……软弱变为刚强』。『这些人都是因信得了美好的证据』——他们崇高的生平作为与所受的苦难，为其信心的生命力作了见证。雅各书 2:17, 22-23 —— 信心若没有行为就是死的。可见信心是与他的行为并行，而且信心因着行为才得成全。这就应验经上所说：亚伯拉罕信神，这就算为他的义。〔给用心读经者的按语：唯有保罗对这一主题作了根本而穷尽的处理——罗马书 3:20-31 及第四、五两章全篇。掌握此题之后，宜续读罗马书第六章，其要义是成圣；再续读第七章，其实践教训关乎人在肉身中一生所进行的灵魂大战——这一章满载鼓励，因为它揭明了内心争战的事实、我们孤军奋斗之无能、以及神所应许之丰盛援助的确据。而这场凯旋的核心，正是使徒在第八章里那些崇高的宣告；该章末几节，凡信靠基督的人都当熟记于心、反复默想、以之为粮。〕",
+          "bsb": "James 2:22-23",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "if it have not works：条件句虚拟 have（信心若没有行为）。"},
+            {"id": "inversion", "note": "by works was faith made perfect：介词短语前置＋被动倒装（信心因行为得成全）——雅各与保罗的接榫处。"},
+            {"note": "had witness borne to them：have＋宾语＋过去分词（得了美好的证据）；signal exemplars：卓著的典范（signal 形容词义『显著的』）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "justification": {"ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/", "def": "n. 称义【六级】"},
+    "forensic": {"ipa": "/fəˈrensɪk/", "def": "adj. 法庭的，司法的【GRE】"},
+    "infusion": {"ipa": "/ɪnˈfjuːʒn/", "def": "n. 注入【六级】"},
+    "verdict": {"ipa": "/ˈvɜːdɪkt/", "def": "n. 裁决【六级】"},
+    "amnesty": {"ipa": "/ˈæmnəsti/", "def": "n. 特赦【GRE】"},
+    "inexorable": {"ipa": "/ɪnˈeksərəbl/", "def": "adj. 不容通融的，无情的【GRE】"},
+    "judicial": {"ipa": "/dʒuˈdɪʃl/", "def": "adj. 司法的【六级】"},
+    "conformity": {"ipa": "/kənˈfɔːməti/", "def": "n. 相符【六级】"},
+    "merits": {"ipa": "/ˈmerɪts/", "def": "n. 功德（merit）【四级】"},
+    "stead": {"ipa": "/sted/", "def": "n. 代替（in our stead：替我们）【GRE】"},
+    "meritorious": {"ipa": "/ˌmerɪˈtɔːriəs/", "def": "adj. 有功德的【GRE】"},
+    "defilement": {"ipa": "/dɪˈfaɪlmənt/", "def": "n. 污秽【GRE】"},
+    "subdued": {"ipa": "/səbˈdjuːd/", "def": "v. 制伏（subdue）【六级】"},
+    "trespass": {"ipa": "/ˈtrespəs/", "def": "n. 过犯【六级】"},
+    "abound": {"ipa": "/əˈbaʊnd/", "def": "v. 显多，充盈【六级】"},
+    "propitiation": {"ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭【GRE】"},
+    "aforetime": {"ipa": "/əˈfɔːtaɪm/", "def": "adv.【古】先前（sins done aforetime：先时所犯的罪）"},
+    "inviolable": {"ipa": "/ɪnˈvaɪələbl/", "def": "adj. 不可侵犯的【GRE】"},
+    "remitting": {"ipa": "/rɪˈmɪtɪŋ/", "def": "v. 免去（刑罚）（remit）【GRE】"},
+    "antagonism": {"ipa": "/ænˈtæɡənɪzəm/", "def": "n. 对立【GRE】"},
+    "vindicate": {"ipa": "/ˈvɪndɪkeɪt/", "def": "v. 辩明，证实【GRE】"},
+    "operative": {"ipa": "/ˈɒpərətɪv/", "def": "adj. 运作着的，有效的【六级】"},
+    "renunciation": {"ipa": "/rɪˌnʌnsiˈeɪʃn/", "def": "n. 弃绝【GRE】"},
+    "homage": {"ipa": "/ˈhɒmɪdʒ/", "def": "n. 致敬【GRE】"},
+    "exultant": {"ipa": "/ɪɡˈzʌltənt/", "def": "adj. 欢跃的【GRE】"},
+    "bidden": {"ipa": "/ˈbɪdn/", "def": "v. bid（吩咐）的过去分词：奉命"},
+    "tarry": {"ipa": "/ˈtæri/", "def": "v.【古】迟延，耽搁【GRE】"},
+    "subliming": {"ipa": "/səˈblaɪmɪŋ/", "def": "adj. 使人升华的（sublime 作动词）"},
+    "probation": {"ipa": "/prəˈbeɪʃn/", "def": "n. 老练，察验（修订本译 patience→probation）【六级】"},
+    "unspeakable": {"ipa": "/ʌnˈspiːkəbl/", "def": "adj. 说不出来的【六级】"},
+    "exemplars": {"ipa": "/ɪɡˈzemplɑːz/", "def": "n. 典范（exemplar）【GRE】"},
+    "signal": {"ipa": "/ˈsɪɡnəl/", "def": "adj.【此处义】卓著的，显著的【四级】"},
+    "endurances": {"ipa": "/ɪnˈdjʊərənsɪz/", "def": "n. 忍耐（endurance）【六级】"},
+    "translation": {"ipa": "/trænzˈleɪʃn/", "def": "n.【神学义】接升（以诺不见死被接去）【四级】"},
+    "sojourner": {"ipa": "/ˈsɒdʒənə/", "def": "n. 寄居者，作客的【GRE】"},
+    "whither": {"ipa": "/ˈwɪðə/", "def": "adv.【古】往何处"},
+    "replete": {"ipa": "/rɪˈpliːt/", "def": "adj. 满载的（replete with）【GRE】"},
+    "impotence": {"ipa": "/ˈɪmpətəns/", "def": "n. 无能为力【GRE】"},
+    "exhaustively": {"ipa": "/ɪɡˈzɔːstɪvli/", "def": "adv. 穷尽地【六级】"}
+  },
+  "vocab_table": [
+    {"word": "forensic", "ipa": "/fəˈrensɪk/", "def": "adj. 法庭的（称义是法庭用语）【GRE】"},
+    {"word": "amnesty", "ipa": "/ˈæmnəsti/", "def": "n. 特赦【GRE】"},
+    {"word": "inexorable", "ipa": "/ɪnˈeksərəbl/", "def": "adj. 不容通融的（语言的事实不容通融）【GRE】"},
+    {"word": "inviolable", "ipa": "/ɪnˈvaɪələbl/", "def": "adj. 不可侵犯的【GRE】"},
+    {"word": "vindicate", "ipa": "/ˈvɪndɪkeɪt/", "def": "v. 辩明，证实【GRE】"},
+    {"word": "antagonism", "ipa": "/ænˈtæɡənɪzəm/", "def": "n. 对立【GRE】"},
+    {"word": "exemplar", "ipa": "/ɪɡˈzemplɑː/", "def": "n. 典范（来 11 章的信心典范）【GRE】"},
+    {"word": "defilement", "ipa": "/dɪˈfaɪlmənt/", "def": "n. 污秽（称义除罪咎，成圣除污秽）【GRE】"},
+    {"word": "sine qua non", "ipa": "/ˌsaɪni kweɪ ˈnɒn/", "def": "【拉丁】不可或缺的条件"},
+    {"word": "replete", "ipa": "/rɪˈpliːt/", "def": "adj. 满载的【GRE】"}
+  ]
+}

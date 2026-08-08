@@ -206,10 +206,48 @@ INDEX_TMPL = """<!DOCTYPE html>
 <p>📖 J. Glentworth Butler, <em>Topical Analysis of the Bible</em>, 1897（公有领域）。按字母顺序的主题词条，每词条一个页面。</p>
 <p>全书约 300 个词条，本目录随翻译进度更新。</p>
 </div>
+<div id="toc-search">
+<input type="search" id="toc-q" placeholder="搜索词条：中文 / English / 编号 / 页码…" autocomplete="off" aria-label="搜索词条">
+<button type="button" id="toc-clear" title="清除">✕</button>
+<div id="toc-count"></div>
+</div>
 <ul class="toc">
 {items}
 </ul>
+<p id="toc-empty" hidden>没有匹配的词条。换个关键词试试（可搜中文、英文、编号或原书页码）。</p>
 </main>
+<script>
+(function () {{
+  var q = document.getElementById('toc-q');
+  var clear = document.getElementById('toc-clear');
+  var count = document.getElementById('toc-count');
+  var empty = document.getElementById('toc-empty');
+  var rows = [].slice.call(document.querySelectorAll('ul.toc > li'));
+  rows.forEach(function (li) {{ li.dataset.s = li.textContent.toLowerCase(); }});
+  var total = rows.length;
+
+  function run() {{
+    var terms = q.value.toLowerCase().split(/\\s+/).filter(Boolean);
+    var n = 0;
+    rows.forEach(function (li) {{
+      var hit = terms.every(function (t) {{ return li.dataset.s.indexOf(t) !== -1; }});
+      li.hidden = !hit;
+      if (hit) n++;
+    }});
+    clear.hidden = !q.value;
+    empty.hidden = n !== 0;
+    count.textContent = terms.length ? (n + ' / ' + total + ' 个词条') : (total + ' 个词条');
+  }}
+
+  q.addEventListener('input', run);
+  clear.addEventListener('click', function () {{ q.value = ''; run(); q.focus(); }});
+  document.addEventListener('keydown', function (e) {{
+    if (e.key === '/' && document.activeElement !== q) {{ e.preventDefault(); q.focus(); }}
+    if (e.key === 'Escape' && document.activeElement === q) {{ q.value = ''; run(); }}
+  }});
+  run();
+}})();
+</script>
 <script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');</script>
 </body>
 </html>

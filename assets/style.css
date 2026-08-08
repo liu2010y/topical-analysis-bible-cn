@@ -319,7 +319,54 @@ table.vocab th { background: var(--accent-soft); color: #245633; }
 table.vocab td.ipa { font-family: Georgia, serif; white-space: nowrap; color: #4a6b52; }
 
 /* ---------- 目录页 ---------- */
+#toc-search {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 18px 0 6px;
+  padding: 10px 0;
+  background: var(--bg);
+}
+#toc-search input[type="search"] {
+  flex: 1 1 260px;
+  min-width: 0;
+  font: inherit;
+  font-size: 16px;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 10px 14px;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+#toc-search input[type="search"]::-webkit-search-cancel-button { display: none; }
+#toc-search input[type="search"]:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+#toc-search input[type="search"]::placeholder { color: #8aa08f; }
+#toc-clear {
+  font: inherit;
+  line-height: 1;
+  color: #4a6b52;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 9px 12px;
+  cursor: pointer;
+}
+#toc-clear:hover { background: var(--accent-soft); }
+#toc-clear[hidden] { display: none; }
+#toc-count { font-size: 13px; color: #6b806f; white-space: nowrap; }
+#toc-empty { color: #6b806f; padding: 18px 4px; }
 ul.toc { list-style: none; padding: 0; }
+ul.toc li[hidden] { display: none; }
 ul.toc li {
   background: var(--card);
   border: 1px solid var(--card-border);

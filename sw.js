@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-886770724f';
+const CACHE = 'topical-cn-eb12eeb686';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -194,7 +194,12 @@ const ASSETS = [
   "./157-Truth-Truthfulness-%E7%9C%9F%E5%AE%9E.html",
   "./158-Unbelief-%E4%B8%8D%E4%BF%A1.html",
   "./159-Waiting-on-God-%E7%AD%89%E5%80%99%E7%A5%9E.html",
-  "./160-Watchfulness-%E8%AD%A6%E9%86%92.html"
+  "./160-Watchfulness-%E8%AD%A6%E9%86%92.html",
+  "./161-Wicked-%E6%81%B6%E4%BA%BA.html",
+  "./162-Will-of-God-%E7%A5%9E%E7%9A%84%E6%97%A8%E6%84%8F.html",
+  "./163-Wisdom-%E6%99%BA%E6%85%A7.html",
+  "./164-Woes-The-Cursed-%E7%A5%B8%E5%93%89%E4%B8%8E%E5%92%92%E8%AF%85.html",
+  "./165-World-Worldliness-%E4%B8%96%E7%95%8C%E4%B8%8E%E5%B1%9E%E4%B8%96.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

@@ -164,6 +164,11 @@
 | 108 | Mercy（怜悯） | p. 313–314 | ✅（pardon 与 forgiveness 之辨） |
 | 109 | Messianic References（弥赛亚预言） | p. 314 | ✅（交叉索引式短词条） |
 | 110 | Miracle（神迹） | p. 315–316 | ✅（旧约神迹清单＋Orr 论超自然） |
-| 111– | Missions（宣教）起 | p. 316– | ⏳（10 页大词条） |
+| 111 | Missions（宣教） | p. 316–325 | ✅（10 页大词条：Lawrence 三自原则、Venn"差会的善终"、Behrends 六论） |
+| 112 | Morality（道德） | p. 326–328 | ✅（道德须扎根于敬虔；selfial/selfish 之辨） |
+| 113 | Mystery（奥秘） | p. 328–329 | ✅（mysterion＝向入门者揭晓之事） |
+| 114 | Names of God（神的名） | p. 329–332 | ✅（Elohim/Jehovah 诸名＋Green 驳底本说） |
+| 115 | Nation（国家） | p. 332–334 | ✅（耶 18 章兴亡律＋列国互为鞭责） |
+| 116– | Nature（自然）起 | p. 335– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

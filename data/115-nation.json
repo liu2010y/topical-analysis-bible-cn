@@ -1,0 +1,103 @@
+{
+  "num": "115",
+  "title_en": "NATION",
+  "title_zh": "国家",
+  "html_name": "115-Nation-国家.html",
+  "pages": "原书 p. 332–334",
+  "sections": [
+    {
+      "heading": "神为列国的统治者 / God the Governor of Nations",
+      "blocks": [
+        {
+          "en": "NATION. National character, life, destiny. The separation of the race into nations by act of God: Gen. 10:1-32. Ps. 86:9. All nations whom Thou hast made shall come and worship before Thee. Division and dispersion in the earth through diversity of tongues: Gen. 11:1-9 (Babel). God the Governor, King, and Judge of nations: Ps. 22:28. The kingdom is the Lord's: and He is the governor among the nations. Ps. 47:8. God reigneth over the heathen. Ps. 67:4. Thou shalt judge the people righteously, and govern the nations upon earth. Jer. 10:7. Who would not fear Thee, O King of nations? Isa. 2:4. He shall judge among the nations. Neh. 9:22. Thou gavest them kingdoms and nations. God the Builder, the Controller, and the Destroyer of nations: Job 12:23. He increaseth the nations, and destroyeth them: He enlargeth the nations, and straiteneth them again. Ps. 66:7. His eyes behold the nations. Dan. 4:35. He doeth according to His will . . . among the inhabitants of the earth. Zeph. 3:6. I have cut off the nations: their towers are desolate.",
+          "zh": "国家。国族的品格、生活与命运。人类由神的作为分为列国：创世记 10:1-32（列国谱系）。诗篇 86:9 —— 主啊，你所造的万民都要来敬拜你。因语言纷杂而在地上分散：创世记 11:1-9（巴别）。神是列国的统治者、君王与审判者：诗篇 22:28 —— 因为国权是耶和华的，他是管理万国的。47:8 —— 神作王治理万国。67:4 —— 因为你必按公正审判万民，引导世上的万国。耶利米书 10:7 —— 万国的王啊，谁不敬畏你？以赛亚书 2:4 —— 他必在列国中施行审判。尼希米记 9:22 —— 你将列国之地赐给他们。神是列国的建立者、掌管者与毁灭者：约伯记 12:23 —— 他使邦国兴旺而又毁灭；他使邦国开广而又掳去。诗篇 66:7 —— 他的眼睛鉴察列邦。但以理书 4:35 —— 在……世上的居民中，他都凭自己的意旨行事。西番雅书 3:6 —— 我已经除灭列国的民，他们的城楼毁坏。",
+          "bsb": "Job 12:23",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "increaseth / destroyeth / enlargeth / straiteneth / reigneth / doeth：-eth 词尾群——列国兴亡皆系于神的六个动词。"},
+            {"id": "vocative-o", "note": "Who would not fear Thee, O King of nations?：呼格＋修辞问句。"},
+            {"note": "straiteneth：使狭窄、使受困（strait 的动词形，与 straighten 无关）。"}
+          ]
+        },
+        {
+          "en": "The principles of God's government over nations, and the law of national prosperity: Jer. 18:7-10. At what instant I shall speak concerning a nation, to pluck up and to pull down and to destroy it; if that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them. And at what instant I shall speak concerning a nation, to build and to plant it; if it do evil in My sight, that it obey not My voice, then I will repent of the good, wherewith I said I would benefit them. Jer. 12:16, 17. If they will diligently learn the ways of My people, . . . then shall they be built in the midst of My people. But if they will not obey, I will utterly pluck up and destroy that nation. 1 Sam. 12:14, 24, 25. [It is with nations as it is with individuals. A book of history is a book of sermons. See how the luxurious Babylonians were destroyed by the frugal Persians; and how these same Persians, when they learned the vices of prosperity, were put to the sword by the Greeks. Read on, and mark how the sensual Greeks were trodden down by the more robust and hardier Romans; and finally how the Romans, having lost their manly virtues, were subdued by the nations of the North. Vice and destruction came ever hand in hand. Thus did Providence use each in turn as a scourge wherewith to chastise the follies of the other. These things do not come by chance: they are part of a great system of God's moral government in Providence. A. C. D.]",
+          "zh": "神治理列国的原则，与国家兴衰之律：耶利米书 18:7-10 —— 我何时论到一邦或一国说，要拔出、拆毁、毁坏；我所说的那一邦，若是转意离开他们的恶，我就必后悔，不将我想要施行的灾祸降与他们。我何时论到一邦或一国说，要建立、栽植；他们若行我眼中看为恶的事，不听从我的话，我就必后悔，不将我所说的福气赐给他们。12:16-17 —— 他们若殷勤学习我百姓的道……他们就必建立在我百姓中间。他们若还不听从，我必拔出那国，拔出而且毁灭。撒母耳记上 12:14, 24-25。〔国之于个人，其理一也。一部历史书就是一部讲道集。且看：奢靡的巴比伦人如何被俭朴的波斯人所灭；而这同一批波斯人，一旦学会了富贵的种种恶习，又如何丧命于希腊人的刀下。再读下去，且看：耽于声色的希腊人如何被更强健更耐苦的罗马人踏在脚下；末了，罗马人失去了他们男子汉的德性，又如何被北方诸族所征服。恶行与毁灭从来是携手同行的。天意就这样轮番使用他们中的每一个，作鞭子去责打另一个的愚妄。这些事不是偶然发生的：它们是神在护理中之道德治理这一伟大体系的一部分。A. C. D.〕",
+          "bsb": "Jeremiah 18:7-10",
+          "grammar": [
+            {"id": "inversion", "note": "Thus did Providence use each in turn：thus 前置＋倒装（天意就这样轮番使用）。"},
+            {"note": "At what instant I shall speak … if that nation turn …：at what instant（我何时……）＋条件虚拟——耶 18 章『神的悔改』条款，是全书论国家兴亡的枢纽经文；scourge：鞭子（神用列国互为鞭责）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "高尚国格的要素 / Elements of High National Character",
+      "blocks": [
+        {
+          "en": "Nations saved by obedient service to God: Isa. 60:12. The nation and kingdom that will not serve Thee shall perish. Blessed when Jehovah is the acknowledged God: Ps. 33:12. Blessed is the nation whose God is the Lord. Ps. 144:15. Happy is that people, whose God is the Lord. The story of every nation referred to in the Old Testament—emphatically the detailed history of Israel—is replete with illustrative proofs of all the above points; and all subsequent history as well. Elements of high national character: righteousness (or piety) and patriotism. Prov. 14:34. Righteousness exalteth a nation: but sin is a reproach to any people. Ps. 20:5, 7. In the name of our God we will set up our banners. Isa. 26:2. Open ye the gates, that the righteous nation which keepeth the truth may enter in. [A thoroughly upright nation—one which is considerate of all its members, whose institutions help to build up every component part of the nation—is a strong nation, not easily overcome. When has any nation, among whose members righteous social relations have been maintained, ever perished? Destruction to a nation from without indicates division and disintegration, from one cause or another, within the nation. Even small countries like Holland, Belgium, and Switzerland are safe, so long as they are relatively upright and God-fearing. R. T. Ely.]",
+          "zh": "列国因顺服事奉神而得存：以赛亚书 60:12 —— 哪一邦哪一国不事奉你，就必灭亡。以耶和华为神的国便为有福：诗篇 33:12 —— 以耶和华为神的，那国是有福的。144:15 —— 有耶和华为他们神的，那民是有福的。旧约提及的每一个国家的故事——尤其是以色列详尽的历史——都满是印证上述各点的例证；此后的全部历史亦然。高尚国格的要素：公义（或说敬虔）与爱国心。箴言 14:34 —— 公义使邦国高举，罪恶是人民的羞辱。诗篇 20:5, 7 —— 要奉我们神的名竖立旌旗。以赛亚书 26:2 —— 敞开城门，使守信的义民得以进入。〔一个彻底正直的国家——一个体恤自己一切成员的国家，其制度有助于建立这国家的每一个组成部分——是强大的国家，不易被人推倒。试问：哪一个在其成员之间维持着公义社会关系的国家，曾经灭亡过？一个国家来自外部的毁灭，恰恰表明这国家内部因某种缘由已有分裂与解体。即便像荷兰、比利时、瑞士这样的小国，只要相对正直、敬畏神，也是安全的。伊利（R. T. Ely，威斯康星经济学家）〕",
+          "bsb": "Proverbs 14:34",
+          "grammar": [
+            {"id": "inversion", "note": "Blessed is the nation whose God is the Lord / Righteousness exalteth a nation：表语前置倒装与主谓正序的对照。"},
+            {"id": "prep-relative", "note": "a nation, among whose members righteous social relations have been maintained：among whose 的长属格关系从句——伊利的反问句核心。"}
+          ]
+        },
+        {
+          "en": "National character and life are a reflex of family character and life. As the nation is the aggregate of its households, so family character and life determine the national destiny: if piety and patriotism prevail in the homes, then the nation is prospered and blessed of God. \"We can purify public life no faster than we purify private life in the home. The advance of a nation comes only through the improvement of its homes: as the aggregate of these may be, so will the nation be.\" [What we look for, work for, pray for, as believers, is a nation where class shall be bound to class by the fullest participation of the one life; where the members of each group of workers shall find in their work the development of their character and the consecration of their powers; where each citizen shall know—and be strengthened by the knowledge—that he labors not for himself only, nor for his family, nor for his country, but for God. Bp. Westcott. — The Gospel moulds the national life; and it proclaims the fraternity of nations, who in amicable conference are to settle their differences and disputes, instead of flying to arms upon the slightest provocation. Behrends.] For Israel's great and vital national connections, see Israel.",
+          "zh": "国族的品格与生活，是家庭品格与生活的映照。国既是其各个家庭的总和，家庭的品格与生活便决定了国族的命运：若敬虔与爱国之心在各家中作主，这国就蒙神赐福亨通。『我们洁净公共生活的速度，不可能快过我们洁净家中私生活的速度。一国的进步只能借着它各家的改善而来：各家的总和是什么样，这国就是什么样。』〔我们作为信徒所盼望、所致力、所祈求的，是这样一个国家：在其中，阶层与阶层因最充分地共享同一生命而彼此系连；在其中，每一群劳动者的成员都能在自己的工作中，找到品格的成长与才能的奉献；在其中，每一个公民都知道——并因这知道而刚强——自己劳作不仅是为自己、不仅是为家庭、也不仅是为国家，而是为神。韦斯科特主教（Bp. Westcott）——福音塑造国族的生活；它并且宣告列国之间的兄弟情谊：各国应在和睦的会商中解决彼此的分歧与争端，而不是稍有挑衅就诉诸刀兵。贝伦兹（Behrends）〕以色列重大而攸关的国际关系，参主题词条：以色列（090）。",
+          "bsb": "Psalm 33:12",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As the nation is the aggregate of its households, so family character … determine the national destiny / as the aggregate of these may be, so will the nation be：as … so … 相关句两连（国＝家之总和）。"},
+            {"note": "a nation where … ; where … ; where …：三个 where 关系从句排比出理想国的三重特征——韦斯科特的社会理想；fraternity of nations：列国的兄弟情谊（十九世纪末国际和平运动语汇）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "destiny": {"ipa": "/ˈdestəni/", "def": "n. 命运【四级】"},
+    "dispersion": {"ipa": "/dɪˈspɜːʃn/", "def": "n. 分散【六级】"},
+    "diversity": {"ipa": "/daɪˈvɜːsəti/", "def": "n. 纷杂，多样【六级】"},
+    "governor": {"ipa": "/ˈɡʌvənə/", "def": "n. 统治者【四级】"},
+    "reigneth": {"ipa": "/ˈreɪnəθ/", "def": "= reigns（-eth 古词尾）：作王"},
+    "increaseth": {"ipa": "/ɪnˈkriːsəθ/", "def": "= increases（-eth 古词尾）：使兴旺"},
+    "destroyeth": {"ipa": "/dɪˈstrɔɪəθ/", "def": "= destroys（-eth 古词尾）：毁灭"},
+    "enlargeth": {"ipa": "/ɪnˈlɑːdʒəθ/", "def": "= enlarges（-eth 古词尾）：使开广"},
+    "straiteneth": {"ipa": "/ˈstreɪtənəθ/", "def": "= straitens（-eth 古词尾）：使狭窄、使受困"},
+    "desolate": {"ipa": "/ˈdesələt/", "def": "adj. 荒凉的【GRE】"},
+    "prosperity": {"ipa": "/prɒˈsperəti/", "def": "n. 兴盛【四级】"},
+    "luxurious": {"ipa": "/lʌɡˈʒʊəriəs/", "def": "adj. 奢靡的【四级】"},
+    "frugal": {"ipa": "/ˈfruːɡl/", "def": "adj. 俭朴的【GRE】"},
+    "vices": {"ipa": "/ˈvaɪsɪz/", "def": "n. 恶习（vice）【六级】"},
+    "sensual": {"ipa": "/ˈsenʃuəl/", "def": "adj. 耽于声色的【GRE】"},
+    "trodden": {"ipa": "/ˈtrɒdn/", "def": "v. tread（踩踏）的过去分词：被踏在脚下"},
+    "robust": {"ipa": "/rəʊˈbʌst/", "def": "adj. 强健的【六级】"},
+    "hardier": {"ipa": "/ˈhɑːdiə/", "def": "adj. 更耐苦的（hardy）【六级】"},
+    "subdued": {"ipa": "/səbˈdjuːd/", "def": "v. 征服（subdue）【六级】"},
+    "scourge": {"ipa": "/skɜːdʒ/", "def": "n. 鞭子；祸患【GRE】"},
+    "chastise": {"ipa": "/tʃæˈstaɪz/", "def": "v. 责打，管教【GRE】"},
+    "follies": {"ipa": "/ˈfɒliz/", "def": "n. 愚妄（folly）【六级】"},
+    "patriotism": {"ipa": "/ˈpætriətɪzəm/", "def": "n. 爱国心【六级】"},
+    "exalteth": {"ipa": "/ɪɡˈzɔːltəθ/", "def": "= exalts（-eth 古词尾）：使高举"},
+    "reproach": {"ipa": "/rɪˈprəʊtʃ/", "def": "n. 羞辱【GRE】"},
+    "banners": {"ipa": "/ˈbænəz/", "def": "n. 旌旗（banner）【四级】"},
+    "considerate": {"ipa": "/kənˈsɪdərət/", "def": "adj. 体恤的【六级】"},
+    "component": {"ipa": "/kəmˈpəʊnənt/", "def": "adj. 组成的【四级】"},
+    "disintegration": {"ipa": "/dɪsˌɪntɪˈɡreɪʃn/", "def": "n. 解体【六级】"},
+    "reflex": {"ipa": "/ˈriːfleks/", "def": "n. 映照，反映【六级】"},
+    "aggregate": {"ipa": "/ˈæɡrɪɡət/", "def": "n. 总和【六级】"},
+    "consecration": {"ipa": "/ˌkɒnsɪˈkreɪʃn/", "def": "n. 奉献【GRE】"},
+    "moulds": {"ipa": "/məʊldz/", "def": "v. 塑造（mould = mold）【六级】"},
+    "fraternity": {"ipa": "/frəˈtɜːnəti/", "def": "n. 兄弟情谊【GRE】"},
+    "amicable": {"ipa": "/ˈæmɪkəbl/", "def": "adj. 和睦的【GRE】"},
+    "provocation": {"ipa": "/ˌprɒvəˈkeɪʃn/", "def": "n. 挑衅【六级】"}
+  },
+  "vocab_table": [
+    {"word": "scourge", "ipa": "/skɜːdʒ/", "def": "n. 鞭子（天意用列国互为鞭责）【GRE】"},
+    {"word": "frugal", "ipa": "/ˈfruːɡl/", "def": "adj. 俭朴的（俭朴的波斯人灭奢靡的巴比伦）【GRE】"},
+    {"word": "chastise", "ipa": "/tʃæˈstaɪz/", "def": "v. 责打，管教【GRE】"},
+    {"word": "reproach", "ipa": "/rɪˈprəʊtʃ/", "def": "n. 羞辱（罪恶是人民的羞辱）【GRE】"},
+    {"word": "fraternity", "ipa": "/frəˈtɜːnəti/", "def": "n. 兄弟情谊（列国的兄弟情谊）【GRE】"},
+    {"word": "amicable", "ipa": "/ˈæmɪkəbl/", "def": "adj. 和睦的【GRE】"},
+    {"word": "aggregate", "ipa": "/ˈæɡrɪɡət/", "def": "n. 总和（国是各家的总和）"}
+  ]
+}

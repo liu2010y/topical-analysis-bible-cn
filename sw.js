@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-b15caad49a';
+const CACHE = 'topical-cn-06eaf5413c';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -139,7 +139,17 @@ const ASSETS = [
   "./102-Lifes-Periods-%E4%BA%BA%E7%94%9F%E5%90%84%E6%97%B6%E6%9C%9F.html",
   "./103-Light-and-Darkness-%E5%85%89%E4%B8%8E%E6%9A%97.html",
   "./104-Longing-after-God-%E6%B8%B4%E6%85%95%E7%A5%9E.html",
-  "./105-Lords-Day-Supper-Prayer-%E4%B8%BB%E6%97%A5%E4%B8%BB%E9%A4%90%E4%B8%BB%E7%A5%B7%E6%96%87.html"
+  "./105-Lords-Day-Supper-Prayer-%E4%B8%BB%E6%97%A5%E4%B8%BB%E9%A4%90%E4%B8%BB%E7%A5%B7%E6%96%87.html",
+  "./106-Love-%E7%88%B1.html",
+  "./107-Man-%E4%BA%BA.html",
+  "./108-Mercy-%E6%80%9C%E6%82%AF.html",
+  "./109-Messianic-References-%E5%BC%A5%E8%B5%9B%E4%BA%9A%E9%A2%84%E8%A8%80.html",
+  "./110-Miracle-%E7%A5%9E%E8%BF%B9.html",
+  "./111-Missions-%E5%AE%A3%E6%95%99.html",
+  "./112-Morality-%E9%81%93%E5%BE%B7.html",
+  "./113-Mystery-%E5%A5%A5%E7%A7%98.html",
+  "./114-Names-of-God-%E7%A5%9E%E7%9A%84%E5%90%8D.html",
+  "./115-Nation-%E5%9B%BD%E5%AE%B6.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

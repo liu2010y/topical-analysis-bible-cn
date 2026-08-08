@@ -1,0 +1,53 @@
+{
+  "num": "113",
+  "title_en": "MYSTERY, MYSTERIES",
+  "title_zh": "奥秘",
+  "html_name": "113-Mystery-奥秘.html",
+  "pages": "原书 p. 328–329",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "MYSTERY, MYSTERIES. What is known to the initiated. Matt. 13:11. It is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given. Rom. 16:25, 26. The revelation of the mystery, which hath been kept in silence through times eternal, but now is manifested, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known unto all the nations unto obedience of faith. 1 Cor. 2:7-10. We speak God's wisdom in a mystery, even the wisdom that hath been hidden, which God foreordained before the worlds unto our glory. But unto us God revealed them through the Spirit. 1 Cor. 4:1. Let a man so account of us, as of ministers of Christ, and stewards of the mysteries of God. Eph. 1:9. Having made known unto us the mystery of His will. Eph. 3:3-5. By revelation He made known unto me the mystery, . . . which in other generations was not made known unto the sons of men, as it hath now been revealed unto His holy apostles and prophets in the Spirit. Eph. 6:19. Praying on my behalf, that utterance may be given unto me, to make known with boldness the mystery of the Gospel. Col. 1:26, 27. Even the mystery which hath been hid from all ages and generations, but now hath it been manifested to His saints, to whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory. Col. 4:3. Praying for us, that God may open unto us a door for the word, to speak the mystery of Christ. 1 Tim. 3:9. Holding the mystery of the faith in a pure conscience.",
+          "zh": "奥秘。所谓奥秘，是唯有入门受教之人才知道的事。马太福音 13:11 —— 因为天国的奥秘只叫你们知道，不叫他们知道。罗马书 16:25-26 —— 这奥秘的启示乃是永古隐藏不言的，但如今显明出来，而且按着永生神的命，借众先知的书指示万国的民，使他们信服真道。哥林多前书 2:7-10 —— 我们讲的，乃是从前所隐藏、神奥秘的智慧，就是神在万世以前预定使我们得荣耀的。只有神借着圣灵向我们显明了。4:1 —— 人应当以我们为基督的执事，为神奥秘事的管家。以弗所书 1:9 —— 都是照他自己所预定的美意，叫我们知道他旨意的奥秘。3:3-5 —— 用启示使我知道福音的奥秘……这奥秘在以前的世代没有叫人知道，像如今借着圣灵启示他的圣使徒和先知一样。6:19 —— 也为我祈求，使我得着口才，能以放胆开口讲明福音的奥秘。歌罗西书 1:26-27 —— 这道理就是历世历代所隐藏的奥秘，但如今向他的圣徒显明了。神愿意叫他们知道，这奥秘在外邦人中有何等丰盛的荣耀，就是基督在你们心里成了有荣耀的盼望。4:3 —— 也要为我们祷告，求神给我们开传道的门，能以讲基督的奥秘。提摩太前书 3:9 —— 要存清洁的良心，固守真道的奥秘。",
+          "bsb": "Colossians 1:26-27",
+          "grammar": [
+            {"id": "apposition", "note": "What is known to the initiated：mystery 的希腊本义辨析——不是『不可知之事』，而是『向入门者揭晓之事』（mysterion 源自密教入门礼），这是全条的释义枢纽。"},
+            {"id": "prep-relative", "note": "the mystery … which is Christ in you, the hope of glory：关系从句点明奥秘的内容（基督在你们心里）。"}
+          ]
+        },
+        {
+          "en": "The full exposition of the mystery: 1 Tim. 3:16. Without controversy, great is the mystery of godliness: He who was manifested in the flesh, justified in the spirit, seen of angels, preached among the nations, believed on in the world, received up in glory. Ps. 25:14. The secret (or friendship) of the Lord is with them that fear Him; and He will show them His covenant. Prov. 3:32. His secret is with the upright. [God's purpose of salvation through Christ for all nations was formed before creation, but remained a mystery to mankind until Christ completed the actual work of redemption, and the good news (Gospel) was proclaimed by the apostles to men. Hence Paul, the apostle to the Gentiles, is by his preaching and epistles clearing up the mystery in the minds of the heathen world, by letting in the wonderful light of the full revelation of salvation through Christ. A. A. G.]",
+          "zh": "奥秘的完整阐明：提摩太前书 3:16 —— 大哉，敬虔的奥秘！无人不以为然，就是神（有古卷作他）在肉身显现，被圣灵称义，被天使看见，被传于外邦，被世人信服，被接在荣耀里。诗篇 25:14 —— 耶和华与敬畏他的人亲密（原文作耶和华的密事在乎敬畏他的人）；他必将自己的约指示他们。箴言 3:32 —— 惟有正直人为他所亲密（英译：他的密事与正直人同在）。〔神借基督使万民得救的旨意，早在创世以前就已定下，但在基督实际完成救赎之工、使徒把好消息（福音）向人宣扬出来以前，它对人类一直是奥秘。因此，外邦人的使徒保罗，借着他的传道与书信，把基督里救恩之完整启示的奇妙之光引进来，从而在异教世界的心思中把这奥秘澄清了。A. A. G.〕",
+          "bsb": "1 Timothy 3:16",
+          "grammar": [
+            {"id": "inversion", "note": "great is the mystery of godliness：表语前置倒装（大哉，敬虔的奥秘）。"},
+            {"note": "Without controversy：无可争辩地（钦定本『无人不以为然』）；the secret (or friendship) of the Lord：括注两解——希伯来文 sod 兼有『密议』与『亲密相交』二义。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "mystery": {"ipa": "/ˈmɪstəri/", "def": "n. 奥秘（希腊文 mysterion：向入门者揭晓之事）【四级】"},
+    "mysteries": {"ipa": "/ˈmɪstəriz/", "def": "n. 奥秘（mystery）【四级】"},
+    "initiated": {"ipa": "/ɪˈnɪʃieɪtɪd/", "def": "n./adj. 入门受教者（initiate：使入门）【GRE】"},
+    "manifested": {"ipa": "/ˈmænɪfestɪd/", "def": "v. 显明（manifest）【六级】"},
+    "foreordained": {"ipa": "/ˌfɔːrɔːˈdeɪnd/", "def": "v. 预定（fore＋ordain）"},
+    "stewards": {"ipa": "/ˈstjuːədz/", "def": "n. 管家（steward）【六级】"},
+    "utterance": {"ipa": "/ˈʌtərəns/", "def": "n. 口才【六级】"},
+    "controversy": {"ipa": "/ˈkɒntrəvɜːsi/", "def": "n. 争辩（without controversy：无可争辩地）【六级】"},
+    "godliness": {"ipa": "/ˈɡɒdlinəs/", "def": "n. 敬虔"},
+    "upright": {"ipa": "/ˈʌpraɪt/", "def": "adj./n. 正直的（人）【四级】"},
+    "gentiles": {"ipa": "/ˈdʒentaɪlz/", "def": "n. 外邦人（Gentile）【GRE】"},
+    "heathen": {"ipa": "/ˈhiːðn/", "def": "adj./n. 异教的（世界）【GRE】"},
+    "epistles": {"ipa": "/ɪˈpɪslz/", "def": "n. 书信（epistle）【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "mystery", "ipa": "/ˈmɪstəri/", "def": "n. 奥秘（mysterion：向入门者揭晓之事，非『不可知』）"},
+    {"word": "initiated", "ipa": "/ɪˈnɪʃieɪtɪd/", "def": "n. 入门受教者【GRE】"},
+    {"word": "steward", "ipa": "/ˈstjuːəd/", "def": "n. 管家（神奥秘事的管家）"},
+    {"word": "without controversy", "ipa": "/wɪˈðaʊt ˈkɒntrəvɜːsi/", "def": "无可争辩地（大哉，敬虔的奥秘）"}
+  ]
+}

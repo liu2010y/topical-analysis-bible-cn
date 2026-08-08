@@ -1,0 +1,93 @@
+{
+  "num": "097",
+  "title_en": "LABOR, WORK",
+  "title_zh": "劳动",
+  "html_name": "097-Labor-劳动.html",
+  "pages": "原书 p. 263–265",
+  "sections": [
+    {
+      "heading": "劳动的原始律法与诸经文 / The Primal Law; References",
+      "blocks": [
+        {
+          "en": "LABOR, WORK—with hand or brain, for this world's needs or good. The primal law, in Eden: Gen. 2:15. The Lord God took the man, and put him into the garden of Eden to dress it and to keep it. After the Fall: Gen. 3:19. In the sweat of thy face shalt thou eat bread. Embodied in the Moral Law: Ex. 20:9. Six days shalt thou labor, and do all thy work. Other references: Prov. 13:11. He that gathereth by labor shall increase. Prov. 14:23. In all labor there is profit. Prov. 10:4. The hand of the diligent maketh rich. Eccles. 5:12. The sleep of a laboring man is sweet. Eccles. 9:10. There is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest. Prov. 19:15. An idle soul shall suffer hunger. Prov. 21:5. The thoughts of the diligent tend only to plenteousness. Prov. 22:29. A man diligent in his business shall stand before kings. Prov. 28:19. He that tilleth his land shall have plenty of bread. Ps. 90:17. Establish Thou the work of our hands upon us. Ps. 104:23. Man goeth forth unto his work and to his labor until the evening. Ps. 127:1. Except the Lord build the house, they labor in vain that build it. Ps. 128:2. Thou shalt eat the labor of thine hands.",
+          "zh": "劳动，作工——无论用手或用脑，为今世的需用或益处。伊甸园中的原始律法：创世记 2:15 —— 耶和华神将那人安置在伊甸园，使他修理看守。堕落之后：创世记 3:19 —— 你必汗流满面才得糊口。写进道德律：出埃及记 20:9 —— 六日要劳碌做你一切的工。其他经文：箴言 13:11 —— 勤劳积蓄的（英译：靠劳力积攒的）必见加增。14:23 —— 诸般勤劳都有益处。10:4 —— 手勤的，却要富足。传道书 5:12 —— 劳碌的人不拘吃多吃少，睡得香甜。9:10 —— 因为在你所必去的阴间，没有工作，没有谋算，没有知识，也没有智慧。箴言 19:15 —— 懒惰的人必受饥饿。21:5 —— 殷勤筹划的，足致丰裕。22:29 —— 你看见办事殷勤的人吗？他必站在君王面前。28:19 —— 耕种自己田地的，必得饱食。诗篇 90:17 —— 愿你坚立我们手所做的工。104:23 —— 人出去做工，劳碌直到晚上。127:1 —— 若不是耶和华建造房屋，建造的人就枉然劳力。128:2 —— 你要吃劳碌得来的。",
+          "bsb": "Genesis 2:15",
+          "grammar": [
+            {"id": "inversion", "note": "In the sweat of thy face shalt thou eat bread / Six days shalt thou labor：介词短语与时间状语前置＋倒装——创世记与十诫的律令句式。"},
+            {"id": "him-that-relative", "note": "He that gathereth by labor / He that tilleth his land：靠劳力积攒的／耕种自己田地的。"},
+            {"note": "whither thou goest：whither 古义『往何处』（你所必去的地方）。"}
+          ]
+        },
+        {
+          "en": "Mark 13:34. To every man his work. Rom. 12:11. In diligence not slothful. 1 Cor. 4:12. Laboring, working with our own hands. 1 Cor. 10:31. Whatsoever ye do, do all to the glory of God. Eph. 4:28. Rather let him labor, working with his hands the thing that is good, that he may have whereof to give to him that hath need. Col. 3:23, 24. Whatsoever ye do, work heartily, as unto the Lord, and not unto men; . . . for ye serve the Lord Christ. 1 Thes. 4:11, 12. Work with your own hands, . . . that ye may walk honestly toward them that are without, and may have need of nothing. Matt. 10:10. The workman is worthy of his food. 2 Thes. 3:10. If any will not work, neither let him eat. As hinted in the above passages, idleness and slothfulness are under the ban of God's Word throughout. (\"The higher the culture, the more honorable labor becomes.\") See Diligence.",
+          "zh": "马可福音 13:34 —— 又派定各人当做的工。罗马书 12:11 —— 殷勤不可懒惰。哥林多前书 4:12 —— 并且劳苦，亲手做工。10:31 —— 你们或吃或喝，无论做什么，都要为荣耀神而行。以弗所书 4:28 —— 总要劳力，亲手做正经事，就可有余分给那缺少的人。歌罗西书 3:23-24 —— 无论做什么，都要从心里做，像是给主做的，不是给人做的……因你们所事奉的乃是主基督。帖撒罗尼迦前书 4:11-12 —— 亲手做工……叫你们可以向外人行事端正，自己也就没有什么缺乏了。马太福音 10:10 —— 因为工人得饮食是应当的。帖撒罗尼迦后书 3:10 —— 若有人不肯做工，就不可吃饭。如上列经文所示，游手好闲与怠惰在神的话中通篇都受禁责。（『文化程度愈高，劳动就愈显尊贵。』）参主题词条：殷勤（058）。",
+          "bsb": "Colossians 3:23-24",
+          "grammar": [
+            {"id": "compound-relatives", "note": "Whatsoever ye do：无论做什么——保罗把一切日常劳作纳入敬拜的钥句。"},
+            {"id": "let-imperative", "note": "let him labor / neither let him eat：let 祈使两连（总要劳力／就不可吃饭）。"},
+            {"note": "whereof to give：whereof =【古】wherewith（可以分给的东西）；them that are without：古语『外人』（教外之人）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "劳动的律法与赏赐（佚名论） / The Law and the Rewards of Labor",
+      "blocks": [
+        {
+          "en": "[\"My Father worketh hitherto, and I work.\" We cannot think of an idle God; and man, made in His image, should obey the law which marks the perfection of his Maker's being. In health, every one of us ought to be a laborer. \"If any man work not, neither shall he eat.\" We may not break the law without paying the penalty: the choicest viands cannot force an appetite upon an idler. Whatever the kind or degree, labor is appointed to all; the shirk must suffer the sentence of nature's broken law. Accumulated wealth may enable one to go through certain motions of life without labor; it will never save a lazy man from the punishment his idleness will surely bring. He who buckles down to systematic labor finds his task becoming lighter; the coward who runs from toil wearies in his flight, and his task grows heavier.",
+          "zh": "〔『我父做事直到如今，我也做事。』我们无法设想一位闲坐的神；而人既照他的形象受造，就当顺服那标志着造他者存有之完全的律法。身体康健的人，人人都当是劳动者。『若有人不肯做工，就不可吃饭。』我们破坏这律法而不受罚是不可能的：最精美的佳肴也逼不出一个懒人的食欲。无论种类高低、程度深浅，劳动是给所有人派定的；躲工的人必要领受违背自然律法的判决。积攒的财富或许能让一个人不劳动也走完人生的某些程序；但它决救不了懒人免受其懒惰必然招来的惩罚。凡俯身投入有规律劳动的人，会发现担子越来越轻；那从劳苦中逃跑的懦夫，逃着逃着就乏了，担子反而越来越重。",
+          "bsb": "John 5:17",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "worketh：我父做事直到如今（约 5:17，本节论劳动神学的根基）。"},
+            {"id": "him-that-relative", "note": "He who buckles down … / the coward who runs from toil：投入劳动的／逃避劳苦的——对偶的两种人。"},
+            {"note": "hitherto：古副词『直到如今』；viands：书面语『佳肴』；buckle down to：俯身投入。"}
+          ]
+        },
+        {
+          "en": "The classification into brain-worker and manual laborer is useful, but not accurate: every manual laborer is a brain-worker. The porter who carries trunks, and the baggage-master's assistant who throws them, learn a skill which the president of a railway company knows nothing about—it is brain skill. The man who breaks stone on the road breaks stone not so much with his long-handled hammer as with his brains. The recognized brain-workers lose their skill if they cease to be muscle-workers: they must have some plan for feeding muscle and nerve by toil of hand—you may call it physical exercise, or work; if you live without it, you will sooner or later suffer the penalty of broken law. The rewards of labor are not all of them dependent on imperfectly developed economics. That laborer is stupid who has no reward but his wages: the stimulus of pay-day may make the whole week bright, but something else makes it brighter—the joy of honest toil. The toiler has the reward of knowing his own powers, his reserve resources; through all his life he learns new secrets of himself; he has the constant delight of conquest. There is always some conquest in labor, even in apparent failure—for failure is a pathway to success. There is but one real, eternal failure in labor: the weary, never-ending toil of the idler in his hopeless flight from honest, useful work. Anon.]",
+          "zh": "把人分为脑力劳动者与体力劳动者，这分类有用，却不准确：每一个体力劳动者都是脑力劳动者。搬箱子的脚夫、抛行李的行李员助手，学得一手铁路公司总裁一无所知的技艺——那是脑力的技艺。在路上砸石头的人，与其说是用长柄锤砸石头，不如说是用脑子砸石头。公认的脑力劳动者一旦不再做肌肉的工，就会失掉自己的本事：他们必须有个法子，用手上的劳作滋养肌肉与神经——你叫它体育锻炼也好，叫它工作也好；若没有它而活，早晚要受违背律法的惩罚。劳动的赏赐，并不全都依赖那尚未发育完全的经济学。只以工资为赏赐的劳动者是愚笨的：发薪日的刺激或许照亮整整一周，但另有一样把这一周照得更亮——诚实劳作的喜乐。劳动者有一份赏赐，就是认识自己的能力、自己的后备资源；他一生都在发现关于自己的新秘密；他常有征服的快乐。劳动里总有几分征服，哪怕在表面的失败里也有——因为失败是通往成功的路径。劳动里真正而永恒的失败只有一种：懒人在逃避诚实有益之工的无望奔逃中，那疲惫无尽的苦役。佚名〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "not so much with his long-handled hammer as with his brains：not so much A as B（与其说……不如说……）——本段的题眼；There is but one real, eternal failure：but = only（只有一种）。"},
+            {"id": "inversion", "note": "That laborer is stupid who has no reward but his wages：先行词与定语从句分置的强调语序。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "primal": {"ipa": "/ˈpraɪml/", "def": "adj. 原始的，最初的【GRE】"},
+    "dress": {"ipa": "/dres/", "def": "v.【此处古义】修理，耕作（dress the garden：修理园子）【四级】"},
+    "sweat": {"ipa": "/swet/", "def": "n. 汗【四级】"},
+    "gathereth": {"ipa": "/ˈɡæðərəθ/", "def": "= gathers（-eth 古词尾）：积攒"},
+    "tilleth": {"ipa": "/ˈtɪləθ/", "def": "= tills（-eth 古词尾）：耕种"},
+    "plenteousness": {"ipa": "/ˈplentiəsnəs/", "def": "n. 丰裕"},
+    "slothful": {"ipa": "/ˈsləʊθfl/", "def": "adj. 懒惰的【GRE】"},
+    "slothfulness": {"ipa": "/ˈsləʊθflnəs/", "def": "n. 怠惰【GRE】"},
+    "heartily": {"ipa": "/ˈhɑːtɪli/", "def": "adv. 从心里，尽心地【四级】"},
+    "hitherto": {"ipa": "/ˌhɪðəˈtuː/", "def": "adv.【书面】直到如今【GRE】"},
+    "viands": {"ipa": "/ˈvaɪəndz/", "def": "n.【书面】佳肴，食物【GRE】"},
+    "shirk": {"ipa": "/ʃɜːk/", "def": "n./v. 躲工（的人），逃避【GRE】"},
+    "buckles": {"ipa": "/ˈbʌklz/", "def": "v. 俯身投入（buckle down to）【六级】"},
+    "toil": {"ipa": "/tɔɪl/", "def": "n./v. 劳苦【六级】"},
+    "toiler": {"ipa": "/ˈtɔɪlə/", "def": "n. 劳动者"},
+    "wearies": {"ipa": "/ˈwɪəriz/", "def": "v. 疲乏（weary）【四级】"},
+    "porter": {"ipa": "/ˈpɔːtə/", "def": "n. 脚夫，搬运工【四级】"},
+    "trunks": {"ipa": "/trʌŋks/", "def": "n. 大箱子（trunk）【四级】"},
+    "stimulus": {"ipa": "/ˈstɪmjələs/", "def": "n. 刺激，激励【四级】"},
+    "wages": {"ipa": "/ˈweɪdʒɪz/", "def": "n. 工资【四级】"},
+    "conquest": {"ipa": "/ˈkɒŋkwest/", "def": "n. 征服【六级】"},
+    "idleness": {"ipa": "/ˈaɪdlnəs/", "def": "n. 懒惰，游手好闲【四级】"},
+    "idler": {"ipa": "/ˈaɪdlə/", "def": "n. 懒人"},
+    "ban": {"ipa": "/bæn/", "def": "n. 禁责，禁令（under the ban of：受……禁责）【六级】"},
+    "anon": {"ipa": "/əˈnɒn/", "def": "n. 佚名（= anonymous 的缩略）"}
+  },
+  "vocab_table": [
+    {"word": "primal", "ipa": "/ˈpraɪml/", "def": "adj. 原始的（伊甸园的原始律法）【GRE】"},
+    {"word": "hitherto", "ipa": "/ˌhɪðəˈtuː/", "def": "adv. 直到如今【GRE】"},
+    {"word": "viands", "ipa": "/ˈvaɪəndz/", "def": "n.【书面】佳肴（佳肴逼不出懒人的食欲）【GRE】"},
+    {"word": "shirk", "ipa": "/ʃɜːk/", "def": "v./n. 躲工，逃避【GRE】"},
+    {"word": "toil", "ipa": "/tɔɪl/", "def": "n./v. 劳苦（诚实劳作的喜乐）"},
+    {"word": "conquest", "ipa": "/ˈkɒŋkwest/", "def": "n. 征服（劳动里总有几分征服）"}
+  ]
+}

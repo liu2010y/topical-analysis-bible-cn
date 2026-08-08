@@ -1,0 +1,36 @@
+{
+  "num": "096",
+  "title_en": "KINGDOMS OF ISRAELITISH HISTORY",
+  "title_zh": "以色列历史中的诸国",
+  "html_name": "096-Kingdoms-Israelitish-以色列诸国.html",
+  "pages": "原书 p. 263",
+  "ocr_note": "本词条为原书的索引式短词条：仅列纲目与《The Bible Work》卷页号，正文无经文；中文括注为译者依所指史事补出。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "KINGDOMS OF ISRAELITISH HISTORY. 1. The Kingdom of the Twelve Tribes: Saul; David; Solomon; the division of Solomon's kingdom. 2. The Kingdom of Israel (the Northern, ten tribes): its history; the Captivity of Israel; the ten tribes not lost. 3. The Kingdom of Judah: its history; the Captivity of Judah; the after-history of the Remnant. See Captivity; Israel.",
+          "zh": "以色列历史中的诸国。1. 十二支派合一的王国：扫罗；大卫；所罗门；所罗门王国的分裂（主前 931 年，因罗波安拒纳民情而南北分家）。2. 以色列国（北国，十支派）：其历史；以色列的被掳（主前 722 年亡于亚述）；十支派并未失落（作者驳『失落的十支派』说）。3. 犹大国（南国）：其历史；犹大的被掳（主前 586 年亡于巴比伦）；余民的后续历史（归回与重建）。参主题词条：被掳（026）；以色列（090）。",
+          "bsb": "1 Kings 12:19",
+          "grammar": [
+            {"id": "headline-style", "note": "三段编号的纲目式词条——统一王国／北国／南国的三分法，是十九世纪圣经历史教科书的标准框架；Israelitish：Israel 的形容词形（今多作 Israelite/Israelitic）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "kingdoms": {"ipa": "/ˈkɪŋdəmz/", "def": "n. 王国（kingdom）【四级】"},
+    "israelitish": {"ipa": "/ˈɪzriəlaɪtɪʃ/", "def": "adj.【古】以色列的（= Israelite）"},
+    "tribes": {"ipa": "/traɪbz/", "def": "n. 支派，部族（tribe）【六级】"},
+    "captivity": {"ipa": "/kæpˈtɪvəti/", "def": "n. 被掳，囚掳【六级】"},
+    "remnant": {"ipa": "/ˈremnənt/", "def": "n. 余民，残余【GRE】"},
+    "division": {"ipa": "/dɪˈvɪʒn/", "def": "n. 分裂【四级】"}
+  },
+  "vocab_table": [
+    {"word": "captivity", "ipa": "/kæpˈtɪvəti/", "def": "n. 被掳（两国先后被掳）"},
+    {"word": "remnant", "ipa": "/ˈremnənt/", "def": "n. 余民【GRE】"},
+    {"word": "Israelitish", "ipa": "/ˈɪzriəlaɪtɪʃ/", "def": "adj.【古】以色列的"}
+  ]
+}

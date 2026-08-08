@@ -149,6 +149,11 @@
 | 093 | Judgment of God（神的审判） | p. 248–249 | ✅ |
 | 094 | Justification（称义） | p. 249–256 | ✅（法庭用语辨析／恩典根据／信心条件／行为凭据） |
 | 095 | Kingdom of God（神的国） | p. 256–263 | ✅（含 Orr、Van Dyke、Liddon 三家长论） |
-| 096– | Kingdoms of Israelitish History（以色列诸国）起 | p. 263– | ⏳ |
+| 096 | Kingdoms of Israelitish History（以色列诸国） | p. 263 | ✅（索引式短词条） |
+| 097 | Labor, Work（劳动） | p. 263–265 | ✅（含佚名长论"劳动的律法与赏赐"） |
+| 098 | Law of God（神的律法） | p. 266–276 | ✅（编者亲撰 10 页系统论述，九分节） |
+| 099 | Laws of Sinai（西奈诸律法） | p. 276–279 | ✅（道德律/礼仪律/民事律三分） |
+| 100 | Liberty, Christian（基督徒的自由） | p. 280–281 | ✅（权宜原则的双重应用） |
+| 101– | Life, as Mortal（人生的短暂）起 | p. 281– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

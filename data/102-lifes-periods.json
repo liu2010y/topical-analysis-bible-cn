@@ -1,0 +1,55 @@
+{
+  "num": "102",
+  "title_en": "LIFE'S PERIODS",
+  "title_zh": "人生的各时期",
+  "html_name": "102-Lifes-Periods-人生各时期.html",
+  "pages": "原书 p. 282–283",
+  "sections": [
+    {
+      "heading": "婴孩、少年、老年 / Infancy; Youth; Old Age",
+      "blocks": [
+        {
+          "en": "LIFE'S PERIODS: Infancy and childhood; youth, or early manhood; old age. Infancy blessed by Christ: Mark 10:14-16. Suffer the little children to come unto Me . . . And He took them up in His arms, put His hands upon them, and blessed them. The childlike spirit commended: Matt. 18:2-5. Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Youth: Prov. 20:29. The glory of young men is their strength. 1 John 2:13, 14. I have written unto you, young men, because ye are strong, and the word of God abideth in you. Eccles. 11:9. Rejoice, O young man, in thy youth . . . but know thou, that for all these things God will bring thee into judgment. Eccles. 12:1. Remember now thy Creator in the days of thy youth. Prov. 1:4. To give . . . to the young man knowledge and discretion. Ps. 119:9. Wherewithal shall a young man cleanse his way? By taking heed thereto according to Thy word. Lam. 3:27. It is good for a man that he bear the yoke in his youth. Titus 2:6. Young men likewise exhort to be sober-minded.",
+          "zh": "人生的各时期：婴孩与童年；少年，即成年之初；老年。婴孩蒙基督祝福：马可福音 10:14-16 —— 让小孩子到我这里来……于是抱着小孩子，给他们按手，为他们祝福。孩童般的心受称许：马太福音 18:2-5 —— 你们若不回转，变成小孩子的样式，断不得进天国。少年：箴言 20:29 —— 强壮乃少年人的荣耀。约翰一书 2:13-14 —— 少年人哪，我曾写信给你们，因为你们刚强，神的道常存在你们心里。传道书 11:9 —— 少年人哪，你在幼年时当快乐……却要知道，为这一切的事，神必审问你。12:1 —— 你趁着年幼、衰败的日子尚未来到……当记念造你的主。箴言 1:4 —— 使少年人有知识和谋略。诗篇 119:9 —— 少年人用什么洁净他的行为呢？是要遵行你的话。耶利米哀歌 3:27 —— 人在幼年负轭，这原是好的。提多书 2:6 —— 又劝少年人要谨守。",
+          "bsb": "Ecclesiastes 12:1",
+          "grammar": [
+            {"id": "vocative-o", "note": "Rejoice, O young man, in thy youth：呼格＋祈使——传道书对少年的双面劝勉（当快乐，也当受审）。"},
+            {"note": "Suffer the little children to come：suffer 古义『容让』；Wherewithal：古疑问副词『用什么』（= with what）；Except ye be converted：except＋虚拟 be。"}
+          ]
+        },
+        {
+          "en": "Old Age: Prov. 16:31. The hoary head is a crown of glory, if it be found in the way of righteousness. Prov. 20:29. The beauty of old men is the hoary head. Ps. 71—the Prayer of Old Age. (Cast me not off in the time of old age; forsake me not when my strength faileth.) An illustration of cheerful, unselfish age: Barzillai (2 Sam. 19:31-39). Ps. 92:14. They shall still bring forth fruit in old age; they shall be fat and flourishing. Isa. 46:4. Even to old age I am He; and even to hoar hairs will I carry you: I have made, and I will bear; yea, I will carry, and will deliver you. Other fitting promises: Isa. 41:9, 10. Thou art My servant; I have chosen thee. . . . Fear thou not, for I am with thee; . . . I will strengthen thee; yea, I will help thee. Isa. 43:2. When thou passest through the waters, I will be with thee. Ps. 48:14. He will be our guide even unto death.",
+          "zh": "老年：箴言 16:31 —— 白发是荣耀的冠冕，在公义的道上必能得着。20:29 —— 白发为老年人的尊荣。诗篇 71 篇 —— 老年人的祷告。（我年老的时候，求你不要丢弃我；我力气衰弱的时候，求你不要离弃我。）欢欣无私之老年的范例：巴西莱（撒母耳记下 19:31-39，八十岁老人送大卫过河而不受赏）。诗篇 92:14 —— 他们年老的时候仍要结果子，要满了汁浆而常发青。以赛亚书 46:4 —— 直到你们年老，我仍这样；直到你们发白，我仍怀搋。我已造作，也必保抱；我必怀抱，也必拯救。其他相称的应许：以赛亚书 41:9-10 —— 你是我的仆人，我拣选你……你不要害怕，因为我与你同在……我必坚固你，我必帮助你。43:2 —— 你从水中经过，我必与你同在。诗篇 48:14 —— 他必作我们引路的，直到死时。",
+          "bsb": "Isaiah 46:4",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "if it be found in the way of righteousness：条件句虚拟 be（在公义的道上必能得着）——白发之荣是有条件的。"},
+            {"note": "hoary head / hoar hairs：白发（hoary、hoar 均为『霜白的』古词）；I have made, and I will bear; yea, I will carry, and will deliver：四个短句递进＋yea 强调——以赛亚书 46:4 的『抱到老』名句。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "infancy": {"ipa": "/ˈɪnfənsi/", "def": "n. 婴孩期【六级】"},
+    "manhood": {"ipa": "/ˈmænhʊd/", "def": "n. 成年，男子气概【六级】"},
+    "commended": {"ipa": "/kəˈmendɪd/", "def": "v. 称许（commend）【六级】"},
+    "discretion": {"ipa": "/dɪˈskreʃn/", "def": "n. 谋略，审慎【GRE】"},
+    "wherewithal": {"ipa": "/ˌweəwɪˈðɔːl/", "def": "adv.【古】用什么（= with what）"},
+    "thereto": {"ipa": "/ˌðeəˈtuː/", "def": "adv.【古】对此（= to it）"},
+    "exhort": {"ipa": "/ɪɡˈzɔːt/", "def": "v. 劝勉【GRE】"},
+    "sober-minded": {"ipa": "/ˌsəʊbə ˈmaɪndɪd/", "def": "adj. 谨守的，清醒自制的"},
+    "hoary": {"ipa": "/ˈhɔːri/", "def": "adj. 白发的，霜白的（hoary head：白发）【GRE】"},
+    "hoar": {"ipa": "/hɔː/", "def": "adj.【古】灰白的（hoar hairs：白发）"},
+    "forsake": {"ipa": "/fəˈseɪk/", "def": "v. 离弃【GRE】"},
+    "flourishing": {"ipa": "/ˈflʌrɪʃɪŋ/", "def": "adj. 常发青的，兴旺的【四级】"},
+    "fitting": {"ipa": "/ˈfɪtɪŋ/", "def": "adj. 相称的，合宜的【四级】"},
+    "barzillai": {"ipa": "/bɑːˈzɪlaɪ/", "def": "n. 巴西莱（专名：撒下 19 章八十岁的义士）"}
+  },
+  "vocab_table": [
+    {"word": "hoary", "ipa": "/ˈhɔːri/", "def": "adj. 白发的（白发是荣耀的冠冕）【GRE】"},
+    {"word": "discretion", "ipa": "/dɪˈskreʃn/", "def": "n. 谋略，审慎【GRE】"},
+    {"word": "exhort", "ipa": "/ɪɡˈzɔːt/", "def": "v. 劝勉【GRE】"},
+    {"word": "wherewithal", "ipa": "/ˌweəwɪˈðɔːl/", "def": "adv.【古】用什么"},
+    {"word": "forsake", "ipa": "/fəˈseɪk/", "def": "v. 离弃【GRE】"}
+  ]
+}

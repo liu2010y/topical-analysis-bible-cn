@@ -154,6 +154,11 @@
 | 098 | Law of God（神的律法） | p. 266–276 | ✅（编者亲撰 10 页系统论述，九分节） |
 | 099 | Laws of Sinai（西奈诸律法） | p. 276–279 | ✅（道德律/礼仪律/民事律三分） |
 | 100 | Liberty, Christian（基督徒的自由） | p. 280–281 | ✅（权宜原则的双重应用） |
-| 101– | Life, as Mortal（人生的短暂）起 | p. 281– | ⏳ |
+| 101 | Life, as Mortal（人生的短暂） | p. 281–282 | ✅ |
+| 102 | Life's Periods（人生的各时期） | p. 282–283 | ✅（婴孩/少年/老年） |
+| 103 | Light and Darkness（光与暗） | p. 283–286 | ✅ |
+| 104 | Longing after God（渴慕神） | p. 286–288 | ✅（含 Miller"除神自己别无足够"） |
+| 105 | Lord's Day; Supper; Prayer（主日/主餐/主祷文） | p. 288–289 | ✅（含"debts vs trespasses"语文学辨析） |
+| 106– | Love（爱）起 | p. 289– | ⏳（大词条） |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

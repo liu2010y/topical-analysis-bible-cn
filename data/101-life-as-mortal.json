@@ -1,0 +1,80 @@
+{
+  "num": "101",
+  "title_en": "LIFE, AS MORTAL",
+  "title_zh": "人生的短暂",
+  "html_name": "101-Life-as-Mortal-人生的短暂.html",
+  "pages": "原书 p. 281–282",
+  "sections": [
+    {
+      "heading": "短暂与脆弱 / Brevity and Frailty",
+      "blocks": [
+        {
+          "en": "LIFE, AS MORTAL. Brevity and frailty: Gen. 47:9. Few and evil have the days of the years of my life been. 1 Chron. 29:15. Our days on the earth are as a shadow, and there is no abiding. Ps. 39:5, 6. Behold, Thou hast made my days as handbreadths; . . . surely every man at his best estate is altogether vanity. Ps. 90:9, 10. We spend our years as a tale that is told. The days of our years are threescore years and ten. Ps. 102:11. My days are like a shadow that declineth. Ps. 103:15, 16. As for man, his days are as grass: as a flower of the field, so he flourisheth. Job 7:6, 7, 9. My days are swifter than a weaver's shuttle. O remember that my life is wind. As the cloud is consumed and vanisheth away, so he that goeth down to the grave shall come up no more. Job 9:25, 26. My days are swifter than a post: they are passed away as the swift ships. Job 14:1, 2. Man that is born of a woman is of few days, and full of trouble. He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
+          "zh": "人生的短暂（必死的人生）。短暂与脆弱：创世记 47:9 —— 我平生的年日又少又苦。历代志上 29:15 —— 我们在世的日子如影儿，不能长存（原文作没有指望）。诗篇 39:5-6 —— 你使我的年日窄如手掌……各人最稳妥的时候，真是全然虚幻。90:9-10 —— 我们度尽的年岁好像一声叹息。我们一生的年日是七十岁。102:11 —— 我的年日如日影偏斜。103:15-16 —— 至于世人，他的年日如草一样；他发旺如野地的花。约伯记 7:6-7, 9 —— 我的日子比梭更快。求你想念，我的生命不过是一口气。云彩消散而过，照样，人下阴间也不再上来。9:25-26 —— 我的日子比跑信的更快……如快船过去。14:1-2 —— 人为妇人所生，日子短少，多有患难。出来如花，又被割下；飞去如影，不能存留。",
+          "bsb": "Psalm 103:15-16",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "flourisheth / declineth / cometh / fleeth / continueth / vanisheth：-eth 词尾群——本节六个动词全用古体，铺陈生命的转瞬。"},
+            {"note": "as a tale that is told：像一声叹息／一个讲完的故事（希伯来原文兼有『叹息』义）；threescore years and ten：三个二十加十＝七十（score＝二十，古计数法）。"}
+          ]
+        },
+        {
+          "en": "Isa. 40:6, 7. All flesh is grass . . . The grass withereth, the flower fadeth. Isa. 64:6. We all do fade as a leaf. James 4:14. What is your life? It is even a vapor, that appeareth for a little time, and then vanisheth away. 1 Pet. 1:24. 1 John 2:17. The world passeth away, and the lust thereof. Isa. 2:22. Cease ye from man, whose breath is in his nostrils. Micah 2:10. Arise ye, and depart; for this is not your rest. Heb. 13:14. Here have we no continuing city, but we seek one to come. 2 Cor. 5:4. We that are in this tabernacle do groan, being burdened.",
+          "zh": "以赛亚书 40:6-7 —— 凡有血气的尽都如草……草必枯干，花必凋残。64:6 —— 我们都像叶子渐渐枯干。雅各书 4:14 —— 你们的生命是什么呢？你们原来是一片云雾，出现少时就不见了。彼得前书 1:24。约翰一书 2:17 —— 这世界和其上的情欲都要过去。以赛亚书 2:22 —— 你们休要倚靠世人，他鼻孔里不过有气息。弥迦书 2:10 —— 你们起来去吧！这不是你们安息之所。希伯来书 13:14 —— 我们在这里本没有常存的城，乃是寻求那将来的城。哥林多后书 5:4 —— 我们在这帐棚里叹息劳苦，并非愿意脱下这个。",
+          "bsb": "James 4:14",
+          "grammar": [
+            {"id": "inversion", "note": "Here have we no continuing city：状语前置＋倒装（我们在这里本没有常存的城）。"},
+            {"note": "thereof =【古】of it（其上的情欲）；do groan：do 强调式（实在叹息）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "当爱惜光阴 / Time to Be Redeemed",
+      "blocks": [
+        {
+          "en": "Time to be redeemed: Ps. 90:12. So teach us to number our days, that we may apply our hearts unto wisdom. Eph. 5:15, 16. Look therefore carefully how ye walk, not as unwise, but as wise; redeeming the time, because the days are evil. Col. 4:5. Walk in wisdom toward them that are without, redeeming the time. Wasted years restored: Joel 2:25. I will restore to you the years that the locust hath eaten.",
+          "zh": "当爱惜（赎回）光阴：诗篇 90:12 —— 求你指教我们怎样数算自己的日子，好叫我们得着智慧的心。以弗所书 5:15-16 —— 你们要谨慎行事，不要像愚昧人，当像智慧人。要爱惜光阴（原文作赎回光阴），因为现今的世代邪恶。歌罗西书 4:5 —— 你们要爱惜光阴，用智慧与外人交往。虚度的年日得以复还：约珥书 2:25 —— 我打发到你们中间的大军队……蝗虫……所吃的那些年日，我要补还你们。",
+          "bsb": "Ephesians 5:15-16",
+          "grammar": [
+            {"id": "gerund-nominal", "note": "redeeming the time：分词短语作方式（爱惜光阴——原文直译『把光阴赎回来』，市场买赎的隐喻）。"},
+            {"note": "them that are without：古语『外人』（教外之人）；apply our hearts unto wisdom：apply … unto（把心用在智慧上）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "mortal": {"ipa": "/ˈmɔːtl/", "def": "adj. 必死的，有死的【六级】"},
+    "brevity": {"ipa": "/ˈbrevəti/", "def": "n. 短暂，简短【GRE】"},
+    "frailty": {"ipa": "/ˈfreɪlti/", "def": "n. 脆弱【GRE】"},
+    "abiding": {"ipa": "/əˈbaɪdɪŋ/", "def": "n./adj. 长存（的）【六级】"},
+    "handbreadths": {"ipa": "/ˈhændbredθs/", "def": "n. 手掌宽（古长度单位，约 7-9 厘米）"},
+    "estate": {"ipa": "/ɪˈsteɪt/", "def": "n.【此处古义】景况，状态（at his best estate：最稳妥的时候）【四级】"},
+    "vanity": {"ipa": "/ˈvænəti/", "def": "n. 虚幻，虚空【六级】"},
+    "threescore": {"ipa": "/ˈθriːskɔː/", "def": "num.【古】六十（score＝二十）"},
+    "declineth": {"ipa": "/dɪˈklaɪnəθ/", "def": "= declines（-eth 古词尾）：偏斜"},
+    "flourisheth": {"ipa": "/ˈflʌrɪʃəθ/", "def": "= flourishes（-eth 古词尾）：发旺"},
+    "shuttle": {"ipa": "/ˈʃʌtl/", "def": "n. 梭（织布用；日子比梭更快）【六级】"},
+    "consumed": {"ipa": "/kənˈsjuːmd/", "def": "v. 消散，耗尽（consume）【四级】"},
+    "vanisheth": {"ipa": "/ˈvænɪʃəθ/", "def": "= vanishes（-eth 古词尾）：消失"},
+    "post": {"ipa": "/pəʊst/", "def": "n.【此处古义】跑信的驿使【四级】"},
+    "fleeth": {"ipa": "/ˈfliːəθ/", "def": "= flees（-eth 古词尾）：飞逃"},
+    "continueth": {"ipa": "/kənˈtɪnjuːəθ/", "def": "= continues（-eth 古词尾）：存留"},
+    "withereth": {"ipa": "/ˈwɪðərəθ/", "def": "= withers（-eth 古词尾）：枯干"},
+    "fadeth": {"ipa": "/ˈfeɪdəθ/", "def": "= fades（-eth 古词尾）：凋残"},
+    "vapor": {"ipa": "/ˈveɪpə/", "def": "n. 云雾，水汽【六级】"},
+    "nostrils": {"ipa": "/ˈnɒstrəlz/", "def": "n. 鼻孔（nostril）【六级】"},
+    "tabernacle": {"ipa": "/ˈtæbənækl/", "def": "n.【此处喻义】帐棚（指身体）【GRE】"},
+    "groan": {"ipa": "/ɡrəʊn/", "def": "v. 叹息，呻吟【六级】"},
+    "redeeming": {"ipa": "/rɪˈdiːmɪŋ/", "def": "v. 赎回（redeem the time：爱惜光阴）【六级】"},
+    "locust": {"ipa": "/ˈləʊkəst/", "def": "n. 蝗虫【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "brevity", "ipa": "/ˈbrevəti/", "def": "n. 短暂【GRE】"},
+    {"word": "frailty", "ipa": "/ˈfreɪlti/", "def": "n. 脆弱【GRE】"},
+    {"word": "threescore", "ipa": "/ˈθriːskɔː/", "def": "num.【古】六十（threescore and ten＝七十）"},
+    {"word": "shuttle", "ipa": "/ˈʃʌtl/", "def": "n. 梭（日子比梭更快）"},
+    {"word": "vapor", "ipa": "/ˈveɪpə/", "def": "n. 云雾（生命如一片云雾）"},
+    {"word": "redeem the time", "ipa": "/rɪˈdiːm ðə taɪm/", "def": "爱惜光阴（直译：把光阴赎回来）"}
+  ]
+}

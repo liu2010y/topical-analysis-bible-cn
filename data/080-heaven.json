@@ -73,10 +73,24 @@
             {"note": "Lo, in the midst of the throne, a Lamb standing, as though it had been slain：lo 唤起＋分词悬置＋as though 虚拟（像是被杀过的）；the spirits of just men made perfect：过去分词短语后置（被成全之义人的灵魂）。"}
           ]
         }
+        ,{
+          "en": "1 Thes. 4:17, 18. And so shall we ever be with the Lord. Wherefore comfort one another with these words. The effect of the vision of God. [The aim of God as regards believers is summed up in the simple phrase—conformity to the image of the Son. This is the one absolute light-point in the eternal future (Rom. 8:29; Ps. 17:15. I shall be satisfied, when I awake, with Thy likeness). And we know that our destiny is to be made like Him. By what processes the result is to be brought about we may not know; but the end itself is clear—the assimilation begun on earth shall be perfected above. This conformity to Christ includes not only moral and spiritual likeness to Christ, but likeness to Him also in His glorious body; that is, the redemption of the body—life in a glorified corporeity (Phil. 3:21). In the disembodied state the believer indeed is with Christ, rests in the blessedness of unbroken fellowship with Him; but it is the resurrection which is the perfection of his life. J. Orr.]",
+          "zh": "帖撒罗尼迦前书 4:17-18 —— 这样，我们就要和主永远同在。所以，你们当用这些话彼此劝慰。得见神的果效。〔神对信徒的目标，可总括为一句简单的话——效法（原文作模成）他儿子的模样。这是永恒未来中唯一绝对的光点（罗马书 8:29；诗篇 17:15 —— 我醒了的时候，得见你的形象，就心满意足了）。我们知道，我们的归宿就是被造得像他。至于借着何种过程成就，我们未必知道；但目标本身是清楚的——在地上已然开始的同化，将在天上得以完全。这种效法基督，不但包括在道德上、属灵上像基督，也包括在他荣耀的身体上像他；那就是身体得赎——在得了荣耀的形体中生活（腓立比书 3:21）。在脱离身体的状态里，信徒固然与基督同在，安息在与他不断相交的福乐里；但使他生命臻于完全的，乃是复活。奥尔（J. Orr）〕",
+          "bsb": "Romans 8:29",
+          "grammar": [
+            {"id": "inversion", "note": "By what processes the result is to be brought about we may not know：宾语从句整体前置（借何过程成就，我们未必知道）。"},
+            {"note": "it is the resurrection which is the perfection of his life：it is … which 强调（使生命完全的乃是复活）；corporeity：哲学术语『形体性』。"}
+          ]
+        }
       ]
     }
   ],
   "hover_vocab": {
+    "conformity": {"ipa": "/kənˈfɔːməti/", "def": "n. 效法，模成（conformity to the image：模成……的形象）【六级】"},
+    "assimilation": {"ipa": "/əˌsɪməˈleɪʃn/", "def": "n. 同化【六级】"},
+    "corporeity": {"ipa": "/ˌkɔːpəˈriːəti/", "def": "n. 形体性（哲学术语；corporeal：有形体的）"},
+    "disembodied": {"ipa": "/ˌdɪsɪmˈbɒdid/", "def": "adj. 脱离身体的"},
+    "destiny": {"ipa": "/ˈdestəni/", "def": "n. 归宿，命定【四级】"},
     "immeasurable": {"ipa": "/ɪˈmeʒərəbl/", "def": "adj. 不可测量的【六级】"},
     "expanse": {"ipa": "/ɪkˈspæns/", "def": "n. 穹苍，广袤【GRE】"},
     "stellar": {"ipa": "/ˈstelə/", "def": "adj. 星体的【GRE】"},

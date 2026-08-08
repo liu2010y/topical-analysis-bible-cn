@@ -1,0 +1,38 @@
+{
+  "num": "083",
+  "title_en": "HOUSE OF GOD",
+  "title_zh": "神的殿",
+  "html_name": "083-House-of-God-神的殿.html",
+  "pages": "原书 p. 201",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "HOUSE OF GOD; Sanctuary. (Heb. and Gr.: place set apart.) Ps. 5:7. In the multitude of Thy lovingkindness will I come into Thy house: in Thy fear will I worship. Ps. 26:8. Lord, I have loved the habitation of Thy house. Ps. 63:2. To see Thy power and Thy glory, so as I have seen Thee in the sanctuary. Ps. 65:4. Satisfied with the goodness of Thy house. Ps. 66:13. I will come into Thy house with burnt-offerings; I will pay Thee my vows. Ps. 84:4. Blessed are they that dwell in Thy house: they will be still praising Thee. Ps. 93:5. Holiness becometh Thine house, O Lord, for ever. Ps. 96:6. Strength and beauty are in His sanctuary. Ps. 122:1. I was glad when they said unto me, Let us go into the house of the Lord. Ps. 20:2. Send thee help from the sanctuary. Ps. 150:1. Praise God in His sanctuary. Isa. 56:7. Mine house shall be called an house of prayer for all peoples (Mark 11:17). Lev. 19:30. Reverence My sanctuary. Eccles. 5:1. Keep thy foot when thou goest to the house of God. Hab. 2:20. The Lord is in His holy temple: let all the earth keep silence before Him. See Tabernacle and Temple; Worship.",
+          "zh": "神的殿；圣所。（希伯来文与希腊文本义：分别出来的地方。）诗篇 5:7 —— 至于我，我必凭你丰盛的慈爱进入你的居所；我必存敬畏你的心向你的圣殿下拜。26:8 —— 耶和华啊，我喜爱你所住的殿。63:2 —— 我在圣所中曾如此瞻仰你，为要见你的能力和你的荣耀。65:4 —— 我们必因你居所……的美福知足了。66:13 —— 我要用燔祭进你的殿，向你还我的愿。84:4 —— 如此住在你殿中的便为有福，他们仍要赞美你。93:5 —— 耶和华啊，你的殿永称为圣，是合宜的（英译：圣洁与你的殿相称，直到永远）。96:6 —— 有能力与华美在他圣所。122:1 —— 人对我说：我们往耶和华的殿去，我就欢喜。20:2 —— 愿他从圣所救助你。150:1 —— 要在神的圣所赞美他。以赛亚书 56:7 —— 因我的殿必称为万民祷告的殿（马可福音 11:17 引用）。利未记 19:30 —— 敬我的圣所。传道书 5:1 —— 你到神的殿要谨慎脚步。哈巴谷书 2:20 —— 惟耶和华在他的圣殿中；全地的人都当在他面前肃敬静默。参主题词条：会幕与圣殿；敬拜。",
+          "bsb": "Psalm 122:1",
+          "grammar": [
+            {"id": "inversion", "note": "In the multitude of Thy lovingkindness will I come / Strength and beauty are in His sanctuary：介词短语前置与表语前置的倒装。"},
+            {"id": "let-imperative", "note": "Let us go into the house of the Lord / let all the earth keep silence：let 祈使两连——上殿的欢呼与殿中的肃静。"},
+            {"id": "eth-est-endings", "note": "becometh：相称（圣洁与你的殿相称）——become 古义『适合，相称』。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "sanctuary": {"ipa": "/ˈsæŋktʃuəri/", "def": "n. 圣所【六级】"},
+    "habitation": {"ipa": "/ˌhæbɪˈteɪʃn/", "def": "n. 居所【GRE】"},
+    "burnt-offerings": {"ipa": "/bɜːnt ˈɒfərɪŋz/", "def": "n. 燔祭（全烧的祭）"},
+    "vows": {"ipa": "/vaʊz/", "def": "n. 所许的愿（vow）【六级】"},
+    "becometh": {"ipa": "/bɪˈkʌməθ/", "def": "= becomes；【古义】相称，合宜"},
+    "reverence": {"ipa": "/ˈrevərəns/", "def": "v./n. 敬畏，尊敬【GRE】"},
+    "tabernacle": {"ipa": "/ˈtæbənækl/", "def": "n. 会幕，帐幕【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "sanctuary", "ipa": "/ˈsæŋktʃuəri/", "def": "n. 圣所（分别出来的地方）"},
+    {"word": "tabernacle", "ipa": "/ˈtæbənækl/", "def": "n. 会幕【GRE】"},
+    {"word": "reverence", "ipa": "/ˈrevərəns/", "def": "v./n. 敬畏【GRE】"}
+  ]
+}

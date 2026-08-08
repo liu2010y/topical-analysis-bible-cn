@@ -1,0 +1,52 @@
+{
+  "num": "085",
+  "title_en": "HYPOCRISY",
+  "title_zh": "假冒为善",
+  "html_name": "085-Hypocrisy-假冒为善.html",
+  "pages": "原书 p. 203",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "HYPOCRISY; Formalism. (Note: the Old Testament word translated \"hypocrite\" in the A. V. means profane, or godless.) Isa. 58:1-3. (Fasting and outward observance without righteousness.) Jer. 7:4. Trust ye not in lying words, saying, The temple of the Lord, The temple of the Lord, are these. Prov. 26:23-26. (Fervent lips and a wicked heart.) Prayer against it: Ps. 139:23, 24. Search me, O God, and know my heart. Luke 11:39-44. Woe unto you, Pharisees, hypocrites! Luke 12:1. Beware ye of the leaven of the Pharisees, which is hypocrisy. Matt. 15:7-9. Ye hypocrites, well did Isaiah prophesy of you, saying, This people honoreth Me with their lips; but their heart is far from Me. Matt. 23:13-33. Christ's fearful denunciations against hypocrites. (Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres. Ye serpents, ye offspring of vipers, how shall ye escape the judgment of hell?) Illus. Acts 5:3, 4. Thou hast not lied unto men, but unto God (Ananias). James 3:17. The wisdom that is from above is . . . without hypocrisy. 2 Tim. 3:5. Holding a form of godliness, but having denied the power thereof.",
+          "zh": "假冒为善；形式主义（徒具仪文）。（注：旧约中钦定本译作 \"hypocrite\" 的那个词，本义是『不虔的，不敬神的』。）以赛亚书 58:1-3 ——（只有禁食与外表的遵守，没有公义。）耶利米书 7:4 —— 你们不要倚靠虚谎的话，说：这些是耶和华的殿，是耶和华的殿，是耶和华的殿。箴言 26:23-26 ——（火热的嘴，奸恶的心。）防备它的祷告：诗篇 139:23-24 —— 神啊，求你鉴察我，知道我的心思。路加福音 11:39-44 —— 你们法利赛人有祸了……假冒为善的人！12:1 —— 你们要防备法利赛人的酵，就是假冒为善。马太福音 15:7-9 —— 假冒为善的人哪，以赛亚指着你们说的预言是不错的。他说：这百姓用嘴唇尊敬我，心却远离我。23:13-33 —— 基督对假冒为善者可畏的斥责。（你们这假冒为善的文士和法利赛人有祸了！因为你们好像粉饰的坟墓。你们这些蛇类、毒蛇之种啊，怎能逃脱地狱的刑罚呢？）例证：使徒行传 5:3-4 —— 你不是欺哄人，是欺哄神了（亚拿尼亚）。雅各书 3:17 —— 惟独从上头来的智慧……没有假冒。提摩太后书 3:5 —— 有敬虔的外貌，却背了敬虔的实意。",
+          "bsb": "Matthew 15:8",
+          "grammar": [
+            {"id": "vocative-o", "note": "Woe unto you, scribes and Pharisees, hypocrites! / Ye serpents, ye offspring of vipers：呼格＋咒祸句式——马太 23 章七祸的雷霆修辞。"},
+            {"id": "inversion", "note": "well did Isaiah prophesy of you：状语 well 前置＋倒装（以赛亚的预言是不错的）。"},
+            {"note": "The temple of the Lord, The temple of the Lord：三叠重复讽刺口头禅式的虚假倚靠；a form of godliness … the power thereof：外貌与实意（thereof =【古】of it）的对举。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "hypocrisy": {"ipa": "/hɪˈpɒkrəsi/", "def": "n. 假冒为善【六级】"},
+    "hypocrite": {"ipa": "/ˈhɪpəkrɪt/", "def": "n. 假冒为善的人（希腊文本义：戏子）【GRE】"},
+    "hypocrites": {"ipa": "/ˈhɪpəkrɪts/", "def": "n. 假冒为善的人（hypocrite）【GRE】"},
+    "formalism": {"ipa": "/ˈfɔːməlɪzəm/", "def": "n. 形式主义，徒具仪文"},
+    "profane": {"ipa": "/prəˈfeɪn/", "def": "adj. 不虔的，亵渎的【GRE】"},
+    "fervent": {"ipa": "/ˈfɜːvənt/", "def": "adj. 火热的【GRE】"},
+    "leaven": {"ipa": "/ˈlevn/", "def": "n. 酵（法利赛人的酵）【GRE】"},
+    "pharisees": {"ipa": "/ˈfærɪsiːz/", "def": "n. 法利赛人（Pharisee）"},
+    "prophesy": {"ipa": "/ˈprɒfəsaɪ/", "def": "v. 说预言【六级】"},
+    "honoreth": {"ipa": "/ˈɒnərəθ/", "def": "= honors（-eth 古词尾）：尊敬"},
+    "denunciations": {"ipa": "/dɪˌnʌnsiˈeɪʃnz/", "def": "n. 斥责（denunciation）【GRE】"},
+    "scribes": {"ipa": "/skraɪbz/", "def": "n. 文士（scribe）【六级】"},
+    "whited": {"ipa": "/ˈwaɪtɪd/", "def": "adj.【古】粉饰过的（whited sepulchres：粉饰的坟墓）"},
+    "sepulchres": {"ipa": "/ˈseplkəz/", "def": "n. 坟墓（sepulchre）【GRE】"},
+    "serpents": {"ipa": "/ˈsɜːpənts/", "def": "n. 蛇（serpent）【六级】"},
+    "vipers": {"ipa": "/ˈvaɪpəz/", "def": "n. 毒蛇（viper）【GRE】"},
+    "godliness": {"ipa": "/ˈɡɒdlinəs/", "def": "n. 敬虔"},
+    "thereof": {"ipa": "/ˌðeərˈɒv/", "def": "adv.【古】它的（= of it）"}
+  },
+  "vocab_table": [
+    {"word": "hypocrisy", "ipa": "/hɪˈpɒkrəsi/", "def": "n. 假冒为善（希腊文本义：演戏）"},
+    {"word": "leaven", "ipa": "/ˈlevn/", "def": "n. 酵（防备法利赛人的酵）【GRE】"},
+    {"word": "sepulchre", "ipa": "/ˈseplkə/", "def": "n. 坟墓（粉饰的坟墓）【GRE】"},
+    {"word": "viper", "ipa": "/ˈvaɪpə/", "def": "n. 毒蛇【GRE】"},
+    {"word": "profane", "ipa": "/prəˈfeɪn/", "def": "adj. 不虔的【GRE】"},
+    {"word": "denunciation", "ipa": "/dɪˌnʌnsiˈeɪʃn/", "def": "n. 斥责【GRE】"}
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "num": "075",
+  "title_en": "GOSPEL",
+  "title_zh": "福音",
+  "html_name": "075-Gospel-福音.html",
+  "pages": "原书 p. 184–186",
+  "sections": [
+    {
+      "heading": "词义与诸称 / The Word and Its Names",
+      "blocks": [
+        {
+          "en": "GOSPEL. Old Testament—Basar, to announce good tidings: Isa. 40:9. Thou that tellest good tidings to Zion, lift up thy voice. Isa. 52:7. Him that bringeth good tidings, that publisheth peace. Isa. 61:1. Anointed Me to preach good tidings (cited Luke 4:18-21). A Gospel preached before Christ: Gal. 3:8. The Scripture . . . preached the gospel beforehand unto Abraham. New Testament—Euaggelion, good news, or glad tidings. Called: the Gospel of the Kingdom, Matt. 4:23; 9:35; 24:14. Of Christ, Mark 1:1; Rom. 1:16; 15:19. Of God, Rom. 1:1; 15:16. Of the grace of God, Acts 20:24. Of salvation, Eph. 1:13. Of hope, Col. 1:23. Of peace, Eph. 6:15. Glorious, 1 Tim. 1:11. Everlasting, Rev. 14:6. These intimate its Source—from God, and from His grace; its Purpose and Result—hope and peace and salvation to men; its Character—glorious; and its Duration—everlasting.",
+          "zh": "福音。旧约——希伯来文 Basar：报好信息。以赛亚书 40:9 —— 报好信息给锡安的啊，你要极力扬声。52:7 —— 那报佳音、传平安……的。61:1 —— 膏我，叫我传好信息（路加福音 4:18-21 引用）。基督以前已有福音被传：加拉太书 3:8 —— 圣经……早已传福音给亚伯拉罕。新约——希腊文 Euaggelion：好消息，喜信。其诸称：天国的福音——马太福音 4:23；9:35；24:14。基督的福音——马可福音 1:1；罗马书 1:16；15:19。神的福音——罗马书 1:1；15:16。神恩惠的福音——使徒行传 20:24。救恩的福音（英译：你们得救的福音）——以弗所书 1:13。福音的盼望——歌罗西书 1:23。平安的福音——以弗所书 6:15。荣耀的福音——提摩太前书 1:11。永远的福音——启示录 14:6。这些名称提示了它的源头——出于神、出于神的恩；它的目的与结果——给人盼望、平安与救恩；它的品格——荣耀；它的期限——永远。【OCR 注：原书 \"Col. 1:25\" 依经文（福音的盼望）推定为 1:23。】",
+          "bsb": "Isaiah 52:7",
+          "grammar": [
+            {"id": "apposition", "note": "Basar / Euaggelion：希伯来、希腊原文词的同位注释——euaggelion（好消息）即英文 evangel、evangelist 的词源。"},
+            {"id": "headline-style", "note": "Of the Kingdom / Of Christ / Of God / …：九个属格称号的清单式排布，随后一句按源头—结果—品格—期限四分归纳。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "福音的实质与大能 / Vital Substance; Divine Efficiency",
+      "blocks": [
+        {
+          "en": "Vital truth and essential substance of the Gospel: the Incarnate Christ, crucified for sinners. Luke 2:10, 11. Behold, I bring you good tidings of great joy, which shall be to all people; for there is born to you this day, in the city of David, a Saviour, which is Christ the Lord. John 1:29. Behold, the Lamb of God, which taketh away the sin of the world! 1 Tim. 1:15. Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners. 1 John 1:7. The blood of Jesus Christ His Son cleanseth us from all sin. 1 John 2:2. He is the propitiation for our sins; and not for ours only, but also for the whole world. 2 Cor. 5:19. God was in Christ, reconciling the world unto Himself. See Atonement. [The central message of the preacher is the piercing, moving, personal gospel of Jesus of Nazareth, the Son of God and Saviour of mankind. This in its simplest form; this in its clearest expression; this presentation of a Person to persons, in order that they may first know, and then love and trust and follow Him—this is pre-eminently the gospel for an age of doubt. H. Van Dyke.]",
+          "zh": "福音攸关的真理与本质的内容：道成肉身的基督为罪人钉十字架。路加福音 2:10-11 —— 我报给你们大喜的信息，是关乎万民的：因今天在大卫的城里，为你们生了救主，就是主基督。约翰福音 1:29 —— 看哪，神的羔羊，除去（或作背负）世人罪孽的！提摩太前书 1:15 —— 基督耶稣降世，为要拯救罪人。这话是可信的，是十分可佩服的。约翰一书 1:7 —— 他儿子耶稣的血也洗净我们一切的罪。2:2 —— 他为我们的罪作了挽回祭，不是单为我们的罪，也是为普天下人的罪。哥林多后书 5:19 —— 神在基督里，叫世人与自己和好。参主题词条：赎罪（013）。〔传道人居于中心的信息，是拿撒勒人耶稣——神的儿子、人类的救主——那刺入人心、感动人心、位格对位格的福音。以它最简单的形态；以它最清晰的表达；把一位『人』引见给众人，好叫他们先认识他，进而爱他、信他、跟从他——这正是最适合怀疑时代的福音。范戴克（H. Van Dyke）〕",
+          "bsb": "Luke 2:10-11",
+          "grammar": [
+            {"id": "inversion", "note": "Faithful is the saying, and worthy of all acceptation：表语前置倒装——教牧书信『可信的话』公式。"},
+            {"note": "This in its simplest form; this in its clearest expression; this presentation …—this is …：this 四连首语重复（anaphora），末句破折号收束——范戴克的讲道体。"}
+          ]
+        },
+        {
+          "en": "Divine efficiency of the Gospel: Rom. 1:16. It is the power of God unto salvation. 1 Cor. 1:18, 23, 24. The word of the cross . . . unto us which are being saved is the power of God. We preach Christ crucified . . . unto them that are called, Christ the power of God, and the wisdom of God. 1 Thes. 2:13. James 1:21. 2 Tim. 3:15. Faith, or trust in the saving Christ, the necessary and essential condition of its Divine efficiency: Rom. 1:16. To every one that believeth. Eph. 2:8. By grace have ye been saved, through faith. 2 Thes. 2:13. 2 Tim. 3:15. Able to make thee wise unto salvation, through faith. John 20:31. The Gospel the means employed in regeneration and sanctification: 1 Pet. 1:23. Begotten again . . . through the word of God. James 1:18. Of His own will He brought us forth by the word of truth. John 17:17. Sanctify them through Thy truth: Thy word is truth. 2 Pet. 1:4. Acts 20:32. Eph. 6:17. The sword of the Spirit, which is the word of God.",
+          "zh": "福音神圣的功效：罗马书 1:16 —— 这福音本是神的大能，要救一切相信的。哥林多前书 1:18, 23-24 —— 十字架的道理……在我们得救的人，却为神的大能。我们却是传钉十字架的基督……但在那蒙召的……基督总为神的能力，神的智慧。帖撒罗尼迦前书 2:13。雅各书 1:21。提摩太后书 3:15。信——对救主基督的信靠——是福音神圣功效必需而本质的条件：罗马书 1:16 —— 要救一切相信的。以弗所书 2:8 —— 你们得救是本乎恩，也因着信。帖撒罗尼迦后书 2:13。提摩太后书 3:15 —— 这圣经能使你因信基督耶稣，有得救的智慧。约翰福音 20:31。福音是重生与成圣所用的工具：彼得前书 1:23 —— 蒙了重生……是借着神……的道。雅各书 1:18 —— 他按自己的旨意，用真道生了我们。约翰福音 17:17 —— 求你用真理使他们成圣，你的道就是真理。彼得后书 1:4。使徒行传 20:32。以弗所书 6:17 —— 圣灵的宝剑，就是神的道。",
+          "bsb": "Romans 1:16",
+          "grammar": [
+            {"id": "him-that-relative", "note": "every one that believeth / them that are called：一切相信的／那蒙召的。"},
+            {"note": "Of His own will He brought us forth：介词短语前置（按自己的旨意生了我们）；the sword of the Spirit, which is …：喻体＋非限定从句点明本体。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "当受传扬；团契的纽带 / To Be Preached; A Bond of Fellowship",
+      "blocks": [
+        {
+          "en": "As the instrument or means of Divine agency, the Gospel is to be published or preached: Luke 24:47. That repentance and remission of sins should be preached in His name among all nations. 1 Cor. 1:23. We preach Christ crucified. 2 Cor. 4:5. Gal. 2:2. Eph. 3:8. 1 Cor. 9:16. Woe is unto me, if I preach not the gospel. Col. 1:28. Whom we preach, warning every man, and teaching every man in all wisdom. 2 Tim. 4:2. 1 Thes. 2:4. Intrusted with the Gospel. Phil. 1:7, 12. See Preacher and Preaching. As a bond and help of Christian fellowship: Phil. 1:5. Your fellowship in the Gospel. No bond so strong, no help so profitable and inspiring, as that which comes from the exchange of thought, the excitation and uplift of feeling, and the stimulus to service, that flows from careful, prayerful meditation upon the Gospel word by earnest, responsive Christian souls in hours of heart-fellowship. Then Christ is nearer and more precious, according to His promise; and the Holy Spirit opens the vision; quickens, softens and warms the heart; strengthens and confirms the will in all goodness and for all ministry. So the life is hallowed, sweetened, and made more Christlike. For the effects of the Gospel and its uses, see Bible (Effects and Uses of the Word).",
+          "zh": "福音既是神圣作为的器具或凭借，就当被公布、被传扬：路加福音 24:47 —— 并且人要奉他的名传悔改赦罪的道，从耶路撒冷起直传到万邦。哥林多前书 1:23 —— 我们却是传钉十字架的基督。哥林多后书 4:5。加拉太书 2:2。以弗所书 3:8。哥林多前书 9:16 —— 若不传福音，我便有祸了。歌罗西书 1:28 —— 我们传扬他，是用诸般的智慧劝戒各人，教导各人。提摩太后书 4:2。帖撒罗尼迦前书 2:4 —— 神……把福音托付我们。腓立比书 1:7, 12。参主题词条：传道人与讲道。福音又是基督徒团契的纽带与助力：腓立比书 1:5 —— 因为从头一天直到如今，你们是同心合意地兴旺（原文作在）福音。恳切而有回应的基督徒的心灵，在心心相契的时光里，对福音之道存着精心祷告的默想——由此而来的思想交流、情感的激发提升、事奉的策励，其为纽带，无坚逾此；其为助力，无益逾此。那时，基督照他的应许，愈发亲近、愈发宝贵；圣灵开人眼界，点活、软化、温暖人心，又坚固人的意志行诸般的善、任诸般的职。这样，生命便被分别为圣、被调和甘甜，愈发肖似基督。福音（圣道）的功效与用途，参主题词条：圣经（018，圣道的功效与用途一节）。",
+          "bsb": "Luke 24:47",
+          "grammar": [
+            {"id": "no-do-negation", "note": "if I preach not the gospel：不用 do 的否定（若不传福音）；Woe is unto me：咒祸句式反用于自己。"},
+            {"id": "ellipsis", "note": "No bond so strong, no help so profitable …, as that which …：系动词省略的否定比较排比（其为纽带无坚逾此）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "tidings": {"ipa": "/ˈtaɪdɪŋz/", "def": "n. 信息，消息（good tidings：好信息）【GRE】"},
+    "publisheth": {"ipa": "/ˈpʌblɪʃəθ/", "def": "= publishes（-eth 古词尾）：传扬，公布"},
+    "anointed": {"ipa": "/əˈnɔɪntɪd/", "def": "v. 膏立（anoint）【GRE】"},
+    "beforehand": {"ipa": "/bɪˈfɔːhænd/", "def": "adv. 预先【四级】"},
+    "intimate": {"ipa": "/ˈɪntɪmeɪt/", "def": "v.【此处义】提示，暗示【六级】"},
+    "incarnate": {"ipa": "/ɪnˈkɑːnət/", "def": "adj. 道成肉身的【GRE】"},
+    "crucified": {"ipa": "/ˈkruːsɪfaɪd/", "def": "v. 钉十字架（crucify）【GRE】"},
+    "acceptation": {"ipa": "/ˌæksepˈteɪʃn/", "def": "n.【古义】领受，佩服（worthy of all acceptation：十分可佩服的）"},
+    "propitiation": {"ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭【GRE】"},
+    "reconciling": {"ipa": "/ˈrekənsaɪlɪŋ/", "def": "v. 使和好（reconcile）【六级】"},
+    "piercing": {"ipa": "/ˈpɪəsɪŋ/", "def": "adj. 刺入人心的（pierce：刺穿）【六级】"},
+    "efficiency": {"ipa": "/ɪˈfɪʃnsi/", "def": "n. 功效【四级】"},
+    "begotten": {"ipa": "/bɪˈɡɒtn/", "def": "v. beget 的过去分词：生（蒙了重生）"},
+    "sanctify": {"ipa": "/ˈsæŋktɪfaɪ/", "def": "v. 使成圣【GRE】"},
+    "remission": {"ipa": "/rɪˈmɪʃn/", "def": "n. 赦免（remission of sins：赦罪）【GRE】"},
+    "intrusted": {"ipa": "/ɪnˈtrʌstɪd/", "def": "v.【古拼】= entrusted：受托付"},
+    "excitation": {"ipa": "/ˌeksaɪˈteɪʃn/", "def": "n. 激发【六级】"},
+    "stimulus": {"ipa": "/ˈstɪmjələs/", "def": "n. 策励，刺激【四级】"},
+    "meditation": {"ipa": "/ˌmedɪˈteɪʃn/", "def": "n. 默想【六级】"},
+    "hallowed": {"ipa": "/ˈhæləʊd/", "def": "v. 分别为圣（hallow）【GRE】"},
+    "christlike": {"ipa": "/ˈkraɪstlaɪk/", "def": "adj. 肖似基督的"},
+    "quickens": {"ipa": "/ˈkwɪkənz/", "def": "v.【古义】点活，使活泼（quicken）"},
+    "heart-fellowship": {"ipa": "/hɑːt ˈfeləʊʃɪp/", "def": "n. 心心相契的团契"}
+  },
+  "vocab_table": [
+    {"word": "tidings", "ipa": "/ˈtaɪdɪŋz/", "def": "n. 信息（good tidings＝gospel 的本义）【GRE】"},
+    {"word": "propitiation", "ipa": "/prəˌpɪʃiˈeɪʃn/", "def": "n. 挽回祭【GRE】"},
+    {"word": "acceptation", "ipa": "/ˌæksepˈteɪʃn/", "def": "n.【古义】领受（十分可佩服的）"},
+    {"word": "remission", "ipa": "/rɪˈmɪʃn/", "def": "n. 赦免【GRE】"},
+    {"word": "hallow", "ipa": "/ˈhæləʊ/", "def": "v. 分别为圣【GRE】"},
+    {"word": "efficiency", "ipa": "/ɪˈfɪʃnsi/", "def": "n. 功效（福音神圣的功效）"}
+  ]
+}

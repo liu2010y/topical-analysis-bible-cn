@@ -124,6 +124,11 @@
 | 068 | Fear of God（敬畏神） | p. 129–130 | ✅ |
 | 069 | Flesh and Spirit（肉体与灵） | p. 130–134 | ✅（四部结构，含 Babb 嫁接喻、编者论治死、Meyer 论事工中的肉体） |
 | 070 | Flood（洪水） | p. 134 | ✅（极短词条） |
-| 071– | Foreknowledge; Election（预知与拣选）起 | p. 134– | ⏳（12 页巨型词条） |
+| 071 | Foreknowledge; Foreordination; Calling; Election（预知；预定；呼召；拣选） | p. 134–146 | ✅（12 页巨型教义词条，九分节） |
+| 072 | Friendship and Fellowship（友谊与相交） | p. 146–147 | ✅ |
+| 073 | Giving（奉献） | p. 147–150 | ✅（原则/动机/分量＋三家论施予） |
+| 074 | God（神） | p. 150–184 | ✅（全书最大词条：存有—属性—品格—作为—三一—父—子—圣灵—神与人；p.165/180/182 扫描缺损已标注） |
+| 075 | Gospel（福音） | p. 184–186 | ✅ |
+| 076– | Grace（恩典）起 | p. 186– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

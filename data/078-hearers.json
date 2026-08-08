@@ -1,0 +1,74 @@
+{
+  "num": "078",
+  "title_en": "HEARERS AND HEARING OF THE WORD",
+  "title_zh": "听道与听道的人",
+  "html_name": "078-Hearers-听道.html",
+  "pages": "原书 p. 190",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "HEARERS AND HEARING OF THE WORD. Hearing, a fundamental command and essential obligation: Isa. 55:3. Hear, and your soul shall live. Prov. 8:6, 33. Ezek. 3:27. He that heareth, let him hear. Matt. 11:15. Rev. 2:7, 11. He that hath an ear, let him hear what the Spirit saith. Eccles. 5:1. Draw nigh to hear. Jer. 13:15. Hear ye, and give ear; for the Lord hath spoken. Cautions: Mark 4:24. Take heed what ye hear. Luke 8:18. Take heed how ye hear. Heb. 2:1. We ought to give the more earnest heed to the things that were heard, lest haply we drift away from them. 2 Pet. 1:19. Whereunto ye do well that ye take heed. James 1:19. Be swift to hear. Heb. 4:2. The word of hearing did not profit them, because they were not united by faith with them that heard.",
+          "zh": "听道与听道的人。听——一条根本的命令、一项本质的义务：以赛亚书 55:3 —— 侧耳而听，就必得活。箴言 8:6, 33。以西结书 3:27 —— 听的可以听。马太福音 11:15。启示录 2:7, 11 —— 圣灵向众教会所说的话，凡有耳的，就应当听。传道书 5:1 —— 近前听，胜过愚昧人献祭。耶利米书 13:15 —— 你们当听，当侧耳而听。不要骄傲，因为耶和华已经说了。当谨慎：马可福音 4:24 —— 你们所听的要留心（听什么当留心）。路加福音 8:18 —— 所以你们应当小心怎样听。希伯来书 2:1 —— 所以我们当越发郑重所听见的道理，恐怕我们随流失去。彼得后书 1:19 —— 你们在这预言上留意，直等到天发亮……才是好的。雅各书 1:19 —— 要快快地听。希伯来书 4:2 —— 只是所听见的道与他们无益，因为他们没有信心与所听见的道调和。",
+          "bsb": "Luke 8:18",
+          "grammar": [
+            {"id": "let-imperative", "note": "He that heareth, let him hear / He that hath an ear, let him hear：let 祈使＋him-that 句式——福音书与启示录的『听道公式』。"},
+            {"id": "lest-clause", "note": "lest haply we drift away：lest 从句（恐怕随流失去）；haply =【古】perhaps。"},
+            {"note": "Take heed what ye hear / how ye hear：两处 take heed 的宾语从句只差一个疑问词——『听什么』与『怎样听』并重。"}
+          ]
+        },
+        {
+          "en": "Not for entertainment, but for responsive, instant and constant obedience: Ezek. 33:31, 32. Thou art unto them as a very lovely song of one that hath a pleasant voice; for they hear thy words, but they do them not. Matt. 7:24-27. (The house upon the rock, and upon the sand.) James 1:22-25. Be ye doers of the word, and not hearers only, deluding your own selves. Who hear acceptably and profitably: John 8:47. He that is of God heareth God's words. John 10:27. My sheep hear My voice. John 18:37. Every one that is of the truth heareth My voice. 1 Thes. 1:6. Received the word . . . with joy of the Holy Ghost. Rom. 10:17. Faith cometh of hearing, and hearing by the word of God. Classes of hearers: Matt. 13:18-23. The explanation of the Parable of the Sower. Acts 17:11. The Bereans: they received the word with all readiness of mind, examining the Scriptures daily, whether these things were so. Acts 17:32-34. (Athens: some mocked, others procrastinated, certain believed.) The attitude of hearers: Acts 10:33. Now therefore we are all here present in the sight of God, to hear all things that have been commanded thee of the Lord. God's urgent entreaty for instant hearing and heed: Ps. 95:7. To-day, if ye will hear His voice, harden not your hearts. Heb. 3:15.",
+          "zh": "听道不为消遣，而为回应式的、即刻而恒常的顺服：以西结书 33:31-32 —— 他们看你如善于奏乐、声音幽雅之人所唱的雅歌；他们听你的话却不去行。马太福音 7:24-27 ——（盖在磐石上与盖在沙土上的房子。）雅各书 1:22-25 —— 只是你们要行道，不要单单听道，自己欺哄自己。谁听得蒙悦纳、听得有益：约翰福音 8:47 —— 出于神的，必听神的话。10:27 —— 我的羊听我的声音。18:37 —— 凡属真理的人就听我的话。帖撒罗尼迦前书 1:6 —— 蒙了圣灵所赐的喜乐，领受真道。罗马书 10:17 —— 信道是从听道来的，听道是从基督的话来的。听道者的类别：马太福音 13:18-23 —— 撒种比喻的讲解（路旁／土浅石头地／荆棘里／好土）。使徒行传 17:11 —— 庇哩亚人：甘心领受这道，天天考查圣经，要晓得这道是与不是。17:32-34 ——（雅典：有讥诮的，有推托改日再听的，也有信的。）听道者的态度：使徒行传 10:33 —— 现今我们都在神面前，要听主所吩咐你的一切话。神恳切催促人即刻听而听从：诗篇 95:7 —— 惟愿你们今天听他的话，你们不可硬着心。希伯来书 3:15。",
+          "bsb": "James 1:22",
+          "grammar": [
+            {"id": "no-do-negation", "note": "they do them not / harden not your hearts：不用 do 的否定两连（听而不行／不可硬心）。"},
+            {"id": "him-that-relative", "note": "He that is of God / Every one that is of the truth：出于神的／属真理的。"},
+            {"note": "Be ye doers of the word, and not hearers only：带主语 ye 的祈使＋名词对举（行道者／听道者）——雅各书名句。"}
+          ]
+        }
+        ,{
+          "en": "Promises of gain and blessing to those who hear and heed: Prov. 8:34. Blessed is the man that heareth Me, watching daily at My gates, waiting at the posts of My doors. Prov. 15:31, 32. John 5:24. He that heareth My word, and believeth Him that sent Me, hath eternal life. Mark 4:24. Unto you that hear shall more be given. Luke 11:28. Blessed are they that hear the word of God, and keep it. Consequences of neglect or refusal to hear: Prov. 1:24-32. Because I have called, and ye refused . . . I also will laugh in the day of your calamity. Jer. 11:10, 14. Luke 16:29-31. If they hear not Moses and the prophets, neither will they be persuaded, if one rise from the dead. See Preacher and Preaching.",
+          "zh": "给听而听从之人的应许与福分：箴言 8:34 —— 听从我，日日在我门口仰望，在我门框旁边等候的，那人便为有福。15:31-32。约翰福音 5:24 —— 那听我话、又信差我来者的，就有永生。马可福音 4:24 —— 你们用什么量器量给人，也必用什么量器量给你们，并且要多给你们（听的人必多得）。路加福音 11:28 —— 却还不如听神之道而遵守的人有福。忽视或拒绝听道的后果：箴言 1:24-32 —— 我呼唤，你们不肯听从……你们遭灾难，我就发笑。耶利米书 11:10, 14。路加福音 16:29-31 —— 若不听从摩西和先知的话，就是有一个从死里复活的，他们也是不听劝。参主题词条：传道人与讲道。",
+          "bsb": "Luke 11:28",
+          "grammar": [
+            {"id": "him-that-relative", "note": "the man that heareth Me / He that heareth My word：听从我的人。"},
+            {"id": "subjunctive-though", "note": "if one rise from the dead：条件句虚拟原形 rise（就是有一个从死里复活的）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "calamity": {"ipa": "/kəˈlæməti/", "def": "n. 灾难【六级】"},
+    "posts": {"ipa": "/pəʊsts/", "def": "n. 门框，柱（post）【四级】"},
+    "neglect": {"ipa": "/nɪˈɡlekt/", "def": "n./v. 忽视【四级】"},
+    "persuaded": {"ipa": "/pəˈsweɪdɪd/", "def": "v. 听劝，被说服（persuade）【四级】"},
+    "hearers": {"ipa": "/ˈhɪərəz/", "def": "n. 听道的人（hearer）【四级】"},
+    "obligation": {"ipa": "/ˌɒblɪˈɡeɪʃn/", "def": "n. 义务【四级】"},
+    "heed": {"ipa": "/hiːd/", "def": "n./v. 留心（take heed：谨慎）【GRE】"},
+    "haply": {"ipa": "/ˈhæpli/", "def": "adv.【古】或许（= perhaps）"},
+    "whereunto": {"ipa": "/ˌweərʌnˈtuː/", "def": "adv.【古】对此（= to which）"},
+    "swift": {"ipa": "/swɪft/", "def": "adj. 快的（be swift to hear：快快地听）【四级】"},
+    "entertainment": {"ipa": "/ˌentəˈteɪnmənt/", "def": "n. 消遣，娱乐【四级】"},
+    "responsive": {"ipa": "/rɪˈspɒnsɪv/", "def": "adj. 有回应的【六级】"},
+    "deluding": {"ipa": "/dɪˈluːdɪŋ/", "def": "v. 欺哄（delude）【GRE】"},
+    "acceptably": {"ipa": "/əkˈseptəbli/", "def": "adv. 蒙悦纳地【四级】"},
+    "profitably": {"ipa": "/ˈprɒfɪtəbli/", "def": "adv. 有益地【四级】"},
+    "sower": {"ipa": "/ˈsəʊə/", "def": "n. 撒种的人（sow：撒种）"},
+    "bereans": {"ipa": "/bəˈriːənz/", "def": "n. 庇哩亚人（天天考查圣经的听道典范，徒 17:11）"},
+    "readiness": {"ipa": "/ˈredinəs/", "def": "n. 甘心，预备好的心【四级】"},
+    "mocked": {"ipa": "/mɒkt/", "def": "v. 讥诮（mock）【六级】"},
+    "procrastinated": {"ipa": "/prəʊˈkræstɪneɪtɪd/", "def": "v. 推托拖延（procrastinate）【GRE】"},
+    "entreaty": {"ipa": "/ɪnˈtriːti/", "def": "n. 恳求【GRE】"},
+    "harden": {"ipa": "/ˈhɑːdn/", "def": "v. 使硬（harden not your hearts：不可硬心）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "heed", "ipa": "/hiːd/", "def": "n./v. 留心（take heed how ye hear）【GRE】"},
+    {"word": "delude", "ipa": "/dɪˈluːd/", "def": "v. 欺哄（听而不行＝自欺）【GRE】"},
+    {"word": "procrastinate", "ipa": "/prəʊˈkræstɪneɪt/", "def": "v. 推托拖延【GRE】"},
+    {"word": "haply", "ipa": "/ˈhæpli/", "def": "adv.【古】或许"},
+    {"word": "sower", "ipa": "/ˈsəʊə/", "def": "n. 撒种的人"}
+  ]
+}

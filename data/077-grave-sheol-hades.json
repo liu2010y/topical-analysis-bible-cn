@@ -1,0 +1,53 @@
+{
+  "num": "077",
+  "title_en": "GRAVE; SHEOL; HADES",
+  "title_zh": "阴间",
+  "html_name": "077-Grave-Sheol-Hades-阴间.html",
+  "pages": "原书 p. 189",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "GRAVE; SHEOL; HADES. Heb. Sheol; Gr. Hades: the Unseen State or World. Translated either \"grave\" or \"hell.\" Sheol: Gen. 37:35. I will go down into the grave unto my son mourning. Ps. 49:14. Like sheep they are laid in Sheol; death shall be their shepherd. Job 7:9. He that goeth down to Sheol shall come up no more. Prov. 27:20. Sheol and Abaddon are never full. Eccles. 9:10. There is no work, nor device, nor knowledge, nor wisdom, in Sheol, whither thou goest. Isa. 5:14. Ps. 16:10. Thou wilt not leave my soul to Sheol. Ps. 139:8. If I make my bed in Sheol, behold, Thou art there. Isa. 14:9. Hosea 13:14. Hades: Luke 16:23. In Hades he lifted up his eyes, being in torments. Rev. 1:18. I have the keys of death and of Hades. 1 Cor. 15:55.",
+          "zh": "坟墓；阴间（希伯来文 Sheol；希腊文 Hades）：不可见的境界或世界。英译或作『坟墓』（grave）或作『地狱』（hell）。Sheol（示阿勒）：创世记 37:35 —— 我必悲哀着下阴间，到我儿子那里。诗篇 49:14 —— 他们如同羊群派定下阴间，死亡必作他们的牧者。约伯记 7:9 —— 人下阴间也彼此不上来。箴言 27:20 —— 阴间和灭亡（亚巴顿）永不满足。传道书 9:10 —— 因为在你所必去的阴间，没有工作，没有谋算，没有知识，也没有智慧。以赛亚书 5:14。诗篇 16:10 —— 因为你必不将我的灵魂撇在阴间。139:8 —— 我若在阴间下榻，你也在那里。以赛亚书 14:9。何西阿书 13:14。Hades（哈得斯）：路加福音 16:23 —— 他在阴间受痛苦，举目远远地望见亚伯拉罕。启示录 1:18 —— 并且拿着死亡和阴间的钥匙。哥林多前书 15:55。",
+          "bsb": "Psalm 16:10",
+          "grammar": [
+            {"id": "apposition", "note": "Heb. Sheol; Gr. Hades：原文词同位注释——两约对『不可见之境』的对应称呼；英译一词两分（grave / hell）正是本词条要澄清的翻译问题。"},
+            {"id": "subjunctive-though", "note": "If I make my bed in Sheol：条件句虚拟原形 make（我若在阴间下榻）。"}
+          ]
+        },
+        {
+          "en": "The Unseen State, or Underworld, twofold: 1. Paradise, with Christ and His holy ones: Luke 23:43. To-day shalt thou be with Me in Paradise. Rev. 2:7. The tree of life, which is in the Paradise of God. 2. Gehenna; Tophet; Tartarus. Tophet: Isa. 30:33. For a Tophet is prepared of old. Jer. 7:31, 32. Gehenna: Matt. 5:22. In danger of the hell (Gehenna) of fire. Mark 9:43-47. Matt. 10:28. Fear Him which is able to destroy both soul and body in hell. Matt. 23:33. James 3:6. Set on fire of hell. Tartarus: 2 Pet. 2:4. God spared not angels when they sinned, but cast them down to hell (Tartarus). Rev. 1:18.",
+          "zh": "这不可见的境界（阴间）分为两界：1. 乐园——与基督和他的圣者同在：路加福音 23:43 —— 今日你要同我在乐园里了。启示录 2:7 —— 神乐园中生命树的果子。2. 欣嫩子谷（Gehenna）；陀斐特（Tophet）；塔耳塔罗斯（Tartarus）。陀斐特：以赛亚书 30:33 —— 原来陀斐特又深又宽，早已为王预备好了。耶利米书 7:31-32。欣嫩子谷（地狱）：马太福音 5:22 —— 难免地狱的火。马可福音 9:43-47。马太福音 10:28 —— 惟有能把身体和灵魂都灭在地狱里的，正要怕他。23:33。雅各书 3:6 —— 是从地狱里点着的。塔耳塔罗斯：彼得后书 2:4 —— 就是天使犯了罪，神也没有宽容，曾把他们丢在地狱（原文作塔耳塔罗斯）。启示录 1:18。",
+          "bsb": "Luke 23:43",
+          "grammar": [
+            {"id": "no-do-negation", "note": "God spared not angels：不用 do 的否定（神也没有宽容天使）。"},
+            {"note": "Gehenna：源自希伯来文『欣嫩子谷』（耶路撒冷城外焚烧废物之谷，转喻永刑之地）；Tartarus：借自希腊神话的最深狱——新约仅彼后 2:4 一见。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "sheol": {"ipa": "/ˈʃiːəʊl/", "def": "n. 阴间（希伯来文：不可见之境）"},
+    "hades": {"ipa": "/ˈheɪdiːz/", "def": "n. 阴间（希腊文；亦为希腊神话冥王之名）【GRE】"},
+    "mourning": {"ipa": "/ˈmɔːnɪŋ/", "def": "n./v. 悲哀（mourn）【六级】"},
+    "torments": {"ipa": "/ˈtɔːments/", "def": "n. 痛苦（torment）【六级】"},
+    "paradise": {"ipa": "/ˈpærədaɪs/", "def": "n. 乐园【四级】"},
+    "gehenna": {"ipa": "/ɡɪˈhenə/", "def": "n. 欣嫩子谷；地狱（新约『永刑之地』用词）"},
+    "tophet": {"ipa": "/ˈtəʊfet/", "def": "n. 陀斐特（欣嫩子谷中焚烧之处，喻刑罚之地）"},
+    "tartarus": {"ipa": "/ˈtɑːtərəs/", "def": "n. 塔耳塔罗斯（希腊神话最深狱；彼后 2:4）"},
+    "underworld": {"ipa": "/ˈʌndəwɜːld/", "def": "n. 阴间，冥界【六级】"},
+    "whither": {"ipa": "/ˈwɪðə/", "def": "adv.【古】往何处（= to where）"},
+    "device": {"ipa": "/dɪˈvaɪs/", "def": "n.【此处义】谋算；【常义】装置【四级】"},
+    "twofold": {"ipa": "/ˈtuːfəʊld/", "def": "adj. 两重的【六级】"}
+  },
+  "vocab_table": [
+    {"word": "Sheol", "ipa": "/ˈʃiːəʊl/", "def": "n. 阴间（希伯来文）"},
+    {"word": "Hades", "ipa": "/ˈheɪdiːz/", "def": "n. 阴间（希腊文）【GRE】"},
+    {"word": "Gehenna", "ipa": "/ɡɪˈhenə/", "def": "n. 欣嫩子谷→地狱"},
+    {"word": "whither", "ipa": "/ˈwɪðə/", "def": "adv.【古】往何处"},
+    {"word": "torment", "ipa": "/ˈtɔːment/", "def": "n. 痛苦"}
+  ]
+}

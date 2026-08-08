@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-36b09ae818';
+const CACHE = 'topical-cn-d29e04783a';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -204,7 +204,12 @@ const ASSETS = [
   "./167-Appendix-Affliction-Agency-Archaeology-%E9%99%84%E5%BD%95%E4%B8%80.html",
   "./168-Appendix-Bible-%E9%99%84%E5%BD%95%E4%BA%8C%E5%9C%A3%E7%BB%8F.html",
   "./169-Appendix-Church-Christianity-%E9%99%84%E5%BD%95%E4%B8%89.html",
-  "./170-Appendix-Criticism-%E9%99%84%E5%BD%95%E5%9B%9B%E8%80%83%E6%8D%AE%E5%AD%A6.html"
+  "./170-Appendix-Criticism-%E9%99%84%E5%BD%95%E5%9B%9B%E8%80%83%E6%8D%AE%E5%AD%A6.html",
+  "./171-Appendix-Criticism-Continued-%E9%99%84%E5%BD%95%E4%BA%94%E8%80%83%E6%8D%AE%E5%AD%A6%E7%BB%AD.html",
+  "./172-Appendix-Archaeology-Criticism-%E9%99%84%E5%BD%95%E5%85%AD%E8%80%83%E5%8F%A4%E5%AD%A6.html",
+  "./173-Appendix-Genesis14-Monuments-%E9%99%84%E5%BD%95%E4%B8%83%E5%88%9B%E4%B8%96%E8%AE%B0%E5%8D%81%E5%9B%9B%E7%AB%A0.html",
+  "./174-Appendix-Harnack-Isaiah-%E9%99%84%E5%BD%95%E5%85%AB.html",
+  "./175-Appendix-Conservative-Scholarship-%E9%99%84%E5%BD%95%E4%B9%9D.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

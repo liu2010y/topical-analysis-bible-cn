@@ -1,0 +1,257 @@
+{
+  "num": "107",
+  "title_en": "MAN",
+  "title_zh": "人",
+  "html_name": "107-Man-人.html",
+  "pages": "原书 p. 297–312",
+  "ocr_note": "本词条为编者亲撰的 16 页人论大文，大量征引奥尔《神与世界的基督教观》；另收阿加西反进化论一段（1860 年代原文，代表当时保守派立场，此处如实译出）。",
+  "sections": [
+    {
+      "heading": "受造与身体 / Direct Creation; The Body",
+      "blocks": [
+        {
+          "en": "MAN. Direct creation by God. Heb. bara: to prepare, form, fashion, create. Gen. 1:27. So God created man in His own image. Gen. 5:1. Deut. 4:32. Isa. 45:12. The constitutive elements of his complex being: 1. Body—Heb. basar, flesh; Gr. soma. Gen. 2:7. And the Lord God formed man of the dust of the ground. Eccles. 12:7. Then shall the dust return to the earth as it was. 1 Cor. 15:44, 47, 49. There is a natural body. The first man is of the earth, earthy. As we have borne the image of the earthy, we shall also bear the image of the heavenly. 1 Cor. 6:15, 19. Know ye not that your bodies are the members of Christ? Your body is the temple of the Holy Ghost which is in you. Rom. 8:23. Waiting for the adoption, to wit, the redemption of our body.",
+          "zh": "人。由神直接创造。希伯来文 bara：预备、造形、塑造、创造。创世记 1:27 —— 神就照着自己的形象造人。5:1。申命记 4:32。以赛亚书 45:12。他复合存有的构成元素：1. 身体——希伯来文 basar（肉体）；希腊文 soma。创世记 2:7 —— 耶和华神用地上的尘土造人。传道书 12:7 —— 尘土仍归于地。哥林多前书 15:44, 47, 49 —— 若有血气的身体……头一个人是出于地，乃属土。我们既有属土的形状，将来也必有属天的形状。6:15, 19 —— 岂不知你们的身子是基督的肢体吗？岂不知你们的身子就是圣灵的殿吗？罗马书 8:23 —— 等候得着儿子的名分，乃是我们的身体得赎。",
+          "bsb": "Genesis 2:7",
+          "grammar": [
+            {"id": "apposition", "note": "Heb. bara / basar; Gr. soma：原文词的同位注释——bara『创造』一词在旧约专用于神，从不用于人。"},
+            {"note": "to wit：古短语『即，就是』（等候……乃是身体得赎）。"}
+          ]
+        },
+        {
+          "en": "[I have wished to enter my earnest protest against the transmutation theory, revived of late with so much ability, and so generally received. It is my belief that naturalists are chasing a phantom in their search after some material gradation among created beings, by which the whole animal kingdom may have been derived by successive development from a single germ. There seems to me a repulsive poverty in this material explanation, that is contradicted by the intellectual grandeur of the universe: the resources of the Deity cannot be so meager that, in order to create a human being endowed with reason, He must change a monkey into a man. This theory is opposed to the processes of nature so far as we have been able to apprehend them; it is contradicted by the facts of embryology and paleontology—the former showing us forms of development as distinct and persistent for each group as are the fossil types of each period revealed to us by the latter. And the experiments upon domesticated animals and cultivated plants, on which its adherents base their views, are entirely foreign to the matter in hand, since the varieties thus brought about by the fostering care of man are of an entirely different character from those observed among wild species. Louis Agassiz.]",
+          "zh": "〔我一直想对『物种嬗变论』郑重提出抗议——这理论近来被人以极大的才力复兴，且被普遍接受。我相信：博物学家们在诸受造之物中间寻找某种物质性的渐变阶梯（以为整个动物界可由单一胚种逐次发育而来），不过是在追逐幻影。在我看来，这种物质性解释里有一种令人生厌的贫乏，与宇宙智性的宏伟正相抵触：神的资源不至于寒酸到这个地步——为要造出一个有理性的人，非得把一只猴子变成人不可。这理论与我们迄今所能领会的自然过程相悖；它也被胚胎学与古生物学的事实所否证——前者向我们展示：每一类群的发育形态各自分明而恒定，正如后者向我们揭示的每一时代的化石类型各自分明一样。至于该派论者据以立论的家养动物与栽培植物实验，与所论之事全然无关：因为在人的悉心培育之下产生的那些变种，与野生物种中所观察到的变异性质完全不同。路易·阿加西（Louis Agassiz，哈佛博物学家）〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "transmutation theory：物种嬗变论（达尔文以前对进化论的通称）；chasing a phantom：追逐幻影；so meager that … He must change a monkey into a man：so … that 结果句——阿加西反驳中最著名的一句。"},
+            {"id": "as-so-correlative", "note": "as distinct and persistent for each group as are the fossil types：as … as 比较＋后半倒装。"}
+          ]
+        },
+        {
+          "en": "[As a compound being, made up of body and of spirit, man is the link which unites the natural and the spiritual worlds. The direct link between man and nature is the body, which—in its erect posture, its highly evolved brain, its developed limbs, and its countenance lifted up to the heavens—bears witness to the dignity of the soul within. As Materialism ignores the rights of the spirit, and would reduce thought, feeling, and will to functions of matter, so an ultra-spirituality is too apt to ignore the rights of the body, and to regard it as a mere accident of man's personality. The Bible avoids both extremes: Materialism gets all its rights in the Bible doctrine of the body. The Bible history of man's creation; the remarkable honor it places on the body as God's workmanship and the temple of the Holy Ghost; its doctrines of sin, with death as the penalty; of the Incarnation—\"forasmuch as the children are partakers of flesh and blood, He also Himself likewise took part of the same\"; of Redemption, which includes \"the redemption of the body\"; of the future life in a glorified corporeity—all warn us against an undue depreciation of the body. Prof. Orr.]",
+          "zh": "〔作为身体与灵所构成的复合存有，人是联结自然界与属灵界的那一环。人与自然之间的直接联结是身体：它以直立的姿态、高度发达的大脑、发育完备的四肢、以及仰向诸天的面容，为其内在灵魂的尊严作见证。唯物主义无视灵的权利，欲把思想、情感、意志化约为物质的功能；同样，一种过度属灵主义也很容易无视身体的权利，把身体看作人之位格上一个可有可无的偶然附属。圣经避开了这两个极端：在圣经的身体教义里，唯物主义所应得的一切权利都得到了。圣经关于人受造的记事；它把身体尊为神的工作、圣灵的殿所给予的非凡尊荣；它关于罪、并以死为刑罚的教义；关于道成肉身的教义——『儿女既同有血肉之体，他也照样亲自成了血肉之体』；关于救赎的教义——救赎包括『我们的身体得赎』；关于来世在得荣之形体中生活的教义——凡此种种，都警戒我们不可不当地轻看身体。奥尔教授〕",
+          "bsb": "Hebrews 2:14",
+          "grammar": [
+            {"id": "as-so-correlative", "note": "As Materialism ignores …, so an ultra-spirituality is too apt to ignore …：as … so … 的两极对举（唯物主义／过度属灵主义）。"},
+            {"note": "forasmuch as：古连词『因为，既然』；corporeity：形体性；undue depreciation：不当的轻看。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "魂与灵；三分还是二分 / Soul and Spirit: Trichotomy or Dichotomy",
+      "blocks": [
+        {
+          "en": "2. Soul—Heb. nephesh; Gr. psuche (animal soul). 3. Spirit—Heb. ruach, wind; Gr. pneuma. Gen. 2:7. And breathed into his nostrils the breath of life; and man became a living soul. Matt. 10:28; 16:26. Num. 16:22. The God of the spirits of all flesh. Heb. 12:9. The Father of spirits. 1 Thes. 5:23. Your whole spirit and soul and body. Prov. 20:27. The spirit of man is the candle of the Lord. [If the Bible gives its rightful place to the body, much more does it lay stress on the possession by man of a spirit, which is the true seat of his personality, and the link which unites him with the spiritual world and with God. In the Old Testament it is the unity of the personality which is the main fact, and not the distinction of an immaterial and a material part, as in our modern usage. Nephesh, or soul, does not in the Old Testament stand opposed to body, but is rather the principle of \"life,\" which manifests itself on the one hand in the corporeal functions (\"the life is in the blood\"), and on the other in the conscious activities of the mind. The real contrast in the Old Testament is between \"flesh\" and \"spirit,\" and the \"soul\" is the middle term between them, the unity of them. This does not mean that \"soul\" and \"spirit\" are separable elements in the same way that \"soul\" and \"body\" are; it means that the \"soul,\" as inbreathed by God, is the source or seat of a double life. On the one side, it is the animating principle of the body, the source of all vital functions; it is its presence in the body which constitutes the latter \"flesh.\" On the other side, it is the principle of self-conscious life; and the higher activities of the \"soul\"—those which we still denominate \"spiritual\"—are described by the term \"spirit.\" Thus we read of a spirit of wisdom, of knowledge, of understanding; of an upright spirit, a free spirit, a contrite spirit.]",
+          "zh": "2. 魂——希伯来文 nephesh；希腊文 psuche（有生命的魂／动物性的魂）。3. 灵——希伯来文 ruach（风）；希腊文 pneuma。创世记 2:7 —— 将生气吹在他鼻孔里，他就成了有灵的活人（英译：成了活的魂）。马太福音 10:28；16:26。民数记 16:22 —— 万人之灵的神。希伯来书 12:9 —— 万灵的父。帖撒罗尼迦前书 5:23 —— 又愿你们的灵与魂与身子得蒙保守。箴言 20:27 —— 人的灵是耶和华的灯。〔圣经若给了身体应得的地位，它就更加着重人拥有『灵』——灵是他位格真正的所在，是把他与属灵界、与神联结起来的那一环。在旧约里，主要的事实是位格的统一，而不是我们现代用法中『非物质部分』与『物质部分』的划分。旧约中的 nephesh（魂）并不与身体相对，倒是『生命』的原则：它一面显在身体的机能上（『活物的生命是在血中』），一面显在心智的自觉活动上。旧约里真正的对举是『肉体』与『灵』，而『魂』是介乎二者之间的中项、是二者的统一。这并不是说『魂』与『灵』像『魂』与『身体』那样是可分的元素；而是说：『魂』既由神吹入，就是一种双重生命的源头或所在。一面，它是身体的赋活原则、一切生命机能的源头；正因它在身体里，身体才成其为『肉体』。另一面，它是自觉生命的原则；而『魂』的较高活动——我们至今仍称之为『属灵的』那些——则以『灵』这个词来描述。所以我们读到智慧的灵、知识的灵、聪明的灵；正直的灵、乐意的灵、痛悔的灵。〕",
+          "bsb": "1 Thessalonians 5:23",
+          "grammar": [
+            {"id": "apposition", "note": "nephesh / psuche / ruach / pneuma：四个原文词的同位注释——ruach 与 pneuma 本义皆为『风、气息』，故『灵』的意象源于呼吸。"},
+            {"note": "the middle term between them：逻辑学术语『中项』（魂为肉与灵之间的中项）；inbreathed：被吹入的（创 2:7 的动词化）。"}
+          ]
+        },
+        {
+          "en": "[In the New Testament we have a distinction of \"soul\" and \"body\" much more akin to our own, though the influence of Old Testament usage is still very marked. \"Soul\" (psuche) still includes a higher and a lower life; and the higher life is still denoted by the term \"spirit\" (pneuma); while the implication of a body is still always conveyed in the term \"soul.\" There is no \"soul\" which is not intended to animate a \"body\"; there are incorporeal spirits (angels, demons), but they are not called by the name \"souls.\" On the other hand, the \"soul\" is recognized as spiritual in its essence, and in its disembodied state is classed among \"spirits\"—e.g., \"the spirits in prison.\" Except in the sense above explained, I do not see how a trichotomous view of man's nature can be maintained. The distinction of \"soul\" and \"spirit\" is a distinction within the one indivisible spiritual nature; and the antithesis \"soul\" and \"body\" really covers all the facts of man's personal life. The highest functions of the \"spirit\" are in the New Testament ascribed also to the \"soul\"; and the \"soul\" in turn is used by Jesus as a name for man's highest imperishable life: \"He that hateth his life (psuche) in this world shall keep it unto life eternal.\" Prof. Orr.]",
+          "zh": "〔在新约里，『魂』与『身体』的区分与我们今日的用法要接近得多，尽管旧约用法的影响仍很显著。『魂』（psuche）仍旧兼含较高与较低的生命；较高的生命仍以『灵』（pneuma）一词标示；而『魂』这个词里也始终隐含着有身体。没有哪个『魂』不是为赋活一个『身体』而设的；有无形体的灵（天使、鬼魔），但它们不被称为『魂』。另一方面，『魂』的本质被认作属灵的；它在脱离身体的状态中被归入『灵』之列——例如『那些在监狱里的灵』。除上文所解释的意义之外，我看不出人性的『三分说』（trichotomy）如何能够成立。『魂』与『灵』的区分，是那唯一不可分之属灵本性内部的区分；而『魂』与『身体』的对举，才真正涵盖了人位格生命的全部事实。新约把『灵』的最高机能也归给『魂』；而耶稣反过来又用『魂』作为人最高、不朽之生命的名称：『在这世上恨恶自己生命（psuche）的，就要保守生命到永生。』奥尔教授〕",
+          "bsb": "John 12:25",
+          "grammar": [
+            {"note": "trichotomous：三分的（灵魂体三分说）；akin to：与……相近；the antithesis \"soul\" and \"body\"：魂与体的对举（二分说 dichotomy）。"},
+            {"id": "prep-relative", "note": "There is no \"soul\" which is not intended to animate a \"body\"：双重否定的关系从句（没有哪个魂不是为赋活身体而设的）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "照神的形像造的 / Man Made in the Image of God",
+      "blocks": [
+        {
+          "en": "Man made in the image of God: Gen. 1:26, 27. And God said, Let Us make man in Our image, after Our likeness. So God created man in His own image. Gen. 5:1. Eph. 4:24. Put on the new man, which after God is created in righteousness and true holiness. Col. 3:10. Have put on the new man, which is renewed in knowledge after the image of Him that created him. [With the advent of man there appeared at the head of creation a moral and spiritual being—a being made in God's image, a rational and accountable being, a being for the first time capable of moral life, and bearing within him infinite possibilities of progress and happiness. At the summit of nature's gradations—of her inorganic kingdom and plant kingdom and animal kingdom—there stands a being fitted for the Kingdom of God. In a threefold respect is man the personal image of his Maker. 1. He bears the rational image of God: he can understand the world God has made; he is capable of reflection on himself, on the meaning and causes of things, on the ends of his own existence; he shows his superiority over nature through the thoughts he cherishes of God, of infinity, of eternity. 2. He bears God's moral image—not in the possession of actual righteousness, but in the possession of the indestructible elements of a moral nature. (1) He is a being with the power of moral knowledge: the idea of the good, and with it the moral \"ought,\" is part of his constitution; throughout, man is a being who distinguishes good and evil, and who recognizes the obligation to obey the good and to eschew the evil. (2) He is a free, spiritual cause—that is, he has moral freedom. It is this power of will and self-decision which most of all constitutes him a person: through it he stands out of and above nature's sequences, and can react on and modify them. It is surely of little use to deny the possibility of miracle, when every human volition is a species of miracle—a new hyperphysical cause interpolated in the chain of physical events, and giving them a new direction. (3) Man is a being with moral affections; without this he would not be a true image of the God who is love. Summing up: we recognize in man a conscience which reveals moral law, a will which can execute moral purposes, and affections which create a capacity for moral love. 3. Man bears the image of God in his deputed sovereignty over the creatures. I might add one other mark, likewise involved in his self-conscious personality: what may be called the potential infinitude of his nature. It has often been remarked that man could not know himself to be finite if he were not able in thought to transcend the finite, and frame an idea of the Infinite. Though finite, hedged about on every side by the limitations of the finite, he yet shows a constant impulse to transcend these limitations, and ally himself with the Infinite. Through this peculiarity of his nature, there is none of God's infinite attributes which does not find a shadow in his soul. Prof. Orr.]",
+          "zh": "人是照神的形像造的：创世记 1:26-27 —— 神说：我们要照着我们的形象、按着我们的样式造人……神就照着自己的形象造人。5:1。以弗所书 4:24 —— 并且穿上新人；这新人是照着神的形象造的，有真理的仁义和圣洁。歌罗西书 3:10 —— 穿上了新人；这新人在知识上渐渐更新，正如造他主的形象。〔随着人的出现，受造界之首出现了一位有道德、有灵性的存有——一个照神形像所造、有理性、须交账的存有，一个史上第一次能够过道德生活的存有，一个自身怀有无限进步与幸福之可能的存有。在自然的层级阶梯之巅——在她的无机界、植物界、动物界之上——站着一个适于进入神之国度的存有。人在三重意义上是造他者的位格形像。1. 他带着神理性的形像：他能理解神所造的世界；他能反思自己、反思万物的意义与成因、反思自身存在的目的；他借着自己心中所怀关于神、关于无限、关于永恒的思想，显出他高于自然。2. 他带着神道德的形像——不是在实际拥有义的意义上，而是在拥有道德本性中那些不可摧毁之元素的意义上。（1）他是一个具有道德认知能力的存有：『善』的观念，以及随之而来的道德之『应当』，是他构造的一部分；人自始至终是一个分辨善恶、并承认自己有义务顺从善、远避恶的存有。（2）他是一个自由的、属灵的原因——即他有道德的自由。正是这意志与自决之能，最主要地使他成为一个位格：借着它，他站在自然因果序列之外、之上，并能反作用于它、修改它。既然人的每一次意志活动都是某种神迹——一个新的『超物理原因』被插入物理事件之链中，赋予其新的方向——那么否认神迹的可能性，实在没有多大用处。（3）人是一个具有道德情感的存有；没有这一条，他就不是那位『就是爱』之神的真形像。总而言之：我们在人身上认出一个揭示道德律的良心、一个能执行道德目标的意志、以及创造出道德之爱之容量的诸般情感。3. 人在他受托统辖众受造之物的主权上，带着神的形像。我还可以加上一个标记，同样含在他自觉的位格里：可称之为其本性的『潜在无限性』。人们常说：人若不能在思想中超越有限、构想出『无限』的观念，就不可能知道自己是有限的。他虽有限、四面被有限的限制围住，却始终显出一种冲动，要超越这些限制、要把自己与无限联结起来。因着他本性中这一奇异之处，神无限的属性中没有哪一样，在人的灵魂里找不到一个影子。奥尔教授〕",
+          "bsb": "Genesis 1:26-27",
+          "grammar": [
+            {"id": "inversion", "note": "In a threefold respect is man the personal image of his Maker：介词短语前置＋倒装（人在三重意义上是造他者的形像）。"},
+            {"note": "eschew：远避（GRE 词）；hyperphysical cause interpolated in the chain of physical events：超物理原因被插入物理事件之链——奥尔为神迹辩护的类比；hedged about：被围住。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "心灵的官能与良心 / Faculties of the Spiritual Nature; Conscience",
+      "blocks": [
+        {
+          "en": "Elemental endowments, or faculties, of man's spiritual nature: 1. Intellect, reason, understanding—including the powers of observation, perception, apprehension, conception, reflection, comparison, and judgment. 2. Heart (in the restricted sense), or sensibility—including the affections, emotions, and desires. 3. Will, or self-determining power—including preference and choice, purpose and decision. Of these three, only the intellect may be exercised alone, and then only upon abstract themes of thought. In the customary processes of mental action, the relation between the three may be stated in a single sentence: the wide-ranging intellect discloses to, and impresses upon, the sensibilities various objects of interest and attraction, and so excites emotion, affection, or desire; while, in their turn, stirred feeling and desire act with motive force upon the will, to choose and seek the desired objects.",
+          "zh": "人属灵本性中最基本的禀赋或官能：1. 理智、理性、悟性——包括观察、知觉、领会、构想、反思、比较、判断诸能力。2. 心（狭义），即感受力——包括情爱、情绪、欲望。3. 意志，即自决之能——包括偏好与抉择、立意与决断。这三者之中，唯有理智可以单独运作，而且只在抽象的思想题材上如此。在心智活动的常规过程里，三者的关系可用一句话说明：视野广阔的理智把种种引起兴趣与吸引的对象揭示给感受力、印在感受力上，因而激起情绪、情爱或欲望；而被激动的情感与欲望反过来，又以动机之力作用于意志，使之抉择并追求所愿之物。",
+          "bsb": false,
+          "grammar": [
+            {"id": "headline-style", "note": "三官能的编号纲目——十九世纪『官能心理学』（faculty psychology）的标准三分：知、情、意。"},
+            {"note": "while, in their turn, …：in one's turn（反过来）——描述知情意循环作用的句法枢纽。"}
+          ]
+        },
+        {
+          "en": "4. Conscience, the moral faculty of man's nature. As a responsible, personally accountable being, man finds deeply implanted in the heart of his consciousness a threefold capacity and conviction concerning right and wrong, good and evil. He possesses, and knows that he possesses, a power of moral knowledge—an intuitive knowledge of the right and the wrong. He cherishes, and knows that he cherishes, in his inmost heart a power of moral affection—a capacity and intuitive demand for desiring and loving the right or the wrong. And he is profoundly conscious of the possession of a power of moral freedom in his every choice and act—a capacity of will that knowingly determines to seek, and determinedly seeks and enacts, the right or the wrong. This power, with its threefold media of acting, the Scripture calls Conscience; we name it, according to the faculty through which it acts, the moral judgment, the moral feeling, or the moral force. This Conscience, in its normal condition and attitude, dictates nothing other than the seeking of and obedience to the right and the good; and the actual response to its mandate determines the moral character of every human soul—that which he is in the sight of God, righteous or wicked, justified or condemned. Man is further endowed with an immortal and indestructible existence: this is a part of the original gift of God in the creation of man, entirely distinct from the faculties included in his spiritual nature; it is an added endowment—a bestowal of eternal existence for the enjoyment of being in the exercise and expansion of these powers. See Immortality.",
+          "zh": "4. 良心，人性中的道德官能。作为一个负责任、须亲自交账的存有，人发现在自己意识的深处，植入了一种关乎是非善恶的三重能力与确信。他拥有、并知道自己拥有一种道德认知之能——对是与非的直观认知。他在心底怀有、并知道自己怀有一种道德情感之能——对是或非、善或恶去欲求、去爱慕的容量与直观要求。他又深切自觉：在自己每一次抉择与行动中，拥有一种道德自由之能——一种明知而立定、并决然去寻求与实施是或非、善或恶的意志能力。这一能力连同它三重的运作媒介，圣经称之为『良心』；我们则按其运作所经的官能，分别称之为道德判断、道德情感、或道德动力。这良心在其常态与常位上，所指示的无非是寻求并顺从那正确与美善的；而人对其命令的实际回应，决定了每一个人灵魂的道德品格——即他在神眼中究竟是什么：义的还是恶的，称义的还是被定罪的。人还被赋予不朽而不可摧毁的存在：这是神创造人时原初恩赐的一部分，与他属灵本性所含的诸官能截然不同；它是一项附加的禀赋——赐下永恒的存在，好使人在运用与扩展这些能力中享受存在。参主题词条：不朽与永生（086）。",
+          "bsb": "Romans 2:15",
+          "grammar": [
+            {"id": "gerund-nominal", "note": "a power of moral knowledge / of moral affection / of moral freedom：三个同构名词短语——良心的知情意三分，与上节官能三分严格对应。"},
+            {"note": "He possesses, and knows that he possesses …：主句重复＋that 从句的自觉式句法（拥有并自知其拥有），三段皆然。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "伊甸的试验与堕落 / The Test in Eden and the Fall",
+      "blocks": [
+        {
+          "en": "After creation, man was blessed with home and work in Eden. Under the conscious smile, the fostering care, and the manifest love of his Divine Creator, he enjoyed the high, sweet privilege of fellowship and communion with his Father God—as intimated in Gen. 2:18-31, in the help meet made for and given to Adam, in the large and varied blessing of God upon them, and in the declaration immediately following: \"And God saw everything that He had made, and, behold, it was very good.\" It is intimated also in Gen. 3:8-11, in the colloquy of God with Adam \"in the garden in the cool of the day.\" In Eden man was placed under law by his Creator and Moral Governor. He was subjected to a simple test of love and obedience—a test of willingness to respond to his Creator's love, to conform his will to the sovereign will and rightful authority of the Infinite and Eternal God. A creature of intelligence, affection, and freedom in choice and action, knowing himself the recipient of his Creator's affection and bounty, he knew and felt a requital of affection and a response of obedience to be his natural and imperative obligation. And this love and obedience were the only elements of the law under which he was placed: from the nature and relations of God and His spiritual creatures there can be no other requirements than these. The particular test, too, was not a hard one: it demanded no positive or painful exertion; it asked only a small self-denial, the abstinence from a single self-indulgence which was itself absolutely needless for his comfort—nay, which his Creator's truthful word declared would prove destructive to his peace and happiness.",
+          "zh": "受造之后，人蒙福得着伊甸中的家园与工作。在他神圣创造主自觉的笑容、抚育的看顾、显明的慈爱之下，他享有与父神相交契合的崇高甘美之特权——这可从创世记 2:18-31 看出：为亚当所造并所赐的配偶帮手、神加给他们丰盛多样的祝福、以及紧接其后的宣告：『神看着一切所造的都甚好。』也可从创世记 3:8-11 看出：『天起了凉风』时神与亚当在园中的对答。在伊甸，人被他的创造主与道德统治者置于律法之下。他所受的，是一场关于爱与顺服的简单试验——试验他是否愿意回应造他者的爱，是否愿意使自己的意志顺应那无限永恒之神至高的意旨与正当的权柄。他既是有智性、有情感、在抉择行动上有自由的受造者，又自知是造他者之爱与厚赐的领受者，就深知也深感：以爱回报、以顺服回应，乃是他天然而不容推诿的本分。而这爱与顺服，正是他所处律法的全部内容：就神与他属灵受造者的本性与关系而言，除此之外不可能有别的要求。这具体的试验也并不苛刻：它不要求任何积极而痛苦的努力；它只要求一点点克己——戒绝一样对他的舒适全然多余的自我放纵；不，是戒绝一样按造他者真实之言必将毁掉他平安与幸福的东西。",
+          "bsb": "Genesis 1:31",
+          "grammar": [
+            {"note": "help meet：帮手配偶（钦定本 help meet for him『配偶帮手』，后误合为 helpmeet 一词）；colloquy：对答，交谈；requital of affection：以爱回报。"},
+            {"id": "inversion", "note": "In Eden man was placed under law：地点状语前置；nay：古语『不，毋宁说』的递进纠正。"}
+          ]
+        },
+        {
+          "en": "Man's failure under the test; his disobedience through self-indulgence; his rejection of Divine authority through self-will. It is true, and should be considered on the side of man—not as palliative or excuse of his transgression, but in simple justice to the first sinner as compared with multitudes among his successors—that his first movement toward disobedience did not come immediately from his own reasonings and determination: another agent, in the person of the head of already fallen angels, intervened to deceive and to tempt the untried man by false statements and insidious appeals. Thus, through the strength of excited desires in man's whole nature, and the weakness of his whole nature, a newly developed force of self-pride, self-indulgence, and self-will led the first pair deliberately to disobey God, to reject His love and fellowship, to set at nought and defy His sovereign, wise, and rightful authority. The resulting transformation of character and condition—a reversal of standing before God and His law of love and holiness: from his original innocence, righteousness, and purity; from favor with God and blessedness in God's companionship, he passed at once into a state of guilt and unrighteousness, of disfavor with God and banishment from His fellowship, and so of inward wretchedness. From thenceforth, too, he stood hopelessly, helplessly condemned before the Law and the Divine Lawgiver. From thenceforth all his high faculties were marred in their force and deranged in their acting: the reason became so darkened as to be almost impervious to the true knowledge of God; the heart became hardened against all appeal of high, pure desire and affection; the will became as adamant in resistance to all motive and urgency on the part of right and duty and love. And so all his spiritual powers have become misdirected and misused—turned backward from their originally adapted uses, away from God and toward self, independent and neglectful of God, dependent only upon and devoted to self.",
+          "zh": "人在试验之下的失败；他因自我放纵而悖逆；他因自我意志而弃绝神的权柄。有一点确是事实，也应当为人这一方计及——不是要为他的过犯开脱或找借口，只是为了对这第一个罪人、相较于他后世无数的子孙，作一点单纯的公道之论——他迈向悖逆的第一步，并非直接出于他自己的思虑与决断：另有一位施为者介入了，就是那早已堕落之众天使的首领；他以虚谎之言与阴险的怂恿，去欺骗、试探这尚未经受考验的人。于是，借着人整个本性中被激起之欲望的强，又借着他整个本性的弱，一股新生的自傲、自纵、自我意志之力，引着这头一对夫妇蓄意地悖逆神、弃绝他的爱与相交、把他至高、智慧、正当的权柄视为无物并加以违抗。由此而来的品格与境况的转变——在神面前、在他爱与圣洁之律法面前地位的彻底翻转：他从本初的天真、公义、纯洁，从蒙神喜悦、在与神相伴中享福的光景，一下子落入有罪不义的状态、落入不蒙神喜悦并被逐出他相交之外的状态，因而内里凄苦。并且从那时起，他在律法与神圣立法者面前，无望无助地被定了罪。从那时起，他一切崇高的官能都力量受损、运作错乱：理性变得如此昏暗，几乎不能透入对神的真认识；心变得刚硬，对一切崇高纯洁之愿望与情感的呼唤无动于衷；意志变得如金刚石般坚硬，抗拒来自正义、本分与爱的一切动机与催促。于是他一切属灵的能力都被引错了方向、被错用了——从其原初适配的用途上倒转过来，背离神而转向自己：不倚靠神、不顾念神，只倚靠自己、只献身自己。",
+          "bsb": "Genesis 3:6",
+          "grammar": [
+            {"note": "palliative：开脱之辞（palliate：减轻，掩饰）；set at nought：视为无物；as adamant in resistance：如金刚石般坚硬（adamant 本义『最硬的石』）。"},
+            {"id": "inversion", "note": "From thenceforth, too, he stood hopelessly condemned / From thenceforth all his high faculties were marred：状语前置的两连排比——堕落后果的递进。"}
+          ]
+        },
+        {
+          "en": "Man's changed character and relations with God became the inheritance of his posterity. Simply the fact is to be noted; for the Scripture goes no farther, and reason has no basis for inference with respect to \"the nature of the transmitted influence which connects our sin with the sin of Adam.\" But the truth that all are sinners finds frequent and varied expression in every book of the Bible. See Sin. The promise of mercy and deliverance through a personal Deliverer is embodied in the Divine words of sentence against Satan, against Eve, and against Adam (Gen. 3:14-19). The promise is contained in the sentence upon Satan: I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. These words have always been emphasized as the Protevangelion, or First Gospel—the original root-promise of Jehovah. Its repetition and expansion, its increasing definiteness as to the Person who shall deliver and as to the details of His deliverance, and its final fulfillment in the Incarnation and atoning death of Christ, comprise the vital substance and breathing heart of the Old and New Testament revelation. A brief of points: Gen. 9:27—the Person limited to the race of Shem; later, to Abraham, Isaac and Jacob as progenitors of the nation Israel; again, to the tribe of Judah and the family of David is the final limitation. The method of deliverance was typically but effectually intimated in sacrifice—by the patriarchs unto Moses, and by the sacrificial system from Moses to Christ. Herein, as the Epistle to the Hebrews shows, Christ is disclosed as a Priest, Himself offerer and victim; by Moses He is revealed as a Prophet that should come; by David, as King. At length, in the exact \"fullness of time,\" the Deliverer appeared in the Person of Jesus Christ, the Virgin-born Son of God, God manifest in flesh, and accomplished by His blameless, beneficent life—and pre-eminently by His self-sacrificial death—the great and long-promised deliverance.",
+          "zh": "人品格的改变、与神关系的改变，成了他后裔的遗产。此处只需记下这一事实；因为圣经不再往前多说，理性对于『把我们的罪与亚当的罪连起来的那种传递性影响究竟是何性质』也无从推断。但『人人都是罪人』这一真理，在圣经每一卷书里都有频繁而多样的表达。参主题词条：罪。借一位有位格之拯救者施行怜悯与拯救的应许，就包含在神对撒但、对夏娃、对亚当所下的判词之中（创世记 3:14-19）。这应许含在对撒但的判词里：我又要叫你和女人彼此为仇，你的后裔和女人的后裔也彼此为仇；女人的后裔要伤你的头，你要伤他的脚跟。历来人们都着重指出：这几句话就是『原始福音』（Protevangelion，第一福音）——耶和华最初的根本应许。它的重申与扩展、它在『施拯救者是谁』与『拯救之细节如何』上日益明确、以及它最终在基督道成肉身与赎罪之死中的应验，构成了新旧两约启示攸关生命的实质与搏动的心脏。要点简录：创世记 9:27 —— 这一位被限定在闪的族系里；随后限定于亚伯拉罕、以撒、雅各——以色列国的列祖；再后，最终限定于犹大支派与大卫家。拯救的方法，则以预表的方式而切实地借献祭作了提示——从列祖到摩西，再由摩西到基督的献祭体系。正如希伯来书所显明的，基督在其中被揭示为祭司，自己既是献祭者又是祭牲；借摩西，他被启示为那将要来的先知；借大卫，被启示为君王。终于，在恰恰『时候满足』之际，这位拯救者以耶稣基督的位格显现——童女所生的神子、神在肉身显现——并以他无瑕疵、施恩惠的一生，尤以他舍己献祭的死，成就了这伟大而久已应许的拯救。",
+          "bsb": "Genesis 3:15",
+          "grammar": [
+            {"note": "Protevangelion：原始福音（proto 首先＋evangelion 福音）——创 3:15 的传统称号；a brief of points：要点简录（brief 名词义『摘要』）。"},
+            {"id": "inversion", "note": "to the tribe of Judah and the family of David is the final limitation：介词短语前置＋倒装（最终限定于犹大支派与大卫家）。"}
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "人生的意义与两种生命 / Suggestive Truths; Two Types of Life",
+      "blocks": [
+        {
+          "en": "Man's dignity, greatness, and worth are to be measured: 1. By the mere fact of his Divine creation. 2. By his native capacities of thought, affection and self-action, in which he is made in the image of God. 3. By his deputed sovereignty over the earth and the animal races, and by his immense progress in knowledge, in the sciences and arts. 4. By his disobedience to God and rejection of His law and authority—indicating a force of will that assimilates him to God. 5. Pre-eminently, by the Divine intervention for his redemption—in the Incarnation, life, suffering, death and resurrection of Christ; in the regeneration and sanctification of the Holy Spirit; and in the union of Christ with the believer. 6. By his resurrection unto immortal life, and admission to an abiding Divine fellowship. Man's earthly life is a sphere of obligation, influence and responsibility: he knows himself a dependent creature, and therefore under obligation to his upholding Creator; he knows that his life means more than his own personal enjoyment or gain, that he acts upon other lives for good or ill, and that he is accountable for the result of his influence. Luke 12:23. The life is more than meat. Luke 12:15. A man's life consisteth not in the abundance of the things which he possesseth. John 6:27. Labor not for the meat which perisheth, but for that meat which endureth unto everlasting life. Man's earthly life is a period of alternations in experience—toil and rest, disquiet and peace, disappointment and success, gain and loss, gladness and sadness—and each has its mission and ministry of blessing (Eccles. 3:1-15). And by and through all these alternations, man's earthly life becomes a sphere and period of education, discipline, and training, for the perfecting of character here and hereafter. Man's chief aim and supreme duty in the earthly life consists in the supreme consecration of intellect, heart and will to God: this is the sum and substance of the great Law of Love.",
+          "zh": "人的尊严、伟大与价值，当由以下各端来衡量：1. 单就他由神所造这一事实。2. 就他在思想、情感、自我行动上的天赋能力——在这些方面他是照神的形像造的。3. 就他受托统辖大地与动物界的主权，就他在知识、科学与艺术上的巨大进步。4. 就他对神的悖逆、对神律法与权柄的弃绝——这恰恰显出一种使他与神相类的意志之力。5. 尤其是，就神为救赎他而作的介入——道成肉身，基督的生平、受苦、受死与复活；圣灵的重生与成圣；以及基督与信徒的联合。6. 就他复活得不朽的生命，并被接纳进入与神恒久的相交。人在世的生命是一个负有本分、影响与责任的领域：他自知是一个倚赖的受造者，因而对托住他的造物主负有本分；他知道自己的生命不止关乎个人的享受或得利，知道自己对别人的生命施加或善或恶的作用，也知道自己要为这影响的结果交账。路加福音 12:23 —— 因为生命胜于饮食。12:15 —— 因为人的生命不在乎家道丰富。约翰福音 6:27 —— 不要为那必坏的食物劳力，要为那存到永生的食物劳力。人在世的生命是一段交替更迭的经历时期——劳作与安息、烦扰与平安、失望与成功、得与失、喜与悲——而每一样都各有其使命与赐福的服事（传道书 3:1-15）。并且，借着、并透过这一切交替，人在世的生命成为一个教育、管教与训练的领域与时期，为要使品格在今生与来世臻于完全。人在世生命中首要的目标与至上的本分，在于把理智、心与意志至高地献给神：这正是伟大的爱之律法的总纲与实质。",
+          "bsb": "Luke 12:15",
+          "grammar": [
+            {"id": "headline-style", "note": "六条编号的『人之尊严』量表——第 4 条尤为奇警：连人的悖逆也被算作其伟大的证据（因为它显出意志之力）。"},
+            {"note": "consisteth not in：不在乎（人的生命不在乎家道丰富）；alternations：交替更迭。"}
+          ]
+        },
+        {
+          "en": "Man is ever face to face with God; his inner life is alone with God: 1 Kings 17:1. As the Lord God of Israel liveth, before whom I stand. Ps. 16:8. I have set the Lord always before me: because He is at my right hand, I shall not be moved. Ps. 90:1. Lord, Thou hast been our dwelling-place in all generations. Job 42:5. Now mine eye seeth Thee. Gen. 16:13. Thou God seest me. 1 Cor. 2:11. What man knoweth the things of a man, save the spirit of man which is in him? And God is ever face to face with man—beholding, searching, testing, and judging his heart and his actions: Prov. 15:3. The eyes of the Lord are in every place, beholding the evil and the good. Prov. 16:2. The Lord weigheth the spirits. 1 Sam. 2:3. The Lord is a God of knowledge, and by Him actions are weighed. Ps. 94:11. The Lord knoweth the thoughts of man. Heb. 4:13. All things are naked and opened unto the eyes of Him with whom we have to do. God's beholding and testing is in order to help and to bless—to lead men to consider His character, His ways and His will, to compare themselves and their ways with His, and to win them to obedience, that they may walk with Him in \"paths of pleasantness and peace.\"",
+          "zh": "人始终与神面对面；他内里的生命是单独与神相对：列王纪上 17:1 —— 我指着所事奉永生耶和华以色列的神起誓（英译：我所站在他面前的永生神）。诗篇 16:8 —— 我将耶和华常摆在我面前，因他在我右边，我便不至摇动。90:1 —— 主啊，你世世代代作我们的居所。约伯记 42:5 —— 现在我亲眼看见你。创世记 16:13 —— 你是看顾人的神（夏甲语：你看见我）。哥林多前书 2:11 —— 除了在人里头的灵，谁知道人的事？而神也始终与人面对面——鉴察、寻查、试验、审断他的心与他的行为：箴言 15:3 —— 耶和华的眼目无处不在，恶人善人他都鉴察。16:2 —— 惟有耶和华衡量人心。撒母耳记上 2:3 —— 因耶和华是大有智识的神，人的行为被他衡量。诗篇 94:11 —— 耶和华知道人的意念。希伯来书 4:13 —— 原来万物在那与我们有关系的主眼前，都是赤露敞开的。神的鉴察与试验，是为了帮助与赐福——为要引人思想他的品格、他的道路与旨意，把自己与自己的道路同他相比，并把人赢回到顺服里，好叫他们与他同行在『喜乐平安的路上』。",
+          "bsb": "Hebrews 4:13",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "liveth / seeth / weigheth / knoweth：-eth 词尾群。"},
+            {"id": "prep-relative", "note": "before whom I stand / with whom we have to do：介词＋关系代词（我所站在他面前的／与我们有关系的）。"}
+          ]
+        },
+        {
+          "en": "Two types of life comprise all living men. 1. The true God-centered life. In this life, the knowledge of God and His grace, the revealed truths and promises of His Word, and all questions of daily personal duty, are the predominant themes of thought and of prayerful study. In this life God Himself—as the source of all being, purity and blessedness—is the central and supreme object of the heart's deepest affection and longing, so that its impassioned cry is, \"Whom have I in heaven but Thee? and there is none upon earth that I desire beside Thee.\" And in this life the will of God, as expressed in His law of holiness and love, is the single, all-inclusive, overruling principle of choice and of action, so that the subjected, believing, obedient man, looking ever in the face of God, can honestly say, \"Thy will, not mine, be done.\" 2. The false self-centered life—the exact contrast to the true, at every point. Self is the only reality; self alone is the theme of chief, ever-present consideration, the supreme and exclusive object of affection and desire, the ultimate sole end of his daily aims, plans, and intense pursuit. God is far from his inmost controlling thoughts, and his life is ordered without reference to the will of God. The effects of that life upon the man himself: increasing detachment from and aversion to the God who is his true and eternal life; increasing grasp of the spirit of selfishness, narrowing his mental vision of vital truths, dwarfing and crushing out all high and holy affections, and all spiritual cravings for satisfying and abiding good; and utter collapse of all moral capacity for return to God. Upon the community, his influence runs in the direction of his own sad experience, under the force of his ever-active example; so that the self-centered man involves in his own downward progress all with whom his selfish interest has led him to associate. Nor can he do otherwise than sow thus widely the seeds of baleful influence, since no life is isolated—no man liveth to himself alone, though he live in utter selfishness.",
+          "zh": "一切活着的人，都尽在两种生命类型之内。1. 真实的『以神为中心』的生命。在这生命里，对神与他恩典的认识、他话语中所启示的真理与应许、以及日常个人本分的一切问题，是思想与祷告式研读的主导题目。在这生命里，神自己——作为一切存有、纯洁与福乐的源头——是心中最深爱慕与切慕的中心与至上对象，以致这颗心热切的呼喊是：『除你以外，在天上我有谁呢？除你以外，在地上我也没有所爱慕的。』并且在这生命里，神那表达于圣洁与慈爱之律法中的旨意，是抉择与行动唯一的、涵盖一切的、居于统辖地位的原则；以致那降服、信靠、顺从的人，常常仰面注视神，能诚实地说：『愿你的旨意成就，不要成就我的意思。』2. 虚假的『以自我为中心』的生命——在每一点上都与真实的那种恰成对照。自我是唯一的实在；唯有自我是首要而时刻在场的考量题目，是情感与欲望至上而排他的对象，是他日常目标、计划与热切追逐的终极唯一目的。神远离他内心作主的思想，他的生活安排全不参照神的旨意。这种生活对他本人的效果是：与那位本是他真实永恒生命的神日益疏离、日益反感；自私之灵日益抓牢他，使他对攸关生命之真理的心智视野日益狭窄，把一切崇高圣洁的情感、一切对餍足恒久之美善的属灵渴求，都压矮压死；直至归回神的一切道德能力彻底崩塌。对社群而言，他的影响循着自己那可悲经历的方向而去——凭其时刻起作用的榜样之力；以致这以自我为中心的人，把一切因自私利益而与之结交的人，都卷进自己向下的滑落里。他也不可能不这样广泛地播撒有毒影响的种子；因为没有一个生命是孤立的——没有人是单为自己活的，纵然他活在彻底的自私之中。",
+          "bsb": "Psalm 73:25",
+          "grammar": [
+            {"id": "optative-subjunctive", "note": "Thy will, not mine, be done：祈愿虚拟＋插入否定（愿你的旨意成就，不要成就我的意思）——客西马尼的浓缩。"},
+            {"note": "Nor can he do otherwise than sow …：nor 倒装＋do otherwise than（不可能不这样播撒）；baleful：有毒的，恶毒的。"}
+          ]
+        },
+        {
+          "en": "Man's true glory: the knowledge, love, likeness, and service of God. Jer. 9:23, 24. Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches: but let him that glorieth glory in this, that he understandeth and knoweth Me, that I am the Lord which exercise lovingkindness, judgment, and righteousness in the earth: for in these things I delight. 1 Cor. 1:31. He that glorieth, let him glory in the Lord. Rom. 5:3. We glory in tribulations also. Gal. 6:14. God forbid that I should glory, save in the cross of our Lord Jesus Christ. 1 Pet. 5:1, 10. A partaker of the glory that shall be revealed. All the above points lead up to that which is supreme: man's changeless and immortal life. This consists in the endless continuity and expansion of all his spiritual faculties, with results of ever-widening knowledge, affection and service. The essential worth of this present life is found in its relation to, and preparation for, the life to come: everything possessed, experienced, or done on earth has value only as it contributes to the attainment of eternal life. A single statement expresses and exhausts the substance of this final and vital point: the Incarnate, Atoning, Risen and Glorified Christ is the Source and the Giver of man's perfected and abiding life.",
+          "zh": "人真正的荣耀：认识神、爱神、肖似神、事奉神。耶利米书 9:23-24 —— 耶和华如此说：智慧人不要因他的智慧夸口，勇士不要因他的勇力夸口，财主不要因他的财物夸口。夸口的却因他有聪明，认识我是耶和华，又知道我喜悦在世上施行慈爱、公平和公义，以此夸口。哥林多前书 1:31 —— 夸口的当指着主夸口。罗马书 5:3 —— 就是在患难中也是欢欢喜喜的（英译：也以患难夸口）。加拉太书 6:14 —— 但我断不以别的夸口，只夸我们主耶稣基督的十字架。彼得前书 5:1, 10 —— 同享后来所要显现之荣耀的人。以上各端都引向那至高的一点：人不变而不朽的生命。这生命在于他一切属灵官能无尽的延续与扩展，其结果是知识、情感与服事的不断拓宽。今生本质的价值，就在于它与来世的关系、在于它为来世所作的预备：地上所拥有、所经历、所做成的一切，唯有在其有助于得着永生这一点上才有价值。有一句话就道尽了这最终而攸关生命之要点的全部实质：那位道成肉身、代赎、复活、得荣的基督，就是人得以完全、得以长存之生命的源头与赐予者。",
+          "bsb": "Jeremiah 9:23-24",
+          "grammar": [
+            {"id": "let-imperative", "note": "Let not the wise man glory … but let him that glorieth glory in this：let 祈使的三重否定＋一重肯定（耶利米书的『夸口』名段）。"},
+            {"note": "God forbid that I should glory, save in the cross：God forbid（断乎不可）＋save（除……之外）——加拉太书末章的宣告。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "constitutive": {"ipa": "/kənˈstɪtjətɪv/", "def": "adj. 构成的【GRE】"},
+    "earthy": {"ipa": "/ˈɜːθi/", "def": "adj. 属土的"},
+    "transmutation": {"ipa": "/ˌtrænzmjuːˈteɪʃn/", "def": "n. 嬗变，变形（transmutation theory：物种嬗变论）【GRE】"},
+    "naturalists": {"ipa": "/ˈnætʃrəlɪsts/", "def": "n. 博物学家（naturalist）【六级】"},
+    "phantom": {"ipa": "/ˈfæntəm/", "def": "n. 幻影【GRE】"},
+    "gradation": {"ipa": "/ɡrəˈdeɪʃn/", "def": "n. 渐变，层级【GRE】"},
+    "germ": {"ipa": "/dʒɜːm/", "def": "n. 胚种，萌芽【六级】"},
+    "repulsive": {"ipa": "/rɪˈpʌlsɪv/", "def": "adj. 令人生厌的【六级】"},
+    "meager": {"ipa": "/ˈmiːɡə/", "def": "adj. 寒酸的，贫乏的【GRE】"},
+    "embryology": {"ipa": "/ˌembriˈɒlədʒi/", "def": "n. 胚胎学"},
+    "paleontology": {"ipa": "/ˌpæliɒnˈtɒlədʒi/", "def": "n. 古生物学"},
+    "adherents": {"ipa": "/ədˈhɪərənts/", "def": "n. 拥护者（adherent）【GRE】"},
+    "fostering": {"ipa": "/ˈfɒstərɪŋ/", "def": "adj. 抚育的（foster）【六级】"},
+    "erect": {"ipa": "/ɪˈrekt/", "def": "adj. 直立的【六级】"},
+    "materialism": {"ipa": "/məˈtɪəriəlɪzəm/", "def": "n. 唯物主义【六级】"},
+    "corporeity": {"ipa": "/ˌkɔːpəˈriːəti/", "def": "n. 形体性"},
+    "depreciation": {"ipa": "/dɪˌpriːʃiˈeɪʃn/", "def": "n. 轻看，贬低【六级】"},
+    "incorporeal": {"ipa": "/ˌɪnkɔːˈpɔːriəl/", "def": "adj. 无形体的【GRE】"},
+    "disembodied": {"ipa": "/ˌdɪsɪmˈbɒdid/", "def": "adj. 脱离身体的"},
+    "trichotomous": {"ipa": "/traɪˈkɒtəməs/", "def": "adj. 三分的（灵魂体三分说）"},
+    "indivisible": {"ipa": "/ˌɪndɪˈvɪzəbl/", "def": "adj. 不可分的【六级】"},
+    "antithesis": {"ipa": "/ænˈtɪθəsɪs/", "def": "n. 对举，对立【GRE】"},
+    "imperishable": {"ipa": "/ɪmˈperɪʃəbl/", "def": "adj. 不朽的【GRE】"},
+    "gradations": {"ipa": "/ɡrəˈdeɪʃnz/", "def": "n. 层级阶梯（gradation）【GRE】"},
+    "inorganic": {"ipa": "/ˌɪnɔːˈɡænɪk/", "def": "adj. 无机的【六级】"},
+    "indestructible": {"ipa": "/ˌɪndɪˈstrʌktəbl/", "def": "adj. 不可摧毁的【六级】"},
+    "eschew": {"ipa": "/ɪsˈtʃuː/", "def": "v. 远避，戒绝【GRE】"},
+    "volition": {"ipa": "/vəˈlɪʃn/", "def": "n. 意志活动，意愿【GRE】"},
+    "hyperphysical": {"ipa": "/ˌhaɪpəˈfɪzɪkl/", "def": "adj. 超物理的"},
+    "interpolated": {"ipa": "/ɪnˈtɜːpəleɪtɪd/", "def": "v. 插入（interpolate）【GRE】"},
+    "deputed": {"ipa": "/dɪˈpjuːtɪd/", "def": "adj. 受托的（depute：委派）【GRE】"},
+    "infinitude": {"ipa": "/ɪnˈfɪnɪtjuːd/", "def": "n. 无限性【GRE】"},
+    "transcend": {"ipa": "/trænˈsend/", "def": "v. 超越【GRE】"},
+    "hedged": {"ipa": "/hedʒd/", "def": "v. 围住（hedge about）【六级】"},
+    "endowments": {"ipa": "/ɪnˈdaʊmənts/", "def": "n. 禀赋（endowment）【六级】"},
+    "sensibility": {"ipa": "/ˌsensəˈbɪləti/", "def": "n. 感受力【六级】"},
+    "intuitive": {"ipa": "/ɪnˈtjuːɪtɪv/", "def": "adj. 直观的【六级】"},
+    "mandate": {"ipa": "/ˈmændeɪt/", "def": "n. 命令【六级】"},
+    "bestowal": {"ipa": "/bɪˈstəʊəl/", "def": "n. 赐下【GRE】"},
+    "colloquy": {"ipa": "/ˈkɒləkwi/", "def": "n. 对答，交谈【GRE】"},
+    "recipient": {"ipa": "/rɪˈsɪpiənt/", "def": "n. 领受者【六级】"},
+    "bounty": {"ipa": "/ˈbaʊnti/", "def": "n. 厚赐，慷慨【GRE】"},
+    "requital": {"ipa": "/rɪˈkwaɪtl/", "def": "n. 回报【GRE】"},
+    "abstinence": {"ipa": "/ˈæbstɪnəns/", "def": "n. 戒绝【GRE】"},
+    "palliative": {"ipa": "/ˈpæliətɪv/", "def": "n./adj. 开脱之辞；缓和的【GRE】"},
+    "insidious": {"ipa": "/ɪnˈsɪdiəs/", "def": "adj. 阴险的【GRE】"},
+    "deranged": {"ipa": "/dɪˈreɪndʒd/", "def": "v. 使错乱（derange）【GRE】"},
+    "impervious": {"ipa": "/ɪmˈpɜːviəs/", "def": "adj. 不能透入的【GRE】"},
+    "adamant": {"ipa": "/ˈædəmənt/", "def": "n./adj. 金刚石；坚硬不移的【GRE】"},
+    "posterity": {"ipa": "/pɒˈsterəti/", "def": "n. 后裔【GRE】"},
+    "protevangelion": {"ipa": "/ˌprəʊtiːvænˈdʒiːliən/", "def": "n. 原始福音（创 3:15 的传统称号）"},
+    "progenitors": {"ipa": "/prəʊˈdʒenɪtəz/", "def": "n. 列祖（progenitor）【GRE】"},
+    "beneficent": {"ipa": "/bɪˈnefɪsnt/", "def": "adj. 施恩惠的【GRE】"},
+    "alternations": {"ipa": "/ˌɔːltəˈneɪʃnz/", "def": "n. 交替更迭（alternation）【六级】"},
+    "disquiet": {"ipa": "/dɪsˈkwaɪət/", "def": "n. 烦扰不安【GRE】"},
+    "consecration": {"ipa": "/ˌkɒnsɪˈkreɪʃn/", "def": "n. 献上，奉献【GRE】"},
+    "impassioned": {"ipa": "/ɪmˈpæʃnd/", "def": "adj. 热切的【GRE】"},
+    "overruling": {"ipa": "/ˌəʊvəˈruːlɪŋ/", "def": "adj. 居统辖地位的"},
+    "detachment": {"ipa": "/dɪˈtætʃmənt/", "def": "n. 疏离【六级】"},
+    "aversion": {"ipa": "/əˈvɜːʃn/", "def": "n. 反感，厌恶【GRE】"},
+    "dwarfing": {"ipa": "/ˈdwɔːfɪŋ/", "def": "v. 使矮小（dwarf）【六级】"},
+    "cravings": {"ipa": "/ˈkreɪvɪŋz/", "def": "n. 渴求（craving）【六级】"},
+    "baleful": {"ipa": "/ˈbeɪlfl/", "def": "adj. 有毒的，恶毒的【GRE】"},
+    "glorieth": {"ipa": "/ˈɡlɔːriəθ/", "def": "= glories（-eth 古词尾）：夸口"},
+    "partaker": {"ipa": "/pɑːˈteɪkə/", "def": "n. 同享者（partake）"},
+    "attainment": {"ipa": "/əˈteɪnmənt/", "def": "n. 得着，达成【六级】"}
+  },
+  "vocab_table": [
+    {"word": "transmutation", "ipa": "/ˌtrænzmjuːˈteɪʃn/", "def": "n. 嬗变（物种嬗变论＝早期进化论）【GRE】"},
+    {"word": "trichotomous", "ipa": "/traɪˈkɒtəməs/", "def": "adj. 三分的（灵魂体三分说）"},
+    {"word": "eschew", "ipa": "/ɪsˈtʃuː/", "def": "v. 远避，戒绝【GRE】"},
+    {"word": "volition", "ipa": "/vəˈlɪʃn/", "def": "n. 意志活动（每一次意志皆如神迹）【GRE】"},
+    {"word": "adamant", "ipa": "/ˈædəmənt/", "def": "n./adj. 金刚石；坚硬不移的【GRE】"},
+    {"word": "impervious", "ipa": "/ɪmˈpɜːviəs/", "def": "adj. 不能透入的【GRE】"},
+    {"word": "insidious", "ipa": "/ɪnˈsɪdiəs/", "def": "adj. 阴险的【GRE】"},
+    {"word": "Protevangelion", "ipa": "/ˌprəʊtiːvænˈdʒiːliən/", "def": "n. 原始福音（创 3:15）"},
+    {"word": "baleful", "ipa": "/ˈbeɪlfl/", "def": "adj. 有毒的【GRE】"},
+    {"word": "aversion", "ipa": "/əˈvɜːʃn/", "def": "n. 反感【GRE】"},
+    {"word": "infinitude", "ipa": "/ɪnˈfɪnɪtjuːd/", "def": "n. 无限性【GRE】"},
+    {"word": "meager", "ipa": "/ˈmiːɡə/", "def": "adj. 寒酸的，贫乏的【GRE】"}
+  ]
+}

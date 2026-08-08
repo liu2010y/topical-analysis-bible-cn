@@ -1,0 +1,78 @@
+{
+  "num": "110",
+  "title_en": "MIRACLE",
+  "title_zh": "神迹",
+  "html_name": "110-Miracle-神迹.html",
+  "pages": "原书 p. 315–316",
+  "sections": [
+    {
+      "heading": "旧约的神迹 / Miracles of the Old Testament",
+      "blocks": [
+        {
+          "en": "MIRACLE. (The seven great periods of miracle; the definition; the evidential value—see The Bible Work, Vols. I, II.) Miracles of the Old Testament: Gen. 5:24. The translation of Enoch. Gen. 6-9. The Flood. Ex. 7:8-12. Rods become serpents. The ten plagues of Egypt. The crossing of the Red Sea. Ex. 15:25. The bitter waters sweetened. Ex. 16. The manna. Ex. 17:5-6; Num. 20. Water from the smitten rock. The pillar of cloud and of fire. Ex. 34:29-35. The shining face of Moses. Lev. 9:24; 1 Chron. 21:26. Sacrificial fire from heaven. The passage of the Jordan; the fall of Jericho's walls. Josh. 10:13. The sun stood still.",
+          "zh": "神迹。（神迹的七大时期、定义、以及其作为凭据的价值——参作者注释书《The Bible Work》第一、二卷。）旧约的神迹：创世记 5:24 —— 以诺被接升（不见死而被神取去）。创世记 6-9 章 —— 洪水。出埃及记 7:8-12 —— 杖变作蛇。埃及的十灾。过红海。15:25 —— 苦水变甜。16 章 —— 吗哪。17:5-6；民数记 20 章 —— 击磐出水。云柱与火柱。出埃及记 34:29-35 —— 摩西面皮发光。利未记 9:24；历代志上 21:26 —— 天降火烧祭。过约旦河；耶利哥城墙倒塌。约书亚记 10:13 —— 日头停留（不急速下落）。",
+          "bsb": "Joshua 10:13",
+          "grammar": [
+            {"id": "headline-style", "note": "神迹清单的条目式排布——每条只留事件名与出处，是原书作为『索引工具书』的典型体例。"},
+            {"note": "translation：此处神学专义『接升』（不经死被接去）；smitten：smite（击打）的过去分词（被击打的磐石）。"}
+          ]
+        },
+        {
+          "en": "By Elijah: fed by ravens; the unwasting meal and oil; the raising of the widow's dead child; two companies destroyed; the translation of Elijah. By Elisha: the waters healed at Jericho; the judgment at Bethel; the widow's need supplied; the Shunammite's son restored to life; the poisoned pottage purified; the loaves and corn multiplied; the lost axe-head recovered; Naaman's leprosy removed, and its infliction on Gehazi; a dead man restored (by touching Elisha's bones). Uzziah's leprosy. The destruction of the Assyrian host. For the miracles of Christ, see Christ on Earth. The miracle of Pentecost: Acts 2:4, 11. They began to speak with other tongues, as the Spirit gave them utterance. The descent of the Holy Ghost.",
+          "zh": "借以利亚所行的：乌鸦供食；面与油用之不尽；使寡妇死去的儿子复活；两队五十人被火烧灭；以利亚被接升天。借以利沙所行的：耶利哥的水得医治；伯特利的刑罚（童子被熊撕裂）；寡妇的缺乏得供应；书念妇人的儿子复活；有毒的野瓜汤得洁净；饼与麦子变多；沉入水中的斧头浮出；乃缦的大麻风得洁净，而这灾病转加在基哈西身上；一个死人（触着以利沙的骸骨）复活。乌西雅王长大麻风。亚述大军被灭（一夜之间十八万五千人）。基督的神迹，参主题词条：基督在世（032）。五旬节的神迹：使徒行传 2:4, 11 —— 他们就都被圣灵充满，按着圣灵所赐的口才说起别国的话来。圣灵降临。",
+          "bsb": "Acts 2:4",
+          "grammar": [
+            {"note": "unwasting：用之不尽的（waste 的否定分词，罕见构词）；pottage：浓汤（王下 4 章『锅中有致死的毒物』）；host：此处古义『军旅』（亚述大军）。"},
+            {"id": "gerund-nominal", "note": "the raising of … / the restoring of … / the multiplying of …：动名词短语作条目标题的清单体。"}
+          ]
+        },
+        {
+          "en": "[Is there a supernatural relation of God and man? Is there a supernatural revelation? Has that revelation culminated in a supernatural Person, Jesus Christ? Is there a supernatural work of a Divine Spirit in the souls of men? If these queries may be answered in the affirmative, they carry with them the whole groundwork of miracles, and vastly more besides. If the Incarnation was a real event, and God has truly dwelt in our humanity; if the Resurrection is one of the best substantiated of all historic facts; if the ascension body of Christ is a reality—then the whole structure of Christianity remains unshaken, and the work of destructive criticism, in chipping away small details, while it may deface, can never destroy. Prof. Orr.]",
+          "zh": "〔神与人之间有超自然的关系吗？有超自然的启示吗？那启示是否在一位超自然的位格——耶稣基督身上臻于极顶？在人的灵魂里有神圣之灵超自然的工作吗？这几问若可以肯定作答，它们就连带确立了神迹的全部根基，而且远不止于此。倘若道成肉身是一件真实发生的事，神确实住在我们的人性之中；倘若复活是一切历史事实中被证实得最充分的一件；倘若基督升天的身体是实在的——那么整座基督教的建筑就依然屹立不摇；破坏性批评削去些许细枝末节的工作，纵能损其外观，却永不能毁其根本。奥尔教授〕",
+          "bsb": false,
+          "grammar": [
+            {"note": "Is there …? Is there …? Has …? Is there …?：四连修辞问句蓄势，随后以三个 if 从句收束于一个主句——奥尔典型的『护教三段』结构；chipping away：一点点削去；deface：损其外观（与 destroy 毁其根本相对）。"},
+            {"id": "subjunctive-though", "note": "while it may deface, can never destroy：while 让步＋两个情态动词的强弱对比。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "miracle": {"ipa": "/ˈmɪrəkl/", "def": "n. 神迹【四级】"},
+    "evidential": {"ipa": "/ˌevɪˈdenʃl/", "def": "adj. 作为凭据的（evidence）【GRE】"},
+    "translation": {"ipa": "/trænzˈleɪʃn/", "def": "n.【神学义】接升（以诺、以利亚不见死而被接去）【四级】"},
+    "rods": {"ipa": "/rɒdz/", "def": "n. 杖（rod）【四级】"},
+    "serpents": {"ipa": "/ˈsɜːpənts/", "def": "n. 蛇（serpent）【六级】"},
+    "plagues": {"ipa": "/pleɪɡz/", "def": "n. 灾（十灾）【六级】"},
+    "manna": {"ipa": "/ˈmænə/", "def": "n. 吗哪（旷野天降的食物）"},
+    "smitten": {"ipa": "/ˈsmɪtn/", "def": "v. smite（击打）的过去分词：被击打的"},
+    "sacrificial": {"ipa": "/ˌsækrɪˈfɪʃl/", "def": "adj. 献祭的【六级】"},
+    "ravens": {"ipa": "/ˈreɪvnz/", "def": "n. 乌鸦（raven）【六级】"},
+    "unwasting": {"ipa": "/ʌnˈweɪstɪŋ/", "def": "adj. 用之不尽的（waste：耗尽）"},
+    "meal": {"ipa": "/miːl/", "def": "n.【此处义】面粉（坛内的面）【四级】"},
+    "pottage": {"ipa": "/ˈpɒtɪdʒ/", "def": "n.【古】浓汤，羹【GRE】"},
+    "axe-head": {"ipa": "/ˈæks hed/", "def": "n. 斧头（掉进水里又浮起）"},
+    "leprosy": {"ipa": "/ˈleprəsi/", "def": "n. 大麻风【GRE】"},
+    "infliction": {"ipa": "/ɪnˈflɪkʃn/", "def": "n. 加与（灾病）（inflict）【六级】"},
+    "host": {"ipa": "/həʊst/", "def": "n.【古义】军旅，大军【四级】"},
+    "utterance": {"ipa": "/ˈʌtərəns/", "def": "n. 口才，言语【六级】"},
+    "supernatural": {"ipa": "/ˌsuːpəˈnætʃrəl/", "def": "adj. 超自然的【六级】"},
+    "culminated": {"ipa": "/ˈkʌlmɪneɪtɪd/", "def": "v. 臻于极顶（culminate）【GRE】"},
+    "queries": {"ipa": "/ˈkwɪəriz/", "def": "n. 问题（query）【六级】"},
+    "affirmative": {"ipa": "/əˈfɜːmətɪv/", "def": "n./adj. 肯定（的）【六级】"},
+    "groundwork": {"ipa": "/ˈɡraʊndwɜːk/", "def": "n. 根基【六级】"},
+    "substantiated": {"ipa": "/səbˈstænʃieɪtɪd/", "def": "v. 被证实（substantiate）【GRE】"},
+    "chipping": {"ipa": "/ˈtʃɪpɪŋ/", "def": "v. 一点点削去（chip away）【六级】"},
+    "deface": {"ipa": "/dɪˈfeɪs/", "def": "v. 损毁外观【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "leprosy", "ipa": "/ˈleprəsi/", "def": "n. 大麻风（乃缦得洁净）【GRE】"},
+    {"word": "pottage", "ipa": "/ˈpɒtɪdʒ/", "def": "n.【古】浓汤（锅中的毒汤得洁净）【GRE】"},
+    {"word": "manna", "ipa": "/ˈmænə/", "def": "n. 吗哪"},
+    {"word": "host", "ipa": "/həʊst/", "def": "n.【古义】军旅（亚述大军）"},
+    {"word": "substantiate", "ipa": "/səbˈstænʃieɪt/", "def": "v. 证实【GRE】"},
+    {"word": "deface", "ipa": "/dɪˈfeɪs/", "def": "v. 损毁外观（能损其外观，不能毁其根本）【GRE】"},
+    {"word": "culminate", "ipa": "/ˈkʌlmɪneɪt/", "def": "v. 臻于极顶【GRE】"}
+  ]
+}

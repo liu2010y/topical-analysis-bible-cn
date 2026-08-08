@@ -1,0 +1,37 @@
+{
+  "num": "109",
+  "title_en": "MESSIANIC REFERENCES AND PREDICTIONS",
+  "title_zh": "弥赛亚的经文与预言",
+  "html_name": "109-Messianic-References-弥赛亚预言.html",
+  "pages": "原书 p. 314",
+  "ocr_note": "本词条为原书的交叉索引式短词条（仅指向另两处已展开的段落），并非扫描缺页；中文括注为译者依所指内容补出，便于查考。",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "MESSIANIC REFERENCES AND PREDICTIONS. For a brief outline, see God (the Son: King, Messiah or Anointed of God; and the Old Testament references to Messiah and His rule); also Man (the Protevangelion, and the successive limitation of the promise—to the race of Shem, to Abraham, Isaac and Jacob, to the tribe of Judah and the family of David—with the typical intimation of the method of deliverance in sacrifice, and the presentation of the Deliverer by Moses as Prophet, by David as King, and in the Epistle to the Hebrews as Priest, Himself both offerer and victim).",
+          "zh": "弥赛亚的经文与预言。简要纲目参见主题词条『神』（074，子神一节中『君王——弥赛亚，即神的受膏者』及旧约论弥赛亚及其治权的经文）；又参主题词条『人』（107，原始福音，以及应许逐步收窄的谱系——限于闪的族系，限于亚伯拉罕、以撒、雅各，最终限于犹大支派与大卫家；并以献祭预表拯救的方法，以及摩西把这位拯救者显为先知、大卫显为君王、希伯来书显为祭司——他自己既是献祭者又是祭牲）。",
+          "bsb": "Luke 24:27",
+          "grammar": [
+            {"id": "headline-style", "note": "纯交叉索引条目——原书体例：大题已在别处展开时，此处只留指路牌；Messianic：弥赛亚的（Messiah 源自希伯来文 mashiach『受膏者』，希腊文对译即 Christos）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "messianic": {"ipa": "/ˌmesiˈænɪk/", "def": "adj. 弥赛亚的（Messiah：受膏者）"},
+    "predictions": {"ipa": "/prɪˈdɪkʃnz/", "def": "n. 预言（prediction）【四级】"},
+    "anointed": {"ipa": "/əˈnɔɪntɪd/", "def": "adj./n. 受膏的（者）【GRE】"},
+    "protevangelion": {"ipa": "/ˌprəʊtiːvænˈdʒiːliən/", "def": "n. 原始福音（创 3:15）"},
+    "progenitors": {"ipa": "/prəʊˈdʒenɪtəz/", "def": "n. 列祖（progenitor）【GRE】"},
+    "victim": {"ipa": "/ˈvɪktɪm/", "def": "n.【此处义】祭牲，牺牲【四级】"},
+    "offerer": {"ipa": "/ˈɒfərə/", "def": "n. 献祭者"}
+  },
+  "vocab_table": [
+    {"word": "Messianic", "ipa": "/ˌmesiˈænɪk/", "def": "adj. 弥赛亚的（mashiach 受膏者→Christos）"},
+    {"word": "anointed", "ipa": "/əˈnɔɪntɪd/", "def": "adj. 受膏的【GRE】"},
+    {"word": "victim", "ipa": "/ˈvɪktɪm/", "def": "n.【古义】祭牲（基督既是献祭者又是祭牲）"}
+  ]
+}

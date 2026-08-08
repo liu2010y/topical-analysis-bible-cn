@@ -159,6 +159,11 @@
 | 103 | Light and Darkness（光与暗） | p. 283–286 | ✅ |
 | 104 | Longing after God（渴慕神） | p. 286–288 | ✅（含 Miller"除神自己别无足够"） |
 | 105 | Lord's Day; Supper; Prayer（主日/主餐/主祷文） | p. 288–289 | ✅（含"debts vs trespasses"语文学辨析） |
-| 106– | Love（爱）起 | p. 289– | ⏳（大词条） |
+| 106 | Love（爱） | p. 289–297 | ✅（五分节：爱的特性/神爱人/人爱神/人爱人/爱为诸德之首） |
+| 107 | Man（人） | p. 297–312 | ✅（16 页人论大文：受造/魂灵之辨/神的形像/良心/堕落/两种生命） |
+| 108 | Mercy（怜悯） | p. 313–314 | ✅（pardon 与 forgiveness 之辨） |
+| 109 | Messianic References（弥赛亚预言） | p. 314 | ✅（交叉索引式短词条） |
+| 110 | Miracle（神迹） | p. 315–316 | ✅（旧约神迹清单＋Orr 论超自然） |
+| 111– | Missions（宣教）起 | p. 316– | ⏳（10 页大词条） |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

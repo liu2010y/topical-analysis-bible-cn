@@ -1,0 +1,55 @@
+{
+  "num": "131",
+  "title_en": "PROSPERITY",
+  "title_zh": "亨通",
+  "html_name": "131-Prosperity-亨通.html",
+  "pages": "原书 p. 425",
+  "ocr_note": "短词条：亨通使人自恃忘神的效应、它其他的害处、当如何领受亨通、真亨通的秘诀，末附神的警戒与劝导。",
+  "sections": [
+    {
+      "heading": "亨通的危险与真亨通的秘诀 / The Peril of Prosperity and the Secret of True Prosperity",
+      "blocks": [
+        {
+          "en": "PROSPERITY. Its self-trusting, God-forgetting effect: Ps. 30:6. And in my prosperity I said, I shall never be moved. Ps. 55:19. Because they have no changes, therefore they fear not God. Jer. 22:21. I spake unto thee in thy prosperity; but thou saidst, I will not hear. Jer. 48:11. Moab hath been at ease from his youth, and he hath settled on his lees. Hos. 13:6. According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten Me. Other hurtful results: Eccl. 5:12. The sleep of a laboring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep. Ps. 73:3. For I was envious at the foolish, when I saw the prosperity of the wicked. How prosperity is to be received: Eccl. 7:14. In the day of prosperity be joyful, but in the day of adversity consider (literally, \"In the day of good, be in good\"—that is, use it as it should be used).",
+          "zh": "亨通。它使人自恃、忘记神的效应：诗篇 30:6 —— 至于我，我凡事平顺，便说：我永不动摇。55:19 —— 因他们没有改变，所以不敬畏神。耶利米书 22:21 —— 你兴盛的时候，我对你说话；你却说：我不听。48:11 —— 摩押自幼年以来常享安逸，如酒在渣滓上澄清。何西阿书 13:6 —— 这些民照我所赐的食物得了饱足；既得饱足，心就高傲，忘记了我。其他的害处：传道书 5:12 —— 劳碌的人不拘吃多吃少，睡得香甜；富足人的丰满却不容他睡觉。诗篇 73:3 —— 我见恶人和愚妄人享平安，就心怀不平。当如何领受亨通：传道书 7:14 —— 遇亨通的日子，你当喜乐；遭患难的日子，你当思想。（直译作『在好的日子里，就在好中』——意即当照其本当的用法去用它。）",
+          "bsb": "Ecclesiastes 7:14",
+          "grammar": [
+            {"id": "no-do-negation", "note": "therefore they fear not God：不用 do 的否定（所以不敬畏神）。"},
+            {"id": "as-so-correlative", "note": "According to their pasture, so were they filled：according to … so … 相关＋倒装（照我所赐的食物，他们就得饱足）。"},
+            {"note": "settled on his lees：如酒沉在渣滓上（耶 48:11，喻久处安逸而不经翻动、以致变质）；suffer him to sleep：容他睡觉（suffer 古义『容许』）。"}
+          ]
+        },
+        {
+          "en": "Secret of true prosperity: 1 Kings 2:2, 3. Be thou strong therefore, and shew thyself a man; and keep the charge of the Lord thy God, to walk in His ways, to keep His statutes, and His commandments, and His judgments, and His testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself. Job 36:11. If they obey and serve Him, they shall spend their days in prosperity, and their years in pleasures. Prov. 3:13-18. Happy is the man that findeth wisdom . . . Length of days is in her right hand; and in her left hand riches and honor. Her ways are ways of pleasantness, and all her paths are peace. Divine caution and counsel: Deut. 6:10-12. When thou shalt have eaten and be full; then beware lest thou forget the Lord, which brought thee forth out of the land of Egypt. Deut. 32:46, 47. Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law. For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days.",
+          "zh": "真亨通的秘诀：列王纪上 2:2-3 —— 所以你当刚强，作大丈夫，遵守耶和华你神所吩咐的，照着摩西律法上所写的行主的道，谨守他的律例、诫命、典章、法度；这样，你无论做什么事，不拘往何处去，尽都亨通。约伯记 36:11 —— 他们若听从事奉他，就必度日亨通，历年福乐。箴言 3:13-18 —— 得智慧、得聪明的，这人便为有福……他右手有长寿，左手有富贵。他的道是安乐，他的路全是平安。神的警戒与劝导：申命记 6:10-12 —— 你吃了而且饱足，那时你要谨慎，免得你忘记将你从埃及地领出来的耶和华。32:46-47 —— 我今日所警教你们的，你们都要放在心上，要吩咐你们的子孙谨守遵行这律法上的话。因为这不是虚空、与你们无关的事，乃是你们的生命；在你们过约旦河要得为业的地上，必因这事日子得以长久。",
+          "bsb": "Proverbs 3:17",
+          "grammar": [
+            {"id": "kjv-pronouns", "note": "Be thou strong … shew thyself a man … thou mayest prosper … whithersoever thou turnest thyself：thou/thyself/-est 的密集使用——大卫临终对所罗门的私下叮嘱，单数形式加重了亲切与郑重。"},
+            {"note": "whithersoever：无论往何处（古式关系副词）；charge：此处义『所受的托付、职守』；vain thing：虚空无关的事。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "prosperity": {"ipa": "/prɒˈsperəti/", "def": "n. 亨通，兴盛【四级】"},
+    "lees": {"ipa": "/liːz/", "def": "n. 酒渣，沉淀物【GRE】"},
+    "pasture": {"ipa": "/ˈpɑːstʃə/", "def": "n. 牧草，食物【六级】"},
+    "exalted": {"ipa": "/ɪɡˈzɔːltɪd/", "def": "adj. 高傲的，被高举的【GRE】"},
+    "abundance": {"ipa": "/əˈbʌndəns/", "def": "n. 丰足【六级】"},
+    "suffer": {"ipa": "/ˈsʌfə/", "def": "v.【古义】容许，任凭【四级】"},
+    "envious": {"ipa": "/ˈenviəs/", "def": "adj. 嫉妒的【六级】"},
+    "adversity": {"ipa": "/ədˈvɜːsəti/", "def": "n. 患难【GRE】"},
+    "statutes": {"ipa": "/ˈstætʃuːts/", "def": "n. 律例（statute）【GRE】"},
+    "testimonies": {"ipa": "/ˈtestɪməniz/", "def": "n. 法度（testimony）【六级】"},
+    "whithersoever": {"ipa": "/ˌwɪðəsəʊˈevə/", "def": "adv.【古】无论往何处"},
+    "pleasantness": {"ipa": "/ˈplezntnəs/", "def": "n. 安乐，怡悦【四级】"},
+    "prolong": {"ipa": "/prəˈlɒŋ/", "def": "v. 延长【六级】"}
+  },
+  "vocab_table": [
+    {"word": "settle on the lees", "ipa": "/liːz/", "def": "沉在渣滓上（耶 48:11：久处安逸不经翻动而变质）【GRE】"},
+    {"word": "suffer", "ipa": "/ˈsʌfə/", "def": "v.【古义】容许（传 5:12『不容他睡觉』）【四级】"},
+    {"word": "whithersoever", "ipa": "/ˌwɪðəsəʊˈevə/", "def": "adv.【古】无论往何处（王上 2:3）"},
+    {"word": "adversity", "ipa": "/ədˈvɜːsəti/", "def": "n. 患难（与 prosperity 相对，传 7:14）【GRE】"}
+  ]
+}

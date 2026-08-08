@@ -184,6 +184,11 @@
 | 128 | Pride（骄傲） | p. 404 | ✅（短词条） |
 | 129 | Promise and Promises, of God（神的应许） | p. 404–407 | ✅ |
 | 130 | Prophecy; Prophet（预言与先知） | p. 407–424 | ✅（格雷戈里四期先知纲要） |
-| 131– | Prosperity（亨通）起 | p. 425– | ⏳ |
+| 131 | Prosperity（亨通） | p. 425 | ✅（短词条） |
+| 132 | Providence（神的护理） | p. 426–432 | ✅（三重护理＋护理的两重界限） |
+| 133 | Psalms; Psalter（诗篇与诗集） | p. 432–436 | ✅（主题分类表＋奥斯古德两文） |
+| 134 | Redemption（救赎） | p. 436–439 | ✅（以林前 1:30 为纲；奥尔、贝伦兹） |
+| 135 | Regeneration（重生） | p. 440–442 | ✅（重生的神一面与人一面） |
+| 136– | Repentance（悔改）起 | p. 443– | ⏳（metanoia 词义辨析长文） |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

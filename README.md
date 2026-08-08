@@ -189,6 +189,11 @@
 | 133 | Psalms; Psalter（诗篇与诗集） | p. 432–436 | ✅（主题分类表＋奥斯古德两文） |
 | 134 | Redemption（救赎） | p. 436–439 | ✅（以林前 1:30 为纲；奥尔、贝伦兹） |
 | 135 | Regeneration（重生） | p. 440–442 | ✅（重生的神一面与人一面） |
-| 136– | Repentance（悔改）起 | p. 443– | ⏳（metanoia 词义辨析长文） |
+| 136 | Repentance（悔改） | p. 443–446 | ✅（metanoia 与 metamelomai 词义辨析） |
+| 137 | Rest（安息） | p. 447–450 | ✅（麦克拉伦论信心与安息） |
+| 138 | Resurrection of Christ（基督的复活） | p. 450–455 | ✅（司特尔斯、华腓德两长文） |
+| 139 | Resurrection of the Body（身体的复活） | p. 455–458 | ✅（奥尔论复活身体的同一性） |
+| 140 | Revival Texts（复兴经文） | p. 458–459 | ✅（短词条） |
+| 141– | Riches; Money（钱财）起 | p. 459– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

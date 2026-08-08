@@ -1,0 +1,52 @@
+{
+  "num": "088",
+  "title_en": "INFIRMITY, WEAKNESS",
+  "title_zh": "软弱",
+  "html_name": "088-Infirmity-软弱.html",
+  "pages": "原书 p. 217–218",
+  "sections": [
+    {
+      "heading": "正文对照 / Text",
+      "blocks": [
+        {
+          "en": "INFIRMITY, WEAKNESS, bodily or spiritual. Regarded and helped of God: Ps. 103:14. For He knoweth our frame; He remembereth that we are dust. Isa. 32:2. The shadow of a great rock in a weary land. Isa. 40:29. He giveth power to the faint. Isa. 50:4. That I should know how to sustain with words him that is weary. Lam. 3:22, 32. His compassions fail not. Matt. 8:17. Himself took our infirmities, and bare our sicknesses. Matt. 26:41. The spirit indeed is willing, but the flesh is weak. Rom. 8:26. The Spirit also helpeth our infirmity. Heb. 4:15. Touched with the feeling of our infirmities. James 5:11. The Lord is very pitiful, and of tender mercy.",
+          "zh": "软弱，无力——身体的或灵性的。神眷顾并帮助软弱：诗篇 103:14 —— 因为他知道我们的本体，思念我们不过是尘土。以赛亚书 32:2 —— 像大磐石的影子在疲乏之地。40:29 —— 疲乏的，他赐能力。50:4 —— 使我知道怎样用言语扶助疲乏的人。耶利米哀歌 3:22, 32 —— 他的怜悯不至断绝。马太福音 8:17 —— 他代替我们的软弱，担当我们的疾病。26:41 —— 你们心灵固然愿意，肉体却软弱了。罗马书 8:26 —— 况且我们的软弱有圣灵帮助。希伯来书 4:15 —— 能体恤我们的软弱。雅各书 5:11 —— 主是满心怜悯，大有慈悲。",
+          "bsb": "Psalm 103:14",
+          "grammar": [
+            {"id": "eth-est-endings", "note": "knoweth / remembereth / giveth / helpeth：-eth 词尾群。"},
+            {"id": "the-adjective", "note": "the faint / the weary / the weak：the＋形容词表一类人——疲乏的、困倦的、软弱的。"}
+          ]
+        },
+        {
+          "en": "To be regarded and helped by men: Isa. 35:3. Strengthen ye the weak hands, and confirm the feeble knees. Zech. 7:9. Show mercy and compassion every man to his brother. Acts 20:35. Ye ought to support the weak. Rom. 15:1. We then that are strong ought to bear the infirmities of the weak. 1 Thes. 5:14. Support the weak; be long-suffering toward all. Heb. 12:12. Lift up the hands which hang down, and the feeble knees. 1 Pet. 3:8. Be pitiful, be courteous. Gal. 6:1. If a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness. Illus. Luke 10:33. The Good Samaritan. 1 Cor. 9:22. To the weak became I as weak, that I might gain the weak. 2 Cor. 11:29. Who is weak, and I am not weak? See Anxiety; Despondency; Hope; Waiting on God.",
+          "zh": "人也当眷顾并帮助软弱：以赛亚书 35:3 —— 你们要使软弱的手坚壮，无力的膝稳固。撒迦利亚书 7:9 —— 各人以慈爱怜悯弟兄。使徒行传 20:35 —— 又当扶助软弱的人。罗马书 15:1 —— 我们坚固的人应该担代不坚固人的软弱。帖撒罗尼迦前书 5:14 —— 扶助软弱的人，也要向众人忍耐。希伯来书 12:12 —— 所以，你们要把下垂的手、发酸的腿挺起来。彼得前书 3:8 —— 存慈怜谦卑的心。加拉太书 6:1 —— 若有人偶然被过犯所胜，你们属灵的人就当用温柔的心把他挽回过来。例证：路加福音 10:33 —— 好撒玛利亚人。哥林多前书 9:22 —— 向软弱的人，我就作软弱的人，为要得软弱的人。哥林多后书 11:29 —— 有谁软弱，我不软弱呢？参主题词条：忧虑（009）；灰心丧胆（057）；盼望（082）；等候神。【OCR 注：原书 \"Rom. 5:1\" 依经文（坚固的人应该担代）推定为罗马书 15:1。】",
+          "bsb": "Romans 15:1",
+          "grammar": [
+            {"id": "subjunctive-though", "note": "If a man be overtaken in a fault：条件句虚拟 be（若有人偶然被过犯所胜）。"},
+            {"id": "inversion", "note": "To the weak became I as weak：介词短语前置＋倒装（向软弱的人我就作软弱的人）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "infirmity": {"ipa": "/ɪnˈfɜːməti/", "def": "n. 软弱【GRE】"},
+    "infirmities": {"ipa": "/ɪnˈfɜːmətiz/", "def": "n. 软弱（infirmity）【GRE】"},
+    "frame": {"ipa": "/freɪm/", "def": "n.【此处义】本体，体质【四级】"},
+    "faint": {"ipa": "/feɪnt/", "def": "adj. 疲乏的；v. 昏厥【四级】"},
+    "compassions": {"ipa": "/kəmˈpæʃnz/", "def": "n. 怜悯（compassion）【四级】"},
+    "pitiful": {"ipa": "/ˈpɪtɪfl/", "def": "adj.【古义】满心怜悯的；【今义】可怜的【四级】"},
+    "feeble": {"ipa": "/ˈfiːbl/", "def": "adj. 无力的，发酸的【六级】"},
+    "long-suffering": {"ipa": "/ˌlɒŋ ˈsʌfərɪŋ/", "def": "adj. 恒久忍耐的"},
+    "courteous": {"ipa": "/ˈkɜːtiəs/", "def": "adj. 谦恭的【六级】"},
+    "overtaken": {"ipa": "/ˌəʊvəˈteɪkən/", "def": "v. 被（过犯）所胜（overtake）【四级】"},
+    "samaritan": {"ipa": "/səˈmærɪtən/", "def": "n. 撒玛利亚人（Good Samaritan：好撒玛利亚人）"},
+    "sicknesses": {"ipa": "/ˈsɪknəsɪz/", "def": "n. 疾病（sickness）【四级】"}
+  },
+  "vocab_table": [
+    {"word": "infirmity", "ipa": "/ɪnˈfɜːməti/", "def": "n. 软弱（圣灵帮助我们的软弱）【GRE】"},
+    {"word": "feeble", "ipa": "/ˈfiːbl/", "def": "adj. 无力的（无力的膝）"},
+    {"word": "pitiful", "ipa": "/ˈpɪtɪfl/", "def": "adj.【古义】满心怜悯的"},
+    {"word": "compassion", "ipa": "/kəmˈpæʃn/", "def": "n. 怜悯"}
+  ]
+}

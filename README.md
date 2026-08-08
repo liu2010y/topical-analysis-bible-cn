@@ -139,6 +139,11 @@
 | 083 | House of God（神的殿） | p. 201 | ✅（短词条） |
 | 084 | Humility（谦卑） | p. 201–203 | ✅（含拉斯金论伟人的谦卑） |
 | 085 | Hypocrisy（假冒为善） | p. 203 | ✅（短词条） |
-| 086– | Immortality（不朽）起 | p. 203– | ⏳ |
+| 086 | Immortality; Eternal Life（不朽与永生） | p. 203–207 | ✅（含 Orr 论旧约的不朽观与理性佐证） |
+| 087 | Incarnation（道成肉身） | p. 207–217 | ✅（10 页教义大词条，Orr／Westcott／Schaff 等九家） |
+| 088 | Infirmity（软弱） | p. 217–218 | ✅（短词条） |
+| 089 | Inspiration of the Scriptures（圣经的默示） | p. 218–224 | ✅（theopneustos 释义／性质／五重凭据） |
+| 090 | Israel（以色列） | p. 225–244 | ✅（20 页巨型词条：McCurdy 亚述学史纲四篇＋论犹太人前途） |
+| 091– | Joy（喜乐）起 | p. 245– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

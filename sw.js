@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-225197e453';
+const CACHE = 'topical-cn-d50afe454e';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -114,7 +114,17 @@ const ASSETS = [
   "./077-Grave-Sheol-Hades-%E9%98%B4%E9%97%B4.html",
   "./078-Hearers-%E5%90%AC%E9%81%93.html",
   "./079-Heart-%E5%BF%83.html",
-  "./080-Heaven-%E5%A4%A9%E5%A0%82.html"
+  "./080-Heaven-%E5%A4%A9%E5%A0%82.html",
+  "./081-Holiness-%E5%9C%A3%E6%B4%81.html",
+  "./082-Hope-%E7%9B%BC%E6%9C%9B.html",
+  "./083-House-of-God-%E7%A5%9E%E7%9A%84%E6%AE%BF.html",
+  "./084-Humility-%E8%B0%A6%E5%8D%91.html",
+  "./085-Hypocrisy-%E5%81%87%E5%86%92%E4%B8%BA%E5%96%84.html",
+  "./086-Immortality-%E4%B8%8D%E6%9C%BD%E4%B8%8E%E6%B0%B8%E7%94%9F.html",
+  "./087-Incarnation-%E9%81%93%E6%88%90%E8%82%89%E8%BA%AB.html",
+  "./088-Infirmity-%E8%BD%AF%E5%BC%B1.html",
+  "./089-Inspiration-%E5%9C%A3%E7%BB%8F%E7%9A%84%E9%BB%98%E7%A4%BA.html",
+  "./090-Israel-%E4%BB%A5%E8%89%B2%E5%88%97.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

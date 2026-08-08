@@ -194,6 +194,11 @@
 | 138 | Resurrection of Christ（基督的复活） | p. 450–455 | ✅（司特尔斯、华腓德两长文） |
 | 139 | Resurrection of the Body（身体的复活） | p. 455–458 | ✅（奥尔论复活身体的同一性） |
 | 140 | Revival Texts（复兴经文） | p. 458–459 | ✅（短词条） |
-| 141– | Riches; Money（钱财）起 | p. 459– | ⏳ |
+| 141 | Riches; Money; Wealth（钱财） | p. 459–463 | ✅（十二项分述＋培根论辎重） |
+| 142 | Righteousness（公义） | p. 464–465 | ✅（本义与恩典义之辨） |
+| 143 | Sacrifice of the O.T.（旧约的祭） | p. 466–467 | ✅ |
+| 144 | Salvation（救恩） | p. 468–472 | ✅（救恩的三重含义；『现今』的救恩） |
+| 145 | Sanctification（成圣） | p. 473–477 | ✅（成圣的过程与『完全』之辨） |
+| 146– | Scriptures（圣经）起 | p. 477– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

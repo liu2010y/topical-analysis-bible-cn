@@ -209,6 +209,11 @@
 | 153 | Strife; Contention（争竞与争闹） | p. 508–509 | ✅（短词条） |
 | 154 | Tabernacle; Temple（会幕与圣殿） | p. 510–512 | ✅（莱顿论属灵的殿） |
 | 155 | Temptation（试探与试炼） | p. 512–515 | ✅（同词两义之辨） |
-| 156– | Thanksgiving（感恩）起 | p. 515– | ⏳ |
+| 156 | Theophanies（神显现） | p. 517 | ✅（短词条） |
+| 157 | Truth, or Truthfulness（真实） | p. 517–519 | ✅（口中／心中／生活中的真） |
+| 158 | Unbelief（不信） | p. 520–521 | ✅ |
+| 159 | Waiting on God（等候神） | p. 521–523 | ✅（卡维诺论大卫在黑暗中的挣扎） |
+| 160 | Watchfulness（警醒） | p. 523–524 | ✅（短词条） |
+| 161– | Wicked（恶人）起 | p. 525– | ⏳ |
 
 完整主题索引见原书 Index of Topics（epub 第 13–18 页）。

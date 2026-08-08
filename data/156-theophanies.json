@@ -1,0 +1,40 @@
+{
+  "num": "156",
+  "title_en": "THEOCRACY; THEOPHANIES",
+  "title_zh": "神治政体与神显现",
+  "html_name": "156-Theophanies-神显现.html",
+  "pages": "原书 p. 517",
+  "ocr_note": "短词条：『神治政体』一目交叉参见『神的国』；『神显现』一目列出旧约中『耶和华』『耶和华的使者』向列祖与士师显现的各处，本书视之为道成肉身之前基督的显现。",
+  "sections": [
+    {
+      "heading": "神显现的各处记载 / The Recorded Theophanies",
+      "blocks": [
+        {
+          "en": "THEOCRACY. (See Kingdom of God.) THEOPHANIES. \"Jehovah,\" \"the Angel of Jehovah\"—manifestations of Jehovah-Jesus. Unto Abraham: Gen. 12:7. And the Lord appeared unto Abram, and said, Unto thy seed will I give this land. Gen. 16:7. And the angel of the Lord found her by a fountain of water in the wilderness. Gen. 18:1, 2. And the Lord appeared unto him in the plains of Mamre. Gen. 21:17. And the angel of God called to Hagar out of heaven. Gen. 22:11. And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham. To Isaac: Gen. 26:2. And the Lord appeared unto him, and said, Go not down into Egypt. To Jacob: Gen. 28:13. And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father. Gen. 32:24-30 (at Peniel); Gen. 35:9-11; Gen. 48:16. The Angel which redeemed me from all evil, bless the lads. To Moses: Ex. 3:2-6. And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush . . . I am the God of thy father, the God of Abraham. Ex. 23:20, 21. Behold, I send an Angel before thee . . . for My name is in Him. Ex. 33:12-18. To Joshua: Josh. 5:13-15. And he said, Nay; but as captain of the host of the Lord am I now come. At Bochim: Judg. 2:1. And an angel of the Lord came up from Gilgal to Bochim. To Gideon: Judg. 6:11, 12. And there came an angel of the Lord . . . and said unto him, The Lord is with thee, thou mighty man of valor. To Manoah's wife: Judg. 13:3. And the angel of the Lord appeared unto the woman. Referred to afterward: Isa. 63:9. In all their affliction He was afflicted, and the angel of His presence saved them. Zech. 3:1. And he shewed me Joshua the high priest standing before the angel of the Lord. Mal. 3:1. Even the messenger of the covenant, whom ye delight in: behold, He shall come, saith the Lord of hosts.",
+          "zh": "神治政体（Theocracy）。（参主题词条：神的国。）神显现（Theophanies）。『耶和华』『耶和华的使者』——本书视之为『耶和华—耶稣』的显现（即道成肉身之前的基督）。向亚伯拉罕显现：创世记 12:7 —— 耶和华向亚伯兰显现，说：我要把这地赐给你的后裔。16:7 —— 耶和华的使者在旷野书珥路上的水泉旁遇见她。18:1-2 —— 耶和华在幔利橡树那里向亚伯拉罕显现。21:17 —— 神的使者从天上呼叫夏甲说。22:11 —— 耶和华的使者从天上呼叫他说：亚伯拉罕！亚伯拉罕！向以撒显现：创世记 26:2 —— 耶和华向以撒显现，说：你不要下埃及去。向雅各显现：创世记 28:13 —— 耶和华站在梯子以上，说：我是耶和华你祖亚伯拉罕的神。32:24-30（在毗努伊勒）；35:9-11；48:16 —— 救赎我脱离一切患难的那使者，赐福与这两个童子。向摩西显现：出埃及记 3:2-6 —— 耶和华的使者从荆棘里火焰中向摩西显现……我是你父亲的神，是亚伯拉罕的神。23:20-21 —— 看哪，我差遣使者在你前面……因为我的名在他里面。33:12-18。向约书亚显现：约书亚记 5:13-15 —— 他回答说：不是的，我来是要作耶和华军队的元帅。在波金：士师记 2:1 —— 耶和华的使者从吉甲上到波金。向基甸显现：士师记 6:11-12 —— 耶和华的使者……向基甸显现，对他说：大能的勇士啊，耶和华与你同在。向玛挪亚的妻子显现：士师记 13:3 —— 耶和华的使者向那妇人显现。后来经文的追述：以赛亚书 63:9 —— 他们在一切苦难中，他也同受苦难；并且他面前的使者拯救他们。撒迦利亚书 3:1 —— 天使又指给我看：大祭司约书亚站在耶和华的使者面前。玛拉基书 3:1 —— 你们所仰慕的立约的使者，快要来到。",
+          "bsb": "Exodus 3:2",
+          "grammar": [
+            {"note": "theophany：神显现（theo- 神 ＋ -phany 显现，如 epiphany 显现节）；the Angel of Jehovah：耶和华的使者——本书循古教父传统，视之为道成肉身前之基督的显现，故并入 Jehovah-Jesus 一名。"},
+            {"id": "inversion", "note": "as captain of the host of the Lord am I now come：表语前置引起倒装（书 5:14——我来是要作耶和华军队的元帅）。"}
+          ]
+        }
+      ]
+    }
+  ],
+  "hover_vocab": {
+    "theocracy": {"ipa": "/θiˈɒkrəsi/", "def": "n. 神治政体【GRE】"},
+    "theophanies": {"ipa": "/θiˈɒfəniz/", "def": "n. 神显现（theophany）【GRE】"},
+    "manifestations": {"ipa": "/ˌmænɪfeˈsteɪʃnz/", "def": "n. 显现（manifestation）【六级】"},
+    "wilderness": {"ipa": "/ˈwɪldənəs/", "def": "n. 旷野【六级】"},
+    "plains": {"ipa": "/pleɪnz/", "def": "n. 平原；此处指幔利的橡树（plain）【四级】"},
+    "valor": {"ipa": "/ˈvælə/", "def": "n. 勇武【GRE】"},
+    "affliction": {"ipa": "/əˈflɪkʃn/", "def": "n. 苦难【GRE】"},
+    "shewed": {"ipa": "/ʃəʊd/", "def": "v.【古拼】= showed 指给……看"},
+    "covenant": {"ipa": "/ˈkʌvənənt/", "def": "n. 约【GRE】"}
+  },
+  "vocab_table": [
+    {"word": "theophany", "ipa": "/θiˈɒfəni/", "def": "n. 神显现（theo- 神 ＋ -phany 显现；参 epiphany）【GRE】"},
+    {"word": "the Angel of Jehovah", "ipa": "", "def": "耶和华的使者（本书视其为道成肉身之前基督的显现）"},
+    {"word": "theocracy", "ipa": "/θiˈɒkrəsi/", "def": "n. 神治政体（以色列立国的形态，参『神的国』词条）【GRE】"}
+  ]
+}

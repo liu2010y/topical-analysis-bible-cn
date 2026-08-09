@@ -204,7 +204,8 @@ INDEX_TMPL = """<!DOCTYPE html>
 <h1>《圣经主题分析》中英对照 · 目录</h1>
 <div class="source-note">
 <p>📖 J. Glentworth Butler, <em>Topical Analysis of the Bible</em>, 1897（公有领域）。按字母顺序的主题词条，每词条一个页面。</p>
-<p>全书约 300 个词条，本目录随翻译进度更新。</p>
+<p>全书 179 个词条已全部译完（正文 p. 11–542 ＋ 附录 p. 543–578）。</p>
+<p>🔎 也可按原书卷首的 <a href="topics.html">主题索引（Index of Topics）</a> 查找——那里列出约 320 个主题名及其散见页码。</p>
 </div>
 <div id="toc-search">
 <input type="search" id="toc-q" placeholder="搜索词条：中文 / English / 编号 / 页码…" autocomplete="off" aria-label="搜索词条">
@@ -252,6 +253,129 @@ INDEX_TMPL = """<!DOCTYPE html>
 </body>
 </html>
 """
+
+
+TOPICS_TMPL = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>圣经主题分析 · 原书主题索引</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2f7d46">
+</head>
+<body>
+<main>
+<h1>原书主题索引 · Index of Topics</h1>
+<div class="source-note">
+<p>📖 还原自原书卷首的 <em>Index of Topics</em>（p. iii–viii）。原书按字母顺序列出约 {count} 个主题名及其页码；
+一个主题常散见于数处（如「Adoption 得儿子的名分」见 p. 12、125、272）。</p>
+<p>此处把每个页码解析到本站对应的词条页面：点页码即可跳转。找不到某个主题时，请改用<a href="index.html">词条目录</a>按编号浏览。</p>
+</div>
+<div id="toc-search">
+<input type="search" id="toc-q" placeholder="搜索主题：中文 / English / 页码…" autocomplete="off" aria-label="搜索主题">
+<button type="button" id="toc-clear" title="清除">✕</button>
+<div id="toc-count"></div>
+</div>
+<ul class="toc topics">
+{items}
+</ul>
+<p id="toc-empty" hidden>没有匹配的主题。换个关键词试试（可搜中文、英文或原书页码）。</p>
+<p class="back"><a href="index.html">← 返回词条目录</a></p>
+</main>
+<script>
+(function () {{
+  var q = document.getElementById('toc-q');
+  var clear = document.getElementById('toc-clear');
+  var count = document.getElementById('toc-count');
+  var empty = document.getElementById('toc-empty');
+  var rows = [].slice.call(document.querySelectorAll('ul.toc > li'));
+  rows.forEach(function (li) {{ li.dataset.s = li.textContent.toLowerCase(); }});
+  var total = rows.length;
+
+  function run() {{
+    var terms = q.value.toLowerCase().split(/\\s+/).filter(Boolean);
+    var n = 0;
+    rows.forEach(function (li) {{
+      var hit = terms.every(function (t) {{ return li.dataset.s.indexOf(t) !== -1; }});
+      li.hidden = !hit;
+      if (hit) n++;
+    }});
+    clear.hidden = !q.value;
+    empty.hidden = n !== 0;
+    count.textContent = terms.length ? (n + ' / ' + total + ' 个主题') : (total + ' 个主题');
+  }}
+
+  q.addEventListener('input', run);
+  clear.addEventListener('click', function () {{ q.value = ''; run(); q.focus(); }});
+  document.addEventListener('keydown', function (e) {{
+    if (e.key === '/' && document.activeElement !== q) {{ e.preventDefault(); q.focus(); }}
+    if (e.key === 'Escape' && document.activeElement === q) {{ q.value = ''; run(); }}
+  }});
+  run();
+}})();
+</script>
+<script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');</script>
+</body>
+</html>
+"""
+
+
+PAGE_RANGE_RE = re.compile(r"(\d+)\s*[–—-]\s*(\d+)|(\d+)")
+
+
+def entry_page_spans(entry):
+    """从 pages 字段解析出该词条覆盖的原书页码区间列表。"""
+    spans = []
+    for m in PAGE_RANGE_RE.finditer(entry.get("pages", "")):
+        if m.group(1):
+            a, b = int(m.group(1)), int(m.group(2))
+            if 0 < a <= b < 600:
+                spans.append((a, b))
+        else:
+            n = int(m.group(3))
+            if 0 < n < 600:
+                spans.append((n, n))
+    return spans
+
+
+def build_page_map(entries):
+    """原书页码 → 词条。区间小的优先（更精确的那一条胜出）。"""
+    page_map = {}
+    for e in entries:
+        for a, b in entry_page_spans(e):
+            width = b - a
+            for p in range(a, b + 1):
+                prev = page_map.get(p)
+                if prev is None or width < prev[0]:
+                    page_map[p] = (width, e)
+    return {p: e for p, (w, e) in page_map.items()}
+
+
+def write_topics_page(entries, topics):
+    page_map = build_page_map(entries)
+    rows, unresolved = [], 0
+    for t in topics:
+        links = []
+        for p in t["pages"]:
+            e = page_map.get(p)
+            if e:
+                links.append('<a href="%s">p.%d</a>' % (escape(e["html_name"], quote=True), p))
+            else:
+                links.append('<span class="nolink">p.%d</span>' % p)
+                unresolved += 1
+        rows.append(
+            '<li><span class="topic-en">%s</span><span class="topic-zh">%s</span>'
+            '<span class="topic-pages">%s</span></li>\n'
+            % (escape(t["en"]), escape(t["zh"]), " ".join(links))
+        )
+    html = TOPICS_TMPL.format(items="".join(rows), count=len(topics))
+    (ROOT / "topics.html").write_text(html, encoding="utf-8")
+    print(f"生成 topics.html（{len(topics)} 个主题，"
+          f"{sum(len(t['pages']) for t in topics) - unresolved} 个页码已解析"
+          + (f"，{unresolved} 个未解析" if unresolved else "") + "）")
+    return unresolved
 
 
 def wrap_vocab(text, vocab, used):
@@ -447,7 +571,7 @@ self.addEventListener('fetch', e => {
 
 def write_service_worker(entries):
     """生成 sw.js：预缓存全站文件，版本号取自文件内容哈希（内容变则自动更新缓存）。"""
-    files = ["index.html", "manifest.json",
+    files = ["index.html", "topics.html", "manifest.json",
              "assets/style.css", "assets/app.js", "assets/grammar-registry.js"]
     files += sorted(f"assets/dict/{p.name}" for p in (ASSETS / "dict").glob("*.js"))
     files += sorted(f"assets/icons/{p.name}" for p in (ASSETS / "icons").glob("*.png"))
@@ -493,6 +617,9 @@ def main():
     )
     (ROOT / "index.html").write_text(INDEX_TMPL.format(items=items), encoding="utf-8")
     print(f"生成 index.html（{len(entries)} 个词条）")
+
+    topics = json.loads((DATA / "topic-index.json").read_text(encoding="utf-8"))["topics"]
+    write_topics_page(entries, topics)
 
     write_service_worker(entries)
 

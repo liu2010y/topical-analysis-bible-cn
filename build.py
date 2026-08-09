@@ -206,7 +206,8 @@ INDEX_TMPL = """<!DOCTYPE html>
 <p>📖 J. Glentworth Butler, <em>Topical Analysis of the Bible</em>, 1897（公有领域）。按字母顺序的主题词条，每词条一个页面。</p>
 <p>全书 179 个词条已全部译完（正文 p. 11–542 ＋ 附录 p. 543–578）。</p>
 <p>🔎 也可按原书卷首的 <a href="topics.html">主题索引（Index of Topics）</a> 查找——那里列出约 320 个主题名及其散见页码；
-或翻<a href="vocab.html">全站生词总表</a>——1189 个词，可按四级／六级／GRE 筛选。</p>
+或翻<a href="vocab.html">全站生词总表</a>（1189 个词，可按四级／六级／GRE 筛选）与
+<a href="grammar.html">语法点总览</a>（23 个 KJV 古英语句法，集中讲解）。</p>
 </div>
 <div id="toc-search">
 <input type="search" id="toc-q" placeholder="搜索词条：中文 / English / 编号 / 页码…" autocomplete="off" aria-label="搜索词条">
@@ -404,6 +405,121 @@ VOCAB_TMPL = """<!DOCTYPE html>
 </body>
 </html>
 """
+
+GRAMMAR_TMPL = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>圣经主题分析 · 语法点总览</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2f7d46">
+</head>
+<body>
+<main>
+<h1>语法点总览 · KJV 古英语句法</h1>
+<div class="source-note">
+<p>📖 全站共登记 <b>{count}</b> 个语法点，在 {entries} 个词条中出现 <b>{uses}</b> 次。
+词条页面里，每个语法点只在<b>首次出现</b>的那一条完整讲解，其余位置显示引用 chip；此页把全部完整讲解集中在一处。</p>
+<p>按出现次数排序——排在前面的是钦定本中最常遇到的句法。每条下方列出它出现过的全部词条，点编号可跳转。</p>
+</div>
+<div id="toc-search">
+<input type="search" id="g-q" placeholder="搜索语法点：名称 / 说明 / 例句…" autocomplete="off" aria-label="搜索语法点">
+<button type="button" id="g-clear" title="清除">✕</button>
+<div id="toc-count"></div>
+</div>
+<div class="gram-list">
+{items}
+</div>
+<p id="g-empty" hidden>没有匹配的语法点。</p>
+<p class="back"><a href="index.html">← 返回词条目录</a>　<a href="vocab.html">生词总表 →</a></p>
+</main>
+<script>
+(function () {{
+  var q = document.getElementById('g-q');
+  var clear = document.getElementById('g-clear');
+  var count = document.getElementById('toc-count');
+  var empty = document.getElementById('g-empty');
+  var rows = [].slice.call(document.querySelectorAll('.gram-list > section'));
+  rows.forEach(function (s) {{ s.dataset.s = s.textContent.toLowerCase(); }});
+  var total = rows.length;
+
+  function run() {{
+    var terms = q.value.toLowerCase().split(/\\s+/).filter(Boolean);
+    var n = 0;
+    rows.forEach(function (s) {{
+      var hit = terms.every(function (t) {{ return s.dataset.s.indexOf(t) !== -1; }});
+      s.hidden = !hit;
+      if (hit) n++;
+    }});
+    clear.hidden = !q.value;
+    empty.hidden = n !== 0;
+    count.textContent = terms.length ? (n + ' / ' + total + ' 个语法点') : (total + ' 个语法点');
+  }}
+
+  q.addEventListener('input', run);
+  clear.addEventListener('click', function () {{ q.value = ''; run(); q.focus(); }});
+  document.addEventListener('keydown', function (e) {{
+    if (e.key === '/' && document.activeElement !== q) {{ e.preventDefault(); q.focus(); }}
+    if (e.key === 'Escape' && document.activeElement === q) {{ q.value = ''; run(); }}
+  }});
+  run();
+}})();
+</script>
+<script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');</script>
+</body>
+</html>
+"""
+
+
+def write_grammar_page(entries, points):
+    """把 23 个语法点的完整讲解 + 出现位置汇总成一页。"""
+    # gid → [(entry, 该条中出现次数), ...]
+    usage = {gid: [] for gid in points}
+    for e in entries:
+        seen = {}
+        for s in e["sections"]:
+            for b in s["blocks"]:
+                for g in b.get("grammar", []):
+                    gid = g.get("id")
+                    if gid in usage:
+                        seen[gid] = seen.get(gid, 0) + 1
+        for gid, n in seen.items():
+            usage[gid].append((e, n))
+
+    total_uses = sum(n for lst in usage.values() for _, n in lst)
+    by_id = {e["num"]: e for e in entries}
+    rows = []
+    for gid in sorted(points, key=lambda g: -sum(n for _, n in usage[g])):
+        p = points[gid]
+        uses = sum(n for _, n in usage[gid])
+        first = by_id.get(p.get("first", ""))
+        first_html = ('　首见于 <a href="%s">%s %s</a>'
+                      % (escape(first["html_name"], quote=True), first["num"],
+                         escape(first["title_zh"]))) if first else ""
+        links = "".join(
+            '<a href="%s" title="%s">%s%s</a>'
+            % (escape(e["html_name"], quote=True), escape(e["title_zh"], quote=True),
+               e["num"], ("×%d" % n) if n > 1 else "")
+            for e, n in usage[gid]
+        )
+        rows.append(
+            '<section id="g-%s">\n'
+            '<h2>%s<span class="g-count">%d 处</span></h2>\n'
+            '<p class="g-meta"><code>%s</code>%s</p>\n'
+            '<p class="g-body">%s</p>\n'
+            '<p class="g-where">出现于：%s</p>\n'
+            '</section>\n'
+            % (escape(gid, quote=True), escape(p["title"]), uses,
+               escape(gid), first_html, escape(p["body"]), links or "（暂无）")
+        )
+
+    html = GRAMMAR_TMPL.format(items="".join(rows), count=len(points),
+                               entries=len(entries), uses=total_uses)
+    (ROOT / "grammar.html").write_text(html, encoding="utf-8")
+    print(f"生成 grammar.html（{len(points)} 个语法点，共 {total_uses} 处引用）")
+
 
 LEVEL_RE = re.compile(r"【(四级|六级|GRE)】")
 SORT_RE = re.compile(r"[^a-z]")
@@ -725,7 +841,7 @@ self.addEventListener('fetch', e => {
 
 def write_service_worker(entries):
     """生成 sw.js：预缓存全站文件，版本号取自文件内容哈希（内容变则自动更新缓存）。"""
-    files = ["index.html", "topics.html", "vocab.html", "manifest.json",
+    files = ["index.html", "topics.html", "vocab.html", "grammar.html", "manifest.json",
              "assets/style.css", "assets/app.js", "assets/grammar-registry.js"]
     files += sorted(f"assets/dict/{p.name}" for p in (ASSETS / "dict").glob("*.js"))
     files += sorted(f"assets/icons/{p.name}" for p in (ASSETS / "icons").glob("*.png"))
@@ -775,6 +891,7 @@ def main():
     topics = json.loads((DATA / "topic-index.json").read_text(encoding="utf-8"))["topics"]
     write_topics_page(entries, topics)
     write_vocab_page(entries)
+    write_grammar_page(entries, points)
 
     write_service_worker(entries)
 

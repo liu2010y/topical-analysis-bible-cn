@@ -584,3 +584,65 @@ ul.vocab-list > li[hidden] { display: none; }
   .v-ipa { justify-self: end; }
   .v-senses { grid-column: 1 / -1; }
 }
+
+/* ── 语法点总览（grammar.html）───────────────────────────── */
+.gram-list > section {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-bottom: 16px;
+}
+
+.gram-list > section[hidden] { display: none; }
+
+.gram-list h2 {
+  margin: 0 0 6px;
+  font-size: 1.08em;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.g-count {
+  margin-left: auto;
+  font-size: 0.78em;
+  font-weight: 400;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.g-meta {
+  margin: 0 0 10px;
+  font-size: 0.86em;
+  color: #6d8574;
+}
+
+.g-meta code {
+  background: var(--accent-soft);
+  padding: 1px 7px;
+  border-radius: 4px;
+  color: var(--accent);
+}
+
+.g-body { margin: 0 0 12px; }
+
+.g-where {
+  margin: 0;
+  font-size: 0.86em;
+  color: #6d8574;
+  line-height: 2;
+}
+
+.g-where a {
+  display: inline-block;
+  padding: 1px 7px;
+  margin-right: 4px;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--accent);
+  background: var(--card);
+}
+
+.g-where a:hover { background: var(--accent-soft); }

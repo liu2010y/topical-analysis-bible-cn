@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-d29e04783a';
+const CACHE = 'topical-cn-19dd5a34f3';
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -209,7 +209,11 @@ const ASSETS = [
   "./172-Appendix-Archaeology-Criticism-%E9%99%84%E5%BD%95%E5%85%AD%E8%80%83%E5%8F%A4%E5%AD%A6.html",
   "./173-Appendix-Genesis14-Monuments-%E9%99%84%E5%BD%95%E4%B8%83%E5%88%9B%E4%B8%96%E8%AE%B0%E5%8D%81%E5%9B%9B%E7%AB%A0.html",
   "./174-Appendix-Harnack-Isaiah-%E9%99%84%E5%BD%95%E5%85%AB.html",
-  "./175-Appendix-Conservative-Scholarship-%E9%99%84%E5%BD%95%E4%B9%9D.html"
+  "./175-Appendix-Conservative-Scholarship-%E9%99%84%E5%BD%95%E4%B9%9D.html",
+  "./176-Appendix-Giving-Immortality-Israel-%E9%99%84%E5%BD%95%E5%8D%81.html",
+  "./177-Appendix-Love-Man-Nations-%E9%99%84%E5%BD%95%E5%8D%81%E4%B8%80.html",
+  "./178-Appendix-Old-Testament-Preaching-%E9%99%84%E5%BD%95%E5%8D%81%E4%BA%8C.html",
+  "./179-Appendix-Psalms-Resurrection-%E9%99%84%E5%BD%95%E5%8D%81%E4%B8%89%E7%BB%88%E7%AF%87.html"
 ];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

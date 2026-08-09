@@ -1,8 +1,9 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-6fad4d7b03';
+const CACHE = 'topical-cn-909634ed3c';
 const ASSETS = [
   "./index.html",
   "./topics.html",
+  "./vocab.html",
   "./manifest.json",
   "./assets/style.css",
   "./assets/app.js",

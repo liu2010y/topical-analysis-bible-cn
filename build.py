@@ -205,7 +205,8 @@ INDEX_TMPL = """<!DOCTYPE html>
 <div class="source-note">
 <p>📖 J. Glentworth Butler, <em>Topical Analysis of the Bible</em>, 1897（公有领域）。按字母顺序的主题词条，每词条一个页面。</p>
 <p>全书 179 个词条已全部译完（正文 p. 11–542 ＋ 附录 p. 543–578）。</p>
-<p>🔎 也可按原书卷首的 <a href="topics.html">主题索引（Index of Topics）</a> 查找——那里列出约 320 个主题名及其散见页码。</p>
+<p>🔎 也可按原书卷首的 <a href="topics.html">主题索引（Index of Topics）</a> 查找——那里列出约 320 个主题名及其散见页码；
+或翻<a href="vocab.html">全站生词总表</a>——1189 个词，可按四级／六级／GRE 筛选。</p>
 </div>
 <div id="toc-search">
 <input type="search" id="toc-q" placeholder="搜索词条：中文 / English / 编号 / 页码…" autocomplete="off" aria-label="搜索词条">
@@ -320,6 +321,159 @@ TOPICS_TMPL = """<!DOCTYPE html>
 </body>
 </html>
 """
+
+
+VOCAB_TMPL = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>圣经主题分析 · 全站生词总表</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2f7d46">
+</head>
+<body>
+<main>
+<h1>全站生词总表</h1>
+<div class="source-note">
+<p>📖 汇总全部 {entries} 个词条底部的词汇表，共 <b>{total}</b> 个词条目（去重后 <b>{uniq}</b> 个词）。
+同一个词在不同词条中若有不同的语境释义，分行并列，各自注明出处。</p>
+<p>点右侧编号可跳到该词出现的词条页面。级别标注为 CET-4（四级）／CET-6（六级）／GRE；
+未标级的多为古英语词形、希腊/希伯来原文术语或固定短语。</p>
+</div>
+<div id="toc-search">
+<input type="search" id="voc-q" placeholder="搜索：单词 / 释义 / 词条编号…" autocomplete="off" aria-label="搜索生词">
+<button type="button" id="voc-clear" title="清除">✕</button>
+<div id="toc-count"></div>
+</div>
+<div class="lvl-filter">
+{filters}
+</div>
+<ul class="vocab-list">
+{items}
+</ul>
+<p id="voc-empty" hidden>没有匹配的词。换个关键词或切换级别试试。</p>
+<p class="back"><a href="index.html">← 返回词条目录</a>　<a href="topics.html">主题索引 →</a></p>
+</main>
+<script>
+(function () {{
+  var q = document.getElementById('voc-q');
+  var clear = document.getElementById('voc-clear');
+  var count = document.getElementById('toc-count');
+  var empty = document.getElementById('voc-empty');
+  var rows = [].slice.call(document.querySelectorAll('ul.vocab-list > li'));
+  var chips = [].slice.call(document.querySelectorAll('.lvl-filter button'));
+  var lvl = 'all';
+  rows.forEach(function (li) {{ li.dataset.s = li.textContent.toLowerCase(); }});
+  var total = rows.length;
+
+  function run() {{
+    var terms = q.value.toLowerCase().split(/\\s+/).filter(Boolean);
+    var n = 0;
+    rows.forEach(function (li) {{
+      var hit = terms.every(function (t) {{ return li.dataset.s.indexOf(t) !== -1; }})
+                && (lvl === 'all' || li.dataset.lvl === lvl);
+      li.hidden = !hit;
+      if (hit) n++;
+    }});
+    clear.hidden = !q.value;
+    empty.hidden = n !== 0;
+    count.textContent = (terms.length || lvl !== 'all')
+      ? (n + ' / ' + total + ' 个词') : (total + ' 个词');
+  }}
+
+  chips.forEach(function (b) {{
+    b.addEventListener('click', function () {{
+      chips.forEach(function (x) {{ x.classList.remove('active'); }});
+      b.classList.add('active');
+      lvl = b.dataset.lvl;
+      run();
+    }});
+  }});
+  q.addEventListener('input', run);
+  clear.addEventListener('click', function () {{ q.value = ''; run(); q.focus(); }});
+  document.addEventListener('keydown', function (e) {{
+    if (e.key === '/' && document.activeElement !== q) {{ e.preventDefault(); q.focus(); }}
+    if (e.key === 'Escape' && document.activeElement === q) {{ q.value = ''; run(); }}
+  }});
+  run();
+}})();
+</script>
+<script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');</script>
+</body>
+</html>
+"""
+
+LEVEL_RE = re.compile(r"【(四级|六级|GRE)】")
+SORT_RE = re.compile(r"[^a-z]")
+
+
+def vocab_level(definition):
+    m = LEVEL_RE.search(definition)
+    return m.group(1) if m else "其他"
+
+
+def write_vocab_page(entries):
+    """把各词条底部的 vocab_table 汇总成全站生词总表。"""
+    groups = {}
+    total = 0
+    for e in entries:
+        for v in e.get("vocab_table", []):
+            word = (v.get("word") or "").strip()
+            if not word:
+                continue
+            total += 1
+            key = word.lower()
+            g = groups.setdefault(key, {"word": word, "senses": []})
+            definition = (v.get("def") or "").strip()
+            ipa = (v.get("ipa") or "").strip()
+            for s in g["senses"]:
+                if s["def"] == definition:
+                    if e["num"] not in [x["num"] for x in s["srcs"]]:
+                        s["srcs"].append(e)
+                    break
+            else:
+                g["senses"].append({"def": definition, "ipa": ipa, "srcs": [e]})
+
+    order = {"四级": 0, "六级": 1, "GRE": 2, "其他": 3}
+    counts = {k: 0 for k in order}
+    rows = []
+    for key in sorted(groups, key=lambda k: (SORT_RE.sub("", k) or k, k)):
+        g = groups[key]
+        lvl = min((vocab_level(s["def"]) for s in g["senses"]), key=lambda x: order[x])
+        counts[lvl] += 1
+        ipa = next((s["ipa"] for s in g["senses"] if s["ipa"]), "")
+        senses = []
+        for s in g["senses"]:
+            links = " ".join(
+                '<a href="%s" title="%s">%s</a>'
+                % (escape(x["html_name"], quote=True), escape(x["title_zh"], quote=True), x["num"])
+                for x in s["srcs"]
+            )
+            senses.append('<span class="v-def">%s</span><span class="v-src">%s</span>'
+                          % (escape(s["def"]), links))
+        rows.append(
+            '<li data-lvl="%s"><span class="v-word">%s</span>'
+            '<span class="v-ipa">%s</span><span class="v-senses">%s</span></li>\n'
+            % (lvl, escape(g["word"]), escape(ipa),
+               "<br>".join(senses))
+        )
+
+    labels = [("all", "全部", len(groups)), ("四级", "四级", counts["四级"]),
+              ("六级", "六级", counts["六级"]), ("GRE", "GRE", counts["GRE"]),
+              ("其他", "古语・原文术语", counts["其他"])]
+    filters = "".join(
+        '<button type="button" data-lvl="%s"%s>%s <b>%d</b></button>\n'
+        % (k, ' class="active"' if k == "all" else "", lab, n)
+        for k, lab, n in labels
+    )
+
+    html = VOCAB_TMPL.format(items="".join(rows), filters=filters,
+                             entries=len(entries), total=total, uniq=len(groups))
+    (ROOT / "vocab.html").write_text(html, encoding="utf-8")
+    print(f"生成 vocab.html（{total} 个条目，去重 {len(groups)} 个词："
+          + "，".join(f"{lab} {n}" for k, lab, n in labels[1:]) + "）")
 
 
 PAGE_RANGE_RE = re.compile(r"(\d+)\s*[–—-]\s*(\d+)|(\d+)")
@@ -571,7 +725,7 @@ self.addEventListener('fetch', e => {
 
 def write_service_worker(entries):
     """生成 sw.js：预缓存全站文件，版本号取自文件内容哈希（内容变则自动更新缓存）。"""
-    files = ["index.html", "topics.html", "manifest.json",
+    files = ["index.html", "topics.html", "vocab.html", "manifest.json",
              "assets/style.css", "assets/app.js", "assets/grammar-registry.js"]
     files += sorted(f"assets/dict/{p.name}" for p in (ASSETS / "dict").glob("*.js"))
     files += sorted(f"assets/icons/{p.name}" for p in (ASSETS / "icons").glob("*.png"))
@@ -620,6 +774,7 @@ def main():
 
     topics = json.loads((DATA / "topic-index.json").read_text(encoding="utf-8"))["topics"]
     write_topics_page(entries, topics)
+    write_vocab_page(entries)
 
     write_service_worker(entries)
 

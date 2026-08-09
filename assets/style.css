@@ -501,3 +501,86 @@ p.back { margin-top: 26px; }
   .topic-zh { grid-column: 1; }
   .topic-pages { grid-column: 2; grid-row: 1 / span 2; align-self: center; }
 }
+
+/* ── 生词总表（vocab.html）───────────────────────────────── */
+.lvl-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+
+.lvl-filter button {
+  padding: 5px 13px;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.lvl-filter button b { color: var(--accent); font-weight: 600; }
+
+.lvl-filter button:hover { background: var(--accent-soft); }
+
+.lvl-filter button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.lvl-filter button.active b { color: #fff; }
+
+ul.vocab-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.vocab-list > li {
+  display: grid;
+  grid-template-columns: minmax(140px, 200px) minmax(110px, 160px) 1fr;
+  gap: 4px 14px;
+  align-items: baseline;
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--card-border);
+}
+
+ul.vocab-list > li:nth-child(odd) { background: var(--card); }
+
+ul.vocab-list > li[hidden] { display: none; }
+
+.v-word {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  color: var(--text-en);
+  overflow-wrap: anywhere;
+}
+
+.v-ipa { color: #6d8574; font-size: 0.92em; }
+
+.v-senses { color: var(--text); }
+
+.v-def { margin-right: 8px; }
+
+.v-src a {
+  display: inline-block;
+  padding: 0 6px;
+  margin-left: 3px;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  font-size: 0.82em;
+  text-decoration: none;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.v-src a:hover { text-decoration: underline; }
+
+@media (max-width: 700px) {
+  ul.vocab-list > li { grid-template-columns: 1fr auto; }
+  .v-ipa { justify-self: end; }
+  .v-senses { grid-column: 1 / -1; }
+}

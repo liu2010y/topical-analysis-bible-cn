@@ -816,25 +816,47 @@ def vocab_audit(entries, common_vocab):
 SW_TMPL = """// 自动生成，勿手改（build.py）
 const CACHE = 'topical-cn-%(version)s';
 const ASSETS = %(assets)s;
+
+// 去掉响应上的 redirected 标记：重定向过的响应不能用于导航，也不能写入 Cache
+async function clean(resp) {
+  return new Response(await resp.blob(), {
+    status: resp.status, statusText: resp.statusText, headers: resp.headers
+  });
+}
+
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
+  // 逐个预缓存：单个失败不影响整体（addAll 是全有或全无，且遇重定向即整批失败）
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    await Promise.all(ASSETS.map(async url => {
+      try {
+        const resp = await fetch(url, {redirect: 'follow'});
+        if (resp.ok) await c.put(url, await clean(resp));
+      } catch (err) { /* 单个资源取不到就跳过，不阻断安装 */ }
+    }));
+    await self.skipWaiting();
+  })());
 });
+
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys()
     .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
+
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
-  e.respondWith(
-    caches.match(e.request, {ignoreSearch: true}).then(hit => hit || fetch(e.request).then(resp => {
-      if (resp.ok && new URL(e.request.url).origin === location.origin) {
-        const copy = resp.clone();
-        caches.open(CACHE).then(c => c.put(e.request, copy));
-      }
-      return resp;
-    }))
-  );
+  e.respondWith((async () => {
+    const hit = await caches.match(e.request, {ignoreSearch: true});
+    if (hit) return hit;
+    const resp = await fetch(e.request);
+    if (resp.redirected) return clean(resp);   // 关键：否则导航会 ERR_FAILED
+    if (resp.ok && new URL(e.request.url).origin === location.origin) {
+      const copy = resp.clone();
+      caches.open(CACHE).then(c => c.put(e.request, copy)).catch(() => {});
+    }
+    return resp;
+  })());
 });
 """
 
@@ -848,6 +870,7 @@ def write_service_worker(entries):
     files += [e["html_name"] for e in entries]
 
     h = hashlib.md5()
+    h.update(SW_TMPL.encode("utf-8"))   # SW 自身逻辑变更也要让缓存失效
     for f in files:
         p = ROOT / f
         if p.exists():

@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-d7a6433dae';
+const CACHE = 'topical-cn-8c2015273f';
 const ASSETS = [
   "./index.html",
   "./topics.html",
@@ -218,23 +218,45 @@ const ASSETS = [
   "./178-Appendix-Old-Testament-Preaching-%E9%99%84%E5%BD%95%E5%8D%81%E4%BA%8C.html",
   "./179-Appendix-Psalms-Resurrection-%E9%99%84%E5%BD%95%E5%8D%81%E4%B8%89%E7%BB%88%E7%AF%87.html"
 ];
+
+// 去掉响应上的 redirected 标记：重定向过的响应不能用于导航，也不能写入 Cache
+async function clean(resp) {
+  return new Response(await resp.blob(), {
+    status: resp.status, statusText: resp.statusText, headers: resp.headers
+  });
+}
+
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
+  // 逐个预缓存：单个失败不影响整体（addAll 是全有或全无，且遇重定向即整批失败）
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    await Promise.all(ASSETS.map(async url => {
+      try {
+        const resp = await fetch(url, {redirect: 'follow'});
+        if (resp.ok) await c.put(url, await clean(resp));
+      } catch (err) { /* 单个资源取不到就跳过，不阻断安装 */ }
+    }));
+    await self.skipWaiting();
+  })());
 });
+
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys()
     .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
+
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
-  e.respondWith(
-    caches.match(e.request, {ignoreSearch: true}).then(hit => hit || fetch(e.request).then(resp => {
-      if (resp.ok && new URL(e.request.url).origin === location.origin) {
-        const copy = resp.clone();
-        caches.open(CACHE).then(c => c.put(e.request, copy));
-      }
-      return resp;
-    }))
-  );
+  e.respondWith((async () => {
+    const hit = await caches.match(e.request, {ignoreSearch: true});
+    if (hit) return hit;
+    const resp = await fetch(e.request);
+    if (resp.redirected) return clean(resp);   // 关键：否则导航会 ERR_FAILED
+    if (resp.ok && new URL(e.request.url).origin === location.origin) {
+      const copy = resp.clone();
+      caches.open(CACHE).then(c => c.put(e.request, copy)).catch(() => {});
+    }
+    return resp;
+  })());
 });

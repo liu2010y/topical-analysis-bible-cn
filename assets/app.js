@@ -18,6 +18,10 @@
     var anyVisible = sections.some(function (s) { return !s.classList.contains('en-hidden'); });
     btnEn.textContent = anyVisible ? '隐藏全部英文' : '显示全部英文';
     btnEn.classList.toggle('active', !anyVisible);
+    // 英文全隐时 BSB 行也随之隐藏，把「现代英译」按钮标灰，免得开关看着失灵
+    document.body.classList.toggle('en-all-hidden', !anyVisible);
+    var b = document.getElementById('btn-bsb');
+    if (b) b.title = anyVisible ? '' : '英文原文已全部隐藏，显示英文后此开关生效';
   }
 
   sections.forEach(function (sec) {

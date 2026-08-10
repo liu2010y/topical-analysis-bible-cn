@@ -1,5 +1,5 @@
 // 自动生成，勿手改（build.py）
-const CACHE = 'topical-cn-a552eae36c';
+const CACHE = 'topical-cn-d7a6433dae';
 const ASSETS = [
   "./index.html",
   "./topics.html",

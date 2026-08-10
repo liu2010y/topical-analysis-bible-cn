@@ -646,3 +646,6 @@ ul.vocab-list > li[hidden] { display: none; }
 }
 
 .g-where a:hover { background: var(--accent-soft); }
+
+/* 英文全部隐藏时，现代英译开关暂不起作用 —— 标灰提示 */
+body.en-all-hidden #btn-bsb { opacity: 0.45; }

@@ -160,7 +160,7 @@ PAGE_TMPL = """<!DOCTYPE html>
   <a class="home-link" href="index.html">← 目录</a>
   <button class="btn" id="btn-toc">☰ 本页</button>
   <span class="spacer"></span>
-  <button class="btn" id="btn-en">隐藏全部英文</button>
+  <button class="btn active" id="btn-en">显示全部英文</button>
   <button class="btn active" id="btn-bsb">现代英译：开</button>
   <button class="btn" id="btn-grammar">语法说明：关</button>
 </div>
@@ -173,7 +173,7 @@ PAGE_TMPL = """<!DOCTYPE html>
 <div class="source-note">
 <p>📖 出处：J. Glentworth Butler, <em>Topical Analysis of the Bible</em>（《圣经主题分析》），1897 年出版，公有领域。{pages}</p>
 <p>正文中的罗马数字引用（如 XI. 268）指向作者另一部著作 <em>The Bible Work</em> 的卷号与页码，保留原样。明显的 OCR 识别错误已修正。经文中文采用和合本通行译法。经文英文原文为 KJV/RV（1611/1885），其下 <b>BSB</b> 行是现代英语对照译文（Berean Standard Bible，公有领域）。{ocr_note}</p>
-<p>💡 使用提示：鼠标悬停任意英文单词 1.5 秒（或点击）可查看音标与释义——<span class="w" data-k="__demo__">带下划线的</span>是本词条精编词汇，其余单词自动查通用词典（离线）；<b>划选任意单词或短语</b>（如 according to）也可查询并朗读；每节标题右侧按钮可隐藏该节英文；顶部按钮控制现代英译与语法说明。</p>
+<p>💡 使用提示：鼠标悬停任意英文单词 1.5 秒（或点击）可查看音标与释义——<span class="w" data-k="__demo__">带下划线的</span>是本词条精编词汇，其余单词自动查通用词典（离线）；<b>划选任意单词或短语</b>（如 according to）也可查询并朗读；英文原文默认隐藏，点每节标题右侧的「显示EN」可展开该节，顶部按钮可一次展开全部；顶部另有现代英译与语法说明开关。</p>
 </div>
 {sections}
 {vocab_table}
@@ -729,9 +729,9 @@ def render_entry(entry, points, bsb, common_vocab):
                 '</div>' % (en, bsb_html, grammar, escape(b["zh"]))
             )
         sec_html.append(
-            '<section class="section" id="sec-%d">'
+            '<section class="section en-hidden" id="sec-%d">'
             '<div class="section-head"><h2>%s</h2>'
-            '<button class="btn en-toggle">隐藏EN</button></div>'
+            '<button class="btn en-toggle active">显示EN</button></div>'
             '%s</section>' % (sec_idx, wrap_vocab(sec["heading"], vocab, used), "".join(blocks))
         )
         label = sec["heading"].split(" / ")[0].split("【")[0].strip()

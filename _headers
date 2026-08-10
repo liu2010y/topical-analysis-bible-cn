@@ -1,0 +1,21 @@
+# Cloudflare Pages 响应头配置（GitHub Pages 会忽略此文件）
+# 站内文件名不带内容哈希，因此一律让浏览器回源校验；
+# 真正的「秒开」与离线由 Service Worker 预缓存负责，不依赖 HTTP 缓存。
+
+# sw.js 必须每次校验：它是所有更新的入口，缓存住会导致新版本推不下去
+/sw.js
+  Cache-Control: no-cache
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# 样式/脚本/词典分片：短缓存，更新最迟 1 小时内生效
+/assets/*
+  Cache-Control: public, max-age=3600
+
+# 图标可以放久一点
+/assets/icons/*
+  Cache-Control: public, max-age=604800
